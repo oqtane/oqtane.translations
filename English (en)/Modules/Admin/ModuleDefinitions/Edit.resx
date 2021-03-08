@@ -126,6 +126,9 @@
   <data name="Name.Text" xml:space="preserve">
     <value>Name: </value>
   </data>
+  <data name="Information" xml:space="preserve">
+    <value>Information</value>
+  </data>
   <data name="Description.Text" xml:space="preserve">
     <value>Description: </value>
   </data>

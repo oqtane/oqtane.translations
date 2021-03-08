@@ -210,6 +210,9 @@
   <data name="Personalizable.Text" xml:space="preserve">
     <value>Personalizable? </value>
   </data>
+  <data name="Appearance.Name" xml:space="preserve">
+    <value>Appearance</value>
+  </data>
   <data name="Maintain Current Location" xml:space="preserve">
     <value>Maintain Current Location</value>
   </data>

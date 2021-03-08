@@ -222,4 +222,7 @@
   <data name="Personalizable.Text" xml:space="preserve">
     <value>Personalizable? </value>
   </data>
+  <data name="Appearance.Name" xml:space="preserve">
+    <value>Appearance</value>
+  </data>
 </root>

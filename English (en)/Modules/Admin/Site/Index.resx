@@ -261,4 +261,10 @@
   <data name="PwaSplashIcon.Text" xml:space="preserve">
     <value>Splash Icon: </value>
   </data>
+  <data name="SMTPSettings.Heading" xml:space="preserve">
+    <value>SMTP Settings</value>
+  </data>
+  <data name="SMTPSettings.Name" xml:space="preserve">
+    <value>SMTP</value>
+  </data>
 </root>
