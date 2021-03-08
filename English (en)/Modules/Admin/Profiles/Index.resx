@@ -123,4 +123,7 @@
   <data name="Loading..." xml:space="preserve">
     <value>Loading...</value>
   </data>
+  <data name="AddProfile.Text" xml:space="preserve">
+    <value>Add Profile</value>
+  </data>
 </root>

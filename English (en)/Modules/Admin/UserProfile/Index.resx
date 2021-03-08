@@ -144,4 +144,7 @@
   <data name="Sent Items" xml:space="preserve">
     <value>Sent Items</value>
   </data>
+  <data name="SendNotification.Text" xml:space="preserve">
+    <value>Send Notification</value>
+  </data>
 </root>

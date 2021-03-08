@@ -126,4 +126,7 @@
   <data name="Code" xml:space="preserve">
     <value>Code</value>
   </data>
+  <data name="AddLanguage.Text" xml:space="preserve">
+    <value>Add Language</value>
+  </data>
 </root>

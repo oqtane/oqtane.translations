@@ -126,4 +126,7 @@
   <data name="Search" xml:space="preserve">
     <value>Search</value>
   </data>
+  <data name="AddUser.Text" xml:space="preserve">
+    <value>Add User</value>
+  </data>
 </root>

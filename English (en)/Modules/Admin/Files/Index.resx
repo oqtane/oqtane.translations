@@ -117,6 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
   <data name="Name" xml:space="preserve">
     <value>Name</value>
   </data>
@@ -134,5 +137,14 @@
   </data>
   <data name="No Files Exist In Selected Folder" xml:space="preserve">
     <value>No Files Exist In Selected Folder</value>
+  </data>
+  <data name="EditFolder.Text" xml:space="preserve">
+    <value>Edit Folder</value>
+  </data>
+  <data name="AddFolder.Text" xml:space="preserve">
+    <value>Add Folder</value>
+  </data>
+  <data name="UploadFiles.Text" xml:space="preserve">
+    <value>Upload Files</value>
   </data>
 </root>

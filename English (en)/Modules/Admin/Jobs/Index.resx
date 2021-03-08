@@ -138,4 +138,7 @@
   <data name="Start" xml:space="preserve">
     <value>Start</value>
   </data>
+  <data name="ViewJobs.Text" xml:space="preserve">
+    <value>View Logs</value>
+  </data>
 </root>

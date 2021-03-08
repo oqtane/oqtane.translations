@@ -120,4 +120,7 @@
   <data name="Name" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="AddPage.Text" xml:space="preserve">
+    <value>Add Page</value>
+  </data>
 </root>
