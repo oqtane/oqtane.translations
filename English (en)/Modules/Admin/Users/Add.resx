@@ -123,4 +123,7 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="Identity.Name" xml:space="preserve">
+    <value>Identity</value>
+  </data>
 </root>

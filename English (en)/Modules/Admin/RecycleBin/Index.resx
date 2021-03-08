@@ -165,4 +165,7 @@
   <data name="DeleteAllModules.Message" xml:space="preserve">
     <value>Are You Sure You Wish To Permanently Delete All Modules?</value>
   </data>
+  <data name="Pages.Name" xml:space="preserve">
+    <value>Pages</value>
+  </data>
 </root>

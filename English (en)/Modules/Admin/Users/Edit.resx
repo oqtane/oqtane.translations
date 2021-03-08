@@ -129,4 +129,7 @@
   <data name="No" xml:space="preserve">
     <value>No</value>
   </data>
+  <data name="Identity.Name" xml:space="preserve">
+    <value>Identity</value>
+  </data>
 </root>

@@ -153,4 +153,7 @@
   <data name="DeleteNotification.Message" xml:space="preserve">
     <value>Are You Sure You Wish To Delete This Notification?</value>
   </data>
+  <data name="Identity.Name" xml:space="preserve">
+    <value>Identity</value>
+  </data>
 </root>

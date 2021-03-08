@@ -120,6 +120,9 @@
   <data name="Select Folder" xml:space="preserve">
     <value>Select Folder</value>
   </data>
+  <data name="Upload" xml:space="preserve">
+    <value>Upload</value>
+  </data>
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
@@ -143,5 +146,8 @@
   </data>
   <data name="Folder.Text" xml:space="preserve">
     <value>Folder: </value>
+  </data>
+  <data name="UploadFiles.Heading" xml:space="preserve">
+    <value>Upload Files</value>
   </data>
 </root>

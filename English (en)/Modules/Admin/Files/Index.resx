@@ -120,6 +120,9 @@
   <data name="Edit" xml:space="preserve">
     <value>Edit</value>
   </data>
+  <data name="UploadFiles.Heading" xml:space="preserve">
+    <value>Upload Files</value>
+  </data>
   <data name="Name" xml:space="preserve">
     <value>Name</value>
   </data>
@@ -143,9 +146,6 @@
   </data>
   <data name="AddFolder.Text" xml:space="preserve">
     <value>Add Folder</value>
-  </data>
-  <data name="UploadFiles.Text" xml:space="preserve">
-    <value>Upload Files</value>
   </data>
   <data name="DeleteFile.Header" xml:space="preserve">
     <value>Delete File</value>

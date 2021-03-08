@@ -156,4 +156,10 @@
   <data name="DisplayOnAllPages.Text" xml:space="preserve">
     <value>Display On All Pages? </value>
   </data>
+  <data name="ModuleSettings.Heading" xml:space="preserve">
+    <value>Module Settings</value>
+  </data>
+  <data name="ModuleSettings.Name" xml:space="preserve">
+    <value>Settings</value>
+  </data>
 </root>

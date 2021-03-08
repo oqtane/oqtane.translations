@@ -141,6 +141,9 @@
   <data name="Title.Text" xml:space="preserve">
     <value>Title: </value>
   </data>
+  <data name="ModuleSettings.Name" xml:space="preserve">
+    <value>Settings</value>
+  </data>
   <data name="Site Root" xml:space="preserve">
     <value>Site Root</value>
   </data>
