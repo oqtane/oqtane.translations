@@ -147,4 +147,10 @@
   <data name="SendNotification.Text" xml:space="preserve">
     <value>Send Notification</value>
   </data>
+  <data name="DeleteNotification.Header" xml:space="preserve">
+    <value>Delete Notification</value>
+  </data>
+  <data name="DeleteNotification.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Delete This Notification?</value>
+  </data>
 </root>

@@ -126,4 +126,10 @@
   <data name="AddRole.Text" xml:space="preserve">
     <value>Add Role</value>
   </data>
+  <data name="DeleteRole.Header" xml:space="preserve">
+    <value>Delete Role</value>
+  </data>
+  <data name="DeleteRole.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Delete The {0} Role?</value>
+  </data>
 </root>

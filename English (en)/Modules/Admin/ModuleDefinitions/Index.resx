@@ -132,4 +132,10 @@
   <data name="InstallModule.Text" xml:space="preserve">
     <value>Install Module</value>
   </data>
+  <data name="DeleteModule.Header" xml:space="preserve">
+    <value>Delete Module</value>
+  </data>
+  <data name="DeleteModule.Message" xml:space="preserve">
+    <value>@(</value>
+  </data>
 </root>

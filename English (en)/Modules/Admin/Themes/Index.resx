@@ -126,4 +126,10 @@
   <data name="Upgrade" xml:space="preserve">
     <value>Upgrade</value>
   </data>
+  <data name="DeleteTheme.Header" xml:space="preserve">
+    <value>Delete Theme</value>
+  </data>
+  <data name="DeleteTheme.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Delete The {0} Theme?</value>
+  </data>
 </root>

@@ -144,4 +144,10 @@
   <data name="Permissions.Text" xml:space="preserve">
     <value>Permissions: </value>
   </data>
+  <data name="DeleteFolder.Header" xml:space="preserve">
+    <value>Delete Folder</value>
+  </data>
+  <data name="DeleteFolder.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Delete This Folder?</value>
+  </data>
 </root>

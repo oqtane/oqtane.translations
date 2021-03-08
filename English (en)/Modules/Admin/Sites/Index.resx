@@ -123,4 +123,10 @@
   <data name="AddSite.Text" xml:space="preserve">
     <value>Add Site</value>
   </data>
+  <data name="DeleteSite.Header" xml:space="preserve">
+    <value>Delete Site</value>
+  </data>
+  <data name="DeleteSite.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Delete The {0} Site?</value>
+  </data>
 </root>

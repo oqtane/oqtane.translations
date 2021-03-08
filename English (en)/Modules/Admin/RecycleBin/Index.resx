@@ -117,8 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Delete Page" xml:space="preserve">
+    <value>Delete Page</value>
+  </data>
   <data name="Name" xml:space="preserve">
     <value>Name</value>
+  </data>
+  <data name="DeleteModule.Header" xml:space="preserve">
+    <value>Delete Module</value>
   </data>
   <data name="No Deleted Pages" xml:space="preserve">
     <value>No Deleted Pages</value>
@@ -140,5 +146,23 @@
   </data>
   <data name="Restore" xml:space="preserve">
     <value>Restore</value>
+  </data>
+  <data name="DeletePage.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Permanently Delete The {0} Page?</value>
+  </data>
+  <data name="DeleteAllPages.Header" xml:space="preserve">
+    <value>Delete All Pages</value>
+  </data>
+  <data name="DeleteAllPages.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Permanently Delete All Pages?</value>
+  </data>
+  <data name="DeleteModule.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Permanently Delete The {0} Module?</value>
+  </data>
+  <data name="DeleteAllModules.Header" xml:space="preserve">
+    <value>Delete All Modules</value>
+  </data>
+  <data name="DeleteAllModules.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Permanently Delete All Modules?</value>
   </data>
 </root>

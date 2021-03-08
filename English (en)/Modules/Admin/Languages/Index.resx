@@ -129,4 +129,10 @@
   <data name="AddLanguage.Text" xml:space="preserve">
     <value>Add Language</value>
   </data>
+  <data name="DeleteLanguage.Header" xml:space="preserve">
+    <value>Delete Langauge</value>
+  </data>
+  <data name="DeleteLanguage.Message" xml:space="preserve">
+    <value>Are You Sure You Wish To Delete The {0} Language?</value>
+  </data>
 </root>
