@@ -117,8 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Username:" xml:space="preserve">
+    <value>إسم المستخدم:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>كلمة المرور:</value>
+  </data>
   <data name="Cancel" xml:space="preserve">
     <value>إلغاء</value>
+  </data>
+  <data name="Confirm Password:" xml:space="preserve">
+    <value>تأكيد كلمة المرور</value>
   </data>
   <data name="Reset Password" xml:space="preserve">
     <value>إعادة ضبط كلمة المرور</value>

@@ -126,6 +126,9 @@
   <data name="Version" xml:space="preserve">
     <value>الإصدار</value>
   </data>
+  <data name="Are You Sure You Wish To Delete The {0} Module?" xml:space="preserve">
+    <value>هل تريد حقاً حذف الوحدة النمطية {0}؟</value>
+  </data>
   <data name="Upgrade" xml:space="preserve">
     <value>ترقية</value>
   </data>
@@ -134,8 +137,5 @@
   </data>
   <data name="DeleteModule.Header" xml:space="preserve">
     <value>حذف الوحدة النمطية</value>
-  </data>
-  <data name="DeleteModule.Message" xml:space="preserve">
-    <value></value>
   </data>
 </root>

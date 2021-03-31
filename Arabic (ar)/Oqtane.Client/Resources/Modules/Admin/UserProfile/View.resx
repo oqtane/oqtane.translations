@@ -120,8 +120,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>إلغاء</value>
   </data>
+  <data name="Title:" xml:space="preserve">
+    <value>العنوان:</value>
+  </data>
   <data name="Send" xml:space="preserve">
     <value>إرسال</value>
+  </data>
+  <data name="Subject:" xml:space="preserve">
+    <value>الموضوع:</value>
+  </data>
+  <data name="Date:" xml:space="preserve">
+    <value>التاريخ:</value>
+  </data>
+  <data name="Message:" xml:space="preserve">
+    <value>الرسالة:</value>
   </data>
   <data name="Reply" xml:space="preserve">
     <value>الرد</value>

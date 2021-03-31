@@ -117,6 +117,15 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Username:" xml:space="preserve">
+    <value>إسم المستخدم:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>كلمة المرور:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>البريد الإلكتروني:</value>
+  </data>
   <data name="Save" xml:space="preserve">
     <value>حفظ</value>
   </data>
@@ -129,7 +138,19 @@
   <data name="No" xml:space="preserve">
     <value>لا</value>
   </data>
+  <data name="Confirm Password:" xml:space="preserve">
+    <value>تأكيد كلمة المرور:</value>
+  </data>
+  <data name="Full Name:" xml:space="preserve">
+    <value>الإسم الكامل:</value>
+  </data>
+  <data name="Photo:" xml:space="preserve">
+    <value>الصورة:</value>
+  </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>الهوية</value>
+  </data>
+  <data name="Is Deleted?" xml:space="preserve">
+    <value>تم الحذف؟</value>
   </data>
 </root>

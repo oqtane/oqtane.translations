@@ -132,6 +132,18 @@
   <data name="No" xml:space="preserve">
     <value>لا</value>
   </data>
+  <data name="Minute(s)" xml:space="preserve">
+    <value>دقيقة</value>
+  </data>
+  <data name="Hour(s)" xml:space="preserve">
+    <value>ساعة</value>
+  </data>
+  <data name="Day(s)" xml:space="preserve">
+    <value>يوم</value>
+  </data>
+  <data name="Month(s)" xml:space="preserve">
+    <value>شهر</value>
+  </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>ادخل إسم الوظيفة</value>
   </data>
