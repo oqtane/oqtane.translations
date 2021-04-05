@@ -122,9 +122,14 @@
   </data>
   <data name="Loading..." xml:space="preserve">
     <value>تحميل...</value>
+  <data name="IsDefault.Text" xml:space="preserve">
+    <value>Default?</value>
   </data>
   <data name="Code" xml:space="preserve">
     <value>الشفرة</value>
+  </data>
+  <data name="Are You Sure You Wish To Delete The {0} Language?" xml:space="preserve">
+    <value>هل تريد حقا حذف اللغة {0}؟</value>
   </data>
   <data name="AddLanguage.Text" xml:space="preserve">
     <value>إضافة لغة</value>
@@ -133,6 +138,6 @@
     <value>حذف لغة</value>
   </data>
   <data name="DeleteLanguage.Message" xml:space="preserve">
-    <value>هل تريد حقا حذف اللغة {0}؟</value>
+    <value>حذف لغة</value>
   </data>
 </root>

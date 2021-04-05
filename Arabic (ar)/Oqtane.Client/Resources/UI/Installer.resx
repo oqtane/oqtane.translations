@@ -117,8 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Version:" xml:space="preserve">
+    <value>الإصدار:</value>
+  </data>
   <data name="Database Configuration" xml:space="preserve">
     <value>مكونات قاعدة البيانات</value>
+  </data>
+  <data name="Database Type:" xml:space="preserve">
+    <value>نوع قاعدة البيانات:</value>
   </data>
   <data name="Local Database" xml:space="preserve">
     <value>قاعدة بيانات محلية</value>
@@ -126,14 +132,35 @@
   <data name="SQL Server" xml:space="preserve">
     <value>SQL Server</value>
   </data>
+  <data name="Server:" xml:space="preserve">
+    <value>الخادم:</value>
+  </data>
+  <data name="Database:" xml:space="preserve">
+    <value>قاعدة البيانات:</value>
+  </data>
+  <data name="Integrated Security:" xml:space="preserve">
+    <value>الأمن المتكامل:</value>
+  </data>
   <data name="True" xml:space="preserve">
     <value>صح</value>
   </data>
   <data name="False" xml:space="preserve">
     <value>خطأ</value>
   </data>
+  <data name="Username:" xml:space="preserve">
+    <value>إسم المستخدم:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>كلمة المرور:</value>
+  </data>
   <data name="Application Administrator" xml:space="preserve">
     <value>مدير التطبيق</value>
+  </data>
+  <data name="Confirm:" xml:space="preserve">
+    <value>Confirm:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>البريد الإلكتروني:</value>
   </data>
   <data name="Install Now" xml:space="preserve">
     <value>تثبيت الآن</value>

@@ -123,12 +123,6 @@
   <data name="Select Template" xml:space="preserve">
     <value>اختر القالب</value>
   </data>
-  <data name="Internal" xml:space="preserve">
-    <value>داخلي</value>
-  </data>
-  <data name="External" xml:space="preserve">
-    <value>خارجي</value>
-  </data>
   <data name="Local Version" xml:space="preserve">
     <value>النسخة المحلية</value>
   </data>

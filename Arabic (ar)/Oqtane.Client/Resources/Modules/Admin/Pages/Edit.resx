@@ -197,6 +197,29 @@
   </data>
   <data name="Personalizable.HelpText" xml:space="preserve">
     <value>حدد ما إذا كنت ترغب في تمكين المستخدمين من تخصيص هذه الصفحة باستخدام المحتوى الخاص بهم</value>
+  <data name="Navigation.Text" xml:space="preserve">
+    <value>تنقل؟ </value>
+  </data>
+  <data name="UrlPath.Text" xml:space="preserve">
+    <value>مسار الرابط:</value>
+  </data>
+  <data name="Redirect.Text" xml:space="preserve">
+    <value>إعادة توجيه:</value>
+  </data>
+  <data name="Theme.Text" xml:space="preserve">
+    <value>السمة:</value>
+  </data>
+  <data name="Layout.Text" xml:space="preserve">
+    <value>التخطيط:</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>الحاوية الإفتراضية:</value>
+  </data>
+  <data name="Icon.Text" xml:space="preserve">
+    <value>الأيقونة:</value>
+  </data>
+  <data name="Personalizable.Text" xml:space="preserve">
+    <value>تخصيص؟</value>
   </data>
   <data name="Appearance.Name" xml:space="preserve">
     <value>المظهر</value>

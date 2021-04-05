@@ -135,6 +135,9 @@
   <data name="Deleted On" xml:space="preserve">
     <value>حذفت في</value>
   </data>
+  <data name="Are You Sure You Wish To Permanently Delete The {0} Page?" xml:space="preserve">
+    <value>هل تريد حقاً حذف الصفحة {0} نهائياً؟</value>
+  </data>
   <data name="No Deleted Modules" xml:space="preserve">
     <value>لا يوجد وحدات نمطية محذوفة</value>
   </data>
@@ -147,17 +150,14 @@
   <data name="Restore" xml:space="preserve">
     <value>إستعادة</value>
   </data>
-  <data name="DeletePage.Message" xml:space="preserve">
-    <value>هل تريد حقاً حذف الصفحة {0}؟</value>
+  <data name="Are You Sure You Wish To Permanently Delete The {0} Module?" xml:space="preserve">
+    <value>هل تريد حقاً حذف الوحدة النمطية {0} نهائياً؟</value>
   </data>
   <data name="DeleteAllPages.Header" xml:space="preserve">
     <value>حذف كل الصفحات</value>
   </data>
   <data name="DeleteAllPages.Message" xml:space="preserve">
-    <value>هل تريد حقاً حذف كل الصفحات نهائياً؟</value>
-  </data>
-  <data name="DeleteModule.Message" xml:space="preserve">
-    <value>هل تريد حقاً حذف الوحدة النمطية {0}؟</value>
+    <value>هل تريد حقاً حذف كل الصفحات؟</value>
   </data>
   <data name="DeleteAllModules.Header" xml:space="preserve">
     <value>حذف كل الوحدات النمطية</value>
