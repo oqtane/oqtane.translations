@@ -121,18 +121,23 @@
     <value>Name</value>
   </data>
   <data name="Loading..." xml:space="preserve">
-    <value>Loading...</value>
+    <value>Cargando...</value>
+  <data name="IsDefault.Text" xml:space="preserve">
+    <value>¿Por defecto?</value>
   </data>
   <data name="Code" xml:space="preserve">
-    <value>Code</value>
+    <value>Código</value>
+  </data>
+  <data name="Are You Sure You Wish To Delete The {0} Language?" xml:space="preserve">
+    <value>¿Estas seguro que deseas borrar el idiomoa {0}?</value>
   </data>
   <data name="AddLanguage.Text" xml:space="preserve">
-    <value>Add Language</value>
+    <value>Agregar Idioma</value>
   </data>
   <data name="DeleteLanguage.Header" xml:space="preserve">
-    <value>Delete Langauge</value>
+    <value>Borrar Idioma</value>
   </data>
   <data name="DeleteLanguage.Message" xml:space="preserve">
-    <value>Are You Sure You Wish To Delete The {0} Language?</value>
+    <value>¿Estas seguro que deseas borrar el idiomoa {0}?</value>
   </data>
 </root>

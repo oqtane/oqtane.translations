@@ -117,64 +117,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete" xml:space="preserve">
-    <value>Borrar</value>
+  <data name="Template.Text" xml:space="preserve">
+    <value>Plantilla:</value>
   </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Cargando...</value>
+  <data name="Select Template" xml:space="preserve">
+    <value>Elija Plantilla</value>
   </data>
-  <data name="All Levels" xml:space="preserve">
-    <value>Todos los niveles</value>
+  <data name="Internal" xml:space="preserve">
+    <value>Interno</value>
   </data>
-  <data name="Trace" xml:space="preserve">
-    <value>Rastro</value>
+  <data name="External" xml:space="preserve">
+    <value>Externo</value>
   </data>
-  <data name="Debug" xml:space="preserve">
-    <value>Depurar</value>
+  <data name="Local Version" xml:space="preserve">
+    <value>Versión local</value>
   </data>
-  <data name="Information" xml:space="preserve">
-    <value>Información</value>
+  <data name="Create Module" xml:space="preserve">
+    <value>Crear Módulo</value>
   </data>
-  <data name="Warning" xml:space="preserve">
-    <value>Cuidado</value>
+  <data name="Activate Module" xml:space="preserve">
+    <value>Activar Módulo</value>
   </data>
-  <data name="Error" xml:space="preserve">
-    <value>Error</value>
+  <data name="OwnerName.HelpText" xml:space="preserve">
+    <value>Ingrese el nombre de la organización que está desarrollando este módulo. No debe tener espacios ni puntos.</value>
   </data>
-  <data name="Critical" xml:space="preserve">
-    <value>Crítico</value>
+  <data name="ModuleName.HelpText" xml:space="preserve">
+    <value>Ingrese un nombre para este módulo. No debe contener espacios o puntos.</value>
   </data>
-  <data name="All Functions" xml:space="preserve">
-    <value>Todas las funciones</value>
+  <data name="Description.HelpText" xml:space="preserve">
+    <value>Ingrese una descrición corta para el módulo</value>
   </data>
-  <data name="Create" xml:space="preserve">
-    <value>Crear</value>
+  <data name="Template.HelpText" xml:space="preserve">
+    <value>Elija la plantilla de módulos. Los módulos internos se crean dentro del marco de referencia (framework) y los externos se crean fuera de la solución.</value>
   </data>
-  <data name="Read" xml:space="preserve">
-    <value>Leer</value>
+  <data name="FrameworkReference.HelpText" xml:space="preserve">
+    <value>Elija la versión del marco de referencia (framework)</value>
   </data>
-  <data name="Update" xml:space="preserve">
-    <value>Actualizar</value>
+  <data name="Location.HelpText" xml:space="preserve">
+    <value>Ubicación donde el módulo sera creado</value>
   </data>
-  <data name="Security" xml:space="preserve">
-    <value>Seguridad</value>
+  <data name="OwnerName.Text" xml:space="preserve">
+    <value>Nombre del dueño:</value>
   </data>
-  <data name="Other" xml:space="preserve">
-    <value>Otro</value>
+  <data name="ModuleName.Text" xml:space="preserve">
+    <value>Nombre del Módulo:</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Descripción:</value>
   </data>
-  <data name="Level" xml:space="preserve">
-    <value>Nivel</value>
+  <data name="FrameworkReference.Text" xml:space="preserve">
+    <value>Marco de referencia:</value>
   </data>
-  <data name="Feature" xml:space="preserve">
-    <value>Característica</value>
-  </data>
-  <data name="Function" xml:space="preserve">
-    <value>Función</value>
-  </data>
-  <data name="No Logs Match The Criteria Specified" xml:space="preserve">
-    <value>Ningún registro coincide con el criterio elegido</value>
+  <data name="Location.Text" xml:space="preserve">
+    <value>Ubicación:</value>
   </data>
 </root>
