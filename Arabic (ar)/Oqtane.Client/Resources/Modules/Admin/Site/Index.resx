@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+            Microsoft ResX Schema 
+
+            Version 2.0
+
+            The primary goals of this format is to allow a simple XML format 
+            that is mostly human readable. The generation and parsing of the 
+            various data types are done through the TypeConverter classes 
+            associated with the data types.
+
+            Example:
+
+            ... ado.net/XML headers & schema ...
+            <resheader name="resmimetype">text/microsoft-resx</resheader>
+            <resheader name="version">2.0</resheader>
+            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+                <value>[base64 mime encoded serialized .NET Framework object]</value>
+            </data>
+            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+                <comment>This is a comment</comment>
+            </data>
+
+            There are any number of "resheader" rows that contain simple 
+            name/value pairs.
+
+            Each data row contains a name, and value. The row also contains a 
+            type or mimetype. Type corresponds to a .NET class that support 
+            text/value conversion through the TypeConverter architecture. 
+            Classes that don't support this are serialized and stored with the 
+            mimetype set.
+
+            The mimetype is used for serialized objects, and tells the 
+            ResXResourceReader how to depersist the object. This is currently not 
+            extensible. For a given mimetype the value must be set accordingly:
+
+            Note - application/x-microsoft.net.object.binary.base64 is the format 
+            that the ResXResourceWriter will generate, however the reader can 
+            read any of the formats listed below.
+
+            mimetype: application/x-microsoft.net.object.binary.base64
+            value   : The object must be serialized with 
+                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+                    : and then encoded with base64 encoding.
+
+            mimetype: application/x-microsoft.net.object.soap.base64
+            value   : The object must be serialized with 
+                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+                    : and then encoded with base64 encoding.
+
+            mimetype: application/x-microsoft.net.object.bytearray.base64
+            value   : The object must be serialized into a byte array 
+                    : using a System.ComponentModel.TypeConverter
+                    : and then encoded with base64 encoding.
+            -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Save" xml:space="preserve">
+    <value>حفظ</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>الإسم:</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>نعم</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>لا</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>الحاوية الإفتراضية:</value>
+  </data>
+  <data name="Select Theme" xml:space="preserve">
+    <value>اختر السمة</value>
+  </data>
+  <data name="Select Layout" xml:space="preserve">
+    <value>اختر التخطيط</value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>اختر الحاوية</value>
+  </data>
+  <data name="Default Admin Container" xml:space="preserve">
+    <value>حاوية المدير الإفتراضية</value>
+  </data>
+  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In the Scheduled Jobs" xml:space="preserve">
+    <value>الرجاء ملاحظة أن SMTP يتطلب وظيفة الإعلام إلى تمكين في المهام المجدولة</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>ادخل إسم الموقع</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>ادخل المستأجر للموقع</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>ادخل الإسم المستعار للخادم</value>
+  </data>
+  <data name="Logo.HelpText" xml:space="preserve">
+    <value>ارفع شعار الموقع</value>
+  </data>
+  <data name="FavoriteIcon.HelpText" xml:space="preserve">
+    <value>اختر الأيقونة الإفتراضية</value>
+  </data>
+  <data name="DefaultTheme.HelpText" xml:space="preserve">
+    <value>اختر السمة الإفتراضية للمواقع</value>
+  </data>
+  <data name="DefaultLayout.HelpText" xml:space="preserve">
+    <value>اختر التخطيط الإفتراضي للمواقع</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>اختر الحاوية الإفتراضية للمواقع</value>
+  </data>
+  <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
+    <value>اختر حاوية المدير الإفتراضية للمواقع</value>
+  </data>
+  <data name="AllowRegistration.HelpText" xml:space="preserve">
+    <value>هل تريد أن يتمكن المستخدمون من التسجيل لحساب على الموقع</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>هل الموقع محذوف؟</value>
+  </data>
+  <data name="Host.HelpText" xml:space="preserve">
+    <value>أدخل اسم المضيف لخادم SMTP</value>
+  </data>
+  <data name="Port.HelpText" xml:space="preserve">
+    <value>أدخل رقم المنفذ لخادم SMTP. الرجاء ملاحظة أن هذا الحقل مطلوب إذا قمت بتوفير اسم مضيف.</value>
+  </data>
+  <data name="UseSsl.HelpText" xml:space="preserve">
+    <value>تحديد ما إذا كان SSL مطلوبًا لخادم SMTP</value>
+  </data>
+  <data name="SmptUsername.HelpText" xml:space="preserve">
+    <value>أدخل اسم المستخدم لحساب SMTP الخاص بك</value>
+  </data>
+  <data name="SmtpPassword.HelpText" xml:space="preserve">
+    <value>أدخل كلمة المرور لحساب SMTP الخاص بك</value>
+  </data>
+  <data name="SmptSender.HelpText" xml:space="preserve">
+    <value>أدخل البريد الإلكتروني الذي سيتم إرسال رسائل البريد الإلكتروني منه. الرجاء ملاحظة أن عنوان البريد الإلكتروني هذا قد يلزم أن يكون مخولاً من خادم SMTP.</value>
+  </data>
+  <data name="EnablePWA.HelpText" xml:space="preserve">
+    <value>حدد ما إذا كنت ترغب في أن يكون هذا الموقع متاحًا كتطبيق ويب تقدمي (PWA)</value>
+  </data>
+  <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
+    <value>قم بتضمين رمز تطبيق لـ PWA. وينبغي أن يكون الـ PNG التي هي 192 × 192 بكسل في البعد.</value>
+  </data>
+  <data name="PwaSplashIcon.HelpText" xml:space="preserve">
+    <value>قم بتضمين رمز البداية لـ PWA. وينبغي أن يكون الـ PNG التي هي 512 × 512 بكسل في البعد.</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>المستأجر:</value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>الأسماء المستعارة</value>
+  </data>
+  <data name="Logo.Text" xml:space="preserve">
+    <value>الشعار:</value>
+  </data>
+  <data name="FavoriteIcon.Text" xml:space="preserve">
+    <value>الأيقونة المفضلة:</value>
+  </data>
+  <data name="DefaultTheme.Text" xml:space="preserve">
+    <value>السمة الإفتراضية</value>
+  </data>
+  <data name="DefaultLayout.Text" xml:space="preserve">
+    <value>التخطيط الإفتراضي</value>
+  </data>
+  <data name="DefaultAdminContainer.Text" xml:space="preserve">
+    <value>حاوية المدير الإفتراضية</value>
+  </data>
+  <data name="AllowRegistration.Text" xml:space="preserve">
+    <value>السماح بتسجيل المستخدمين؟</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>محذوف؟</value>
+  </data>
+  <data name="Host.Text" xml:space="preserve">
+    <value>المضيف:</value>
+  </data>
+  <data name="Port.Text" xml:space="preserve">
+    <value>المنفذ:</value>
+  </data>
+  <data name="UseSsl.Text" xml:space="preserve">
+    <value>تمكين الـ SSL:</value>
+  </data>
+  <data name="SmptUsername.Text" xml:space="preserve">
+    <value>إسم المستخدم:</value>
+  </data>
+  <data name="SmtpPassword.Text" xml:space="preserve">
+    <value>كلمة المرور:</value>
+  </data>
+  <data name="SmptSender.Text" xml:space="preserve">
+    <value>البريد الإلكتروني للمرسل</value>
+  </data>
+  <data name="EnablePWA.Text" xml:space="preserve">
+    <value>مفعل؟</value>
+  </data>
+  <data name="PwaApplicationIcon.Text" xml:space="preserve">
+    <value>أيقونة التطبيق:</value>
+  </data>
+  <data name="PwaSplashIcon.Text" xml:space="preserve">
+    <value>أيقونة البداية:</value>
+  </data>
+  <data name="SMTPSettings.Heading" xml:space="preserve">
+    <value>إعدادات الـ SMTP</value>
+  </data>
+  <data name="SMTPSettings.Name" xml:space="preserve">
+    <value>SMTP</value>
+  </data>
+</root>
