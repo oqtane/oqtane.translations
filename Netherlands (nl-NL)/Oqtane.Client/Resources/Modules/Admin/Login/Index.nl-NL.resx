@@ -126,4 +126,13 @@
   <data name="Login" xml:space="preserve">
     <value>Aanmelden</value>
   </data>
+  <data name="Password:" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Remember Me?" xml:space="preserve">
+    <value>Onthoud mij?</value>
+  </data>
+  <data name="Username:" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
 </root>
