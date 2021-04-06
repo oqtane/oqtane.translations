@@ -120,10 +120,10 @@
   <data name="Cancel" xml:space="preserve">
     <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Log in</value>
-  </data>
   <data name="Forgot Password" xml:space="preserve">
     <value>Wachtwoord vergeten</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Aanmelden</value>
   </data>
 </root>
