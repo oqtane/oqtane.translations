@@ -118,21 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam:</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Save" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Size.Text" xml:space="preserve">
+    <value>Grootte:</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Size.HelpText" xml:space="preserve">
+    <value>De grootte van het bestand (in bytes)</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>De naam van het bestand</value>
+  </data>
+  <data name="Folder.Text" xml:space="preserve">
+    <value>Map:</value>
+  </data>
+  <data name="Folder.HelpText" xml:space="preserve">
+    <value>De map waarin het bestand zich bevindt</value>
   </data>
 </root>

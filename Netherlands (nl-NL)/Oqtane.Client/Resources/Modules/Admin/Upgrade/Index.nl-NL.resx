@@ -117,22 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+  <data name="Download" xml:space="preserve">
+    <value>Downloaden</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Upgrade To" xml:space="preserve">
+    <value>Upgraden naar</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Install" xml:space="preserve">
+    <value>Installeren</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Framework.Text" xml:space="preserve">
+    <value>Kader:</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
-  </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Framework.HelpText" xml:space="preserve">
+    <value>Upload een framework-pakket en selecteer Installeren om de installatie te voltooien</value>
   </data>
 </root>

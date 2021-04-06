@@ -117,22 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Select Folder" xml:space="preserve">
+    <value>Selecteer map</value>
+  </data>
+  <data name="Url.HelpText" xml:space="preserve">
+    <value>Voer de url in van het bestand dat u wilt downloaden</value>
+  </data>
+  <data name="Folder.HelpText" xml:space="preserve">
+    <value>Selecteer de map waarin u het bestand wilt opslaan</value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>Uploaden</value>
+  </data>
+  <data name="Url.Text" xml:space="preserve">
+    <value>URL:</value>
+  </data>
+  <data name="UploadFiles.Heading" xml:space="preserve">
+    <value>Upload bestanden</value>
+  </data>
+  <data name="Upload.Text" xml:space="preserve">
+    <value>Uploaden:</value>
+  </data>
+  <data name="Upload.HelpText" xml:space="preserve">
+    <value>Upload het gewenste bestand</value>
+  </data>
+  <data name="Folder.Text" xml:space="preserve">
+    <value>Map:</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Downloaden</value>
+  </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
-  </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
-  </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
-  </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+    <value>Annuleer</value>
   </data>
 </root>

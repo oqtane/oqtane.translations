@@ -118,21 +118,48 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Delete" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Delete Page" xml:space="preserve">
+    <value>Pagina verwijderen</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Edit" xml:space="preserve">
+    <value>Bewerk</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Unpublish Page" xml:space="preserve">
+    <value>Maak de publicatie van de pagina ongedaan</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Select Page" xml:space="preserve">
+    <value>Selecteer pagina</value>
+  </data>
+  <data name="Select Module" xml:space="preserve">
+    <value>Selecteer Module</value>
+  </data>
+  <data name="Publish Page" xml:space="preserve">
+    <value>Pagina publiceren</value>
+  </data>
+  <data name="Modules" xml:space="preserve">
+    <value>Modules</value>
+  </data>
+  <data name="Control Panel" xml:space="preserve">
+    <value>Controlepaneel</value>
+  </data>
+  <data name="Admin Dashboard" xml:space="preserve">
+    <value>Beheerdersdashboard</value>
+  </data>
+  <data name="Add New Module" xml:space="preserve">
+    <value>Nieuwe module toevoegen</value>
+  </data>
+  <data name="Add Module To Page" xml:space="preserve">
+    <value>Module toevoegen aan pagina</value>
+  </data>
+  <data name="Add Existing Module" xml:space="preserve">
+    <value>Voeg bestaande module toe</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Toevoegen</value>
   </data>
 </root>

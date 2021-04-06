@@ -118,21 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Send" xml:space="preserve">
+    <value>Sturen</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Reply" xml:space="preserve">
+    <value>Antwoord</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
-  </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Original Message" xml:space="preserve">
+    <value>Originele bericht</value>
   </data>
 </root>

@@ -117,22 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+  <data name="Synchronize Content" xml:space="preserve">
+    <value>Synchroniseer inhoud</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Insert Image" xml:space="preserve">
+    <value>Voeg afbeelding in</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
-  </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Close" xml:space="preserve">
+    <value>Dichtbij</value>
   </data>
 </root>

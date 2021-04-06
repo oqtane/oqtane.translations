@@ -118,21 +118,75 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Beschrijving:</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam:</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Save" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Version.Text" xml:space="preserve">
+    <value>Versie:</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Version.HelpText" xml:space="preserve">
+    <value>De versie van de module</value>
+  </data>
+  <data name="Runtimes.Text" xml:space="preserve">
+    <value>Looptijden:</value>
+  </data>
+  <data name="Runtimes.HelpText" xml:space="preserve">
+    <value>De Blazor-runtimes die deze module ondersteunt</value>
+  </data>
+  <data name="ReferenceUrl.Text" xml:space="preserve">
+    <value>Referentie-URL:</value>
+  </data>
+  <data name="ReferenceUrl.HelpText" xml:space="preserve">
+    <value>De referentie-URL van de module</value>
+  </data>
+  <data name="Owner.Text" xml:space="preserve">
+    <value>Eigenaar:</value>
+  </data>
+  <data name="Owner.HelpText" xml:space="preserve">
+    <value>De eigenaar of maker van de module</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>De naam van de module</value>
+  </data>
+  <data name="License.Text" xml:space="preserve">
+    <value>Licentie:</value>
+  </data>
+  <data name="License.HelpText" xml:space="preserve">
+    <value>De licentievoorwaarden van de module</value>
+  </data>
+  <data name="InternalName.Text" xml:space="preserve">
+    <value>Interne naam:</value>
+  </data>
+  <data name="InternalName.HelpText" xml:space="preserve">
+    <value>De interne naam van de module</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informatie</value>
+  </data>
+  <data name="Description.HelpText" xml:space="preserve">
+    <value>De beschrijving van de module</value>
+  </data>
+  <data name="Definition.Name" xml:space="preserve">
+    <value>Definitie</value>
+  </data>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>Contact:</value>
+  </data>
+  <data name="Contact.HelpText" xml:space="preserve">
+    <value>Het contact voor de module</value>
+  </data>
+  <data name="Categories.Text" xml:space="preserve">
+    <value>Categorieën:</value>
+  </data>
+  <data name="Categories.HelpText" xml:space="preserve">
+    <value>Door komma's gescheiden lijst met modulecategorieën</value>
   </data>
 </root>

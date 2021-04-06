@@ -118,21 +118,48 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="No" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Save" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Yes" xml:space="preserve">
+    <value>Ja</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Titel:</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Title.HelpText" xml:space="preserve">
+    <value>Voer de titel van de module in</value>
+  </data>
+  <data name="Page.Text" xml:space="preserve">
+    <value>Bladzijde:</value>
+  </data>
+  <data name="Page.HelpText" xml:space="preserve">
+    <value>De pagina waarop de module zich bevindt</value>
+  </data>
+  <data name="ModuleSettings.Name" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="ModuleSettings.Heading" xml:space="preserve">
+    <value>Module-instellingen</value>
+  </data>
+  <data name="Inherit From Page Or Site" xml:space="preserve">
+    <value>Overnemen van pagina of site</value>
+  </data>
+  <data name="DisplayOnAllPages.Text" xml:space="preserve">
+    <value>Weergeven op alle pagina's?</value>
+  </data>
+  <data name="DisplayOnAllPages.HelpText" xml:space="preserve">
+    <value>Geef aan of deze module op alle pagina's moet worden weergegeven</value>
+  </data>
+  <data name="Container.Text" xml:space="preserve">
+    <value>Container:</value>
+  </data>
+  <data name="Container.HelpText" xml:space="preserve">
+    <value>Selecteer de container van de module</value>
   </data>
 </root>

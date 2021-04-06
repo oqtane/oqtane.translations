@@ -117,22 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+  <data name="Loading..." xml:space="preserve">
+    <value>Bezig met laden...</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Name" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="DeleteLanguage.Message" xml:space="preserve">
+    <value>Weet u zeker dat u de taal {0} wilt verwijderen?</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="DeleteLanguage.Header" xml:space="preserve">
+    <value>Verwijder taal</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Code" xml:space="preserve">
+    <value>Code</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="AddLanguage.Text" xml:space="preserve">
+    <value>Taal toevoegen</value>
   </data>
 </root>

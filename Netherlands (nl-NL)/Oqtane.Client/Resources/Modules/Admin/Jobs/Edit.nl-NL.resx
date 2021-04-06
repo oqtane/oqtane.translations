@@ -118,21 +118,63 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam:</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="No" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Save" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Yes" xml:space="preserve">
+    <value>Ja</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Type:</value>
+  </data>
+  <data name="Type.HelpText" xml:space="preserve">
+    <value>De volledig gekwalificeerde naam van het taaktype</value>
+  </data>
+  <data name="Starting.Text" xml:space="preserve">
+    <value>Beginnend:</value>
+  </data>
+  <data name="Starting.HelpText" xml:space="preserve">
+    <value>Hoe laat wil je dat de klus begint</value>
+  </data>
+  <data name="RunsEvery.Text" xml:space="preserve">
+    <value>Draait elke:</value>
+  </data>
+  <data name="RunsEvery.HelpText" xml:space="preserve">
+    <value>Selecteer hoe vaak u de taak wilt uitvoeren</value>
+  </data>
+  <data name="RetentionLog.Text" xml:space="preserve">
+    <value>Bewaarlogboek (items):</value>
+  </data>
+  <data name="RetentionLog.HelpText" xml:space="preserve">
+    <value>Aantal logboekvermeldingen dat voor deze taak moet worden bewaard</value>
+  </data>
+  <data name="NextExecution.Text" xml:space="preserve">
+    <value>Volgende uitvoering:</value>
+  </data>
+  <data name="NextExecution.HelpText" xml:space="preserve">
+    <value>Volgende uitvoering voor deze klus.</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Voer de taaknaam in</value>
+  </data>
+  <data name="Ending.Text" xml:space="preserve">
+    <value>Einde:</value>
+  </data>
+  <data name="Ending.HelpText" xml:space="preserve">
+    <value>Wanneer wil je dat de klus eindigt?</value>
+  </data>
+  <data name="Enabled.Text" xml:space="preserve">
+    <value>Ingeschakeld?</value>
+  </data>
+  <data name="Enabled.HelpText" xml:space="preserve">
+    <value>Selecteer of u de taak wilt inschakelen of niet</value>
   </data>
 </root>

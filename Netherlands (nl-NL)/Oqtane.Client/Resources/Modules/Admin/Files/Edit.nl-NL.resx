@@ -118,21 +118,36 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam:</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Save" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Rechten:</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Permissions.HelpText" xml:space="preserve">
+    <value>Selecteer de gewenste machtigingen voor de map</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Parent.Text" xml:space="preserve">
+    <value>Ouder:</value>
+  </data>
+  <data name="Parent.HelpText" xml:space="preserve">
+    <value>Selecteer de bovenliggende map</value>
+  </data>
+  <data name="No Parent" xml:space="preserve">
+    <value>Geen ouder</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Voer de mapnaam in</value>
+  </data>
+  <data name="DeleteFolder.Message" xml:space="preserve">
+    <value>Weet u zeker dat u deze map wilt verwijderen?</value>
+  </data>
+  <data name="DeleteFolder.Header" xml:space="preserve">
+    <value>Verwijder map</value>
   </data>
 </root>

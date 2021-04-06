@@ -118,21 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="To.Text" xml:space="preserve">
+    <value>Naar:</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="To.HelpText" xml:space="preserve">
+    <value>Voer de gebruikersnaam in waarnaar u een bericht wilt sturen</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Subject.Text" xml:space="preserve">
+    <value>Onderwerpen:</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Subject.HelpText" xml:space="preserve">
+    <value>Voer het onderwerp van het bericht in</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Send" xml:space="preserve">
+    <value>Sturen</value>
+  </data>
+  <data name="Message.Text" xml:space="preserve">
+    <value>Bericht:</value>
+  </data>
+  <data name="Message.HelpText" xml:space="preserve">
+    <value>Voer het bericht in</value>
   </data>
 </root>

@@ -118,21 +118,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="You Are Already Registered" xml:space="preserve">
+    <value>Je bent al geregistreerd</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Registration is Disabled For This Site" xml:space="preserve">
+    <value>Registratie is uitgeschakeld voor deze site</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Register" xml:space="preserve">
+    <value>Registreren</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
-  </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity" xml:space="preserve">
+    <value>Houd er rekening mee dat registratie een geldig e-mailadres vereist om uw identiteit te verifiëren</value>
   </data>
 </root>

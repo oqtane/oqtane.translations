@@ -118,21 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Export" xml:space="preserve">
+    <value>Exporteren</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Content.Text" xml:space="preserve">
+    <value>Inhoud:</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
-  </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Content.HelpText" xml:space="preserve">
+    <value>Voer de module-inhoud in</value>
   </data>
 </root>

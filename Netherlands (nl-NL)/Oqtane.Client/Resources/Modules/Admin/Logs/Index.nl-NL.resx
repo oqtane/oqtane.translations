@@ -117,22 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+  <data name="Delete" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Loading..." xml:space="preserve">
+    <value>Bezig met laden...</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Warning" xml:space="preserve">
+    <value>Waarschuwing</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Update" xml:space="preserve">
+    <value>Bijwerken</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Trace" xml:space="preserve">
+    <value>Spoor</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Security" xml:space="preserve">
+    <value>Veiligheid</value>
+  </data>
+  <data name="Read" xml:space="preserve">
+    <value>Lezen</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Andere</value>
+  </data>
+  <data name="No Logs Match The Criteria Specified" xml:space="preserve">
+    <value>Geen logboeken komen overeen met de opgegeven criteria</value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>Niveau</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informatie</value>
+  </data>
+  <data name="Function" xml:space="preserve">
+    <value>Functie</value>
+  </data>
+  <data name="Feature" xml:space="preserve">
+    <value>Voorzien zijn van</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Fout</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Foutopsporing</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Datum</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritisch</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>Creëer</value>
+  </data>
+  <data name="All Levels" xml:space="preserve">
+    <value>Alle niveaus</value>
+  </data>
+  <data name="All Functions" xml:space="preserve">
+    <value>Alle functies</value>
   </data>
 </root>

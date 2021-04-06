@@ -117,22 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+  <data name="Edit" xml:space="preserve">
+    <value>Bewerk</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="EditFolder.Text" xml:space="preserve">
+    <value>Map bewerken</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Name" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="UploadFiles.Heading" xml:space="preserve">
+    <value>Upload bestanden</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Type" xml:space="preserve">
+    <value>Type</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Size" xml:space="preserve">
+    <value>Grootte</value>
+  </data>
+  <data name="No Files Exist In Selected Folder" xml:space="preserve">
+    <value>Er zijn geen bestanden in de geselecteerde map</value>
+  </data>
+  <data name="Modified" xml:space="preserve">
+    <value>Gewijzigd</value>
+  </data>
+  <data name="File" xml:space="preserve">
+    <value>het dossier</value>
+  </data>
+  <data name="DeleteFile.Message" xml:space="preserve">
+    <value>Weet u zeker dat u {0} wilt verwijderen?</value>
+  </data>
+  <data name="DeleteFile.Header" xml:space="preserve">
+    <value>Verwijder bestand</value>
+  </data>
+  <data name="AddFolder.Text" xml:space="preserve">
+    <value>Map toevoegen</value>
   </data>
 </root>

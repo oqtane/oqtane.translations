@@ -118,21 +118,75 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleer</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Beschrijving:</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Forgot Password</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam:</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="No" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Remember Me?</value>
+  <data name="Save" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Yes" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Titel:</value>
+  </data>
+  <data name="Title.HelpText" xml:space="preserve">
+    <value>De titel van het profielitem dat aan de gebruiker moet worden weergegeven</value>
+  </data>
+  <data name="Required.Text" xml:space="preserve">
+    <value>Verplicht?</value>
+  </data>
+  <data name="Required.HelpText" xml:space="preserve">
+    <value>Moet een gebruiker een waarde opgeven voor dit profielitem?</value>
+  </data>
+  <data name="Private.Text" xml:space="preserve">
+    <value>Privaat?</value>
+  </data>
+  <data name="Private.HelpText" xml:space="preserve">
+    <value>Moet dit profielitem zichtbaar zijn voor alle gebruikers?</value>
+  </data>
+  <data name="Order.Text" xml:space="preserve">
+    <value>Bestellen:</value>
+  </data>
+  <data name="Order.HelpText" xml:space="preserve">
+    <value>De indexvolgorde van waar dit profielitem moet worden weergegeven</value>
+  </data>
+  <data name="Options.Text" xml:space="preserve">
+    <value>Opties:</value>
+  </data>
+  <data name="Options.HelpText" xml:space="preserve">
+    <value>Een door komma's gescheiden lijst met opties waaruit de gebruiker kan kiezen</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>De naam van dit profielitem</value>
+  </data>
+  <data name="Length.Text" xml:space="preserve">
+    <value>Lengte:</value>
+  </data>
+  <data name="Length.HelpText" xml:space="preserve">
+    <value>Het maximale aantal tekens dat dit profielitem mag accepteren (voer nul in voor onbeperkt)</value>
+  </data>
+  <data name="Description.HelpText" xml:space="preserve">
+    <value>De helptekst die wordt weergegeven aan de gebruiker voor dit profielitem</value>
+  </data>
+  <data name="DefaultValue.Text" xml:space="preserve">
+    <value>Standaardwaarde:</value>
+  </data>
+  <data name="DefaultValue.HelpText" xml:space="preserve">
+    <value>De standaardwaarde voor dit profielitem</value>
+  </data>
+  <data name="Category.Text" xml:space="preserve">
+    <value>Categorie:</value>
+  </data>
+  <data name="Category.HelpText" xml:space="preserve">
+    <value>De categorie van dit profielitem (voor groepering)</value>
   </data>
 </root>
