@@ -132,103 +132,67 @@
   <data name="Save" xml:space="preserve">
     <value>Opslaan</value>
   </data>
+  <data name="Select Layout" xml:space="preserve">
+    <value>Selecteer Layout</value>
+  </data>
   <data name="Yes" xml:space="preserve">
     <value>Ja</value>
   </data>
-  <data name="UrlPath.Text" xml:space="preserve">
-    <value>URL-pad:</value>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Huurder:</value>
   </data>
-  <data name="UrlPath.HelpText" xml:space="preserve">
-    <value>Voer optioneel een url-pad in voor deze pagina (bijv. Home). Als u geen url-pad opgeeft, wordt de paginanaam gebruikt.</value>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>De huurder voor de site</value>
   </data>
-  <data name="To End" xml:space="preserve">
-    <value>Beëindigen</value>
+  <data name="Select Theme" xml:space="preserve">
+    <value>Selecteer thema</value>
   </data>
-  <data name="To Beginning" xml:space="preserve">
-    <value>Om te beginnen</value>
-  </data>
-  <data name="Title.Text" xml:space="preserve">
-    <value>Titel:</value>
-  </data>
-  <data name="Title.HelpText" xml:space="preserve">
-    <value>Voer optioneel de paginatitel in. Als u geen paginatitel opgeeft, wordt de paginanaam gebruikt.</value>
-  </data>
-  <data name="Theme.Text" xml:space="preserve">
-    <value>Thema:</value>
-  </data>
-  <data name="Theme.HelpText" xml:space="preserve">
-    <value>Selecteer het thema voor deze pagina</value>
-  </data>
-  <data name="Site Root" xml:space="preserve">
-    <value>Root van de site</value>
-  </data>
-  <data name="Select Page" xml:space="preserve">
-    <value>Selecteer pagina</value>
-  </data>
-  <data name="Redirect.Text" xml:space="preserve">
-    <value>Omleiding:</value>
-  </data>
-  <data name="Redirect.HelpText" xml:space="preserve">
-    <value>Voer optioneel een URL in waarnaar deze pagina moet verwijzen wanneer een gebruiker ernaartoe navigeert</value>
-  </data>
-  <data name="Personalizable.Text" xml:space="preserve">
-    <value>Personaliseerbaar?</value>
-  </data>
-  <data name="Personalizable.HelpText" xml:space="preserve">
-    <value>Selecteer of u wilt dat gebruikers deze pagina kunnen personaliseren met hun eigen inhoud</value>
-  </data>
-  <data name="Parent.Text" xml:space="preserve">
-    <value>Ouder:</value>
-  </data>
-  <data name="Parent.HelpText" xml:space="preserve">
-    <value>Selecteer het bovenliggende item voor de pagina in de sitehiërarchie</value>
-  </data>
-  <data name="Navigation.Text" xml:space="preserve">
-    <value>Navigatie?</value>
-  </data>
-  <data name="Navigation.HelpText" xml:space="preserve">
-    <value>Selecteer of de pagina deel uitmaakt van de sitenavigatie of verborgen is</value>
+  <data name="Select Container" xml:space="preserve">
+    <value>Selecteer Container</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>Voer de paginanaam in</value>
+    <value>Voer de naam van de site in</value>
   </data>
-  <data name="ModuleSettings.Name" xml:space="preserve">
-    <value>Instellingen</value>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Is verwijderd?</value>
   </data>
-  <data name="Maintain Current Location" xml:space="preserve">
-    <value>Behoud huidige locatie</value>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>Is deze site verwijderd?</value>
   </data>
-  <data name="Layout.Text" xml:space="preserve">
-    <value>Indeling:</value>
+  <data name="DefaultTheme.Text" xml:space="preserve">
+    <value>Standaard thema:</value>
   </data>
-  <data name="Layout.HelpText" xml:space="preserve">
-    <value>Selecteer een lay-out voor de pagina (als het geselecteerde thema dit ondersteunt)</value>
+  <data name="DefaultTheme.HelpText" xml:space="preserve">
+    <value>Selecteer het standaardthema voor de website</value>
   </data>
-  <data name="Inherit From Site" xml:space="preserve">
-    <value>Overnemen van site</value>
+  <data name="DefaultLayout.Text" xml:space="preserve">
+    <value>Standaard layout:</value>
   </data>
-  <data name="Icon.Text" xml:space="preserve">
-    <value>Icoon:</value>
-  </data>
-  <data name="Icon.HelpText" xml:space="preserve">
-    <value>Geef optioneel een naam van een pictogramklasse voor deze pagina op, die wordt weergegeven in de sitenavigatie</value>
+  <data name="DefaultLayout.HelpText" xml:space="preserve">
+    <value>Selecteer de standaardlay-out voor de site</value>
   </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
-    <value>Selecteer de standaardcontainer voor de pagina</value>
+    <value>Selecteer de standaardcontainer voor de site</value>
   </data>
-  <data name="Before" xml:space="preserve">
-    <value>Voordat</value>
+  <data name="DefaultAdminContainer.Text" xml:space="preserve">
+    <value>Standaard beheerderscontainer:</value>
   </data>
-  <data name="Appearance.Name" xml:space="preserve">
-    <value>Uiterlijk</value>
+  <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
+    <value>Selecteer de standaard admin-container voor de site</value>
   </data>
-  <data name="After" xml:space="preserve">
-    <value>Na</value>
+  <data name="Default Admin Container" xml:space="preserve">
+    <value>Standaard beheerderscontainer</value>
   </data>
-  <data name="Move.HelpText" xml:space="preserve">
-    <value>Selecteer de locatie waar u de pagina wilt verplaatsen ten opzichte van andere pagina's</value>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Verbindingsdraad:</value>
   </data>
-  <data name="Move:" xml:space="preserve">
-    <value>Verplaats:</value>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>De databaseverbindingsreeks</value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>Aliassen:</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>Voer de alias voor de server in</value>
   </data>
 </root>
