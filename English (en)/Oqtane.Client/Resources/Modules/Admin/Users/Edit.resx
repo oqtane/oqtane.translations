@@ -117,6 +117,15 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Username:" xml:space="preserve">
+    <value>Username:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Email:</value>
+  </data>
   <data name="Save" xml:space="preserve">
     <value>Save</value>
   </data>
@@ -129,7 +138,31 @@
   <data name="No" xml:space="preserve">
     <value>No</value>
   </data>
+  <data name="Confirm Password:" xml:space="preserve">
+    <value>Confirm Password:</value>
+  </data>
+  <data name="Full Name:" xml:space="preserve">
+    <value>Full Name:</value>
+  </data>
+  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+    <value>Passwords Entered Do Not Match</value>
+  </data>
+  <data name="Photo:" xml:space="preserve">
+    <value>Photo:</value>
+  </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>Identity</value>
+  </data>
+  <data name="Is Deleted?" xml:space="preserve">
+    <value>Is Deleted?</value>
+  </data>
+  <data name="Error Loading User" xml:space="preserve">
+    <value>Error Loading User</value>
+  </data>
+  <data name="You Must Provide A Username, Password, Email Address, And All Required Profile Information" xml:space="preserve">
+    <value>You Must Provide A Username, Password, Email Address, And All Required Profile Information</value>
+  </data>
+  <data name="Error Saving User" xml:space="preserve">
+    <value>Error Saving User</value>
   </data>
 </root>

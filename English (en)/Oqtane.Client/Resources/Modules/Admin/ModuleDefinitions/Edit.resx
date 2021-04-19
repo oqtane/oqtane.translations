@@ -132,6 +132,12 @@
   <data name="Description.Text" xml:space="preserve">
     <value>Description: </value>
   </data>
+  <data name="Error Loading Module" xml:space="preserve">
+    <value>Error Loading Module</value>
+  </data>
+  <data name="Error Saving Module" xml:space="preserve">
+    <value>Error Saving Module</value>
+  </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>The name of the module</value>
   </data>

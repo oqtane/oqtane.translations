@@ -117,13 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Username:" xml:space="preserve">
+    <value>Username:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Email:</value>
+  </data>
   <data name="Save" xml:space="preserve">
     <value>Save</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="Confirm Password:" xml:space="preserve">
+    <value>Confirm Password:</value>
+  </data>
+  <data name="Full Name:" xml:space="preserve">
+    <value>Full Name:</value>
+  </data>
+  <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
+    <value>Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use.</value>
+  </data>
+  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+    <value>Passwords Entered Do Not Match</value>
+  </data>
+  <data name="Error Adding User" xml:space="preserve">
+    <value>Error Adding User</value>
+  </data>
+  <data name="Error Loading User Profile" xml:space="preserve">
+    <value>Error Loading User Profile</value>
+  </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>Identity</value>
+  </data>
+  <data name="You Must Provide A Username, Password, Email Address And All Required Profile Information" xml:space="preserve">
+    <value>You Must Provide A Username, Password, Email Address And All Required Profile Information</value>
   </data>
 </root>

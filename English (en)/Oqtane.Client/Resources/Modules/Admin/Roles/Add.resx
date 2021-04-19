@@ -132,6 +132,9 @@
   <data name="Name.Text" xml:space="preserve">
     <value>Name:</value>
   </data>
+  <data name="Error Adding Role" xml:space="preserve">
+    <value>Error Adding Role</value>
+  </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Name Of The Role</value>
   </data>

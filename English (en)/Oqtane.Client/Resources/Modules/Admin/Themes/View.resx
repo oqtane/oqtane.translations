@@ -144,11 +144,14 @@
   <data name="License.Text" xml:space="preserve">
     <value>License: </value>
   </data>
+  <data name="Error Loading Theme" xml:space="preserve">
+    <value>Error Loading Theme</value>
+  </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>The name of the theme</value>
   </data>
   <data name="Version.HelpText" xml:space="preserve">
-    <value>The version of the thene</value>
+    <value>The version of the theme</value>
   </data>
   <data name="Owner.HelpText" xml:space="preserve">
     <value>The owner or creator of the theme</value>

@@ -138,6 +138,27 @@
   <data name="Users" xml:space="preserve">
     <value>Users</value>
   </data>
+  <data name="Error Loading Users" xml:space="preserve">
+    <value>Error Loading Users</value>
+  </data>
+  <data name="Error Loading User Roles" xml:space="preserve">
+    <value>Error Loading User Roles</value>
+  </data>
+  <data name="User Assigned To Role" xml:space="preserve">
+    <value>User Assigned To Role</value>
+  </data>
+  <data name="You Must Select A User" xml:space="preserve">
+    <value>You Must Select A User</value>
+  </data>
+  <data name="Error Saving User Roles" xml:space="preserve">
+    <value>Error Saving User Roles</value>
+  </data>
+  <data name="User Removed From Role" xml:space="preserve">
+    <value>User Removed From Role</value>
+  </data>
+  <data name="Error Removing User From Role" xml:space="preserve">
+    <value>Error Removing User From Role</value>
+  </data>
   <data name="Role.HelpText" xml:space="preserve">
     <value>The role you are assigning users to</value>
   </data>

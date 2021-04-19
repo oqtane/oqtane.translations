@@ -132,9 +132,6 @@
   <data name="Page.Text" xml:space="preserve">
     <value>Page: </value>
   </data>
-  <data name="Inherit From Page Or Site" xml:space="preserve">
-    <value>Inherit From Page Or Site</value>
-  </data>
   <data name="Title.HelpText" xml:space="preserve">
     <value>Enter the title of the module</value>
   </data>
@@ -145,7 +142,7 @@
     <value>Indicate if this module should be displayed on all pages</value>
   </data>
   <data name="Page.HelpText" xml:space="preserve">
-    <value>The page that the module is on</value>
+    <value>The page that the module is located on</value>
   </data>
   <data name="Title.Text" xml:space="preserve">
     <value>Title: </value>
@@ -156,10 +153,7 @@
   <data name="DisplayOnAllPages.Text" xml:space="preserve">
     <value>Display On All Pages? </value>
   </data>
-  <data name="ModuleSettings.Heading" xml:space="preserve">
-    <value>Module Settings</value>
-  </data>
-  <data name="ModuleSettings.Name" xml:space="preserve">
+  <data name="Settings.Heading" xml:space="preserve">
     <value>Settings</value>
   </data>
 </root>

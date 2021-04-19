@@ -117,8 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Version:" xml:space="preserve">
+    <value>Version:</value>
+  </data>
   <data name="Database Configuration" xml:space="preserve">
     <value>Database Configuration</value>
+  </data>
+  <data name="Database Type:" xml:space="preserve">
+    <value>Database Type:</value>
   </data>
   <data name="Local Database" xml:space="preserve">
     <value>Local Database</value>
@@ -126,16 +132,40 @@
   <data name="SQL Server" xml:space="preserve">
     <value>SQL Server</value>
   </data>
+  <data name="Server:" xml:space="preserve">
+    <value>Server:</value>
+  </data>
+  <data name="Database:" xml:space="preserve">
+    <value>Database:</value>
+  </data>
+  <data name="Integrated Security:" xml:space="preserve">
+    <value>Integrated Security:</value>
+  </data>
   <data name="True" xml:space="preserve">
     <value>True</value>
   </data>
   <data name="False" xml:space="preserve">
     <value>False</value>
   </data>
+  <data name="Username:" xml:space="preserve">
+    <value>Username:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>Password:</value>
+  </data>
   <data name="Application Administrator" xml:space="preserve">
     <value>Application Administrator</value>
   </data>
+  <data name="Confirm:" xml:space="preserve">
+    <value>Confirm:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Email:</value>
+  </data>
   <data name="Install Now" xml:space="preserve">
     <value>Install Now</value>
+  </data>
+  <data name="Please Enter All Fields And Ensure Passwords Match And Are Greater Than 5 Characters In Length" xml:space="preserve">
+    <value>Please Enter All Fields And Ensure Passwords Match And Are Greater Than 5 Characters In Length</value>
   </data>
 </root>

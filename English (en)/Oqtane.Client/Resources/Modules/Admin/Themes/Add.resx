@@ -132,8 +132,20 @@
   <data name="Install" xml:space="preserve">
     <value>Install</value>
   </data>
+  <data name="Error Loading Packages" xml:space="preserve">
+    <value>Error Loading Packages</value>
+  </data>
   <data name="Theme.Text" xml:space="preserve">
     <value>Theme: </value>
+  </data>
+  <data name="Theme Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
+    <value>Theme Installed Successfully. You Must &lt;a href=\"{0}\"&gt;Restart&lt;/a&gt; Your Application To Apply These Changes.</value>
+  </data>
+  <data name="Themes Downloaded Successfully. Click Install To Complete Installation." xml:space="preserve">
+    <value>Themes Downloaded Successfully. Click Install To Complete Installation.</value>
+  </data>
+  <data name="Error Downloading Theme" xml:space="preserve">
+    <value>Error Downloading Theme</value>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
     <value>Upload one or more theme packages. Once they are uploaded click Install to complete the installation.</value>

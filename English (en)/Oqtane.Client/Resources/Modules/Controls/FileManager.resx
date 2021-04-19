@@ -129,4 +129,22 @@
   <data name="Delete" xml:space="preserve">
     <value>Delete</value>
   </data>
+  <data name="Error Loading Files" xml:space="preserve">
+    <value>Error Loading Files</value>
+  </data>
+  <data name="File Upload Succeeded" xml:space="preserve">
+    <value>File Upload Succeeded</value>
+  </data>
+  <data name="File Upload Failed" xml:space="preserve">
+    <value>File Upload Failed</value>
+  </data>
+  <data name="You Have Not Selected A File To Upload" xml:space="preserve">
+    <value>You Have Not Selected A File To Upload</value>
+  </data>
+  <data name="File Deleted" xml:space="preserve">
+    <value>File Deleted</value>
+  </data>
+  <data name="Error Deleting File" xml:space="preserve">
+    <value>Error Deleting File</value>
+  </data>
 </root>

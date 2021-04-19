@@ -141,17 +141,14 @@
   <data name="Server.Text" xml:space="preserve">
     <value>Server: </value>
   </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>Select Container</value>
+  </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>Default Container: </value>
   </data>
   <data name="Select Theme" xml:space="preserve">
     <value>Select Theme</value>
-  </data>
-  <data name="Select Layout" xml:space="preserve">
-    <value>Select Layout</value>
-  </data>
-  <data name="Select Container" xml:space="preserve">
-    <value>Select Container</value>
   </data>
   <data name="Default Admin Container" xml:space="preserve">
     <value>Default Admin Container</value>
@@ -171,9 +168,6 @@
   <data name="DefaultTheme.Text" xml:space="preserve">
     <value>Default Theme: </value>
   </data>
-  <data name="DefaultLayout.Text" xml:space="preserve">
-    <value>Default Layout: </value>
-  </data>
   <data name="Select Site Template" xml:space="preserve">
     <value>Select Site Template</value>
   </data>
@@ -183,14 +177,29 @@
   <data name="Create New Tenant" xml:space="preserve">
     <value>Create New Tenant</value>
   </data>
+  <data name="Error Loading Containers For Theme" xml:space="preserve">
+    <value>Error Loading Containers For Theme</value>
+  </data>
+  <data name="You Must Specify A Server And Database" xml:space="preserve">
+    <value>You Must Specify A Server And Database</value>
+  </data>
+  <data name="Invalid Host Password" xml:space="preserve">
+    <value>Invalid Host Password</value>
+  </data>
+  <data name="Tenant Name Is Missing Or Already Exists" xml:space="preserve">
+    <value>Tenant Name Is Missing Or Already Exists</value>
+  </data>
+  <data name="{0} Already Used For Another Site&quot;, string.Join(&quot;, " xml:space="preserve">
+    <value>{0} Already Used For Another Site", string.Join(", </value>
+  </data>
+  <data name="You Must Provide A Tenant, Site Name, Alias, Default Theme/Container, And Site Template" xml:space="preserve">
+    <value>You Must Provide A Tenant, Site Name, Alias, Default Theme/Container, And Site Template</value>
+  </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Enter the name of the site</value>
   </data>
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Select the default theme for the website</value>
-  </data>
-  <data name="DefaultLayout.HelpText" xml:space="preserve">
-    <value>Select the default layout for the site</value>
   </data>
   <data name="AdminContainer.HelpText" xml:space="preserve">
     <value>Select the admin container for the site</value>

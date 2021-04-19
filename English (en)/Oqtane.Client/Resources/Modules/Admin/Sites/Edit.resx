@@ -123,14 +123,20 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
-  <data name="Name.Text" xml:space="preserve">
-    <value>Name: </value>
-  </data>
   <data name="Yes" xml:space="preserve">
     <value>Yes</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>No</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Name: </value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>Select Container</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>Error Loading Pane Layouts For Theme</value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>Default Container: </value>
@@ -138,14 +144,17 @@
   <data name="Select Theme" xml:space="preserve">
     <value>Select Theme</value>
   </data>
-  <data name="Select Layout" xml:space="preserve">
-    <value>Select Layout</value>
-  </data>
-  <data name="Select Container" xml:space="preserve">
-    <value>Select Container</value>
-  </data>
   <data name="Default Admin Container" xml:space="preserve">
     <value>Default Admin Container</value>
+  </data>
+  <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
+    <value>An Alias Specified Has Already Been Used For Another Site</value>
+  </data>
+  <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
+    <value>You Must Provide A Site Name, Alias, And Default Theme/Container</value>
+  </data>
+  <data name="Error Saving Site" xml:space="preserve">
+    <value>Error Saving Site</value>
   </data>
   <data name="Aliases.HelpText" xml:space="preserve">
     <value>Enter the alias for the server</value>
@@ -162,26 +171,20 @@
   <data name="Aliases.Text" xml:space="preserve">
     <value>Aliases: </value>
   </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Is Deleted? </value>
+  </data>
   <data name="DefaultTheme.Text" xml:space="preserve">
     <value>Default Theme: </value>
   </data>
-  <data name="DefaultLayout.Text" xml:space="preserve">
-    <value>Default Layout: </value>
-  </data>
   <data name="DefaultAdminContainer.Text" xml:space="preserve">
     <value>Default Admin Container: </value>
-  </data>
-  <data name="IsDeleted.Text" xml:space="preserve">
-    <value>Is Deleted? </value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Enter the name of the site</value>
   </data>
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Select the default theme for the website</value>
-  </data>
-  <data name="DefaultLayout.HelpText" xml:space="preserve">
-    <value>Select the default layout for the site</value>
   </data>
   <data name="IsDeleted.HelpText" xml:space="preserve">
     <value>Has this site been deleted?</value>

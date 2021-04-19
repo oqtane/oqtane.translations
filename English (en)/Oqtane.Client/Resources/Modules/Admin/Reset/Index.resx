@@ -117,10 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Username:" xml:space="preserve">
+    <value>Username:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>Password:</value>
+  </data>
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="Confirm Password:" xml:space="preserve">
+    <value>Confirm Password:</value>
+  </data>
+  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+    <value>Passwords Entered Do Not Match</value>
+  </data>
+  <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
+    <value>You Must Provide A Username, Password, and Email Address</value>
+  </data>
   <data name="Reset Password" xml:space="preserve">
     <value>Reset Password</value>
+  </data>
+  <data name="Error Resetting User Password. Please Ensure Password Meets Complexity Requirements." xml:space="preserve">
+    <value>Error Resetting User Password. Please Ensure Password Meets Complexity Requirements.</value>
+  </data>
+  <data name="Error Resetting User Password" xml:space="preserve">
+    <value>Error Resetting User Password</value>
   </data>
 </root>

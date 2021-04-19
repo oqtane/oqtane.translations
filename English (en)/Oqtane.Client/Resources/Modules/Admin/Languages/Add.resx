@@ -132,6 +132,12 @@
   <data name="Loading..." xml:space="preserve">
     <value>Loading...</value>
   </data>
+  <data name="The Only Supported Culture That Has Been Defined Is English" xml:space="preserve">
+    <value>The Only Supported Culture That Has Been Defined Is English</value>
+  </data>
+  <data name="Error Adding Language" xml:space="preserve">
+    <value>Error Adding Language</value>
+  </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Name Of The Langauage</value>
   </data>

@@ -123,19 +123,37 @@
   <data name="Loading..." xml:space="preserve">
     <value>Loading...</value>
   </data>
+  <data name="Create Module" xml:space="preserve">
+    <value>Create Module</value>
+  </data>
   <data name="Version" xml:space="preserve">
     <value>Version</value>
   </data>
+  <data name="Module Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
+    <value>Module Installed Successfully. You Must &lt;a href=\"{0}\"&gt;Restart&lt;/a&gt; Your Application To Apply These Changes.</value>
+  </data>
+  <data name="Error Downloading Module" xml:space="preserve">
+    <value>Error Downloading Module</value>
+  </data>
+  <data name="Are You Sure You Wish To Delete The {0} Module?" xml:space="preserve">
+    <value>Are You Sure You Wish To Delete The {0} Module?</value>
+  </data>
   <data name="Upgrade" xml:space="preserve">
     <value>Upgrade</value>
+  </data>
+  <data name="Error Loading Modules" xml:space="preserve">
+    <value>Error Loading Modules</value>
+  </data>
+  <data name="Module Deleted Successfully" xml:space="preserve">
+    <value>Module Deleted Successfully</value>
+  </data>
+  <data name="Error Deleting Module" xml:space="preserve">
+    <value>Error Deleting Module</value>
   </data>
   <data name="InstallModule.Text" xml:space="preserve">
     <value>Install Module</value>
   </data>
   <data name="DeleteModule.Header" xml:space="preserve">
     <value>Delete Module</value>
-  </data>
-  <data name="DeleteModule.Message" xml:space="preserve">
-    <value>@(</value>
   </data>
 </root>

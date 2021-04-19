@@ -126,6 +126,12 @@
   <data name="Upgrade To" xml:space="preserve">
     <value>Upgrade To</value>
   </data>
+  <data name="Error Executing Upgrade" xml:space="preserve">
+    <value>Error Executing Upgrade</value>
+  </data>
+  <data name="Error Downloading Framework" xml:space="preserve">
+    <value>Error Downloading Framework</value>
+  </data>
   <data name="Framework.HelpText" xml:space="preserve">
     <value>Upload a framework package and select Install to complete the installation</value>
   </data>

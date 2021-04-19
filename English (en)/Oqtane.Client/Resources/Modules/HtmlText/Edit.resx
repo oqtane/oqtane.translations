@@ -123,4 +123,7 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
+  <data name="Error Saving Content" xml:space="preserve">
+    <value>Error Saving Content</value>
+  </data>
 </root>

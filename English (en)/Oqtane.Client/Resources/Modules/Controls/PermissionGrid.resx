@@ -129,4 +129,7 @@
   <data name="Add" xml:space="preserve">
     <value>Add</value>
   </data>
+  <data name="Username Does Not Exist" xml:space="preserve">
+    <value>Username Does Not Exist</value>
+  </data>
 </root>

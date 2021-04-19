@@ -123,6 +123,9 @@
   <data name="Url.Text" xml:space="preserve">
     <value>Url: </value>
   </data>
+  <data name="Error Loading Log" xml:space="preserve">
+    <value>Error Loading Log</value>
+  </data>
   <data name="DateTime.HelpText" xml:space="preserve">
     <value>The date and time of this log</value>
   </data>

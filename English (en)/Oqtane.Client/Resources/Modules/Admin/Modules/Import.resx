@@ -129,4 +129,16 @@
   <data name="Import" xml:space="preserve">
     <value>Import</value>
   </data>
+  <data name="Content Imported Successfully" xml:space="preserve">
+    <value>Content Imported Successfully</value>
+  </data>
+  <data name="A Problem Was Encountered Importing Content. Please Ensure The Content Is Formatted Correctly For The Module." xml:space="preserve">
+    <value>A Problem Was Encountered Importing Content. Please Ensure The Content Is Formatted Correctly For The Module.</value>
+  </data>
+  <data name="Error Importing Module" xml:space="preserve">
+    <value>Error Importing Module</value>
+  </data>
+  <data name="You Must Enter Some Content To Import" xml:space="preserve">
+    <value>You Must Enter Some Content To Import</value>
+  </data>
 </root>

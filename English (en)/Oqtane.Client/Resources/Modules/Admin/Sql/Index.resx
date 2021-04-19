@@ -126,6 +126,12 @@
   <data name="Execute" xml:space="preserve">
     <value>Execute</value>
   </data>
+  <data name="You Must Select A Tenant And Provide A SQL Query" xml:space="preserve">
+    <value>You Must Select A Tenant And Provide A SQL Query</value>
+  </data>
+  <data name="No Results Returned" xml:space="preserve">
+    <value>No Results Returned</value>
+  </data>
   <data name="Tenant.HelpText" xml:space="preserve">
     <value>Select the tenant for the SQL server</value>
   </data>

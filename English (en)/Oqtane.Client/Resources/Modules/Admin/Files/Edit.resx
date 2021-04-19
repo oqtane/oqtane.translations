@@ -129,6 +129,30 @@
   <data name="No Parent" xml:space="preserve">
     <value>No Parent</value>
   </data>
+  <data name="Error Loading Folder" xml:space="preserve">
+    <value>Error Loading Folder</value>
+  </data>
+  <data name="Folders Must Have A Parent And A Name" xml:space="preserve">
+    <value>Folders Must Have A Parent And A Name</value>
+  </data>
+  <data name="Folder Name Not Valid." xml:space="preserve">
+    <value>Folder Name Not Valid.</value>
+  </data>
+  <data name="An Error Was Encountered Saving The Folder" xml:space="preserve">
+    <value>An Error Was Encountered Saving The Folder</value>
+  </data>
+  <data name="Error Saving Folder" xml:space="preserve">
+    <value>Error Saving Folder</value>
+  </data>
+  <data name="Folder Has Files And Cannot Be Deleted" xml:space="preserve">
+    <value>Folder Has Files And Cannot Be Deleted</value>
+  </data>
+  <data name="Folder Has Subfolders And Cannot Be Deleted" xml:space="preserve">
+    <value>Folder Has Subfolders And Cannot Be Deleted</value>
+  </data>
+  <data name="Error Deleting Folder" xml:space="preserve">
+    <value>Error Deleting Folder</value>
+  </data>
   <data name="Parent.HelpText" xml:space="preserve">
     <value>Select the parent folder</value>
   </data>

@@ -126,6 +126,15 @@
   <data name="Folder.Text" xml:space="preserve">
     <value>Folder: </value>
   </data>
+  <data name="Error Loading File" xml:space="preserve">
+    <value>Error Loading File</value>
+  </data>
+  <data name="File Name Not Valid" xml:space="preserve">
+    <value>File Name Not Valid</value>
+  </data>
+  <data name="Error Saving File" xml:space="preserve">
+    <value>Error Saving File</value>
+  </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>The name of the file</value>
   </data>

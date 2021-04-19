@@ -117,11 +117,32 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Username:" xml:space="preserve">
+    <value>Username:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Email:</value>
+  </data>
   <data name="Save" xml:space="preserve">
     <value>Save</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
+  </data>
+  <data name="Confirm Password:" xml:space="preserve">
+    <value>Confirm Password:</value>
+  </data>
+  <data name="Full Name:" xml:space="preserve">
+    <value>Full Name:</value>
+  </data>
+  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+    <value>Passwords Entered Do Not Match</value>
+  </data>
+  <data name="Photo:" xml:space="preserve">
+    <value>Photo:</value>
   </data>
   <data name="From" xml:space="preserve">
     <value>From</value>
@@ -143,6 +164,21 @@
   </data>
   <data name="Sent Items" xml:space="preserve">
     <value>Sent Items</value>
+  </data>
+  <data name="Current User Is Not Logged In" xml:space="preserve">
+    <value>Current User Is Not Logged In</value>
+  </data>
+  <data name="Error Loading User Profile" xml:space="preserve">
+    <value>Error Loading User Profile</value>
+  </data>
+  <data name="User Profile Updated Successfully" xml:space="preserve">
+    <value>User Profile Updated Successfully</value>
+  </data>
+  <data name="You Must Provide A Username and Email Address As Well As All Required Profile Information" xml:space="preserve">
+    <value>You Must Provide A Username and Email Address As Well As All Required Profile Information</value>
+  </data>
+  <data name="Error Saving User Profile" xml:space="preserve">
+    <value>Error Saving User Profile</value>
   </data>
   <data name="SendNotification.Text" xml:space="preserve">
     <value>Send Notification</value>

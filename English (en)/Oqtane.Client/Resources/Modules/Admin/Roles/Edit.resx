@@ -147,4 +147,10 @@
   <data name="AutoAssigned.Text" xml:space="preserve">
     <value>Auto Assigned?</value>
   </data>
+  <data name="Error Loading Role" xml:space="preserve">
+    <value>Error Loading Role</value>
+  </data>
+  <data name="Error Saving Role" xml:space="preserve">
+    <value>Error Saving Role</value>
+  </data>
 </root>

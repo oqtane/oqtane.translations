@@ -126,10 +126,19 @@
   <data name="Status" xml:space="preserve">
     <value>Status</value>
   </data>
+  <data name="Executing" xml:space="preserve">
+    <value>Executing</value>
+  </data>
   <data name="Started" xml:space="preserve">
     <value>Started</value>
   </data>
   <data name="Finished" xml:space="preserve">
     <value>Finished</value>
+  </data>
+  <data name="Succeeded" xml:space="preserve">
+    <value>Succeeded</value>
+  </data>
+  <data name="Failed" xml:space="preserve">
+    <value>Failed</value>
   </data>
 </root>

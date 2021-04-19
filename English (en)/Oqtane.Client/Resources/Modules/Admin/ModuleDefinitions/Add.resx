@@ -135,6 +135,18 @@
   <data name="Install" xml:space="preserve">
     <value>Install</value>
   </data>
+  <data name="Error Loading Packages" xml:space="preserve">
+    <value>Error Loading Packages</value>
+  </data>
+  <data name="Module Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
+    <value>Module Installed Successfully. You Must &lt;a href=\"{0}\"&gt;Restart&lt;/a&gt; Your Application To Apply These Changes.</value>
+  </data>
+  <data name="Modules Downloaded Successfully. Click Install To Complete Installation." xml:space="preserve">
+    <value>Modules Downloaded Successfully. Click Install To Complete Installation.</value>
+  </data>
+  <data name="Error Downloading Module" xml:space="preserve">
+    <value>Error Downloading Module</value>
+  </data>
   <data name="Module.HelpText" xml:space="preserve">
     <value>Upload one or more module packages. Once they are uploaded click Install to complete the installation.</value>
   </data>

@@ -126,6 +126,12 @@
   <data name="Send" xml:space="preserve">
     <value>Send</value>
   </data>
+  <data name="User Does Not Exist. Please Verify That The Username Provided Is Correct." xml:space="preserve">
+    <value>User Does Not Exist. Please Verify That The Username Provided Is Correct.</value>
+  </data>
+  <data name="Error Adding Notification" xml:space="preserve">
+    <value>Error Adding Notification</value>
+  </data>
   <data name="To.HelpText" xml:space="preserve">
     <value>Enter the username you wish to send a message to</value>
   </data>

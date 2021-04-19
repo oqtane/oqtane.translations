@@ -123,14 +123,35 @@
   <data name="Cancel" xml:space="preserve">
     <value>Cancel</value>
   </data>
-  <data name="Name.Text" xml:space="preserve">
-    <value>Name: </value>
-  </data>
   <data name="Yes" xml:space="preserve">
     <value>Yes</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>No</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Name: </value>
+  </data>
+  <data name="Minute(s)" xml:space="preserve">
+    <value>Minute(s)</value>
+  </data>
+  <data name="Hour(s)" xml:space="preserve">
+    <value>Hour(s)</value>
+  </data>
+  <data name="Day(s)" xml:space="preserve">
+    <value>Day(s)</value>
+  </data>
+  <data name="Month(s)" xml:space="preserve">
+    <value>Month(s)</value>
+  </data>
+  <data name="Error Loading Job" xml:space="preserve">
+    <value>Error Loading Job</value>
+  </data>
+  <data name="Error Updating Job" xml:space="preserve">
+    <value>Error Updating Job</value>
+  </data>
+  <data name="You Must Provide The Job Name, Type, Frequency, and Retention" xml:space="preserve">
+    <value>You Must Provide The Job Name, Type, Frequency, and Retention</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Enter the job name</value>
