@@ -128,6 +128,7 @@
   </data>
   <data name="DeleteTheme.Header" xml:space="preserve">
     <value>السمة الإفتراضية</value>
+  </data>
   <data name="Are You Sure You Wish To Delete The {0} Theme?" xml:space="preserve">
     <value>هل تريد حقاً حذف السمة {0}؟</value>
   </data>
