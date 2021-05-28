@@ -197,6 +197,7 @@
   </data>
   <data name="Personalizable.HelpText" xml:space="preserve">
     <value>حدد ما إذا كنت ترغب في تمكين المستخدمين من تخصيص هذه الصفحة باستخدام المحتوى الخاص بهم</value>
+  </data>
   <data name="Navigation.Text" xml:space="preserve">
     <value>تنقل؟ </value>
   </data>

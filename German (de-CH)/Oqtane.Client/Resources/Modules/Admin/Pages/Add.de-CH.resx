@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+            Microsoft ResX Schema 
+
+            Version 2.0
+
+            The primary goals of this format is to allow a simple XML format 
+            that is mostly human readable. The generation and parsing of the 
+            various data types are done through the TypeConverter classes 
+            associated with the data types.
+
+            Example:
+
+            ... ado.net/XML headers & schema ...
+            <resheader name="resmimetype">text/microsoft-resx</resheader>
+            <resheader name="version">2.0</resheader>
+            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+                <value>[base64 mime encoded serialized .NET Framework object]</value>
+            </data>
+            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+                <comment>This is a comment</comment>
+            </data>
+
+            There are any number of "resheader" rows that contain simple 
+            name/value pairs.
+
+            Each data row contains a name, and value. The row also contains a 
+            type or mimetype. Type corresponds to a .NET class that support 
+            text/value conversion through the TypeConverter architecture. 
+            Classes that don't support this are serialized and stored with the 
+            mimetype set.
+
+            The mimetype is used for serialized objects, and tells the 
+            ResXResourceReader how to depersist the object. This is currently not 
+            extensible. For a given mimetype the value must be set accordingly:
+
+            Note - application/x-microsoft.net.object.binary.base64 is the format 
+            that the ResXResourceWriter will generate, however the reader can 
+            read any of the formats listed below.
+
+            mimetype: application/x-microsoft.net.object.binary.base64
+            value   : The object must be serialized with 
+                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+                    : and then encoded with base64 encoding.
+
+            mimetype: application/x-microsoft.net.object.soap.base64
+            value   : The object must be serialized with 
+                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+                    : and then encoded with base64 encoding.
+
+            mimetype: application/x-microsoft.net.object.bytearray.base64
+            value   : The object must be serialized into a byte array 
+                    : using a System.ComponentModel.TypeConverter
+                    : and then encoded with base64 encoding.
+            -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Save" xml:space="preserve">
+    <value>Speichern</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Nein</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Name: </value>
+  </data>
+  <data name="Parent.Text" xml:space="preserve">
+    <value>Übergeordnete Seite:</value>
+  </data>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Titel:</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="Site Root" xml:space="preserve">
+    <value>Webseiten-Wurzel</value>
+  </data>
+  <data name="At Beginning" xml:space="preserve">
+    <value>Am Anfang</value>
+  </data>
+  <data name="Before" xml:space="preserve">
+    <value>Vor</value>
+  </data>
+  <data name="After" xml:space="preserve">
+    <value>Nach</value>
+  </data>
+  <data name="At End" xml:space="preserve">
+    <value>Am Ende</value>
+  </data>
+  <data name="Select Page" xml:space="preserve">
+    <value>Seite auswählen</value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>Container auswählen</value>
+  </data>
+  <data name="Error Initializing Page" xml:space="preserve">
+    <value>Fehler beim initializieren der Seite</value>
+  </data>
+  <data name="Error Loading Child Pages For Parent" xml:space="preserve">
+    <value>Fehler beim laden der Unterseiten für die übergeordnete Seite</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>Fehler beim laden der Pane Layouts für das Theme</value>
+  </data>
+  <data name="A page with path {0} already exists for the selected parent page. The page path needs to be unique for the selected parent." xml:space="preserve">
+    <value>Eine Seite mit dem Pfad {0} existiert bereits for die ausgewählt übergeordnete Seite. Der Seitenpfad für die ausgewählte übergeordnete Seite muss eindeutig sein.</value>
+  </data>
+  <data name="You Must Provide Page Name, Theme, and Container" xml:space="preserve">
+    <value>Sie müssen den Seitennamen, das Theme sowie einen Container angeben.</value>
+  </data>
+  <data name="Error Saving Page" xml:space="preserve">
+    <value>Fehler beim speichern der Seite</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Geben Sie den Seitennamen ein</value>
+  </data>
+  <data name="Parent.HelpText" xml:space="preserve">
+    <value>Wählen Sie die übergeordnete Seite in der Webseiten-Hierarchy aus</value>
+  </data>
+  <data name="Insert.HelpText" xml:space="preserve">
+    <value>Wählen Sie den Ort aus an welchem die Seite in Relation zu den anderen Seiten eingefügt werden soll</value>
+  </data>
+  <data name="Navigation.HelpText" xml:space="preserve">
+    <value>Gibt an ob die Seite in der Seitennavigation enthalten ist oder ob diese versteckt wird</value>
+  </data>
+  <data name="UrlPath.HelpText" xml:space="preserve">
+    <value>Optional: Geben Sie einen Url-Pfad für diese Seite (z.B. home) ein. Wenn Sie keinen Url-Pfad angeben wird der Seitenname verwendet.</value>
+  </data>
+  <data name="Redirect.HelpText" xml:space="preserve">
+    <value>Optional: Geben Sie eine Url an auf welche eine Weiterleitung erfolgt wenn der Benutzer auf diese Seite navigiert</value>
+  </data>
+  <data name="Title.HelpText" xml:space="preserve">
+    <value>Optional: Geben Sie den Titel für diese Seite ein. Wenn Sie keinen Titel angeben wird der Seitenname als Titel verwendet.</value>
+  </data>
+  <data name="Theme.HelpText" xml:space="preserve">
+    <value>Wählen Sie das Theme für diese Seite aus</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>Wählen Sie den Standardcontainer für diese Seite aus</value>
+  </data>
+  <data name="Icon.HelpText" xml:space="preserve">
+    <value>Optional: Geben Sie einen Icon Klassennamen für diese Seite an. Das Icon wird in der Seitennavigation dargestellt</value>
+  </data>
+  <data name="Personalizable.HelpText" xml:space="preserve">
+    <value>Wählen Sie aus ob der Benutzer in der Lage ist diese Seite mit seinen eigenen Inhalten zu personalisieren</value>
+  </data>
+  <data name="Insert.Text" xml:space="preserve">
+    <value>Einfügen:</value>
+  </data>
+  <data name="Navigation.Text" xml:space="preserve">
+    <value>Navigation? </value>
+  </data>
+  <data name="UrlPath.Text" xml:space="preserve">
+    <value>Url-Pfad:</value>
+  </data>
+  <data name="Redirect.Text" xml:space="preserve">
+    <value>Weiterleitung: </value>
+  </data>
+  <data name="Theme.Text" xml:space="preserve">
+    <value>Theme: </value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>Standardcontainer:</value>
+  </data>
+  <data name="Icon.Text" xml:space="preserve">
+    <value>Icon: </value>
+  </data>
+  <data name="Personalizable.Text" xml:space="preserve">
+    <value>Personalisierbar?</value>
+  </data>
+  <data name="Appearance.Name" xml:space="preserve">
+    <value>Erscheinungsbild</value>
+  </data>
+</root>

@@ -137,6 +137,7 @@
   </data>
   <data name="Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity" xml:space="preserve">
     <value>يرجى ملاحظة أن التسجيل يتطلب عنوان بريد إلكتروني صالح من أجل التحقق من هويتك</value>
+  </data>
   <data name="Confirm Password:" xml:space="preserve">
     <value>تأكيد كلمة المرور:</value>
   </data>
