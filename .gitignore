@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+*.user
+artifacts/
+msbuild.binlog
+.vscode/
+*.binlog
+*.nupkg
+*.zip
+
+*.idea
