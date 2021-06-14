@@ -26,4 +26,3 @@ As we know Oqatane Framework is using two runtimes `Server` and `WebAssembly`, t
 
 Last step you need is to ensure that you include the culture name in the resx file. For example in Frensh translation it should be `{ResourceName}.fr-FR.resx`, this way Oqtane Framework will recognize you added resources
 
-![Instructions](https://github.com/oqtane/oqtane.translations/blob/master/instructions.png?raw=true "Instructions")
