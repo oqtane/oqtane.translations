@@ -20,7 +20,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\..\Oqtane.Server\bin\Release\net5.0\de-DE\Oqtane.Client.resources.dll" target="lib\net5.0\de-DE" /> 
-    <file src="..\..\..\Oqtane.Server\wwwroot\icon.png" target="" />
+    <file src="..\..\Oqtane.Server\bin\Release\net5.0\de-DE\Oqtane.Client.resources.dll" target="lib\net5.0\de-DE" /> 
+    <file src="..\..\Oqtane.Server\wwwroot\icon.png" target="" />
   </files>
 </package>
