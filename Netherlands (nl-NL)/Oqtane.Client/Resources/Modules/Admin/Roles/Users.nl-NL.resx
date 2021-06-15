@@ -159,4 +159,25 @@
   <data name="EffectiveDate.Text" xml:space="preserve">
     <value>Ingangsdatum:</value>
   </data>
+  <data name="Error Loading Users" xml:space="preserve">
+    <value>Fout bij het laden van gebruikers</value>
+  </data>
+  <data name="Error Loading User Roles" xml:space="preserve">
+    <value>Fout bij laden van gebruikersrollen</value>
+  </data>
+  <data name="User Assigned To Role" xml:space="preserve">
+    <value>Gebruiker toegewezen aan rol</value>
+  </data>
+  <data name="You Must Select A User" xml:space="preserve">
+    <value>Je moet een gebruiker selecteren</value>
+  </data>
+  <data name="Error Saving User Roles" xml:space="preserve">
+    <value>Fout bij opslaan van gebruikersrollen</value>
+  </data>
+  <data name="User Removed From Role" xml:space="preserve">
+    <value>Gebruiker verwijderd uit rol</value>
+  </data>
+  <data name="Error Removing User From Role" xml:space="preserve">
+    <value>Fout bij verwijderen van gebruiker uit rol</value>
+  </data>
 </root>

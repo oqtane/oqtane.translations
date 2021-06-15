@@ -156,4 +156,40 @@
   <data name="DeleteNotification.Header" xml:space="preserve">
     <value>Melding verwijderen</value>
   </data>
+  <data name="Username:" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="Confirm Password:" xml:space="preserve">
+    <value>Bevestig wachtwoord:</value>
+  </data>
+  <data name="Full Name:" xml:space="preserve">
+    <value>Voor-en achternaam:</value>
+  </data>
+  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+    <value>Ingevoerde wachtwoorden komen niet overeen</value>
+  </data>
+  <data name="Photo:" xml:space="preserve">
+    <value>Foto:</value>
+  </data>
+  <data name="Current User Is Not Logged In" xml:space="preserve">
+    <value>Huidige gebruiker is niet ingelogd</value>
+  </data>
+  <data name="Error Loading User Profile" xml:space="preserve">
+    <value>Fout bij laden van gebruikersprofiel</value>
+  </data>
+  <data name="User Profile Updated Successfully" xml:space="preserve">
+    <value>Gebruikersprofiel succesvol bijgewerkt</value>
+  </data>
+  <data name="You Must Provide A Username and Email Address As Well As All Required Profile Information" xml:space="preserve">
+    <value>Je moet een gebruikersnaam en e-mailadres opgeven, evenals alle vereiste profielinformatie</value>
+  </data>
+  <data name="Error Saving User Profile" xml:space="preserve">
+    <value>Fout bij opslaan gebruikersprofiel</value>
+  </data>
 </root>

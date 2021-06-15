@@ -138,4 +138,16 @@
   <data name="Install" xml:space="preserve">
     <value>Installeren</value>
   </data>
+  <data name="Error Loading Packages" xml:space="preserve">
+    <value>Fout bij het laden van pakketten</value>
+  </data>
+  <data name="Module Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
+    <value>Module succesvol geïnstalleerd. Je moet uw toepassing &lt;a href=\"{0}\"&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
+  </data>
+  <data name="Modules Downloaded Successfully. Click Install To Complete Installation." xml:space="preserve">
+    <value>Modules succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
+  </data>
+  <data name="Error Downloading Module" xml:space="preserve">
+    <value>Fout bij downloaden van module</value>
+  </data>
 </root>

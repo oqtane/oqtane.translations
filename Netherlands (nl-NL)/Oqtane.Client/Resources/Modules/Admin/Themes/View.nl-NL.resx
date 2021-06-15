@@ -162,4 +162,7 @@
   <data name="Contact.HelpText" xml:space="preserve">
     <value>Het aanspreekpunt voor het thema</value>
   </data>
+  <data name="Error Loading Theme" xml:space="preserve">
+    <value>Fout bij laden van thema</value>
+  </data>
 </root>

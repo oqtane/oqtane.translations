@@ -132,9 +132,6 @@
   <data name="Save" xml:space="preserve">
     <value>Opslaan</value>
   </data>
-  <data name="Select Layout" xml:space="preserve">
-    <value>Selecteer Layout</value>
-  </data>
   <data name="Yes" xml:space="preserve">
     <value>Ja</value>
   </data>
@@ -165,12 +162,6 @@
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Selecteer het standaardthema voor de website</value>
   </data>
-  <data name="DefaultLayout.Text" xml:space="preserve">
-    <value>Standaard layout:</value>
-  </data>
-  <data name="DefaultLayout.HelpText" xml:space="preserve">
-    <value>Selecteer de standaardlay-out voor de site</value>
-  </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
     <value>Selecteer de standaardcontainer voor de site</value>
   </data>
@@ -194,5 +185,17 @@
   </data>
   <data name="Aliases.HelpText" xml:space="preserve">
     <value>Voer de alias voor de server in</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>Fout bij het laden van deelvensterlay-outs voor thema</value>
+  </data>
+  <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
+    <value>Een opgegeven alias is al gebruikt voor een andere site</value>
+  </data>
+  <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
+    <value>Je moet een sitenaam, alias en standaardthema/container opgeven</value>
+  </data>
+  <data name="Error Saving Site" xml:space="preserve">
+    <value>Fout bij opslaan van site</value>
   </data>
 </root>

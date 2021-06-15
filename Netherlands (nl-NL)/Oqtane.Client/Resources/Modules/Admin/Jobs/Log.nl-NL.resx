@@ -132,4 +132,13 @@
   <data name="Finished" xml:space="preserve">
     <value>Afgewerkt</value>
   </data>
+  <data name="Executing" xml:space="preserve">
+    <value>uitvoeren</value>
+  </data>
+  <data name="Succeeded" xml:space="preserve">
+    <value>Geslaagd</value>
+  </data>
+  <data name="Failed" xml:space="preserve">
+    <value>mislukt</value>
+  </data>
 </root>

@@ -132,9 +132,6 @@
   <data name="Save" xml:space="preserve">
     <value>Opslaan</value>
   </data>
-  <data name="Select Layout" xml:space="preserve">
-    <value>Selecteer Layout</value>
-  </data>
   <data name="True" xml:space="preserve">
     <value>Klopt</value>
   </data>
@@ -207,12 +204,6 @@
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Selecteer het standaardthema voor de website</value>
   </data>
-  <data name="DefaultLayout.Text" xml:space="preserve">
-    <value>Standaard layout:</value>
-  </data>
-  <data name="DefaultLayout.HelpText" xml:space="preserve">
-    <value>Selecteer de standaardlay-out voor de site</value>
-  </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
     <value>Selecteer de standaardcontainer voor de site</value>
   </data>
@@ -260,5 +251,23 @@
   </data>
   <data name="AdminContainer.HelpText" xml:space="preserve">
     <value>Selecteer de admin-container voor de site</value>
+  </data>
+  <data name="Error Loading Containers For Theme" xml:space="preserve">
+    <value>Fout bij laden van containers voor thema</value>
+  </data>
+  <data name="You Must Specify A Server And Database" xml:space="preserve">
+    <value>Je moet een server en database opgeven</value>
+  </data>
+  <data name="Invalid Host Password" xml:space="preserve">
+    <value>Ongeldig hostwachtwoord</value>
+  </data>
+  <data name="Tenant Name Is Missing Or Already Exists" xml:space="preserve">
+    <value>Naam huurder ontbreekt of bestaat al</value>
+  </data>
+  <data name="{0} Already Used For Another Site&quot;, string.Join(&quot;, " xml:space="preserve">
+    <value>{0} Reeds gebruikt voor een andere site", string.Join(",</value>
+  </data>
+  <data name="You Must Provide A Tenant, Site Name, Alias, Default Theme/Container, And Site Template" xml:space="preserve">
+    <value>Je moet een huurder, sitenaam, alias, standaardthema/container en sitesjabloon opgeven</value>
   </data>
 </root>

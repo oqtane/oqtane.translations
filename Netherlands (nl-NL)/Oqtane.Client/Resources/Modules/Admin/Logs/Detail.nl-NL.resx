@@ -204,4 +204,7 @@
   <data name="Category.HelpText" xml:space="preserve">
     <value>De categorieën die zijn getroffen</value>
   </data>
+  <data name="Error Loading Log" xml:space="preserve">
+    <value>Fout bij laden van logboek</value>
+  </data>
 </root>

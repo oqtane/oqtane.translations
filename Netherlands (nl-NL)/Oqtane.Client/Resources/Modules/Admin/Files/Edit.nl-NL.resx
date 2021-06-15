@@ -150,4 +150,28 @@
   <data name="DeleteFolder.Header" xml:space="preserve">
     <value>Verwijder map</value>
   </data>
+  <data name="Error Loading Folder" xml:space="preserve">
+    <value>Fout bij laden van map</value>
+  </data>
+  <data name="Folders Must Have A Parent And A Name" xml:space="preserve">
+    <value>Mappen moeten een ouder en een naam hebben</value>
+  </data>
+  <data name="Folder Name Not Valid." xml:space="preserve">
+    <value>Mapnaam niet geldig.</value>
+  </data>
+  <data name="An Error Was Encountered Saving The Folder" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het opslaan van de map</value>
+  </data>
+  <data name="Error Saving Folder" xml:space="preserve">
+    <value>Fout bij opslaan map</value>
+  </data>
+  <data name="Folder Has Files And Cannot Be Deleted" xml:space="preserve">
+    <value>Map bevat bestanden en kan niet worden verwijderd</value>
+  </data>
+  <data name="Folder Has Subfolders And Cannot Be Deleted" xml:space="preserve">
+    <value>Map heeft submappen en kan niet worden verwijderd</value>
+  </data>
+  <data name="Error Deleting Folder" xml:space="preserve">
+    <value>Fout bij verwijderen van map Fold</value>
+  </data>
 </root>

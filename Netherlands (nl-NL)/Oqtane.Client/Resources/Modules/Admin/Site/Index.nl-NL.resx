@@ -129,9 +129,6 @@
   <data name="Save" xml:space="preserve">
     <value>Opslaan</value>
   </data>
-  <data name="Select Layout" xml:space="preserve">
-    <value>Selecteer Layout</value>
-  </data>
   <data name="Yes" xml:space="preserve">
     <value>Ja</value>
   </data>
@@ -146,12 +143,6 @@
   </data>
   <data name="Tenant.HelpText" xml:space="preserve">
     <value>Voer de huurder voor de site in</value>
-  </data>
-  <data name="SMTPSettings.Name" xml:space="preserve">
-    <value>SMTP</value>
-  </data>
-  <data name="SMTPSettings.Heading" xml:space="preserve">
-    <value>SMTP-instellingen</value>
   </data>
   <data name="SmtpPassword.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
@@ -195,9 +186,6 @@
   <data name="Port.HelpText" xml:space="preserve">
     <value>Voer het poortnummer voor de SMTP-server in. Let op: dit veld is verplicht als u een hostnaam opgeeft.</value>
   </data>
-  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In the Scheduled Jobs" xml:space="preserve">
-    <value>Houd er rekening mee dat SMTP vereist dat de meldingstaak is ingeschakeld in de geplande taken</value>
-  </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Voer de sitenaam in</value>
   </data>
@@ -237,12 +225,6 @@
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Selecteer het standaardthema van de site</value>
   </data>
-  <data name="DefaultLayout.Text" xml:space="preserve">
-    <value>Standaard layout:</value>
-  </data>
-  <data name="DefaultLayout.HelpText" xml:space="preserve">
-    <value>Selecteer de standaardlay-out van de site</value>
-  </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
     <value>Selecteer de standaardcontainer voor de site</value>
   </data>
@@ -266,5 +248,38 @@
   </data>
   <data name="Aliases.HelpText" xml:space="preserve">
     <value>Voer de alias voor de server in</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>Fout bij het laden van deelvensterlay-outs voor thema</value>
+  </data>
+  <data name="Appearance.Name" xml:space="preserve">
+    <value>Uiterlijk</value>
+  </data>
+  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs" xml:space="preserve">
+    <value>Houd er rekening mee dat SMTP vereist dat de meldingstaak is ingeschakeld in geplande taken</value>
+  </data>
+  <data name="Test SMTP Configuration" xml:space="preserve">
+    <value>SMTP-configuratie testen</value>
+  </data>
+  <data name="Site Settings Saved" xml:space="preserve">
+    <value>Site-instellingen opgeslagen</value>
+  </data>
+  <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
+    <value>Een opgegeven alias is al gebruikt voor een andere site</value>
+  </data>
+  <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
+    <value>Je moet een sitenaam, alias en standaardthema/container opgeven</value>
+  </data>
+  <data name="Error Saving Site" xml:space="preserve">
+    <value>Fout bij opslaan van site</value>
+  </data>
+  <data name="SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details." xml:space="preserve">
+    <value>SMTP-instellingen zijn opgeslagen en er is een bericht verzonden naar het e-mailadres dat aan uw gebruikersaccount is gekoppeld... Een paar minuten wachten op levering. Als je de e-mail niet ontvangt, controleer dan de meldingstaak in geplande taken voor eventuele logboekdetails.</value>
+  </data>
+  <data name="Error Testing SMTP Configuration" xml:space="preserve">
+    <value>Fout bij testen van SMTP-configuratie</value>
+  </data>
+  <data name="You Must Specify The SMTP Host, Port, And Sender" xml:space="preserve">
+    <value>Je moet de SMTP-host, poort en afzender opgeven</value>
   </data>
 </root>

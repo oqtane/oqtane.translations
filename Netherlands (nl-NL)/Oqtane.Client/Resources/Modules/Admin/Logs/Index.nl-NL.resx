@@ -177,4 +177,25 @@
   <data name="All Functions" xml:space="preserve">
     <value>Alle functies</value>
   </data>
+  <data name="Level.Text" xml:space="preserve">
+    <value>Niveau:</value>
+  </data>
+  <data name="Function.Text" xml:space="preserve">
+    <value>Functie:</value>
+  </data>
+  <data name="Error Loading Logs" xml:space="preserve">
+    <value>Fout bij het laden van logboeken</value>
+  </data>
+  <data name="Level.HelpText" xml:space="preserve">
+    <value>Selecteer het logboekniveau voor gebeurtenislogboekitems</value>
+  </data>
+  <data name="Function.HelpText" xml:space="preserve">
+    <value>Selecteer de functie voor gebeurtenislogboekitems</value>
+  </data>
+  <data name="Rows.HelpText" xml:space="preserve">
+    <value>Selecteer het maximale aantal gebeurtenislogboekitems dat je wil bekijken. Houd er rekening mee dat als je meer dan 10 items kiest, de informatie wordt opgesplitst in pagina's.</value>
+  </data>
+  <data name="Rows.Text" xml:space="preserve">
+    <value>Maximale artikelen:</value>
+  </data>
 </root>

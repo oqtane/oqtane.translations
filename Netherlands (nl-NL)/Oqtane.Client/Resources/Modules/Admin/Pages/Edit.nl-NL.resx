@@ -192,20 +192,8 @@
   <data name="Name.HelpText" xml:space="preserve">
     <value>Voer de paginanaam in</value>
   </data>
-  <data name="ModuleSettings.Name" xml:space="preserve">
-    <value>Instellingen</value>
-  </data>
   <data name="Maintain Current Location" xml:space="preserve">
     <value>Behoud huidige locatie</value>
-  </data>
-  <data name="Layout.Text" xml:space="preserve">
-    <value>Indeling:</value>
-  </data>
-  <data name="Layout.HelpText" xml:space="preserve">
-    <value>Selecteer een lay-out voor de pagina (als het geselecteerde thema dit ondersteunt)</value>
-  </data>
-  <data name="Inherit From Site" xml:space="preserve">
-    <value>Overnemen van site</value>
   </data>
   <data name="Icon.Text" xml:space="preserve">
     <value>Icoon:</value>
@@ -228,7 +216,31 @@
   <data name="Move.HelpText" xml:space="preserve">
     <value>Selecteer de locatie waar u de pagina wilt verplaatsen ten opzichte van andere pagina's</value>
   </data>
-  <data name="Move:" xml:space="preserve">
-    <value>Verplaats:</value>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>Selecteer Container</value>
+  </data>
+  <data name="Error Loading Child Pages For Parent" xml:space="preserve">
+    <value>Fout bij het laden van onderliggende pagina's voor ouder</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>Fout bij het laden van deelvensterlay-outs voor thema</value>
+  </data>
+  <data name="A page with path {0} already exists for the selected parent page. The page path needs to be unique for the selected parent." xml:space="preserve">
+    <value>Er bestaat al een pagina met pad {0} voor de geselecteerde bovenliggende pagina. Het paginapad moet uniek zijn voor de geselecteerde ouder.</value>
+  </data>
+  <data name="You Must Provide Page Name, Theme, and Container" xml:space="preserve">
+    <value>Je moet een paginanaam, thema en container opgeven</value>
+  </data>
+  <data name="Error Saving Page" xml:space="preserve">
+    <value>Fout bij opslaan van pagina</value>
+  </data>
+  <data name="Error Loading Page" xml:space="preserve">
+    <value>Fout bij laden van pagina</value>
+  </data>
+  <data name="Move.Text" xml:space="preserve">
+    <value>Actie:</value>
   </data>
 </root>

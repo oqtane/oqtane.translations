@@ -123,13 +123,16 @@
   <data name="Name" xml:space="preserve">
     <value>Naam</value>
   </data>
-  <data name="DeleteRole.Message" xml:space="preserve">
-    <value>Weet u zeker dat u de rol {0} wilt verwijderen?</value>
-  </data>
   <data name="DeleteRole.Header" xml:space="preserve">
     <value>Rol verwijderen</value>
   </data>
   <data name="AddRole.Text" xml:space="preserve">
     <value>Rol toevoegen</value>
+  </data>
+  <data name="Are You Sure You Wish To Delete The {0} Role?" xml:space="preserve">
+    <value>Weet je zeker dat je de rol {0} wilt verwijderen?</value>
+  </data>
+  <data name="Error Deleting Role" xml:space="preserve">
+    <value>Fout bij verwijderen van rol</value>
   </data>
 </root>

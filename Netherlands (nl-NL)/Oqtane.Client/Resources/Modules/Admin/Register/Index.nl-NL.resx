@@ -132,4 +132,34 @@
   <data name="Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity" xml:space="preserve">
     <value>Houd er rekening mee dat registratie een geldig e-mailadres vereist om uw identiteit te verifiëren</value>
   </data>
+  <data name="Username:" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="Confirm Password:" xml:space="preserve">
+    <value>Bevestig wachtwoord:</value>
+  </data>
+  <data name="Full Name:" xml:space="preserve">
+    <value>Voor-en achternaam:</value>
+  </data>
+  <data name="User Account Created. Please Check Your Email For Verification Instructions." xml:space="preserve">
+    <value>Gebruikersaccount aangemaakt. Controleer jouw e-mail voor verificatie-instructies.</value>
+  </data>
+  <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
+    <value>Fout bij toevoegen gebruiker. Zorg ervoor dat het wachtwoord voldoet aan de complexiteitsvereisten en dat de gebruikersnaam nog niet in gebruik is.</value>
+  </data>
+  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+    <value>Ingevoerde wachtwoorden komen niet overeen</value>
+  </data>
+  <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
+    <value>Je moet een gebruikersnaam, wachtwoord en e-mailadres opgeven</value>
+  </data>
+  <data name="Error Adding User" xml:space="preserve">
+    <value>Fout bij toevoegen gebruiker</value>
+  </data>
 </root>

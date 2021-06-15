@@ -189,4 +189,10 @@
   <data name="Category.HelpText" xml:space="preserve">
     <value>De categorie van dit profielitem (voor groepering)</value>
   </data>
+  <data name="Error Loading Profile" xml:space="preserve">
+    <value>Fout bij laden van profiel</value>
+  </data>
+  <data name="Error Saving Profile" xml:space="preserve">
+    <value>Fout bij opslaan van profiel</value>
+  </data>
 </root>

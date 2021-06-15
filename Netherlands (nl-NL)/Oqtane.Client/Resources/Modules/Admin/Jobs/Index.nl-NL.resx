@@ -147,4 +147,34 @@
   <data name="DeleteJob.Header" xml:space="preserve">
     <value>Job verwijderen</value>
   </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Gehandicapt</value>
+  </data>
+  <data name="Executing" xml:space="preserve">
+    <value>uitvoeren</value>
+  </data>
+  <data name="Idle" xml:space="preserve">
+    <value>inactief</value>
+  </data>
+  <data name="Every" xml:space="preserve">
+    <value>elke</value>
+  </data>
+  <data name="Minute" xml:space="preserve">
+    <value>Minuut</value>
+  </data>
+  <data name="Hour" xml:space="preserve">
+    <value>Uur</value>
+  </data>
+  <data name="Day" xml:space="preserve">
+    <value>Dag</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>Maand</value>
+  </data>
+  <data name="s" xml:space="preserve">
+    <value>zo</value>
+  </data>
+  <data name="Error Deleting Job" xml:space="preserve">
+    <value>Fout bij verwijderen taak</value>
+  </data>
 </root>

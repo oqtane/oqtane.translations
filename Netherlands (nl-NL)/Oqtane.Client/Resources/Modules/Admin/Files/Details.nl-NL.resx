@@ -141,4 +141,13 @@
   <data name="Folder.HelpText" xml:space="preserve">
     <value>De map waarin het bestand zich bevindt</value>
   </data>
+  <data name="Error Loading File" xml:space="preserve">
+    <value>Fout bij laden van bestand</value>
+  </data>
+  <data name="File Name Not Valid" xml:space="preserve">
+    <value>Bestandsnaam niet geldig</value>
+  </data>
+  <data name="Error Saving File" xml:space="preserve">
+    <value>Fout bij opslaan van bestand</value>
+  </data>
 </root>
