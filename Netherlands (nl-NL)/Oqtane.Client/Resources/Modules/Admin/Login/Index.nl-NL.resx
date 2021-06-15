@@ -135,4 +135,16 @@
   <data name="Username:" xml:space="preserve">
     <value>Gebruikersnaam:</value>
   </data>
+  <data name="User Account Verified Successfully. You Can Now Login With Your Username And Password Below." xml:space="preserve">
+    <value>Gebruikersaccount succesvol geverifieerd. U kunt nu inloggen met uw gebruikersnaam en wachtwoord hieronder.</value>
+  </data>
+  <data name="User Account Could Not Be Verified. Please Contact Your Administrator For Further Instructions." xml:space="preserve">
+    <value>Gebruikersaccount kan niet worden geverifieerd. Neem contact op met uw beheerder voor verdere instructies.</value>
+  </data>
+  <data name="Login Failed. Please Remember That Passwords Are Case Sensitive And User Accounts Require Verification When They Are Initially Created So You May Wish To Check Your Email." xml:space="preserve">
+    <value>Aanmelden mislukt. Houd er rekening mee dat wachtwoorden hoofdlettergevoelig zijn en dat gebruikersaccounts verificatie vereisen wanneer ze in eerste instantie worden gemaakt, zodat je wellicht jouw e-mail wilt controleren.</value>
+  </data>
+  <data name="Please Provide Your Username And Password" xml:space="preserve">
+    <value>Geef jouw gebruikersnaam en wachtwoord op</value>
+  </data>
 </root>

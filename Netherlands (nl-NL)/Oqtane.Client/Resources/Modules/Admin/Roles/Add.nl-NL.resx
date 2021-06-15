@@ -147,4 +147,7 @@
   <data name="AutoAssigned.HelpText" xml:space="preserve">
     <value>Geeft aan of nieuwe gebruikers automatisch aan deze rol worden toegewezen</value>
   </data>
+  <data name="Error Adding Role" xml:space="preserve">
+    <value>Fout bij toevoegen van rol</value>
+  </data>
 </root>

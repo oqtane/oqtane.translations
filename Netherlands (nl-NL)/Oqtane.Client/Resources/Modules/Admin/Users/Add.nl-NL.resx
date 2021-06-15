@@ -126,4 +126,34 @@
   <data name="Identity.Name" xml:space="preserve">
     <value>Identiteit</value>
   </data>
+  <data name="Username:" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
+  <data name="Password:" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="Confirm Password:" xml:space="preserve">
+    <value>Bevestig wachtwoord:</value>
+  </data>
+  <data name="Full Name:" xml:space="preserve">
+    <value>Voor-en achternaam:</value>
+  </data>
+  <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
+    <value>Fout bij toevoegen gebruiker. Zorg ervoor dat het wachtwoord voldoet aan de complexiteitsvereisten en dat de gebruikersnaam nog niet in gebruik is.</value>
+  </data>
+  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+    <value>Ingevoerde wachtwoorden komen niet overeen</value>
+  </data>
+  <data name="Error Adding User" xml:space="preserve">
+    <value>Fout bij toevoegen gebruiker</value>
+  </data>
+  <data name="Error Loading User Profile" xml:space="preserve">
+    <value>Fout bij laden van gebruikersprofiel</value>
+  </data>
+  <data name="You Must Provide A Username, Password, Email Address And All Required Profile Information" xml:space="preserve">
+    <value>Je moet een gebruikersnaam, wachtwoord, e-mailadres en alle vereiste profielinformatie opgeven</value>
+  </data>
 </root>

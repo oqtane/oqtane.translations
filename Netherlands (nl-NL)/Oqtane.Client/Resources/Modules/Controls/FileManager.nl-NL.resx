@@ -129,4 +129,22 @@
   <data name="Select File" xml:space="preserve">
     <value>Selecteer bestand</value>
   </data>
+  <data name="Error Loading Files" xml:space="preserve">
+    <value>Fout bij het laden van bestanden</value>
+  </data>
+  <data name="File Upload Succeeded" xml:space="preserve">
+    <value>Bestandsupload geslaagd</value>
+  </data>
+  <data name="File Upload Failed" xml:space="preserve">
+    <value>Bestand uploaden mislukt</value>
+  </data>
+  <data name="You Have Not Selected A File To Upload" xml:space="preserve">
+    <value>Je hebt geen bestand geselecteerd om te uploaden</value>
+  </data>
+  <data name="File Deleted" xml:space="preserve">
+    <value>Bestand verwijderd</value>
+  </data>
+  <data name="Error Deleting File" xml:space="preserve">
+    <value>Fout bij verwijderen van bestand</value>
+  </data>
 </root>

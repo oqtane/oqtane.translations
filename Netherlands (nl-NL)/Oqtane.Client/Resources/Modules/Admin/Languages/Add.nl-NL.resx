@@ -144,4 +144,10 @@
   <data name="IsDefault.HelpText" xml:space="preserve">
     <value>Geeft aan of deze taal al dan niet de standaardtaal voor de site is</value>
   </data>
+  <data name="The Only Supported Culture That Has Been Defined Is English" xml:space="preserve">
+    <value>De enige ondersteunde cultuur die is gedefinieerd, is Engels</value>
+  </data>
+  <data name="Error Adding Language" xml:space="preserve">
+    <value>Fout bij toevoegen van taal</value>
+  </data>
 </root>

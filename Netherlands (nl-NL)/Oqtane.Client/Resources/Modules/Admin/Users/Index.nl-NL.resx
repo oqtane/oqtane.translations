@@ -129,10 +129,10 @@
   <data name="DeleteUser.Header" xml:space="preserve">
     <value>Verwijder gebruiker</value>
   </data>
-  <data name="DeleteFile.Message" xml:space="preserve">
-    <value>Weet u zeker dat u {0} wilt verwijderen?</value>
-  </data>
   <data name="AddUser.Text" xml:space="preserve">
     <value>Voeg gebruiker toe</value>
+  </data>
+  <data name="Are You Sure You Wish To Delete {0}?" xml:space="preserve">
+    <value>Weet je zeker dat u {0} wilt verwijderen?</value>
   </data>
 </root>

@@ -132,4 +132,10 @@
   <data name="Framework.HelpText" xml:space="preserve">
     <value>Upload een framework-pakket en selecteer Installeren om de installatie te voltooien</value>
   </data>
+  <data name="Error Executing Upgrade" xml:space="preserve">
+    <value>Fout bij uitvoeren van upgrade</value>
+  </data>
+  <data name="Error Downloading Framework" xml:space="preserve">
+    <value>Fout bij downloaden van Framework</value>
+  </data>
 </root>

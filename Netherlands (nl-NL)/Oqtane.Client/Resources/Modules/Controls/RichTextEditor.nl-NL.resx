@@ -126,4 +126,7 @@
   <data name="Close" xml:space="preserve">
     <value>Dichtbij</value>
   </data>
+  <data name="You Must Select An Image To Insert" xml:space="preserve">
+    <value>Je moet een afbeelding selecteren om in te voegen</value>
+  </data>
 </root>

@@ -129,4 +129,16 @@
   <data name="Content.HelpText" xml:space="preserve">
     <value>Voer de module-inhoud in</value>
   </data>
+  <data name="Content Imported Successfully" xml:space="preserve">
+    <value>Inhoud succesvol geïmporteerd</value>
+  </data>
+  <data name="A Problem Was Encountered Importing Content. Please Ensure The Content Is Formatted Correctly For The Module." xml:space="preserve">
+    <value>Er is een probleem opgetreden bij het importeren van inhoud. Zorg ervoor dat de inhoud correct is geformatteerd voor de module.</value>
+  </data>
+  <data name="Error Importing Module" xml:space="preserve">
+    <value>Fout bij importeren van module</value>
+  </data>
+  <data name="You Must Enter Some Content To Import" xml:space="preserve">
+    <value>Je moet wat inhoud invoeren om te importeren</value>
+  </data>
 </root>

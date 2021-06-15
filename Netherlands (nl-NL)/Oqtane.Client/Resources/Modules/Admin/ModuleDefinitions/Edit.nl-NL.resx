@@ -189,4 +189,10 @@
   <data name="Categories.HelpText" xml:space="preserve">
     <value>Door komma's gescheiden lijst met modulecategorieën</value>
   </data>
+  <data name="Error Loading Module" xml:space="preserve">
+    <value>Fout bij laden van module</value>
+  </data>
+  <data name="Error Saving Module" xml:space="preserve">
+    <value>Fout bij opslaan van module</value>
+  </data>
 </root>

@@ -135,4 +135,10 @@
   <data name="Execute" xml:space="preserve">
     <value>Uitvoeren</value>
   </data>
+  <data name="You Must Select A Tenant And Provide A SQL Query" xml:space="preserve">
+    <value>Je moet een huurder selecteren en een SQL-query opgeven</value>
+  </data>
+  <data name="No Results Returned" xml:space="preserve">
+    <value>Geen resultaten geretourneerd</value>
+  </data>
 </root>

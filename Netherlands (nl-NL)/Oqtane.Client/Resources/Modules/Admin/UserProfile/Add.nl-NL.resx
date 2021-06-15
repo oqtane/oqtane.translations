@@ -141,4 +141,10 @@
   <data name="Message.HelpText" xml:space="preserve">
     <value>Voer het bericht in</value>
   </data>
+  <data name="User Does Not Exist. Please Verify That The Username Provided Is Correct." xml:space="preserve">
+    <value>Gebruiker bestaat niet. Controleer of de opgegeven gebruikersnaam correct is.</value>
+  </data>
+  <data name="Error Adding Notification" xml:space="preserve">
+    <value>Fout bij toevoegen van melding</value>
+  </data>
 </root>

@@ -150,17 +150,11 @@
   <data name="Local Version" xml:space="preserve">
     <value>Lokale versie</value>
   </data>
-  <data name="Internal" xml:space="preserve">
-    <value>Intern</value>
-  </data>
   <data name="FrameworkReference.Text" xml:space="preserve">
     <value>Kaderreferentie:</value>
   </data>
   <data name="FrameworkReference.HelpText" xml:space="preserve">
     <value>Selecteer een referentieversie van het raamwerk</value>
-  </data>
-  <data name="External" xml:space="preserve">
-    <value>Extern</value>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
     <value>Voer een korte beschrijving in voor de module</value>
@@ -170,5 +164,17 @@
   </data>
   <data name="Activate Module" xml:space="preserve">
     <value>Activeer module</value>
+  </data>
+  <data name="Please Note That The Module Creator Is Only Intended To Be Used In A Development Environment" xml:space="preserve">
+    <value>Houd er rekening mee dat de modulemaker alleen bedoeld is om te worden gebruikt in een ontwikkelomgeving Development</value>
+  </data>
+  <data name="Once You Have Compiled The Module And Restarted The Application You Can Activate The Module Below" xml:space="preserve">
+    <value>Nadat je de module hebt gecompileerd en de toepassing opnieuw hebt gestart, kun je de onderstaande module activeren:</value>
+  </data>
+  <data name="The Source Code For Your Module Has Been Created At The Location Specified Below And Must Be Compiled In Order To Make It Functional. Once It Has Been Compiled You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
+    <value>De broncode voor jouw module is gemaakt op de hieronder gespecificeerde locatie en moet worden gecompileerd om deze functioneel te maken. Zodra het is samengesteld, moet je jouw toepassing &lt;a href=\"{0}\"&gt;Herstart&lt;/a&gt; om deze wijzigingen toe te passen.</value>
+  </data>
+  <data name="You Must Provide A Valid Owner Name And Module Name ( ie. No Punctuation Or Spaces And The Values Cannot Be The Same ) And Choose A Template" xml:space="preserve">
+    <value>Je moet een geldige eigenaarsnaam en modulenaam opgeven (dwz geen leestekens of spaties en de waarden kunnen niet hetzelfde zijn) en een sjabloon kiezen</value>
   </data>
 </root>

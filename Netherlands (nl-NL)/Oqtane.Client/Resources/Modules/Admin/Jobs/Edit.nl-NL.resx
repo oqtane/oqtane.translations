@@ -177,4 +177,25 @@
   <data name="Enabled.HelpText" xml:space="preserve">
     <value>Selecteer of u de taak wilt inschakelen of niet</value>
   </data>
+  <data name="Minute(s)" xml:space="preserve">
+    <value>Minuten)</value>
+  </data>
+  <data name="Hour(s)" xml:space="preserve">
+    <value>Uur(en)</value>
+  </data>
+  <data name="Day(s)" xml:space="preserve">
+    <value>Dag(en)</value>
+  </data>
+  <data name="Month(s)" xml:space="preserve">
+    <value>Maanden)</value>
+  </data>
+  <data name="Error Loading Job" xml:space="preserve">
+    <value>Fout bij laden van taak</value>
+  </data>
+  <data name="Error Updating Job" xml:space="preserve">
+    <value>Fout bij updaten van taak</value>
+  </data>
+  <data name="You Must Provide The Job Name, Type, Frequency, and Retention" xml:space="preserve">
+    <value>Je moet de naam, het type, de frequentie en de retentie van de taak opgeven</value>
+  </data>
 </root>
