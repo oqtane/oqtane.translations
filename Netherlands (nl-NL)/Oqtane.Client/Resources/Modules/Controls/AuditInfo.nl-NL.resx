@@ -120,13 +120,13 @@
   <data name="Created" xml:space="preserve">
     <value>Gemaakt</value>
   </data>
-  <data name="by" xml:space="preserve">
+  <data name="By" xml:space="preserve">
     <value>door</value>
   </data>
-  <data name="on" xml:space="preserve">
+  <data name="On" xml:space="preserve">
     <value>Aan</value>
   </data>
-  <data name="Last modified" xml:space="preserve">
+  <data name="LastModified" xml:space="preserve">
     <value>Laatst gewijzigd</value>
   </data>
   <data name="Deleted" xml:space="preserve">

@@ -117,37 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>Naam</value>
+  <data name="Success.Theme.Install" xml:space="preserve">
+    <value>Thema succesvol geïnstalleerd. Je moet jouw toepassing &lt;a href={0}&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
   </data>
-  <data name="Version" xml:space="preserve">
-    <value>Versie</value>
+  <data name="Error.Theme.Download" xml:space="preserve">
+    <value>Fout bij downloaden van thema</value>
   </data>
-  <data name="Upgrade" xml:space="preserve">
-    <value>Upgrade</value>
+  <data name="Confirm.Theme.Delete" xml:space="preserve">
+    <value>Weet je zeker dat je het thema {0} wil verwijderen?</value>
+  </data>
+  <data name="Error.Theme.Load" xml:space="preserve">
+    <value>Fout bij het laden van thema's</value>
+  </data>
+  <data name="Success.Theme.Delete" xml:space="preserve">
+    <value>Thema succesvol verwijderd</value>
+  </data>
+  <data name="Error.Theme.Delete" xml:space="preserve">
+    <value>Fout bij verwijderen van thema</value>
   </data>
   <data name="DeleteTheme.Header" xml:space="preserve">
     <value>Thema verwijderen</value>
-  </data>
-  <data name="Theme Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
-    <value>Thema succesvol geïnstalleerd. Je moet jouw toepassing &lt;a href=\"{0}\"&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
-  </data>
-  <data name="Error Downloading Theme" xml:space="preserve">
-    <value>Fout bij downloaden van thema</value>
-  </data>
-  <data name="Create Theme" xml:space="preserve">
-    <value>Thema maken</value>
-  </data>
-  <data name="Are You Sure You Wish To Delete The {0} Theme?" xml:space="preserve">
-    <value>Weet je zeker dat u het thema {0} wilt verwijderen?</value>
-  </data>
-  <data name="Error Loading Themes" xml:space="preserve">
-    <value>Fout bij het laden van thema's</value>
-  </data>
-  <data name="Theme Deleted Successfully" xml:space="preserve">
-    <value>Thema succesvol verwijderd</value>
-  </data>
-  <data name="Error Deleting Theme" xml:space="preserve">
-    <value>Fout bij verwijderen van thema</value>
   </data>
 </root>

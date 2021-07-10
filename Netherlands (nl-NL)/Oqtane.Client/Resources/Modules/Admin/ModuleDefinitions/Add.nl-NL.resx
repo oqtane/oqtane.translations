@@ -117,37 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
-  <data name="Download" xml:space="preserve">
-    <value>Downloaden</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Naam</value>
-  </data>
-  <data name="Version" xml:space="preserve">
-    <value>Versie</value>
-  </data>
   <data name="Module.Text" xml:space="preserve">
     <value>Module:</value>
   </data>
-  <data name="Module.HelpText" xml:space="preserve">
-    <value>Upload een of meer modulepakketten. Zodra ze zijn geüpload, klikt u op Installeren om de installatie te voltooien.</value>
-  </data>
-  <data name="Install" xml:space="preserve">
-    <value>Installeren</value>
-  </data>
-  <data name="Error Loading Packages" xml:space="preserve">
+  <data name="Error.Package.Load" xml:space="preserve">
     <value>Fout bij het laden van pakketten</value>
   </data>
-  <data name="Module Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
-    <value>Module succesvol geïnstalleerd. Je moet uw toepassing &lt;a href=\"{0}\"&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
+  <data name="Success.Module.Install" xml:space="preserve">
+    <value>Module succesvol geïnstalleerd. Je moet jouw toepassing &lt;a href={0}&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
   </data>
-  <data name="Modules Downloaded Successfully. Click Install To Complete Installation." xml:space="preserve">
-    <value>Modules succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
+  <data name="Success.Module.Download" xml:space="preserve">
+    <value>Module succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
   </data>
-  <data name="Error Downloading Module" xml:space="preserve">
+  <data name="Error.Module.Download" xml:space="preserve">
     <value>Fout bij downloaden van module</value>
+  </data>
+  <data name="Module.HelpText" xml:space="preserve">
+    <value>Upload een of meerdere modulepakketten. Zodra ze zijn geüpload, klikt u op Installeren om de installatie te voltooien.</value>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>Geen enkele module komt overeen met de opgegeven criteria of de pakketservice is uitgeschakeld</value>
   </data>
 </root>

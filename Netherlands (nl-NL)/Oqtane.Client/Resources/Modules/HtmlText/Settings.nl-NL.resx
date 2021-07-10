@@ -117,16 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Yes" xml:space="preserve">
-    <value>Ja</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>Nee</value>
-  </data>
-  <data name="Allow File Management.HelpText" xml:space="preserve">
+  <data name="AllowFileManagement.HelpText" xml:space="preserve">
     <value>Opgeven of redacteuren bestanden kunnen uploaden en selecteren</value>
   </data>
-  <data name="Allow File Management.Text" xml:space="preserve">
+  <data name="AllowFileManagement.Text" xml:space="preserve">
     <value>Bestandsbeheer toestaan:</value>
   </data>
 </root>

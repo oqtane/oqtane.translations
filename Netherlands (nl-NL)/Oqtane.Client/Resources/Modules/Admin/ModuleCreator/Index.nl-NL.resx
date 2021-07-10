@@ -117,64 +117,61 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Description.Text" xml:space="preserve">
-    <value>Beschrijving:</value>
-  </data>
   <data name="Template.Text" xml:space="preserve">
     <value>Sjabloon:</value>
   </data>
-  <data name="Template.HelpText" xml:space="preserve">
-    <value>Selecteer een modulesjabloon. Interne modules worden gemaakt in de raamwerkoplossing. Externe modules worden gemaakt buiten de raamwerkoplossing.</value>
-  </data>
-  <data name="Select Template" xml:space="preserve">
+  <data name="Template.Select" xml:space="preserve">
     <value>Selecteer sjabloon</value>
   </data>
-  <data name="OwnerName.Text" xml:space="preserve">
-    <value>Naam eigenaar:</value>
+  <data name="Module.Create" xml:space="preserve">
+    <value>Module maken</value>
+  </data>
+  <data name="Module.Activate" xml:space="preserve">
+    <value>Module activeren</value>
+  </data>
+  <data name="Info.Module.Creator" xml:space="preserve">
+    <value>Houd er rekening mee dat de maker van de module alleen bedoeld is om te worden gebruikt in een ontwikkelomgeving</value>
+  </data>
+  <data name="Info.Module.Activate" xml:space="preserve">
+    <value>Nadat je de module hebt gecompileerd en de toepassing opnieuw hebt gestart, kun je de onderstaande module activeren:</value>
+  </data>
+  <data name="Success.Module.Create" xml:space="preserve">
+    <value>De broncode voor jouw module is gemaakt op de hieronder gespecificeerde locatie en moet worden gecompileerd om deze functioneel te maken. Zodra het is samengesteld, moet je jouw toepassing &lt;a href={0}&gt;Herstart&lt;/a&gt; om deze wijzigingen toe te passen.</value>
+  </data>
+  <data name="Message.Require.ValidName" xml:space="preserve">
+    <value>Je moet een geldige eigenaarsnaam en modulenaam opgeven (dwz geen leestekens of spaties en de waarden kunnen niet hetzelfde zijn) en een sjabloon kiezen</value>
   </data>
   <data name="OwnerName.HelpText" xml:space="preserve">
-    <value>Voer de naam in van de organisatie die deze module ontwikkelt. Het mag geen spaties of interpunctie bevatten.</value>
-  </data>
-  <data name="ModuleName.Text" xml:space="preserve">
-    <value>Module naam:</value>
+    <value>Vul de naam in van de organisatie die deze module ontwikkelt. Het mag geen spaties of leestekens bevatten.</value>
   </data>
   <data name="ModuleName.HelpText" xml:space="preserve">
-    <value>Voer een naam in voor deze module. Het mag geen spaties of interpunctie bevatten.</value>
+    <value>Voer een naam in voor deze module. Het mag geen spaties of leestekens bevatten.</value>
   </data>
-  <data name="Location.Text" xml:space="preserve">
-    <value>Plaats:</value>
+  <data name="Description.HelpText" xml:space="preserve">
+    <value>Voer een korte beschrijving voor de module in</value>
   </data>
-  <data name="Location.HelpText" xml:space="preserve">
-    <value>Locatie waar de module zal worden aangemaakt</value>
-  </data>
-  <data name="Local Version" xml:space="preserve">
-    <value>Lokale versie</value>
-  </data>
-  <data name="FrameworkReference.Text" xml:space="preserve">
-    <value>Kaderreferentie:</value>
+  <data name="Template.HelpText" xml:space="preserve">
+    <value>Selecteer een modulesjabloon. Sjablonen bevinden zich in de map wwwroot/Modules/Templates op de server.</value>
   </data>
   <data name="FrameworkReference.HelpText" xml:space="preserve">
     <value>Selecteer een referentieversie van het raamwerk</value>
   </data>
-  <data name="Description.HelpText" xml:space="preserve">
-    <value>Voer een korte beschrijving in voor de module</value>
+  <data name="Location.HelpText" xml:space="preserve">
+    <value>Locatie waar de module wordt gemaakt</value>
   </data>
-  <data name="Create Module" xml:space="preserve">
-    <value>Module maken</value>
+  <data name="OwnerName.Text" xml:space="preserve">
+    <value>Naam eigenaar:</value>
   </data>
-  <data name="Activate Module" xml:space="preserve">
-    <value>Activeer module</value>
+  <data name="ModuleName.Text" xml:space="preserve">
+    <value>Module naam:</value>
   </data>
-  <data name="Please Note That The Module Creator Is Only Intended To Be Used In A Development Environment" xml:space="preserve">
-    <value>Houd er rekening mee dat de modulemaker alleen bedoeld is om te worden gebruikt in een ontwikkelomgeving Development</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Omschrijving:</value>
   </data>
-  <data name="Once You Have Compiled The Module And Restarted The Application You Can Activate The Module Below" xml:space="preserve">
-    <value>Nadat je de module hebt gecompileerd en de toepassing opnieuw hebt gestart, kun je de onderstaande module activeren:</value>
+  <data name="FrameworkReference.Text" xml:space="preserve">
+    <value>Kaderreferentie:</value>
   </data>
-  <data name="The Source Code For Your Module Has Been Created At The Location Specified Below And Must Be Compiled In Order To Make It Functional. Once It Has Been Compiled You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
-    <value>De broncode voor jouw module is gemaakt op de hieronder gespecificeerde locatie en moet worden gecompileerd om deze functioneel te maken. Zodra het is samengesteld, moet je jouw toepassing &lt;a href=\"{0}\"&gt;Herstart&lt;/a&gt; om deze wijzigingen toe te passen.</value>
-  </data>
-  <data name="You Must Provide A Valid Owner Name And Module Name ( ie. No Punctuation Or Spaces And The Values Cannot Be The Same ) And Choose A Template" xml:space="preserve">
-    <value>Je moet een geldige eigenaarsnaam en modulenaam opgeven (dwz geen leestekens of spaties en de waarden kunnen niet hetzelfde zijn) en een sjabloon kiezen</value>
+  <data name="Location.Text" xml:space="preserve">
+    <value>Plaats:</value>
   </data>
 </root>

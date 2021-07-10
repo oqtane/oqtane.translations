@@ -117,40 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
-  <data name="Description.Text" xml:space="preserve">
-    <value>Beschrijving:</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Naam:</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>Nee</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Opslaan</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Ja</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Naam van de rol</value>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
-    <value>Een korte beschrijving van de rol die het doel beschrijft</value>
-  </data>
-  <data name="AutoAssigned.Text" xml:space="preserve">
-    <value>Automatisch toegewezen?</value>
+    <value>Een korte beschrijving van de rol die het doel ervan beschrijft</value>
   </data>
   <data name="AutoAssigned.HelpText" xml:space="preserve">
     <value>Geeft aan of nieuwe gebruikers automatisch aan deze rol worden toegewezen</value>
   </data>
-  <data name="Error Loading Role" xml:space="preserve">
+  <data name="Description.Text" xml:space="preserve">
+    <value>Omschrijving:</value>
+  </data>
+  <data name="AutoAssigned.Text" xml:space="preserve">
+    <value>Automatisch toegewezen?</value>
+  </data>
+  <data name="Error.LoadRole" xml:space="preserve">
     <value>Fout bij laden van rol</value>
   </data>
-  <data name="Error Saving Role" xml:space="preserve">
+  <data name="Error.SaveRole" xml:space="preserve">
     <value>Fout bij opslaan van rol</value>
+  </data>
+  <data name="Message.InfoRequired" xml:space="preserve">
+    <value>Geef alle vereiste informatie op</value>
   </data>
 </root>

@@ -117,16 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
   <data name="Export" xml:space="preserve">
     <value>Exporteren</value>
   </data>
-  <data name="Content.Text" xml:space="preserve">
-    <value>Inhoud:</value>
-  </data>
   <data name="Content.HelpText" xml:space="preserve">
     <value>Voer de module-inhoud in</value>
+  </data>
+  <data name="Content.Text" xml:space="preserve">
+    <value>Inhoud:</value>
   </data>
 </root>

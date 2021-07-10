@@ -124,7 +124,7 @@
     <value>Voer de databaseserver in</value>
   </data>
   <data name="Port.Text" xml:space="preserve">
-    <value>Haven:</value>
+    <value>Poort:</value>
   </data>
   <data name="Port.HelpText" xml:space="preserve">
     <value>Voer de poort in die wordt gebruikt om verbinding te maken met de server</value>
@@ -139,12 +139,12 @@
     <value>Gebruikersnaam:</value>
   </data>
   <data name="Uid.HelpText" xml:space="preserve">
-    <value>Voer de gebruikersnaam in die u voor de database wilt gebruiken</value>
+    <value>Voer de gebruikersnaam in die je voor de database wil gebruiken</value>
   </data>
   <data name="Pwd.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
   </data>
   <data name="Pwd.HelpText" xml:space="preserve">
-    <value>Voer het wachtwoord in dat u voor de database wilt gebruiken</value>
+    <value>Voer het wachtwoord in dat je voor de database wil gebruiken</value>
   </data>
 </root>

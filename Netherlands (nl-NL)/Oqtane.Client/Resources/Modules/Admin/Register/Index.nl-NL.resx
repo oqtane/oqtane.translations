@@ -117,49 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
-  <data name="You Are Already Registered" xml:space="preserve">
+  <data name="Info.Registration.Exists" xml:space="preserve">
     <value>Je bent al geregistreerd</value>
   </data>
-  <data name="Registration is Disabled For This Site" xml:space="preserve">
-    <value>Registratie is uitgeschakeld voor deze site</value>
+  <data name="Info.Registration.InvalidEmail" xml:space="preserve">
+    <value>Houd er rekening mee dat registratie een geldig e-mailadres vereist om uw identiteit te verifiëren</value>
+  </data>
+  <data name="Password.Confirm" xml:space="preserve">
+    <value>Bevestig wachtwoord:</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Registreren</value>
   </data>
-  <data name="Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity" xml:space="preserve">
-    <value>Houd er rekening mee dat registratie een geldig e-mailadres vereist om uw identiteit te verifiëren</value>
+  <data name="Info.Registration.Disabled" xml:space="preserve">
+    <value>Registratie is uitgeschakeld voor deze site</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Wachtwoord:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>E-mail:</value>
-  </data>
-  <data name="Confirm Password:" xml:space="preserve">
-    <value>Bevestig wachtwoord:</value>
-  </data>
-  <data name="Full Name:" xml:space="preserve">
-    <value>Voor-en achternaam:</value>
-  </data>
-  <data name="User Account Created. Please Check Your Email For Verification Instructions." xml:space="preserve">
+  <data name="Info.User.AccountCreate" xml:space="preserve">
     <value>Gebruikersaccount aangemaakt. Controleer jouw e-mail voor verificatie-instructies.</value>
   </data>
-  <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
+  <data name="Error.User.AddInfo" xml:space="preserve">
     <value>Fout bij toevoegen gebruiker. Zorg ervoor dat het wachtwoord voldoet aan de complexiteitsvereisten en dat de gebruikersnaam nog niet in gebruik is.</value>
   </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+  <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>Ingevoerde wachtwoorden komen niet overeen</value>
   </data>
-  <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
-    <value>Je moet een gebruikersnaam, wachtwoord en e-mailadres opgeven</value>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Je  moet een gebruikersnaam, wachtwoord en e-mailadres opgeven</value>
   </data>
-  <data name="Error Adding User" xml:space="preserve">
+  <data name="Error.User.Add" xml:space="preserve">
     <value>Fout bij toevoegen gebruiker</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Als je jou wachtwoord wijzigt, moet je het opnieuw invoeren om te bevestigen dat het overeenkomt</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Bevestig wachtwoord:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Jouw volledige naam</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Voor-en achternaam:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Jouw w e-mailadres waarop je meldingen wilt ontvangen</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Als je jouw wachtwoord wil wijzigen, kun je dit hier invoeren. Kies een voldoende veilig wachtwoord.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Je gebruikersnaam. Houd er rekening mee dat dit veld niet kan worden gewijzigd nadat het is opgeslagen.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
   </data>
 </root>

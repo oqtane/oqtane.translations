@@ -117,34 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
+  <data name="Message.Text" xml:space="preserve">
+    <value>Bericht:</value>
   </data>
-  <data name="To.Text" xml:space="preserve">
-    <value>Naar:</value>
+  <data name="Message.User.Invalid" xml:space="preserve">
+    <value>Gebruiker bestaat niet. Controleer of de opgegeven gebruikersnaam correct is.</value>
+  </data>
+  <data name="Error.Notification.Add" xml:space="preserve">
+    <value>Fout bij toevoegen van melding</value>
   </data>
   <data name="To.HelpText" xml:space="preserve">
-    <value>Voer de gebruikersnaam in waarnaar u een bericht wilt sturen</value>
-  </data>
-  <data name="Subject.Text" xml:space="preserve">
-    <value>Onderwerpen:</value>
+    <value>Voer de gebruikersnaam in waarnaar je een bericht wilt sturen</value>
   </data>
   <data name="Subject.HelpText" xml:space="preserve">
     <value>Voer het onderwerp van het bericht in</value>
   </data>
-  <data name="Send" xml:space="preserve">
-    <value>Sturen</value>
-  </data>
-  <data name="Message.Text" xml:space="preserve">
-    <value>Bericht:</value>
-  </data>
   <data name="Message.HelpText" xml:space="preserve">
     <value>Voer het bericht in</value>
   </data>
-  <data name="User Does Not Exist. Please Verify That The Username Provided Is Correct." xml:space="preserve">
-    <value>Gebruiker bestaat niet. Controleer of de opgegeven gebruikersnaam correct is.</value>
+  <data name="To.Text" xml:space="preserve">
+    <value>Naar:</value>
   </data>
-  <data name="Error Adding Notification" xml:space="preserve">
-    <value>Fout bij toevoegen van melding</value>
+  <data name="Subject.Text" xml:space="preserve">
+    <value>Onderwerpen:</value>
   </data>
 </root>

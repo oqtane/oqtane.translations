@@ -117,73 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete" xml:space="preserve">
-    <value>Verwijderen</value>
+  <data name="Server.Text" xml:space="preserve">
+    <value>Server:</value>
   </data>
-  <data name="Add" xml:space="preserve">
-    <value>Toevoegen</value>
+  <data name="Server.HelpText" xml:space="preserve">
+    <value>Voer de databaseserver in</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Gegevensbestand:</value>
   </data>
-  <data name="Details.Text" xml:space="preserve">
-    <value>Bewerk</value>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Voer de naam van de database in</value>
   </data>
-  <data name="Select Page" xml:space="preserve">
-    <value>Selecteer pagina</value>
+  <data name="IntegratedSecurity.Text" xml:space="preserve">
+    <value>Geïntegreerde beveiliging:</value>
   </data>
-  <data name="DeletePage.Header" xml:space="preserve">
-    <value>Pagina verwijderen</value>
+  <data name="IntegratedSecurity.HelpText" xml:space="preserve">
+    <value>Selecteer of je geïntegreerde beveiliging wil of niet</value>
   </data>
-  <data name="Title:" xml:space="preserve">
-    <value>Titel:</value>
+  <data name="Uid.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
   </data>
-  <data name="Control Panel" xml:space="preserve">
-    <value>Controlepaneel</value>
+  <data name="Uid.HelpText" xml:space="preserve">
+    <value>Voer de gebruikersnaam in die je voor de database wil gebruiken</value>
   </data>
-  <data name="Admin Dashboard" xml:space="preserve">
-    <value>Beheerdersdashboard</value>
+  <data name="Pwd.Text" xml:space="preserve">
+    <value>Wachtwoord:</value>
   </data>
-  <data name="Page Management:" xml:space="preserve">
-    <value>Paginabeheer:</value>
-  </data>
-  <data name="Unpublish Page" xml:space="preserve">
-    <value>Maak de publicatie van de pagina ongedaan</value>
-  </data>
-  <data name="Publish Page" xml:space="preserve">
-    <value>Pagina publiceren</value>
-  </data>
-  <data name="Module Management:" xml:space="preserve">
-    <value>Modulebeheer:</value>
-  </data>
-  <data name="Add New Module" xml:space="preserve">
-    <value>Nieuwe module toevoegen</value>
-  </data>
-  <data name="Add Existing Module" xml:space="preserve">
-    <value>Voeg bestaande module toe</value>
-  </data>
-  <data name="Modules" xml:space="preserve">
-    <value>Modules</value>
-  </data>
-  <data name="Select Module" xml:space="preserve">
-    <value>Selecteer Module</value>
-  </data>
-  <data name="Pane:" xml:space="preserve">
-    <value>Paneel:</value>
-  </data>
-  <data name="Container:" xml:space="preserve">
-    <value>container:</value>
-  </data>
-  <data name="Add Module To Page" xml:space="preserve">
-    <value>Module toevoegen aan pagina</value>
-  </data>
-  <data name="Module Added To Page" xml:space="preserve">
-    <value>Module toegevoegd aan pagina</value>
-  </data>
-  <data name="You Must Select A Module" xml:space="preserve">
-    <value>Je moet een module selecteren</value>
-  </data>
-  <data name="Not Authorized" xml:space="preserve">
-    <value>Geen bevoegdheid</value>
+  <data name="Pwd.HelpText" xml:space="preserve">
+    <value>Voer het wachtwoord in dat je voor de database wil gebruiken</value>
   </data>
 </root>

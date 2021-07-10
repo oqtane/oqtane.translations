@@ -117,19 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="User" xml:space="preserve">
-    <value>Gebruiker</value>
-  </data>
   <data name="Role" xml:space="preserve">
     <value>Rol</value>
   </data>
-  <data name="Enter Username" xml:space="preserve">
+  <data name="User" xml:space="preserve">
+    <value>Gebruiker</value>
+  </data>
+  <data name="Username.Enter" xml:space="preserve">
     <value>Vul je gebruikersnaam in</value>
   </data>
-  <data name="Add" xml:space="preserve">
-    <value>Toevoegen</value>
-  </data>
-  <data name="Username Does Not Exist" xml:space="preserve">
+  <data name="Message.Username.DontExist" xml:space="preserve">
     <value>Gebruikersnaam bestaat niet</value>
   </data>
 </root>
