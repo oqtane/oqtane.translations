@@ -120,25 +120,28 @@
   <data name="Tenant.Text" xml:space="preserve">
     <value>Huurder:</value>
   </data>
+  <data name="Tenant.Select" xml:space="preserve">
+    <value>Selecteer huurder</value>
+  </data>
+  <data name="Execute" xml:space="preserve">
+    <value>uitvoeren</value>
+  </data>
+  <data name="Message.Required.Tenant" xml:space="preserve">
+    <value>Je  moet een huurder selecteren en een geldige SQL-query opgeven</value>
+  </data>
+  <data name="Return.NoResult" xml:space="preserve">
+    <value>Geen resultaten geretourneerd</value>
+  </data>
   <data name="Tenant.HelpText" xml:space="preserve">
     <value>Selecteer de tenant voor de SQL-server</value>
-  </data>
-  <data name="SqlQuery.Text" xml:space="preserve">
-    <value>SQL-vraag:</value>
   </data>
   <data name="SqlQuery.HelpText" xml:space="preserve">
     <value>Voer de query voor de SQL-server in</value>
   </data>
-  <data name="Select Tenant" xml:space="preserve">
-    <value>Selecteer Tenant</value>
+  <data name="SqlQuery.Text" xml:space="preserve">
+    <value>SQL-query:</value>
   </data>
-  <data name="Execute" xml:space="preserve">
-    <value>Uitvoeren</value>
-  </data>
-  <data name="You Must Select A Tenant And Provide A SQL Query" xml:space="preserve">
-    <value>Je moet een huurder selecteren en een SQL-query opgeven</value>
-  </data>
-  <data name="No Results Returned" xml:space="preserve">
-    <value>Geen resultaten geretourneerd</value>
+  <data name="Success.QueryExecuted" xml:space="preserve">
+    <value>SQL-query uitgevoerd</value>
   </data>
 </root>

@@ -117,55 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="True" xml:space="preserve">
-    <value>Klopt</value>
+  <data name="Server.Text" xml:space="preserve">
+    <value>Bestandsnaam:</value>
   </data>
-  <data name="SQL Server" xml:space="preserve">
-    <value>SQL Server</value>
-  </data>
-  <data name="Local Database" xml:space="preserve">
-    <value>Lokale database</value>
-  </data>
-  <data name="Install Now" xml:space="preserve">
-    <value>Installeer nu</value>
-  </data>
-  <data name="False" xml:space="preserve">
-    <value>Vals</value>
-  </data>
-  <data name="Database Configuration" xml:space="preserve">
-    <value>Databaseconfiguratie</value>
-  </data>
-  <data name="Application Administrator" xml:space="preserve">
-    <value>Applicatiebeheerder</value>
-  </data>
-  <data name="Version:" xml:space="preserve">
-    <value>Versie:</value>
-  </data>
-  <data name="Database Type:" xml:space="preserve">
-    <value>Databasetype:</value>
-  </data>
-  <data name="Server:" xml:space="preserve">
-    <value>Server:</value>
-  </data>
-  <data name="Database:" xml:space="preserve">
-    <value>Gegevensbestand:</value>
-  </data>
-  <data name="Integrated Security:" xml:space="preserve">
-    <value>Geïntegreerde beveiliging:</value>
-  </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Wachtwoord:</value>
-  </data>
-  <data name="Confirm:" xml:space="preserve">
-    <value>Bevestigen:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>E-mail:</value>
-  </data>
-  <data name="Please Enter All Fields And Ensure Passwords Match And Are Greater Than 5 Characters In Length" xml:space="preserve">
-    <value>Voer alle velden in en zorg ervoor dat de wachtwoorden overeenkomen en langer zijn dan 5 tekens</value>
+  <data name="Server.HelpText" xml:space="preserve">
+    <value>Voer de bestandsnaam in die voor de database moet worden gebruikt</value>
   </data>
 </root>

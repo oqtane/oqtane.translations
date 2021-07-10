@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,37 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
-  <data name="Download" xml:space="preserve">
-    <value>Downloaden</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Naam</value>
-  </data>
-  <data name="Version" xml:space="preserve">
-    <value>Versie</value>
+  <data name="Error.Package.Load" xml:space="preserve">
+    <value>Fout bij het laden van pakketten</value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
     <value>Thema:</value>
   </data>
-  <data name="Theme.HelpText" xml:space="preserve">
-    <value>Upload een of meer themapakketten. Zodra ze zijn geüpload, klikt u op Installeren om de installatie te voltooien.</value>
+  <data name="Success.Theme.Install" xml:space="preserve">
+    <value>Thema succesvol geïnstalleerd. Je moet jouw toepassing &lt;a href={0}&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
   </data>
-  <data name="Install" xml:space="preserve">
-    <value>Installeren</value>
+  <data name="Success.Theme.Download" xml:space="preserve">
+    <value>Thema is succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
   </data>
-  <data name="Error Loading Packages" xml:space="preserve">
-    <value>Fout bij het laden van pakketten</value>
-  </data>
-  <data name="Theme Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
-    <value>Thema succesvol geïnstalleerd. Je moet jouw toepassing &lt;a href=\"{0}\"&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
-  </data>
-  <data name="Themes Downloaded Successfully. Click Install To Complete Installation." xml:space="preserve">
-    <value>Thema's succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
-  </data>
-  <data name="Error Downloading Theme" xml:space="preserve">
+  <data name="Error.Theme.Download" xml:space="preserve">
     <value>Fout bij downloaden van thema</value>
+  </data>
+  <data name="Theme.HelpText" xml:space="preserve">
+    <value>Upload een of meerdere themapakketten. Zodra ze zijn geüpload, klikt u op Installeren om de installatie te voltooien.</value>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>Geen thema's komen overeen met de opgegeven criteria of pakketservice is uitgeschakeld</value>
   </data>
 </root>

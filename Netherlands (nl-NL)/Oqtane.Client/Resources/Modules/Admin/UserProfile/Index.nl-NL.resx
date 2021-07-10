@@ -117,79 +117,91 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Opslaan</value>
-  </data>
-  <data name="To" xml:space="preserve">
-    <value>Naar</value>
-  </data>
-  <data name="Subject" xml:space="preserve">
-    <value>Onderwerpen</value>
-  </data>
-  <data name="Sent Items" xml:space="preserve">
-    <value>Verzonden items</value>
-  </data>
-  <data name="Sent" xml:space="preserve">
-    <value>Verzonden</value>
-  </data>
-  <data name="SendNotification.Text" xml:space="preserve">
-    <value>Melding verzenden</value>
-  </data>
-  <data name="Received" xml:space="preserve">
-    <value>Ontvangen</value>
-  </data>
-  <data name="Inbox" xml:space="preserve">
-    <value>Postvak IN</value>
-  </data>
-  <data name="Identity.Name" xml:space="preserve">
-    <value>Identiteit</value>
+  <data name="Message.Password.Invalid" xml:space="preserve">
+    <value>Ingevoerde wachtwoorden komen niet overeen</value>
   </data>
   <data name="From" xml:space="preserve">
     <value>Van</value>
   </data>
-  <data name="DeleteNotification.Message" xml:space="preserve">
-    <value>Weet u zeker dat u deze melding wilt verwijderen?</value>
+  <data name="Subject" xml:space="preserve">
+    <value>Onderwerpen</value>
+  </data>
+  <data name="Received" xml:space="preserve">
+    <value>Ontvangen</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>Naar</value>
+  </data>
+  <data name="Sent" xml:space="preserve">
+    <value>Verzonden</value>
+  </data>
+  <data name="Inbox" xml:space="preserve">
+    <value>Postvak IN</value>
+  </data>
+  <data name="Items.Sent" xml:space="preserve">
+    <value>Verzonden items</value>
+  </data>
+  <data name="Message.User.NoLogIn" xml:space="preserve">
+    <value>Huidige gebruiker is niet ingelogd</value>
+  </data>
+  <data name="Error.Profile.Load" xml:space="preserve">
+    <value>Fout bij laden van gebruikersprofiel</value>
+  </data>
+  <data name="Success.Profile.Update" xml:space="preserve">
+    <value>Gebruikersprofiel succesvol bijgewerkt</value>
+  </data>
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
+    <value>Je  moet een gebruikersnaam en e-mailadres opgeven, evenals alle vereiste profielinformatie</value>
+  </data>
+  <data name="Error.Profile.Save" xml:space="preserve">
+    <value>Fout bij opslaan gebruikersprofiel</value>
+  </data>
+  <data name="SendNotification.Text" xml:space="preserve">
+    <value>Melding verzenden</value>
   </data>
   <data name="DeleteNotification.Header" xml:space="preserve">
     <value>Melding verwijderen</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
+  <data name="DeleteNotification.Message" xml:space="preserve">
+    <value>Weet je zeker dat je deze melding wilverwijderen?</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Wachtwoord:</value>
+  <data name="Identity.Name" xml:space="preserve">
+    <value>Identiteit</value>
   </data>
-  <data name="Email:" xml:space="preserve">
-    <value>E-mail:</value>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Als je jou wachtwoord wijzigt, moet je het opnieuw invoeren om te bevestigen dat het overeenkomt</value>
   </data>
-  <data name="Confirm Password:" xml:space="preserve">
+  <data name="Confirm.Text" xml:space="preserve">
     <value>Bevestig wachtwoord:</value>
   </data>
-  <data name="Full Name:" xml:space="preserve">
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Jouw volledige naam</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
     <value>Voor-en achternaam:</value>
   </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Ingevoerde wachtwoorden komen niet overeen</value>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Jouw e-mailadres waarop je meldingen wilt ontvangen</value>
   </data>
-  <data name="Photo:" xml:space="preserve">
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Als je jouw wachtwoord wil wijzigen, kun je dit hier invoeren. Kies een voldoende veilig wachtwoord.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Photo.HelpText" xml:space="preserve">
+    <value>Een foto van jezelf</value>
+  </data>
+  <data name="Photo.Text" xml:space="preserve">
     <value>Foto:</value>
   </data>
-  <data name="Current User Is Not Logged In" xml:space="preserve">
-    <value>Huidige gebruiker is niet ingelogd</value>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Je gebruikersnaam. Merk op dat dit veld niet kan worden gewijzigd.</value>
   </data>
-  <data name="Error Loading User Profile" xml:space="preserve">
-    <value>Fout bij laden van gebruikersprofiel</value>
-  </data>
-  <data name="User Profile Updated Successfully" xml:space="preserve">
-    <value>Gebruikersprofiel succesvol bijgewerkt</value>
-  </data>
-  <data name="You Must Provide A Username and Email Address As Well As All Required Profile Information" xml:space="preserve">
-    <value>Je moet een gebruikersnaam en e-mailadres opgeven, evenals alle vereiste profielinformatie</value>
-  </data>
-  <data name="Error Saving User Profile" xml:space="preserve">
-    <value>Fout bij opslaan gebruikersprofiel</value>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
   </data>
 </root>

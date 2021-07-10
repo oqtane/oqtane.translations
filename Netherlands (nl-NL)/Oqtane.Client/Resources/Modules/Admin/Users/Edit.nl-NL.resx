@@ -117,52 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>Nee</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Opslaan</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Ja</value>
+  <data name="Message.Password.NoMatch" xml:space="preserve">
+    <value>Ingevoerde wachtwoorden komen niet overeen</value>
   </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>Identiteit</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Wachtwoord:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>E-mail:</value>
-  </data>
-  <data name="Confirm Password:" xml:space="preserve">
-    <value>Bevestig wachtwoord:</value>
-  </data>
-  <data name="Full Name:" xml:space="preserve">
-    <value>Voor-en achternaam:</value>
-  </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Ingevoerde wachtwoorden komen niet overeen</value>
-  </data>
-  <data name="Photo:" xml:space="preserve">
-    <value>Foto:</value>
-  </data>
-  <data name="Is Deleted?" xml:space="preserve">
+  <data name="Confirm.Delete" xml:space="preserve">
     <value>Is verwijderd?</value>
   </data>
-  <data name="Error Loading User" xml:space="preserve">
+  <data name="Error.User.Load" xml:space="preserve">
     <value>Fout bij het laden van gebruiker</value>
   </data>
-  <data name="You Must Provide A Username, Password, Email Address, And All Required Profile Information" xml:space="preserve">
-    <value>Je moet een gebruikersnaam, wachtwoord, e-mailadres en alle vereiste profielinformatie opgeven</value>
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
+    <value>Je  moet een gebruikersnaam, wachtwoord, e-mailadres en alle vereiste profielinformatie opgeven</value>
   </data>
-  <data name="Error Saving User" xml:space="preserve">
+  <data name="Error.User.Save" xml:space="preserve">
     <value>Fout bij opslaan gebruiker</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Voer het wachtwoord nogmaals in om te bevestigen dat het overeenkomt met de bovenstaande waarde</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Bevestig wachtwoord:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>De volledige naam van de gebruiker</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Voor-en achternaam:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Het e-mailadres waarop de gebruiker meldingen zal ontvangen</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>Geef aan of de gebruiker actief is</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>verwijderd?</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Het wachtwoord van de gebruiker. Kies een wachtwoord dat voldoende veilig is.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Photo.HelpText" xml:space="preserve">
+    <value>Een foto van de gebruiker</value>
+  </data>
+  <data name="Photo.Text" xml:space="preserve">
+    <value>Foto:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>De unieke gebruikersnaam voor een gebruiker. Merk op dat dit veld niet kan worden gewijzigd.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
   </data>
 </root>

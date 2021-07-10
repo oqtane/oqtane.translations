@@ -117,37 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
+  <data name="Folder.Text" xml:space="preserve">
+    <value>Map:</value>
   </data>
-  <data name="Name.Text" xml:space="preserve">
-    <value>Naam:</value>
+  <data name="Error.File.Load" xml:space="preserve">
+    <value>Fout bij laden van bestand</value>
   </data>
-  <data name="Save" xml:space="preserve">
-    <value>Opslaan</value>
+  <data name="Message.File.InvalidName" xml:space="preserve">
+    <value>Bestandsnaam niet geldig</value>
   </data>
-  <data name="Size.Text" xml:space="preserve">
-    <value>Grootte:</value>
-  </data>
-  <data name="Size.HelpText" xml:space="preserve">
-    <value>De grootte van het bestand (in bytes)</value>
+  <data name="Error.File.Save" xml:space="preserve">
+    <value>Fout bij opslaan van bestand</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>De naam van het bestand</value>
   </data>
-  <data name="Folder.Text" xml:space="preserve">
-    <value>Map:</value>
-  </data>
   <data name="Folder.HelpText" xml:space="preserve">
     <value>De map waarin het bestand zich bevindt</value>
   </data>
-  <data name="Error Loading File" xml:space="preserve">
-    <value>Fout bij laden van bestand</value>
+  <data name="Size.HelpText" xml:space="preserve">
+    <value>De grootte van het bestand (in bytes)</value>
   </data>
-  <data name="File Name Not Valid" xml:space="preserve">
-    <value>Bestandsnaam niet geldig</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam:</value>
   </data>
-  <data name="Error Saving File" xml:space="preserve">
-    <value>Fout bij opslaan van bestand</value>
+  <data name="Size.Text" xml:space="preserve">
+    <value>Grootte:</value>
   </data>
 </root>

@@ -117,31 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
-  <data name="Reset Password" xml:space="preserve">
-    <value>Wachtwoord opnieuw instellen</value>
-  </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Wachtwoord:</value>
-  </data>
-  <data name="Confirm Password:" xml:space="preserve">
+  <data name="Password.Confirm" xml:space="preserve">
     <value>Bevestig wachtwoord:</value>
   </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+  <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>Ingevoerde wachtwoorden komen niet overeen</value>
   </data>
-  <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
-    <value>Je moet een gebruikersnaam, wachtwoord en e-mailadres opgeven</value>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Je  moet een gebruikersnaam, wachtwoord en e-mailadres opgeven</value>
   </data>
-  <data name="Error Resetting User Password. Please Ensure Password Meets Complexity Requirements." xml:space="preserve">
+  <data name="Password.Reset" xml:space="preserve">
+    <value>Wachtwoord opnieuw instellen</value>
+  </data>
+  <data name="Error.Password.ResetInfo" xml:space="preserve">
     <value>Fout bij het opnieuw instellen van het gebruikerswachtwoord. Zorg ervoor dat het wachtwoord voldoet aan de complexiteitsvereisten.</value>
   </data>
-  <data name="Error Resetting User Password" xml:space="preserve">
+  <data name="Error.Password.Reset" xml:space="preserve">
     <value>Fout bij resetten gebruikerswachtwoord</value>
   </data>
 </root>

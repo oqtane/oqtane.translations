@@ -117,34 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
+  <data name="RememberMe" xml:space="preserve">
+    <value>Onthoud me?</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
+  <data name="ForgotPassword" xml:space="preserve">
     <value>Wachtwoord vergeten</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Aanmelden</value>
+  <data name="Success.Account.Verified" xml:space="preserve">
+    <value>Gebruikersaccount succesvol geverifieerd. Je kan nu inloggen met jouw gebruikersnaam en wachtwoord hieronder.</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Wachtwoord:</value>
+  <data name="Message.Account.NotVerfied" xml:space="preserve">
+    <value>Gebruikersaccount kan niet worden geverifieerd. Neem contact op met jouw beheerder voor verdere instructies.</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Onthoud mij?</value>
+  <data name="Error.Login.Fail" xml:space="preserve">
+    <value>Aanmelden mislukt. Houd er rekening mee dat wachtwoorden hoofdlettergevoelig zijn en dat gebruikersaccounts verificatie vereisen wanneer ze in eerste instantie worden gemaakt, zodat je wellicht jouw e-mail wil controleren.</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
-  </data>
-  <data name="User Account Verified Successfully. You Can Now Login With Your Username And Password Below." xml:space="preserve">
-    <value>Gebruikersaccount succesvol geverifieerd. U kunt nu inloggen met uw gebruikersnaam en wachtwoord hieronder.</value>
-  </data>
-  <data name="User Account Could Not Be Verified. Please Contact Your Administrator For Further Instructions." xml:space="preserve">
-    <value>Gebruikersaccount kan niet worden geverifieerd. Neem contact op met uw beheerder voor verdere instructies.</value>
-  </data>
-  <data name="Login Failed. Please Remember That Passwords Are Case Sensitive And User Accounts Require Verification When They Are Initially Created So You May Wish To Check Your Email." xml:space="preserve">
-    <value>Aanmelden mislukt. Houd er rekening mee dat wachtwoorden hoofdlettergevoelig zijn en dat gebruikersaccounts verificatie vereisen wanneer ze in eerste instantie worden gemaakt, zodat je wellicht jouw e-mail wilt controleren.</value>
-  </data>
-  <data name="Please Provide Your Username And Password" xml:space="preserve">
+  <data name="Message.Required.UserInfo" xml:space="preserve">
     <value>Geef jouw gebruikersnaam en wachtwoord op</value>
+  </data>
+  <data name="Info.SignedIn" xml:space="preserve">
+    <value>Je bent al ingelogd</value>
   </data>
 </root>

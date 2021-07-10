@@ -117,49 +117,130 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ServerTime.Text" xml:space="preserve">
-    <value>Server tijd:</value>
-  </data>
-  <data name="ServerTime.HelpText" xml:space="preserve">
-    <value>Server tijd</value>
-  </data>
-  <data name="ServerPath.Text" xml:space="preserve">
-    <value>Serverpad:</value>
-  </data>
-  <data name="ServerPath.HelpText" xml:space="preserve">
-    <value>Serverpad</value>
-  </data>
-  <data name="RestartApplication.Message" xml:space="preserve">
-    <value>Weet u zeker dat u de toepassing opnieuw wilt starten?</value>
-  </data>
-  <data name="RestartApplication.Header" xml:space="preserve">
-    <value>Start de applicatie opnieuw</value>
-  </data>
-  <data name="OsVersion.Text" xml:space="preserve">
-    <value>OS-versie:</value>
-  </data>
-  <data name="OsVersion.HelpText" xml:space="preserve">
-    <value>Besturingssysteemversie</value>
-  </data>
-  <data name="FrameworkVersion.Text" xml:space="preserve">
-    <value>Framework-versie:</value>
+  <data name="Access.ApiFramework" xml:space="preserve">
+    <value>Toegang tot Swagger-API</value>
   </data>
   <data name="FrameworkVersion.HelpText" xml:space="preserve">
     <value>Framework-versie</value>
   </data>
-  <data name="ClrVerion.Text" xml:space="preserve">
-    <value>CLR-versie:</value>
+  <data name="BlazorRuntime.HelpText" xml:space="preserve">
+    <value>Blazor Runtime (Server of WebAssembly)</value>
   </data>
-  <data name="ClrVerion.HelpText" xml:space="preserve">
+  <data name="CLRVersion.HelpText" xml:space="preserve">
     <value>Common Language Runtime-versie</value>
   </data>
-  <data name="BlazorRunime.Text" xml:space="preserve">
-    <value>Blazor-looptijd:</value>
+  <data name="OSVersion.HelpText" xml:space="preserve">
+    <value>Besturingssysteemversie</value>
   </data>
-  <data name="BlazorRunime.HelpText" xml:space="preserve">
-    <value>Blazor Runtime (server of webassemblage)</value>
+  <data name="ServerPath.HelpText" xml:space="preserve">
+    <value>Serverpad</value>
   </data>
-  <data name="Access Framework API" xml:space="preserve">
-    <value>Toegang tot Framework API</value>
+  <data name="ServerTime.HelpText" xml:space="preserve">
+    <value>Server tijd</value>
+  </data>
+  <data name="FrameworkVersion.Text" xml:space="preserve">
+    <value>Framework-versie:</value>
+  </data>
+  <data name="BlazorRuntime.Text" xml:space="preserve">
+    <value>Blazor-runtime:</value>
+  </data>
+  <data name="CLRVersion.Text" xml:space="preserve">
+    <value>CLR-versie:</value>
+  </data>
+  <data name="OSVersion.Text" xml:space="preserve">
+    <value>OS-versie:</value>
+  </data>
+  <data name="ServerPath.Text" xml:space="preserve">
+    <value>Serverpad:</value>
+  </data>
+  <data name="ServerTime.Text" xml:space="preserve">
+    <value>Server tijd:</value>
+  </data>
+  <data name="RestartApplication.Header" xml:space="preserve">
+    <value>Applicatie opnieuw starten</value>
+  </data>
+  <data name="RestartApplication.Message" xml:space="preserve">
+    <value>Weet je zeker dat je de toepassing opnieuw wil starten?</value>
+  </data>
+  <data name="Error.UpdateConfig" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het bijwerken van de configuratie</value>
+  </data>
+  <data name="Server" xml:space="preserve">
+    <value>Server</value>
+  </data>
+  <data name="ServerPrerendered" xml:space="preserve">
+    <value>ServerVooraf weergegeven</value>
+  </data>
+  <data name="Success.UpdateConfig.Restart" xml:space="preserve">
+    <value>Configuratie bijgewerkt. Selecteer Applicatie opnieuw starten om deze wijzigingen te activeren.</value>
+  </data>
+  <data name="WebAssembly" xml:space="preserve">
+    <value>WebAssembly</value>
+  </data>
+  <data name="InstallationId.Text" xml:space="preserve">
+    <value>Installatie-ID:</value>
+  </data>
+  <data name="InstallationId.HelpText" xml:space="preserve">
+    <value>De unieke identificatie voor uw installatie</value>
+  </data>
+  <data name="DetailedErrors.Text" xml:space="preserve">
+    <value>Gedetailleerde fouten?</value>
+  </data>
+  <data name="DetailedErrors.HelpText" xml:space="preserve">
+    <value>Specificeer of gedetailleerde fouten zijn ingeschakeld voor Blazor. Deze optie mag niet zijn ingeschakeld in productie.</value>
+  </data>
+  <data name="True" xml:space="preserve">
+    <value>waar</value>
+  </data>
+  <data name="False" xml:space="preserve">
+    <value>niet waar</value>
+  </data>
+  <data name="LoggingLevel.Text" xml:space="preserve">
+    <value>Loggingsniveau:</value>
+  </data>
+  <data name="LoggingLevel.HelpText" xml:space="preserve">
+    <value>Het minimale registratieniveau voor het gebeurtenislogboek. Deze optie kan worden gebruikt om het volume van items te regelen die zijn opgeslagen in uw gebeurtenislogboek.</value>
+  </data>
+  <data name="Trace" xml:space="preserve">
+    <value>Spoor</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Debuggen</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informatie</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Waarschuwing</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Fout</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritiek</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="Options" xml:space="preserve">
+    <value>Opties</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registreer mij alstublieft voor belangrijke productupdates en beveiligingsbulletins</value>
+  </data>
+  <data name="Success.Register" xml:space="preserve">
+    <value>Je bent met succes geregistreerd voor updates</value>
+  </data>
+  <data name="PackageService.HelpText" xml:space="preserve">
+    <value>Specificeer of de pakketservice is ingeschakeld voor het installeren van modules, thema's en vertalingen</value>
+  </data>
+  <data name="PackageService.Text" xml:space="preserve">
+    <value>Pakketservice ingeschakeld?</value>
+  </data>
+  <data name="Swagger.HelpText" xml:space="preserve">
+    <value>Specificeer of Swagger is ingeschakeld voor uw server-API</value>
+  </data>
+  <data name="Swagger.Text" xml:space="preserve">
+    <value>Swagger ingeschakeld?</value>
   </data>
 </root>

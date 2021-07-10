@@ -120,7 +120,4 @@
   <data name="Logout" xml:space="preserve">
     <value>Uitloggen</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Aanmelden</value>
-  </data>
 </root>

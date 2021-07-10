@@ -117,67 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
+  <data name="User.Text" xml:space="preserve">
+    <value>Gebruiker:</value>
   </data>
-  <data name="Delete" xml:space="preserve">
-    <value>Verwijderen</value>
-  </data>
-  <data name="EffectiveDate.HelpText" xml:space="preserve">
-    <value>De datum waarop deze roltoewijzing actief is</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Bezig met laden...</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Opslaan</value>
+  <data name="User.Select" xml:space="preserve">
+    <value>selecteer gebruiker</value>
   </data>
   <data name="Users" xml:space="preserve">
     <value>Gebruikers</value>
   </data>
-  <data name="User.Text" xml:space="preserve">
-    <value>Gebruiker:</value>
+  <data name="Error.User.Load" xml:space="preserve">
+    <value>Fout bij het laden van gebruikers</value>
+  </data>
+  <data name="Error.User.LoadRole" xml:space="preserve">
+    <value>Fout bij laden van gebruikersrollen</value>
+  </data>
+  <data name="Success.User.AssignedRole" xml:space="preserve">
+    <value>Gebruiker toegewezen aan rol</value>
+  </data>
+  <data name="Message.Required.UserSelect" xml:space="preserve">
+    <value>Je  moet een gebruiker selecteren</value>
+  </data>
+  <data name="Error.User.SaveRole" xml:space="preserve">
+    <value>Fout bij opslaan van gebruikersrollen</value>
+  </data>
+  <data name="Confirm.User.RoleRemoved" xml:space="preserve">
+    <value>Gebruiker verwijderd uit rol</value>
+  </data>
+  <data name="Error.User.RemoveRole" xml:space="preserve">
+    <value>Fout bij verwijderen van gebruiker uit rol</value>
+  </data>
+  <data name="Role.HelpText" xml:space="preserve">
+    <value>De rol waaraan je gebruikers toewijst</value>
   </data>
   <data name="User.HelpText" xml:space="preserve">
     <value>Selecteer een gebruiker</value>
   </data>
-  <data name="Select User" xml:space="preserve">
-    <value>selecteer gebruiker</value>
-  </data>
-  <data name="Role.Text" xml:space="preserve">
-    <value>Rol:</value>
-  </data>
-  <data name="Role.HelpText" xml:space="preserve">
-    <value>De rol waaraan u gebruikers toewijst</value>
-  </data>
-  <data name="ExpiryDate.Text" xml:space="preserve">
-    <value>Vervaldatum:</value>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>De datum waarop deze roltoewijzing actief is</value>
   </data>
   <data name="ExpiryDate.HelpText" xml:space="preserve">
     <value>De datum waarop deze roltoewijzing verloopt</value>
   </data>
+  <data name="Role.Text" xml:space="preserve">
+    <value>Rol:</value>
+  </data>
   <data name="EffectiveDate.Text" xml:space="preserve">
     <value>Ingangsdatum:</value>
   </data>
-  <data name="Error Loading Users" xml:space="preserve">
-    <value>Fout bij het laden van gebruikers</value>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Vervaldatum:</value>
   </data>
-  <data name="Error Loading User Roles" xml:space="preserve">
-    <value>Fout bij laden van gebruikersrollen</value>
+  <data name="Confirm.User.DeleteRole" xml:space="preserve">
+    <value>Weet je zeker dat je {0} uit deze rol wil verwijderen?</value>
   </data>
-  <data name="User Assigned To Role" xml:space="preserve">
-    <value>Gebruiker toegewezen aan rol</value>
+  <data name="Effective" xml:space="preserve">
+    <value>effectief</value>
   </data>
-  <data name="You Must Select A User" xml:space="preserve">
-    <value>Je moet een gebruiker selecteren</value>
-  </data>
-  <data name="Error Saving User Roles" xml:space="preserve">
-    <value>Fout bij opslaan van gebruikersrollen</value>
-  </data>
-  <data name="User Removed From Role" xml:space="preserve">
-    <value>Gebruiker verwijderd uit rol</value>
-  </data>
-  <data name="Error Removing User From Role" xml:space="preserve">
-    <value>Fout bij verwijderen van gebruiker uit rol</value>
+  <data name="Expiry" xml:space="preserve">
+    <value>Vervaldatum</value>
   </data>
 </root>

@@ -117,25 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Download" xml:space="preserve">
-    <value>Downloaden</value>
+  <data name="Error.Upgrade.Execute" xml:space="preserve">
+    <value>Fout bij uitvoeren van upgrade</value>
   </data>
-  <data name="Upgrade To" xml:space="preserve">
-    <value>Upgraden naar</value>
-  </data>
-  <data name="Install" xml:space="preserve">
-    <value>Installeren</value>
-  </data>
-  <data name="Framework.Text" xml:space="preserve">
-    <value>Kader:</value>
+  <data name="Error.Framework.Download" xml:space="preserve">
+    <value>Fout bij downloaden van Framework-pakket</value>
   </data>
   <data name="Framework.HelpText" xml:space="preserve">
     <value>Upload een framework-pakket en selecteer Installeren om de installatie te voltooien</value>
   </data>
-  <data name="Error Executing Upgrade" xml:space="preserve">
-    <value>Fout bij uitvoeren van upgrade</value>
+  <data name="Framework.Text" xml:space="preserve">
+    <value>Kader:</value>
   </data>
-  <data name="Error Downloading Framework" xml:space="preserve">
-    <value>Fout bij downloaden van Framework</value>
+  <data name="Info.Upgrade.Wait" xml:space="preserve">
+    <value>Wees geduldig terwijl de upgrade wordt uitgevoerd...</value>
+  </data>
+  <data name="Success.Framework.Download" xml:space="preserve">
+    <value>Framework succesvol gedownload... Selecteer Upgrade om het proces te voltooien</value>
   </data>
 </root>

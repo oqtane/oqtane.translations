@@ -117,10 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Login" xml:space="preserve">
-    <value>Aanmelden</value>
+  <data name="Server.Text" xml:space="preserve">
+    <value>Server:</value>
   </data>
-  <data name="Logout" xml:space="preserve">
-    <value>Uitloggen</value>
+  <data name="Server.HelpText" xml:space="preserve">
+    <value>Voer de databaseserver in</value>
+  </data>
+  <data name="Port.Text" xml:space="preserve">
+    <value>Poort:</value>
+  </data>
+  <data name="Port.HelpText" xml:space="preserve">
+    <value>Voer de poort in die wordt gebruikt om verbinding te maken met de server</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Gegevensbestand:</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Voer de naam van de database in</value>
+  </data>
+  <data name="Uid.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
+  <data name="Uid.HelpText" xml:space="preserve">
+    <value>Voer de gebruikersnaam in die je voor de database wil gebruiken</value>
+  </data>
+  <data name="Pwd.Text" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Pwd.HelpText" xml:space="preserve">
+    <value>Voer het wachtwoord in dat je voor de database wil gebruiken</value>
   </data>
 </root>

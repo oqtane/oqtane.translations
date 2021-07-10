@@ -117,70 +117,67 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>Naam</value>
-  </data>
-  <data name="Restore" xml:space="preserve">
-    <value>Herstellen</value>
-  </data>
-  <data name="Pages.Name" xml:space="preserve">
-    <value>Paginas</value>
-  </data>
-  <data name="Page" xml:space="preserve">
-    <value>Bladzijde</value>
-  </data>
-  <data name="No Deleted Pages" xml:space="preserve">
-    <value>Geen verwijderde pagina's</value>
-  </data>
-  <data name="No Deleted Modules" xml:space="preserve">
-    <value>Geen verwijderde modules</value>
-  </data>
-  <data name="Module" xml:space="preserve">
-    <value>Module</value>
-  </data>
   <data name="DeleteModule.Header" xml:space="preserve">
     <value>Module verwijderen</value>
-  </data>
-  <data name="Deleted On" xml:space="preserve">
-    <value>Verwijderd op</value>
-  </data>
-  <data name="Deleted By" xml:space="preserve">
-    <value>Verwijderd door</value>
-  </data>
-  <data name="DeleteAllPages.Message" xml:space="preserve">
-    <value>Weet u zeker dat u alle pagina's definitief wilt verwijderen?</value>
-  </data>
-  <data name="DeleteAllPages.Header" xml:space="preserve">
-    <value>Verwijder alle pagina's</value>
-  </data>
-  <data name="DeleteAllModules.Message" xml:space="preserve">
-    <value>Weet u zeker dat u alle modules definitief wilt verwijderen?</value>
-  </data>
-  <data name="DeleteAllModules.Header" xml:space="preserve">
-    <value>Verwijder alle modules</value>
   </data>
   <data name="DeletePage.Header" xml:space="preserve">
     <value>Pagina verwijderen</value>
   </data>
-  <data name="Are You Sure You Wish To Permanently Delete The {0} Page?" xml:space="preserve">
-    <value>Weet je zeker dat je de pagina {0} permanent wilt verwijderen?</value>
+  <data name="NoPage.Deleted" xml:space="preserve">
+    <value>Geen verwijderde pagina's</value>
   </data>
-  <data name="Are You Sure You Wish To Permanently Delete The {0} Module?" xml:space="preserve">
-    <value>Weet je zeker dat je de module {0} permanent wilt verwijderen?</value>
+  <data name="DeletedBy" xml:space="preserve">
+    <value>Verwijderd door</value>
   </data>
-  <data name="Error Loading Deleted Pages Or Modules" xml:space="preserve">
+  <data name="DeletedOn" xml:space="preserve">
+    <value>Verwijderd aan</value>
+  </data>
+  <data name="Confirm.Page.Delete" xml:space="preserve">
+    <value>Weet je zeker dat je de pagina {0} permanent wil verwijderen?</value>
+  </data>
+  <data name="NoModule.Deleted" xml:space="preserve">
+    <value>Geen verwijderde modules</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Bladzijde</value>
+  </data>
+  <data name="Module" xml:space="preserve">
+    <value>module</value>
+  </data>
+  <data name="Restore" xml:space="preserve">
+    <value>Herstellen</value>
+  </data>
+  <data name="Confirm.Module.Delete" xml:space="preserve">
+    <value>Weet je zeker dat je de module {0} permanent wil verwijderen?</value>
+  </data>
+  <data name="Error.DeletedModulePage.Load" xml:space="preserve">
     <value>Fout bij laden van verwijderde pagina's of modules</value>
   </data>
-  <data name="Error Restoring Deleted Page" xml:space="preserve">
+  <data name="Error.Page.Restore" xml:space="preserve">
     <value>Fout bij herstellen van verwijderde pagina</value>
   </data>
-  <data name="Error Restoring Deleted Module" xml:space="preserve">
+  <data name="Error.Module.Restore" xml:space="preserve">
     <value>Fout bij herstellen van verwijderde module</value>
   </data>
-  <data name="Error Permanently Deleting Module" xml:space="preserve">
+  <data name="Error.Module.Delete" xml:space="preserve">
     <value>Fout bij permanent verwijderen van module</value>
   </data>
-  <data name="Error Permanently Deleting Modules" xml:space="preserve">
+  <data name="Error.Modules.Delete" xml:space="preserve">
     <value>Fout bij het permanent verwijderen van modules</value>
+  </data>
+  <data name="DeleteAllPages.Header" xml:space="preserve">
+    <value>Alle pagina's verwijderen</value>
+  </data>
+  <data name="DeleteAllPages.Message" xml:space="preserve">
+    <value>Weet je zeker dat je alle pagina's permanent wil verwijderen?</value>
+  </data>
+  <data name="DeleteAllModules.Header" xml:space="preserve">
+    <value>Alle modules verwijderen</value>
+  </data>
+  <data name="DeleteAllModules.Message" xml:space="preserve">
+    <value>Weet j zeker dat je alle modules permanent wil verwijderen?</value>
+  </data>
+  <data name="Pages.Name" xml:space="preserve">
+    <value>Pagina's</value>
   </data>
 </root>

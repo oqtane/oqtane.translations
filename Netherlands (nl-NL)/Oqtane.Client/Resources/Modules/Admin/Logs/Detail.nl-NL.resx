@@ -117,94 +117,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
-  <data name="User.Text" xml:space="preserve">
-    <value>Gebruiker:</value>
-  </data>
-  <data name="User.HelpText" xml:space="preserve">
-    <value>De gebruiker die dit logboek heeft veroorzaakt</value>
-  </data>
   <data name="Url.Text" xml:space="preserve">
     <value>URL:</value>
   </data>
-  <data name="Url.HelpText" xml:space="preserve">
-    <value>De url waar het logboek vandaan komt</value>
-  </data>
-  <data name="Template.Text" xml:space="preserve">
-    <value>Sjabloon:</value>
-  </data>
-  <data name="Template.HelpText" xml:space="preserve">
-    <value>Waar het logboek over gaat</value>
-  </data>
-  <data name="Server.Text" xml:space="preserve">
-    <value>Server:</value>
-  </data>
-  <data name="Server.HelpText" xml:space="preserve">
-    <value>De server die is getroffen</value>
-  </data>
-  <data name="Properties.Text" xml:space="preserve">
-    <value>Eigenschappen :</value>
-  </data>
-  <data name="Properties.HelpText" xml:space="preserve">
-    <value>De eigenschappen die zijn aangetast</value>
-  </data>
-  <data name="Page.Text" xml:space="preserve">
-    <value>Bladzijde:</value>
-  </data>
-  <data name="Page.HelpText" xml:space="preserve">
-    <value>De pagina die is getroffen</value>
-  </data>
-  <data name="Module.Text" xml:space="preserve">
-    <value>Module:</value>
-  </data>
-  <data name="Module.HelpText" xml:space="preserve">
-    <value>De module die is getroffen</value>
-  </data>
-  <data name="Message.Text" xml:space="preserve">
-    <value>Bericht:</value>
-  </data>
-  <data name="Message.HelpText" xml:space="preserve">
-    <value>Het bericht dat het systeem heeft gegenereerd</value>
-  </data>
-  <data name="Level.Text" xml:space="preserve">
-    <value>Niveau:</value>
-  </data>
-  <data name="Level.HelpText" xml:space="preserve">
-    <value>Het niveau van dit logboek</value>
-  </data>
-  <data name="Function.Text" xml:space="preserve">
-    <value>Functie:</value>
-  </data>
-  <data name="Function.HelpText" xml:space="preserve">
-    <value>De functie die is uitgevoerd</value>
-  </data>
-  <data name="Feature.Text" xml:space="preserve">
-    <value>Voorzien zijn van:</value>
-  </data>
-  <data name="Feature.HelpText" xml:space="preserve">
-    <value>De functie die is beïnvloed</value>
-  </data>
-  <data name="Exception.Text" xml:space="preserve">
-    <value>Uitzondering:</value>
-  </data>
-  <data name="Exception.HelpText" xml:space="preserve">
-    <value>De uitzonderingen die door het systeem worden gegenereerd</value>
-  </data>
-  <data name="DateTime.Text" xml:space="preserve">
-    <value>Datum Tijd:</value>
+  <data name="Error Loading Log" xml:space="preserve">
+    <value>Fout bij laden van logboek</value>
   </data>
   <data name="DateTime.HelpText" xml:space="preserve">
     <value>De datum en tijd van dit logboek</value>
   </data>
-  <data name="Category.Text" xml:space="preserve">
-    <value>Categorie:</value>
+  <data name="Level.HelpText" xml:space="preserve">
+    <value>Het niveau van dit logboek</value>
+  </data>
+  <data name="Feature.HelpText" xml:space="preserve">
+    <value>De functie die is beïnvloed</value>
+  </data>
+  <data name="Function.HelpText" xml:space="preserve">
+    <value>De functie die werd uitgevoerd</value>
   </data>
   <data name="Category.HelpText" xml:space="preserve">
     <value>De categorieën die zijn getroffen</value>
   </data>
-  <data name="Error Loading Log" xml:space="preserve">
+  <data name="Page.HelpText" xml:space="preserve">
+    <value>De pagina die is getroffen</value>
+  </data>
+  <data name="Module.HelpText" xml:space="preserve">
+    <value>De module die is getroffen</value>
+  </data>
+  <data name="User.HelpText" xml:space="preserve">
+    <value>De gebruiker die dit logboek heeft veroorzaakt</value>
+  </data>
+  <data name="Url.HelpText" xml:space="preserve">
+    <value>De url waar de log vandaan komt</value>
+  </data>
+  <data name="Template.HelpText" xml:space="preserve">
+    <value>Waar gaat het logboek over?</value>
+  </data>
+  <data name="Message.HelpText" xml:space="preserve">
+    <value>Het bericht dat het systeem heeft gegenereerd</value>
+  </data>
+  <data name="Exception.HelpText" xml:space="preserve">
+    <value>De uitzonderingen die door het systeem worden gegenereerd</value>
+  </data>
+  <data name="Properties.HelpText" xml:space="preserve">
+    <value>De eigenschappen die zijn getroffen</value>
+  </data>
+  <data name="Server.HelpText" xml:space="preserve">
+    <value>De server die is getroffen</value>
+  </data>
+  <data name="DateTime.Text" xml:space="preserve">
+    <value>Datum Tijd:</value>
+  </data>
+  <data name="Level.Text" xml:space="preserve">
+    <value>Niveau:</value>
+  </data>
+  <data name="Feature.Text" xml:space="preserve">
+    <value>Voorzien zijn van:</value>
+  </data>
+  <data name="Function.Text" xml:space="preserve">
+    <value>Functie:</value>
+  </data>
+  <data name="Category.Text" xml:space="preserve">
+    <value>Categorie:</value>
+  </data>
+  <data name="Page.Text" xml:space="preserve">
+    <value>Bladzijde:</value>
+  </data>
+  <data name="Module.Text" xml:space="preserve">
+    <value>Module:</value>
+  </data>
+  <data name="User.Text" xml:space="preserve">
+    <value>Gebruiker:</value>
+  </data>
+  <data name="Template.Text" xml:space="preserve">
+    <value>Sjabloon:</value>
+  </data>
+  <data name="Message.Text" xml:space="preserve">
+    <value>Bericht:</value>
+  </data>
+  <data name="Exception.Text" xml:space="preserve">
+    <value>Uitzondering:</value>
+  </data>
+  <data name="Properties.Text" xml:space="preserve">
+    <value>Eigendommen:</value>
+  </data>
+  <data name="Server.Text" xml:space="preserve">
+    <value>Server:</value>
+  </data>
+  <data name="Error.Log.Load" xml:space="preserve">
     <value>Fout bij laden van logboek</value>
   </data>
 </root>

@@ -117,17 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annuleer</value>
-  </data>
   <data name="Template.Text" xml:space="preserve">
     <value>Sjabloon:</value>
   </data>
-  <data name="Select Template" xml:space="preserve">
+  <data name="Template.Select" xml:space="preserve">
     <value>Selecteer sjabloon</value>
-  </data>
-  <data name="Local Version" xml:space="preserve">
-    <value>Lokale versie</value>
   </data>
   <data name="FrameworkReference.HelpText" xml:space="preserve">
     <value>Selecteer een referentieversie van het raamwerk</value>
@@ -141,17 +135,17 @@
   <data name="Location.Text" xml:space="preserve">
     <value>Plaats:</value>
   </data>
-  <data name="Create Theme" xml:space="preserve">
+  <data name="Theme.Create" xml:space="preserve">
     <value>Thema maken</value>
   </data>
-  <data name="Please Note That The Theme Creator Is Only Intended To Be Used In A Development Environment" xml:space="preserve">
+  <data name="Info.Theme.CreatorIntent" xml:space="preserve">
     <value>Houd er rekening mee dat de Theme Creator alleen bedoeld is om te worden gebruikt in een ontwikkelomgeving</value>
   </data>
-  <data name="The Source Code For Your Theme Has Been Created At The Location Specified Below And Must Be Compiled In Order To Make It Functional. Once It Has Been Compiled You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Activate The Module." xml:space="preserve">
-    <value>De broncode voor uw thema is gemaakt op de hieronder aangegeven locatie en moet worden gecompileerd om het functioneel te maken. Zodra het is gecompileerd, moet u uw toepassing &lt;a href=\"{0}\"&gt;Herstart&lt;/a&gt; om de module te activeren.</value>
+  <data name="Success.Theme.Create" xml:space="preserve">
+    <value>De broncode voor uw thema is gemaakt op de hieronder aangegeven locatie en moet worden gecompileerd om het functioneel te maken. Zodra het is gecompileerd, moet je jouw toepassing &lt;a href={0}&gt;Herstart&lt;/a&gt; om de module te activeren.</value>
   </data>
-  <data name="You Must Provide A Valid Owner Name And Theme Name ( ie. No Punctuation Or Spaces And The Values Cannot Be The Same ) And Choose A Template" xml:space="preserve">
-    <value>Je moet een geldige eigenaarsnaam en themanaam opgeven (dwz geen leestekens of spaties en de waarden kunnen niet hetzelfde zijn) en een sjabloon kiezen</value>
+  <data name="Message.Required.ValidName" xml:space="preserve">
+    <value>Je  moet een geldige eigenaarsnaam en themanaam opgeven (dwz geen leestekens of spaties en de waarden kunnen niet hetzelfde zijn) en een sjabloon kiezen</value>
   </data>
   <data name="OwnerName.HelpText" xml:space="preserve">
     <value>Vul de naam in van de organisatie die dit thema ontwikkelt. Het mag geen spaties of leestekens bevatten.</value>
