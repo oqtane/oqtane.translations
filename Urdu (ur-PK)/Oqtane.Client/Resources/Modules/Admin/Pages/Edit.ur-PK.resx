@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Save" xml:space="preserve">
+    <value>محفوظ کریں</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>منسوخ کریں</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>جی ہاں</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>نہیں</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>نام:</value>
+  </data>
+  <data name="Parent.Text" xml:space="preserve">
+    <value>والدین:</value>
+  </data>
+  <data name="Title.Text" xml:space="preserve">
+    <value>عنوان:</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>ترتیبات</value>
+  </data>
+  <data name="Site Root" xml:space="preserve">
+    <value>سائٹ روٹ</value>
+  </data>
+  <data name="Before" xml:space="preserve">
+    <value>پہلے</value>
+  </data>
+  <data name="After" xml:space="preserve">
+    <value>اس کے بعد</value>
+  </data>
+  <data name="Select Page" xml:space="preserve">
+    <value>صفحہ منتخب کریں</value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>کنٹینر منتخب کریں</value>
+  </data>
+  <data name="Error Loading Child Pages For Parent" xml:space="preserve">
+    <value>والدین کے لئے ، بچوں کے صفحات ، لوڈ کرنے میں غلطی۔</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>تھیم کیلئے پین لے آؤٹ لوڈ کرنے میں خرابی</value>
+  </data>
+  <data name="A page with path {0} already exists for the selected parent page. The page path needs to be unique for the selected parent." xml:space="preserve">
+    <value>منتخب کردہ والدین کے صفحے کے لئے ایک صفحہ محل وقوع {0} پہلے سے موجود ہے۔ صفحے کے مقام کو منتخب کردہ والدین کے لئے انوکھا ہونا ضروری ہے۔</value>
+  </data>
+  <data name="You Must Provide Page Name, Theme, and Container" xml:space="preserve">
+    <value>آپ کو صفحہ کا نام ، تھیم اور کنٹینر فراہم کرنا ہوگا</value>
+  </data>
+  <data name="Error Saving Page" xml:space="preserve">
+    <value>صفحہ محفوظ کرنے میں خرابی</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>صفحے کا نام درج کریں</value>
+  </data>
+  <data name="Parent.HelpText" xml:space="preserve">
+    <value>سائٹ درجہ بندی میں صفحے کے لئے والدین کو منتخب کریں</value>
+  </data>
+  <data name="Navigation.HelpText" xml:space="preserve">
+    <value>منتخب کریں کہ آیا صفحہ سائٹ نیویگیشن کا حصہ ہے یا پوشیدہ ہے</value>
+  </data>
+  <data name="UrlPath.HelpText" xml:space="preserve">
+    <value>اختیاری طور پر اس صفحے (جیسے گھر) کے لئے یو آر ایل کا راستہ درج کریں۔ اگر آپ یو آر ایل کا راستہ فراہم نہیں کرتے ہیں تو ، صفحہ کا نام استعمال ہوگا۔</value>
+  </data>
+  <data name="Redirect.HelpText" xml:space="preserve">
+    <value>اختیاری طور پر یو آر ایل درج کریں جسے اس صفحے پر دوبارہ بھیجنا چاہئے جب صارف اس پر نیویگیٹ ہوتا ہے</value>
+  </data>
+  <data name="Title.HelpText" xml:space="preserve">
+    <value>اختیاری طور پر صفحہ کا عنوان درج کریں۔ اگر آپ صفحے کا عنوان فراہم نہیں کرتے ہیں تو ، صفحہ کا نام استعمال ہوگا۔</value>
+  </data>
+  <data name="Theme.HelpText" xml:space="preserve">
+    <value>اس صفحے کے لئے تھیم منتخب کریں</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>صفحے کے لئے پہلے سے طے شدہ کنٹینر منتخب کریں</value>
+  </data>
+  <data name="Icon.HelpText" xml:space="preserve">
+    <value>اختیاری طور پر اس صفحے کے لئے آئکن کلاس کا نام فراہم کریں جو سائٹ نیویگیشن میں ظاہر ہوگا</value>
+  </data>
+  <data name="Personalizable.HelpText" xml:space="preserve">
+    <value>منتخب کریں کہ آیا آپ چاہیں گے کہ صارفین اپنے صفحہ کے ساتھ اپنے صفحے کو ذاتی نوعیت کا بنائیں</value>
+  </data>
+  <data name="Navigation.Text" xml:space="preserve">
+    <value>نیویگیشنز؟</value>
+  </data>
+  <data name="UrlPath.Text" xml:space="preserve">
+    <value>یو آر ایل مقام:</value>
+  </data>
+  <data name="Redirect.Text" xml:space="preserve">
+    <value>ری ڈائریکٹ:</value>
+  </data>
+  <data name="Theme.Text" xml:space="preserve">
+    <value>تھیم:</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>پہلے سے طے شدہ کنٹینر:</value>
+  </data>
+  <data name="Icon.Text" xml:space="preserve">
+    <value>تصویر:</value>
+  </data>
+  <data name="Personalizable.Text" xml:space="preserve">
+    <value>ذاتی نوعیت کا۔</value>
+  </data>
+  <data name="Appearance.Name" xml:space="preserve">
+    <value>ظہور</value>
+  </data>
+  <data name="Maintain Current Location" xml:space="preserve">
+    <value>موجودہ مقام کو برقرار رکھیں</value>
+  </data>
+  <data name="To Beginning" xml:space="preserve">
+    <value>شروع کرنا</value>
+  </data>
+  <data name="To End" xml:space="preserve">
+    <value>اختتام کرنا</value>
+  </data>
+  <data name="Error Loading Page" xml:space="preserve">
+    <value>صفحہ لوڈ کرنے میں خرابی</value>
+  </data>
+  <data name="Move.HelpText" xml:space="preserve">
+    <value>دوسرے مقامات کے سلسلے میں وہ مقام منتخب کریں جہاں آپ اس صفحے کو منتقل کرنا چاہتے ہیں</value>
+  </data>
+  <data name="Move.Text" xml:space="preserve">
+    <value>منتقل:</value>
+  </data>
+</root>
