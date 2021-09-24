@@ -205,7 +205,7 @@
     <value>Voer de gebruikersnaam voor uw SMTP-account in</value>
   </data>
   <data name="SmtpPassword.HelpText" xml:space="preserve">
-    <value>Voer het wachtwoord voor uw SMTP-account in</value>
+    <value>Voer het wachtwoord voor jouw SMTP-account in</value>
   </data>
   <data name="SmptSender.HelpText" xml:space="preserve">
     <value>Voer het e-mailadres in van waaruit e-mails worden verzonden. Houd er rekening mee dat dit e-mailadres mogelijk moet worden geautoriseerd met de SMTP-server.</value>

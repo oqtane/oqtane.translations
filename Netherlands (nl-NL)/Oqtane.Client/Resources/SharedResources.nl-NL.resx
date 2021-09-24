@@ -279,4 +279,37 @@
   <data name="Search.Source" xml:space="preserve">
     <value>bron</value>
   </data>
+  <data name="Message.InfoRequired" xml:space="preserve">
+    <value>Geef alle vereiste informatie op</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Gratis</value>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>Betaald</value>
+  </data>
+  <data name="Search.Price" xml:space="preserve">
+    <value>prijs</value>
+  </data>
+  <data name="Accept" xml:space="preserve">
+    <value>Aanvaarden</value>
+  </data>
+  <data name="License Not Specified" xml:space="preserve">
+    <value>Licentie niet gespecificeerd</value>
+  </data>
+  <data name="Review License Terms" xml:space="preserve">
+    <value>Licentievoorwaarden bekijken</value>
+  </data>
+  <data name="Trial" xml:space="preserve">
+    <value>Dagproef</value>
+  </data>
+  <data name="Expires" xml:space="preserve">
+    <value>Verloopt</value>
+  </data>
+  <data name="Extend" xml:space="preserve">
+    <value>Verlengen</value>
+  </data>
+  <data name="Not Specified" xml:space="preserve">
+    <value>Niet gespecificeerd</value>
+  </data>
 </root>

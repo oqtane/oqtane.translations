@@ -138,4 +138,34 @@
   <data name="Register" xml:space="preserve">
     <value>Registreer mij alstublieft voor belangrijke productupdates en beveiligingsbulletins</value>
   </data>
+  <data name="DatabaseType.Text" xml:space="preserve">
+    <value>Database:</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Bevestig het hierboven ingevoerde wachtwoord door het opnieuw in te voeren</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Bevestigen:</value>
+  </data>
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>Selecteer het type database dat u wilt gebruiken</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Geef het e-mailadres op voor het hostgebruikersaccount</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Geef een wachtwoord op voor het primaire gebruikersaccount</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Wachtwoord:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Geef een gebruikersnaam op voor het primaire gebruikersaccount</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
 </root>

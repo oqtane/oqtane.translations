@@ -126,4 +126,10 @@
   <data name="Content.Text" xml:space="preserve">
     <value>Inhoud:</value>
   </data>
+  <data name="Error.Module.Export" xml:space="preserve">
+    <value>Fout bij het exporteren van module-inhoud</value>
+  </data>
+  <data name="Success.Content.Export" xml:space="preserve">
+    <value>Inhoud succesvol geëxporteerd</value>
+  </data>
 </root>

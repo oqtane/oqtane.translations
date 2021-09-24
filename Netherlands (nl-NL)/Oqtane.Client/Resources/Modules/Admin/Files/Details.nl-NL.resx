@@ -144,4 +144,10 @@
   <data name="Size.Text" xml:space="preserve">
     <value>Grootte:</value>
   </data>
+  <data name="Description.HelpText" xml:space="preserve">
+    <value>Een beschrijving van het bestand. Dit kan worden gebruikt als bijschrift voor afbeeldingsbestanden.</value>
+  </data>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Omschrijving:</value>
+  </data>
 </root>

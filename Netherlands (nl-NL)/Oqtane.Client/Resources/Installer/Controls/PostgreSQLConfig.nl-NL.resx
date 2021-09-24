@@ -153,4 +153,10 @@
   <data name="Pwd.HelpText" xml:space="preserve">
     <value>Voer het wachtwoord in dat je voor de database wil gebruiken</value>
   </data>
+  <data name="Custom" xml:space="preserve">
+    <value>Aangepast</value>
+  </data>
+  <data name="Integrated" xml:space="preserve">
+    <value>Geïntegreerd</value>
+  </data>
 </root>
