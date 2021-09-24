@@ -187,7 +187,7 @@
     <value>E-mail:</value>
   </data>
   <data name="Password.HelpText" xml:space="preserve">
-    <value>Als je jouw wachtwoord wil wijzigen, kun je dit hier invoeren. Kies een voldoende veilig wachtwoord.</value>
+    <value>Als je jou wachtwoord wil wijzigen, kun je dit hier invoeren. Kies een voldoende veilig wachtwoord.</value>
   </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Wachtwoord:</value>

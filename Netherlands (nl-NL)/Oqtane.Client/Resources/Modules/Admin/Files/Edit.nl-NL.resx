@@ -165,4 +165,22 @@
   <data name="DeleteFolder.Message" xml:space="preserve">
     <value>Weet je zeker dat je deze map wil verwijderen?</value>
   </data>
+  <data name="Type.HelpText" xml:space="preserve">
+    <value>Selecteer het maptype. Privémappen zijn alleen toegankelijk voor geautoriseerde gebruikers. Openbare mappen zijn toegankelijk voor alle gebruikers</value>
+  </data>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Type:</value>
+  </data>
+  <data name="Capacity.HelpText" xml:space="preserve">
+    <value>Voer de maximale mapcapaciteit in (in megabytes). Geef nul op als de capaciteit onbeperkt is.</value>
+  </data>
+  <data name="Capacity.Text" xml:space="preserve">
+    <value>Capaciteit:</value>
+  </data>
+  <data name="ImageSizes.HelpText" xml:space="preserve">
+    <value>Voer een lijst in met afbeeldingsformaten die dynamisch kunnen worden gegenereerd uit geüploade afbeeldingen (bijv. 200x200,x200,200x)</value>
+  </data>
+  <data name="ImageSizes.Text" xml:space="preserve">
+    <value>Afbeeldingsformaten:</value>
+  </data>
 </root>
