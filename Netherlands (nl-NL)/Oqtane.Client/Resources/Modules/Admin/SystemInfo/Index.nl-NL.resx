@@ -202,7 +202,7 @@
     <value>Het minimale registratieniveau voor het gebeurtenislogboek. Deze optie kan worden gebruikt om het volume van items te regelen die zijn opgeslagen in uw gebeurtenislogboek.</value>
   </data>
   <data name="Trace" xml:space="preserve">
-    <value>Spoor</value>
+    <value>Tracé</value>
   </data>
   <data name="Debug" xml:space="preserve">
     <value>Debuggen</value>
