@@ -168,9 +168,6 @@
   <data name="Tenant.HelpText" xml:space="preserve">
     <value>Voer de huurder voor de site in</value>
   </data>
-  <data name="Aliases.HelpText" xml:space="preserve">
-    <value>Voer de alias voor de server in</value>
-  </data>
   <data name="AllowRegistration.HelpText" xml:space="preserve">
     <value>Wil je dat de gebruikers zich kunnen registreren voor een account op de site?</value>
   </data>
@@ -281,5 +278,26 @@
   </data>
   <data name="Theme.Select" xml:space="preserve">
     <value>Selecteer thema</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>De aliassen voor de site. Een alias kan een domeinnaam (www.site.com) of een virtuele map (bijv. www.site.com/folder) zijn. Als een site meerdere aliassen heeft, moeten deze worden gescheiden door komma's.</value>
+  </data>
+  <data name="Hosting" xml:space="preserve">
+    <value>Hostingmodel</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Specificeert of de site vooraf moet worden weergegeven (voor zoekcrawlers, enz...)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>Vooraf?</value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>Het Blazor runtime-hostingmodel</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Looptijd:</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Bladeren</value>
   </data>
 </root>

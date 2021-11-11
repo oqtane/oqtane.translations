@@ -120,9 +120,6 @@
   <data name="DatabaseConfig" xml:space="preserve">
     <value>Databaseconfiguratie</value>
   </data>
-  <data name="DatabaseType" xml:space="preserve">
-    <value>Databasetype:</value>
-  </data>
   <data name="ApplicationAdmin" xml:space="preserve">
     <value>Applicatiebeheerder</value>
   </data>

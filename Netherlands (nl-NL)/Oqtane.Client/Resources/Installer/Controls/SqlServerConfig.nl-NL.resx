@@ -153,4 +153,22 @@
   <data name="Integrated" xml:space="preserve">
     <value>Geïntegreerd</value>
   </data>
+  <data name="Encryption,Text" xml:space="preserve">
+    <value>Encryptie:</value>
+  </data>
+  <data name="Encryption.HelpText" xml:space="preserve">
+    <value>Geef aan of je een versleutelde databaseverbinding gebruikt. Het wordt sterk aanbevolen om encryptie te gebruiken in een productieomgeving.</value>
+  </data>
+  <data name="Self Signed" xml:space="preserve">
+    <value>Zelf ondertekend</value>
+  </data>
+  <data name="TrustServerCertificate.HelpText" xml:space="preserve">
+    <value>Specificeer het type certificaat dat je gebruikt voor codering</value>
+  </data>
+  <data name="TrustServerCertificate.Text" xml:space="preserve">
+    <value>Trust Server-certificaat:</value>
+  </data>
+  <data name="Verifiable" xml:space="preserve">
+    <value>Verifieerbaar</value>
+  </data>
 </root>

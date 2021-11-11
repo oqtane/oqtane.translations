@@ -258,4 +258,16 @@
   <data name="Error.Database.LoadConfig" xml:space="preserve">
     <value>Fout bij laden van databaseconfiguratiebeheer</value>
   </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Specificeert of de site vooraf moet worden weergegeven (voor zoekcrawlers, enz...)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>Vooraf?</value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>Het Blazor runtime-hostingmodel</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Looptijd:</value>
+  </data>
 </root>
