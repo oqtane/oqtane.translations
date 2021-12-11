@@ -300,4 +300,19 @@
   <data name="Browse" xml:space="preserve">
     <value>Bladeren</value>
   </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Uiterlijk</value>
+  </data>
+  <data name="Hosting.Heading" xml:space="preserve">
+    <value>Hostingmodel</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>Tenant Informatie</value>
+  </data>
+  <data name="PWASettings.Heading" xml:space="preserve">
+    <value>PWA-instellingen</value>
+  </data>
+  <data name="SMTPSettings.Heading" xml:space="preserve">
+    <value>SMTP-instellingen</value>
+  </data>
 </root>

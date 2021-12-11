@@ -117,10 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Error.Content.Save" xml:space="preserve">
-    <value>Fout bij opslaan van inhoud</value>
+  <data name="MappedUrl.Text" xml:space="preserve">
+    <value>Omleiden naar:</value>
   </data>
-  <data name="Error.Content.Load" xml:space="preserve">
-    <value>Er is een fout opgetreden bij het laden van inhoud</value>
+  <data name="MappedUrl.HelpText" xml:space="preserve">
+    <value>Een volledig gekwalificeerde URL waar de gebruiker naar wordt omgeleid</value>
+  </data>
+  <data name="Url.HelpText" xml:space="preserve">
+    <value>Een volledig gekwalificeerde URL voor deze site</value>
+  </data>
+  <data name="Url.Text" xml:space="preserve">
+    <value>URL:</value>
+  </data>
+  <data name="Error.SaveUrlMapping" xml:space="preserve">
+    <value>Fout bij opslaan van URL-toewijzing</value>
+  </data>
+  <data name="Message.InfoRequired" xml:space="preserve">
+    <value>Geef alle vereiste informatie op</value>
   </data>
 </root>

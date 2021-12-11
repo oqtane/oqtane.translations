@@ -117,10 +117,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Error.Content.Save" xml:space="preserve">
-    <value>Fout bij opslaan van inhoud</value>
+  <data name="Url" xml:space="preserve">
+    <value>URL</value>
   </data>
-  <data name="Error.Content.Load" xml:space="preserve">
-    <value>Er is een fout opgetreden bij het laden van inhoud</value>
+  <data name="Requested" xml:space="preserve">
+    <value>Aangevraagd</value>
+  </data>
+  <data name="Requests" xml:space="preserve">
+    <value>Verzoeken</value>
+  </data>
+  <data name="AllVisitors" xml:space="preserve">
+    <value>Alle bezoekers</value>
+  </data>
+  <data name="PastDay" xml:space="preserve">
+    <value>Gisteren</value>
+  </data>
+  <data name="PastMonth" xml:space="preserve">
+    <value>Afgelopen maand</value>
+  </data>
+  <data name="PastWeek" xml:space="preserve">
+    <value>Vorige week</value>
+  </data>
+  <data name="UsersOnly" xml:space="preserve">
+    <value>Alleen gebruikers</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Taal</value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Fout bij opslaan van instellingen</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Instellingen succesvol opgeslagen</value>
+  </data>
+  <data name="Visitors.Heading" xml:space="preserve">
+    <value>Bezoekers</value>
+  </data>
+  <data name="VisitorTracking.HelpText" xml:space="preserve">
+    <value>Geef aan of het volgen van bezoekers is ingeschakeld</value>
+  </data>
+  <data name="VisitorTracking.Text" xml:space="preserve">
+    <value>Bezoekers volgen ingeschakeld?</value>
   </data>
 </root>

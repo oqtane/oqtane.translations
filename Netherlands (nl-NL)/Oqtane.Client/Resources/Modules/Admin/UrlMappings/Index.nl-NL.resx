@@ -117,10 +117,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Error.Content.Save" xml:space="preserve">
-    <value>Fout bij opslaan van inhoud</value>
+  <data name="Confirm.DeleteUrlMapping" xml:space="preserve">
+    <value>Weet je zeker dat je {0} wil verwijderen?</value>
   </data>
-  <data name="Error.Content.Load" xml:space="preserve">
-    <value>Er is een fout opgetreden bij het laden van inhoud</value>
+  <data name="AddUrlMapping.Text" xml:space="preserve">
+    <value>URL-toewijzing toevoegen</value>
+  </data>
+  <data name="DeleteUrlMapping.Header" xml:space="preserve">
+    <value>URL-toewijzing verwijderen</value>
+  </data>
+  <data name="IP" xml:space="preserve">
+    <value>IP</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Gebruiker</value>
+  </data>
+  <data name="Visited" xml:space="preserve">
+    <value>bezocht</value>
+  </data>
+  <data name="Visits" xml:space="preserve">
+    <value>bezoeken</value>
+  </data>
+  <data name="Mapped" xml:space="preserve">
+    <value>Toegewezen URL's</value>
+  </data>
+  <data name="Broken" xml:space="preserve">
+    <value>Gebroken URL's</value>
+  </data>
+  <data name="CaptureBrokenUrls.HelpText" xml:space="preserve">
+    <value>Geef aan of verbroken URL's automatisch moeten worden vastgelegd en opgeslagen in URL-toewijzingen</value>
+  </data>
+  <data name="CaptureBrokenUrls.Text" xml:space="preserve">
+    <value>Gebroken URL's vastleggen?</value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Fout bij opslaan van instellingen</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Instellingen succesvol opgeslagen</value>
+  </data>
+  <data name="Urls.Heading" xml:space="preserve">
+    <value>URL's</value>
   </data>
 </root>
