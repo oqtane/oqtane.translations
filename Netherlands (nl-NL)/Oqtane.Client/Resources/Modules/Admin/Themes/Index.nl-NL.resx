@@ -138,4 +138,10 @@
   <data name="DeleteTheme.Header" xml:space="preserve">
     <value>Thema verwijderen</value>
   </data>
+  <data name="CreateTheme.Text" xml:space="preserve">
+    <value>Thema maken</value>
+  </data>
+  <data name="ViewTheme.Text" xml:space="preserve">
+    <value>Visie</value>
+  </data>
 </root>

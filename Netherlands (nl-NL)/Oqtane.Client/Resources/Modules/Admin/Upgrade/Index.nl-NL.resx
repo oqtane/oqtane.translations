@@ -135,4 +135,10 @@
   <data name="Success.Framework.Download" xml:space="preserve">
     <value>Framework succesvol gedownload... Selecteer Upgrade om het proces te voltooien</value>
   </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Downloaden</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Uploaden</value>
+  </data>
 </root>

@@ -120,12 +120,6 @@
   <data name="Url" xml:space="preserve">
     <value>URL</value>
   </data>
-  <data name="Requested" xml:space="preserve">
-    <value>Aangevraagd</value>
-  </data>
-  <data name="Requests" xml:space="preserve">
-    <value>Verzoeken</value>
-  </data>
   <data name="AllVisitors" xml:space="preserve">
     <value>Alle bezoekers</value>
   </data>
@@ -161,5 +155,20 @@
   </data>
   <data name="VisitorTracking.Text" xml:space="preserve">
     <value>Bezoekers volgen ingeschakeld?</value>
+  </data>
+  <data name="Visited" xml:space="preserve">
+    <value>Bezocht</value>
+  </data>
+  <data name="Visits" xml:space="preserve">
+    <value>Bezoeken</value>
+  </data>
+  <data name="IP" xml:space="preserve">
+    <value>IP</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Gebruiker</value>
+  </data>
+  <data name="Created" xml:space="preserve">
+    <value>Gemaakt</value>
   </data>
 </root>

@@ -138,4 +138,10 @@
   <data name="Search.NoResults" xml:space="preserve">
     <value>Geen enkele module komt overeen met de opgegeven criteria of de pakketservice is uitgeschakeld</value>
   </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Downloaden</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Uploaden</value>
+  </data>
 </root>

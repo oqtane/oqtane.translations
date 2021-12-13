@@ -153,4 +153,19 @@
   <data name="Search.NoResults" xml:space="preserve">
     <value>Geen enkele vertaling komt overeen met de opgegeven criteria of de pakketservice is uitgeschakeld</value>
   </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Downloaden</value>
+  </data>
+  <data name="LanguageUpload.HelpText" xml:space="preserve">
+    <value>Upload een of meerdere vertalingen. Zodra ze zijn geüpload, klik op Installeren om de installatie te voltooien.</value>
+  </data>
+  <data name="LanguageUpload.Text" xml:space="preserve">
+    <value>Taal uploaden</value>
+  </data>
+  <data name="Manage.Heading" xml:space="preserve">
+    <value>Beheren</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Uploaden</value>
+  </data>
 </root>
