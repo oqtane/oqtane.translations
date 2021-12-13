@@ -132,4 +132,10 @@
   <data name="DeleteProfile.Header" xml:space="preserve">
     <value>Verwijder profiel</value>
   </data>
+  <data name="DeleteProfile.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="EditProfile.Text" xml:space="preserve">
+    <value>Bewerk</value>
+  </data>
 </root>

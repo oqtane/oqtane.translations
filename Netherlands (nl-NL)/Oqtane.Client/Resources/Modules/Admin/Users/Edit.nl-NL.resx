@@ -177,4 +177,10 @@
   <data name="Username.Text" xml:space="preserve">
     <value>Gebruikersnaam:</value>
   </data>
+  <data name="Identity.Heading" xml:space="preserve">
+    <value>Identiteit</value>
+  </data>
+  <data name="Profile.Heading" xml:space="preserve">
+    <value>Profiel</value>
+  </data>
 </root>

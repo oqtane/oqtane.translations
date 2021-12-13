@@ -132,4 +132,10 @@
   <data name="Browse" xml:space="preserve">
     <value>Bladeren</value>
   </data>
+  <data name="DeletePage.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="EditPage.Text" xml:space="preserve">
+    <value>Bewerk</value>
+  </data>
 </root>

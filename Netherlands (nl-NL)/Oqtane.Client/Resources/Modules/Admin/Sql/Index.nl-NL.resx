@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Tenant.Text" xml:space="preserve">
-    <value>Huurder:</value>
+    <value>Tenant :</value>
   </data>
   <data name="Tenant.Select" xml:space="preserve">
     <value>Selecteer huurder</value>

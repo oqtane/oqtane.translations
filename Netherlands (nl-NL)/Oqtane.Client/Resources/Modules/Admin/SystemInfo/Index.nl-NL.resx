@@ -204,12 +204,6 @@
   <data name="Critical" xml:space="preserve">
     <value>Kritiek</value>
   </data>
-  <data name="Info" xml:space="preserve">
-    <value>Info</value>
-  </data>
-  <data name="Options" xml:space="preserve">
-    <value>Opties</value>
-  </data>
   <data name="Register" xml:space="preserve">
     <value>Registreer mij alstublieft voor belangrijke productupdates en beveiligingsbulletins</value>
   </data>
@@ -227,5 +221,14 @@
   </data>
   <data name="Swagger.Text" xml:space="preserve">
     <value>Swagger ingeschakeld?</value>
+  </data>
+  <data name="Info.Heading" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="Options.Heading" xml:space="preserve">
+    <value>Opties</value>
+  </data>
+  <data name="RestartApplication.Text" xml:space="preserve">
+    <value>Applicatie opnieuw starten</value>
   </data>
 </root>

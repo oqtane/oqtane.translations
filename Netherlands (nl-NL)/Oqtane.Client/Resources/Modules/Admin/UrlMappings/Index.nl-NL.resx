@@ -126,18 +126,6 @@
   <data name="DeleteUrlMapping.Header" xml:space="preserve">
     <value>URL-toewijzing verwijderen</value>
   </data>
-  <data name="IP" xml:space="preserve">
-    <value>IP</value>
-  </data>
-  <data name="User" xml:space="preserve">
-    <value>Gebruiker</value>
-  </data>
-  <data name="Visited" xml:space="preserve">
-    <value>bezocht</value>
-  </data>
-  <data name="Visits" xml:space="preserve">
-    <value>bezoeken</value>
-  </data>
   <data name="Mapped" xml:space="preserve">
     <value>Toegewezen URL's</value>
   </data>
@@ -161,5 +149,14 @@
   </data>
   <data name="Urls.Heading" xml:space="preserve">
     <value>URL's</value>
+  </data>
+  <data name="Requested" xml:space="preserve">
+    <value>Aangevraagd</value>
+  </data>
+  <data name="Requests" xml:space="preserve">
+    <value>Verzoeken</value>
+  </data>
+  <data name="Url" xml:space="preserve">
+    <value>URL</value>
   </data>
 </root>
