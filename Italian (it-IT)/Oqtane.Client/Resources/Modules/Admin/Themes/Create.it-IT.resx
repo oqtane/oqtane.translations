@@ -121,51 +121,51 @@
     <value>Annulla</value>
   </data>
   <data name="Template.Text" xml:space="preserve">
-    <value>Template: </value>
+    <value>Modello di Template (Theme): </value>
   </data>
   <data name="Select Template" xml:space="preserve">
-    <value>Select Template</value>
+    <value>Seleziona modello di Template (Theme)</value>
   </data>
   <data name="Local Version" xml:space="preserve">
-    <value>Local Version</value>
+    <value>Versione locale</value>
   </data>
   <data name="FrameworkReference.HelpText" xml:space="preserve">
-    <value>Select a framework reference version</value>
+    <value>Seleziona una versione del framework</value>
   </data>
   <data name="OwnerName.Text" xml:space="preserve">
-    <value>Owner Name: </value>
+    <value>Nome organizzazione: </value>
   </data>
   <data name="FrameworkReference.Text" xml:space="preserve">
-    <value>Framework Reference: </value>
+    <value>Versione del framework: </value>
   </data>
   <data name="Location.Text" xml:space="preserve">
-    <value>Location: </value>
+    <value>Percorso: </value>
   </data>
   <data name="Create Theme" xml:space="preserve">
-    <value>Create Theme</value>
+    <value>Crea tema</value>
   </data>
   <data name="Please Note That The Theme Creator Is Only Intended To Be Used In A Development Environment" xml:space="preserve">
-    <value>Please Note That The Theme Creator Is Only Intended To Be Used In A Development Environment</value>
+    <value>Nota: il creatore del Template (Theme) è utilizzato solo in un ambiente di sviluppo</value>
   </data>
   <data name="The Source Code For Your Theme Has Been Created At The Location Specified Below And Must Be Compiled In Order To Make It Functional. Once It Has Been Compiled You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Activate The Module." xml:space="preserve">
-    <value>The Source Code For Your Theme Has Been Created At The Location Specified Below And Must Be Compiled In Order To Make It Functional. Once It Has Been Compiled You Must &lt;a href=\"{0}\"&gt;Restart&lt;/a&gt; Your Application To Activate The Module.</value>
+    <value>Il codice sorgente per il tuo Template (Theme) è stato creato nella posizione specificata di seguito e deve essere compilato per renderlo funzionale. Una volta compilato, è necessario &lt;a href=\"{0}\"&gt;riavviare&lt;/a&gt; l'applicazione per attivare il modulo.</value>
   </data>
   <data name="You Must Provide A Valid Owner Name And Theme Name ( ie. No Punctuation Or Spaces And The Values Cannot Be The Same ) And Choose A Template" xml:space="preserve">
-    <value>You Must Provide A Valid Owner Name And Theme Name ( ie. No Punctuation Or Spaces And The Values Cannot Be The Same ) And Choose A Template</value>
+    <value>È necessario fornire un nome del proprietario e un nome del Template (Theme)(es. senza punteggiatura o spazi e i valori non possono essere gli stessi) e scegliere un modello di Template (Theme)</value>
   </data>
   <data name="OwnerName.HelpText" xml:space="preserve">
-    <value>Enter the name of the organization who is developing this theme. It should not contain spaces or punctuation.</value>
+    <value>Inserisci il nome dell'organizzazione che sta sviluppando questo Template (Theme). Non deve contenere spazi o punteggiatura.</value>
   </data>
   <data name="ThemeName.HelpText" xml:space="preserve">
-    <value>Enter a name for this theme. It should not contain spaces or punctuation.</value>
+    <value>Inserisci un nome per questo Template (Theme). Non deve contenere spazi o punteggiatura.</value>
   </data>
   <data name="Template.HelpText" xml:space="preserve">
-    <value>Select a theme template. Templates are located in the wwwroot/Themes/Templates folder on the server.</value>
+    <value>Seleziona modello di Template (Theme). I modelli si trovano nella cartella wwwroot/Themes/Templates sul server.</value>
   </data>
   <data name="Location.HelpText" xml:space="preserve">
-    <value>Location where the theme will be created</value>
+    <value>Percorso in cui verrà creato il Template (Theme)</value>
   </data>
   <data name="ThemeName.Text" xml:space="preserve">
-    <value>Theme Name: </value>
+    <value>Nome del Template (Theme): </value>
   </data>
 </root>

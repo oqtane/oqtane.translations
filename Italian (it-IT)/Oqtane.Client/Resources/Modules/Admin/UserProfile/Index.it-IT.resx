@@ -127,69 +127,69 @@
     <value>Email:</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Salva</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Annulla</value>
   </data>
   <data name="Confirm Password:" xml:space="preserve">
-    <value>Confirm Password:</value>
+    <value>Conferma password:</value>
   </data>
   <data name="Full Name:" xml:space="preserve">
-    <value>Full Name:</value>
+    <value>Nome e cognome:</value>
   </data>
   <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Passwords Entered Do Not Match</value>
+    <value>Le password inserite non corrispondono</value>
   </data>
   <data name="Photo:" xml:space="preserve">
-    <value>Photo:</value>
+    <value>Foto:</value>
   </data>
   <data name="From" xml:space="preserve">
-    <value>From</value>
+    <value>Da</value>
   </data>
   <data name="Subject" xml:space="preserve">
-    <value>Subject</value>
+    <value>Oggetto</value>
   </data>
   <data name="Received" xml:space="preserve">
     <value>Received</value>
   </data>
   <data name="To" xml:space="preserve">
-    <value>To</value>
+    <value>A</value>
   </data>
   <data name="Sent" xml:space="preserve">
-    <value>Sent</value>
+    <value>Invia</value>
   </data>
   <data name="Inbox" xml:space="preserve">
-    <value>Inbox</value>
+    <value>Posta in arrivo</value>
   </data>
   <data name="Sent Items" xml:space="preserve">
-    <value>Sent Items</value>
+    <value>Oggetti inviati</value>
   </data>
   <data name="Current User Is Not Logged In" xml:space="preserve">
-    <value>Current User Is Not Logged In</value>
+    <value>L'utente attuale non ha effettuato l'accesso</value>
   </data>
   <data name="Error Loading User Profile" xml:space="preserve">
-    <value>Error Loading User Profile</value>
+    <value>Errore durante il caricamento del profilo utente</value>
   </data>
   <data name="User Profile Updated Successfully" xml:space="preserve">
-    <value>User Profile Updated Successfully</value>
+    <value>Profilo utente aggiornato con successo</value>
   </data>
   <data name="You Must Provide A Username and Email Address As Well As All Required Profile Information" xml:space="preserve">
-    <value>You Must Provide A Username and Email Address As Well As All Required Profile Information</value>
+    <value>Devi fornire un nome utente e un indirizzo e-mail, nonché tutte le informazioni richieste per il profilo</value>
   </data>
   <data name="Error Saving User Profile" xml:space="preserve">
-    <value>Error Saving User Profile</value>
+    <value>Errore durante il salvataggio del profilo utente</value>
   </data>
   <data name="SendNotification.Text" xml:space="preserve">
-    <value>Send Notification</value>
+    <value>Invia notifica</value>
   </data>
   <data name="DeleteNotification.Header" xml:space="preserve">
-    <value>Delete Notification</value>
+    <value>Elimina notifica</value>
   </data>
   <data name="DeleteNotification.Message" xml:space="preserve">
-    <value>Are You Sure You Wish To Delete This Notification?</value>
+    <value>Sei sicuro di voler eliminare questa notifica?</value>
   </data>
   <data name="Identity.Name" xml:space="preserve">
-    <value>Identity</value>
+    <value>Identità</value>
   </data>
 </root>

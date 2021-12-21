@@ -121,33 +121,33 @@
     <value>Annulla</value>
   </data>
   <data name="Error Loading Users" xml:space="preserve">
-    <value>Error Loading Users</value>
+    <value>Errore durante il caricamento degli utenti</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Invia</value>
   </data>
   <data name="User Does Not Exist. Please Verify That The Username Provided Is Correct." xml:space="preserve">
-    <value>User Does Not Exist. Please Verify That The Username Provided Is Correct.</value>
+    <value>L'utente non esiste. Verifica che il nome utente fornito sia corretto.</value>
   </data>
   <data name="Error Adding Notification" xml:space="preserve">
-    <value>Error Adding Notification</value>
+    <value>Errore durante l'aggiunta della notifica</value>
   </data>
   <data name="Title:" xml:space="preserve">
-    <value>Title:</value>
+    <value>Titolo:</value>
   </data>
   <data name="Subject:" xml:space="preserve">
-    <value>Subject:</value>
+    <value>Oggetto:</value>
   </data>
   <data name="Date:" xml:space="preserve">
-    <value>Date:</value>
+    <value>Data:</value>
   </data>
   <data name="Message:" xml:space="preserve">
-    <value>Message:</value>
+    <value>Messaggio:</value>
   </data>
   <data name="Reply" xml:space="preserve">
-    <value>Reply</value>
+    <value>Rispondi</value>
   </data>
   <data name="Original Message" xml:space="preserve">
-    <value>Original Message</value>
+    <value>Messaggio originale</value>
   </data>
 </root>

@@ -127,42 +127,42 @@
     <value>Email:</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Salva</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Annulla</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Sì</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>No</value>
   </data>
   <data name="Confirm Password:" xml:space="preserve">
-    <value>Confirm Password:</value>
+    <value>Conferma Password:</value>
   </data>
   <data name="Full Name:" xml:space="preserve">
-    <value>Full Name:</value>
+    <value>Nome e cognome:</value>
   </data>
   <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Passwords Entered Do Not Match</value>
+    <value>Le password inserite non corrispondono</value>
   </data>
   <data name="Photo:" xml:space="preserve">
-    <value>Photo:</value>
+    <value>Foto:</value>
   </data>
   <data name="Identity.Name" xml:space="preserve">
-    <value>Identity</value>
+    <value>Identità</value>
   </data>
   <data name="Is Deleted?" xml:space="preserve">
-    <value>Is Deleted?</value>
+    <value>Eliminato?</value>
   </data>
   <data name="Error Loading User" xml:space="preserve">
-    <value>Error Loading User</value>
+    <value>Errore durante il caricamento dell'utente</value>
   </data>
   <data name="You Must Provide A Username, Password, Email Address, And All Required Profile Information" xml:space="preserve">
-    <value>You Must Provide A Username, Password, Email Address, And All Required Profile Information</value>
+    <value>Devi fornire un nome utente, una password, un indirizzo e-mail e tutte le informazioni richieste per il profilo</value>
   </data>
   <data name="Error Saving User" xml:space="preserve">
-    <value>Error Saving User</value>
+    <value>Errore durante il salvataggio dell'utente</value>
   </data>
 </root>

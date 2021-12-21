@@ -121,30 +121,30 @@
     <value>Annulla</value>
   </data>
   <data name="Message.Text" xml:space="preserve">
-    <value>Message: </value>
+    <value>Messaggio: </value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Send</value>
+    <value>Invia</value>
   </data>
   <data name="User Does Not Exist. Please Verify That The Username Provided Is Correct." xml:space="preserve">
-    <value>User Does Not Exist. Please Verify That The Username Provided Is Correct.</value>
+    <value>L'utente non esiste. Verifica che il nome utente fornito sia corretto.</value>
   </data>
   <data name="Error Adding Notification" xml:space="preserve">
-    <value>Error Adding Notification</value>
+    <value>Errore durante l'aggiunta della notifica</value>
   </data>
   <data name="To.HelpText" xml:space="preserve">
-    <value>Enter the username you wish to send a message to</value>
+    <value>Inserisci il nome utente a cui vuoi inviare un messaggio</value>
   </data>
   <data name="Subject.HelpText" xml:space="preserve">
-    <value>Enter the subject of the message</value>
+    <value>Inserisci l'oggetto del messaggio</value>
   </data>
   <data name="Message.HelpText" xml:space="preserve">
-    <value>Enter the message</value>
+    <value>Inserisci il messaggio</value>
   </data>
   <data name="To.Text" xml:space="preserve">
-    <value>To: </value>
+    <value>A: </value>
   </data>
   <data name="Subject.Text" xml:space="preserve">
-    <value>Subject: </value>
+    <value>Oggetto: </value>
   </data>
 </root>
