@@ -118,81 +118,81 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Salva</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Annulla</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Sì</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>No</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Name: </value>
+    <value>Nome voce del profilo: </value>
   </data>
   <data name="Category.Text" xml:space="preserve">
-    <value>Category: </value>
+    <value>Categoria: </value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description: </value>
+    <value>Testo visualizzato: </value>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Title: </value>
+    <value>Titolo: </value>
   </data>
   <data name="Error Loading Profile" xml:space="preserve">
-    <value>Error Loading Profile</value>
+    <value>Errore durante il caricamento del profilo</value>
   </data>
   <data name="Error Saving Profile" xml:space="preserve">
-    <value>Error Saving Profile</value>
+    <value>Errore durante il salvataggio del profilo</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>The name of this profile item</value>
+    <value>Il nome di questa voce del profilo</value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
-    <value>The title of the profile item to display to the user</value>
+    <value>Il titolo della voce del profilo da mostrare all'utente</value>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
-    <value>The help text displayed to the user for this profile item</value>
+    <value>Il testo visualizzato all'utente per questa voce del profilo</value>
   </data>
   <data name="Category.HelpText" xml:space="preserve">
-    <value>The category of this profile item (for grouping)</value>
+    <value>La categoria di questa voce del profilo (per il raggruppamento)</value>
   </data>
   <data name="Order.HelpText" xml:space="preserve">
-    <value>The index order of where this profile item should be displayed</value>
+    <value>Posizione (Indice) in cui deve essere visualizzata questa voce del profilo</value>
   </data>
   <data name="Length.HelpText" xml:space="preserve">
-    <value>The max number of characters this profile item should accept (enter zero for unlimited)</value>
+    <value>Il numero massimo di caratteri che questa voce del profilo dovrebbe accettare (inserisci zero per illimitato)</value>
   </data>
   <data name="DefaultValue.HelpText" xml:space="preserve">
-    <value>The default value for this profile item</value>
+    <value>Il valore predefinito per questa voce del profilo</value>
   </data>
   <data name="Options.HelpText" xml:space="preserve">
-    <value>A comma delimited list of options the user can select from</value>
+    <value>Un elenco delimitato da virgole (comma delimited) di opzioni tra cui l'utente può selezionare</value>
   </data>
   <data name="Required.HelpText" xml:space="preserve">
-    <value>Should a user be required to provide a value for this profile item?</value>
+    <value>L'utente deve fornire un valore perquesta voce del profilo?</value>
   </data>
   <data name="Private.HelpText" xml:space="preserve">
-    <value>Should this profile item be visible to all users?</value>
+    <value>Questa voce del profilo è visibile a tutti gli utenti?</value>
   </data>
   <data name="Order.Text" xml:space="preserve">
-    <value>Order: </value>
+    <value>Posizione: </value>
   </data>
   <data name="Length.Text" xml:space="preserve">
-    <value>Length: </value>
+    <value>Numero massimo di caratteri: </value>
   </data>
   <data name="DefaultValue.Text" xml:space="preserve">
-    <value>Default Value: </value>
+    <value>Valore predefinito: </value>
   </data>
   <data name="Options.Text" xml:space="preserve">
-    <value>Options: </value>
+    <value>Opzioni: </value>
   </data>
   <data name="Required.Text" xml:space="preserve">
-    <value>Required? </value>
+    <value>Inserimento obbligatorio? </value>
   </data>
   <data name="Private.Text" xml:space="preserve">
-    <value>Private? </value>
+    <value>Privata? </value>
   </data>
 </root>
