@@ -127,33 +127,33 @@
     <value>Email:</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Salva</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Annulla</value>
   </data>
   <data name="Confirm Password:" xml:space="preserve">
-    <value>Confirm Password:</value>
+    <value>Conferma password:</value>
   </data>
   <data name="Full Name:" xml:space="preserve">
-    <value>Full Name:</value>
+    <value>Nome e cognome:</value>
   </data>
   <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
-    <value>Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use.</value>
+    <value>Errore durante il salvataggio dell'utente. Assicurati che la password soddisfi i requisiti di complessità e che il nome utente non sia già in uso.</value>
   </data>
   <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Passwords Entered Do Not Match</value>
+    <value>Le password inserite non corrispondono</value>
   </data>
   <data name="Error Adding User" xml:space="preserve">
-    <value>Error Adding User</value>
+    <value>Errore durante il salvataggio dell'utente</value>
   </data>
   <data name="Error Loading User Profile" xml:space="preserve">
-    <value>Error Loading User Profile</value>
+    <value>Errore durante il caricamento del profilo utente</value>
   </data>
   <data name="Identity.Name" xml:space="preserve">
-    <value>Identity</value>
+    <value>Identità</value>
   </data>
   <data name="You Must Provide A Username, Password, Email Address And All Required Profile Information" xml:space="preserve">
-    <value>You Must Provide A Username, Password, Email Address And All Required Profile Information</value>
+    <value>Devi fornire un nome utente, una password, un indirizzo e-mail e tutte le informazioni richieste per il profilo</value>
   </data>
 </root>

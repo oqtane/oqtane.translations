@@ -118,48 +118,48 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Elimina</value>
   </data>
   <data name="Add" xml:space="preserve">
-    <value>Add</value>
+    <value>Aggiungi</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Annulla</value>
   </data>
   <data name="Control Panel" xml:space="preserve">
-    <value>Control Panel</value>
+    <value>Pannello di controllo</value>
   </data>
   <data name="Admin Dashboard" xml:space="preserve">
-    <value>Admin Dashboard</value>
+    <value>Pannello di amministrazione</value>
   </data>
   <data name="Edit" xml:space="preserve">
-    <value>Edit</value>
+    <value>Modifica</value>
   </data>
   <data name="Unpublish Page" xml:space="preserve">
-    <value>Unpublish Page</value>
+    <value>Revoca pubblicazione della pagina</value>
   </data>
   <data name="Publish Page" xml:space="preserve">
-    <value>Publish Page</value>
+    <value>Pubblica pagina</value>
   </data>
   <data name="Delete Page" xml:space="preserve">
-    <value>Delete Page</value>
+    <value>Elimina Pagina</value>
   </data>
   <data name="Add New Module" xml:space="preserve">
-    <value>Add New Module</value>
+    <value>Aggiungi nuovo modulo</value>
   </data>
   <data name="Add Existing Module" xml:space="preserve">
-    <value>Add Existing Module</value>
+    <value>Aggiungi modulo esistente</value>
   </data>
   <data name="Modules" xml:space="preserve">
-    <value>Modules</value>
+    <value>Moduli</value>
   </data>
   <data name="Select Module" xml:space="preserve">
-    <value>Select Module</value>
+    <value>Seleziona modulo</value>
   </data>
   <data name="Select Page" xml:space="preserve">
-    <value>Select Page</value>
+    <value>Seleziona pagina</value>
   </data>
   <data name="Add Module To Page" xml:space="preserve">
-    <value>Add Module To Page</value>
+    <value>Aggiungi modulo alla pagina</value>
   </data>
 </root>

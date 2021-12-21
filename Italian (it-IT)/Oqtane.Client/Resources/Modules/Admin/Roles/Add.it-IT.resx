@@ -118,36 +118,36 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>Salva</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Annulla</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Sì</value>
   </data>
   <data name="No" xml:space="preserve">
     <value>No</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Name:</value>
+    <value>Nome:</value>
   </data>
   <data name="Error Adding Role" xml:space="preserve">
-    <value>Error Adding Role</value>
+    <value>Errore durante l'aggiunta del ruolo</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>Name Of The Role</value>
+    <value>Nome del ruolo</value>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
-    <value>A Short Description Of The Role Which Describes Its Purpose</value>
+    <value>Una breve descrizione del ruolo che ne descrive lo scopo</value>
   </data>
   <data name="AutoAssigned.HelpText" xml:space="preserve">
-    <value>Indicates Whether Or Not New Users Are Automatically Assigned To This Role</value>
+    <value>Indica se i nuovi utenti vengono assegnati automaticamente a questo ruolo</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description:</value>
+    <value>Descrizione:</value>
   </data>
   <data name="AutoAssigned.Text" xml:space="preserve">
-    <value>Auto Assigned?</value>
+    <value>Assegnato automaticamente?</value>
   </data>
 </root>

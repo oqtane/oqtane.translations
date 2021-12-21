@@ -124,30 +124,30 @@
     <value>Download</value>
   </data>
   <data name="Name" xml:space="preserve">
-    <value>Name</value>
+    <value>Nome</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Version</value>
+    <value>Versione</value>
   </data>
   <data name="Install" xml:space="preserve">
-    <value>Install</value>
+    <value>Installa</value>
   </data>
   <data name="Error Loading Packages" xml:space="preserve">
-    <value>Error Loading Packages</value>
+    <value>Errore durante il caricamento dei pacchetti (Packages)</value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
-    <value>Theme: </value>
+    <value>Template (Theme): </value>
   </data>
   <data name="Theme Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
-    <value>Theme Installed Successfully. You Must &lt;a href=\"{0}\"&gt;Restart&lt;/a&gt; Your Application To Apply These Changes.</value>
+    <value>Template (Theme) installato con successo. Devi &lt;a href=\"{0}\"&gt;riavviare&lt;/a&gt; la tua applicazione per applicare queste modifiche.</value>
   </data>
   <data name="Themes Downloaded Successfully. Click Install To Complete Installation." xml:space="preserve">
-    <value>Themes Downloaded Successfully. Click Install To Complete Installation.</value>
+    <value>Template (Theme) scaricati con successo. Fare clic su Installa per completare l'installazione.</value>
   </data>
   <data name="Error Downloading Theme" xml:space="preserve">
-    <value>Error Downloading Theme</value>
+    <value>Errore durante il download del Template (Theme)</value>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
-    <value>Upload one or more theme packages. Once they are uploaded click Install to complete the installation.</value>
+    <value>Carica uno o più pacchetti contenenti il Template (Theme). Una volta caricati, fare clic su Installa per completare l'installazione.</value>
   </data>
 </root>
