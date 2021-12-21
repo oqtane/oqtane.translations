@@ -130,36 +130,36 @@
     <value>Annulla</value>
   </data>
   <data name="You Are Already Registered" xml:space="preserve">
-    <value>You Are Already Registered</value>
+    <value>Sei già registrato</value>
   </data>
   <data name="Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity" xml:space="preserve">
-    <value>Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity</value>
+    <value>Nota: la registrazione richiede un indirizzo e-mail valido per verificare la propria identità</value>
   </data>
   <data name="Confirm Password:" xml:space="preserve">
-    <value>Confirm Password:</value>
+    <value>Conferma Password:</value>
   </data>
   <data name="Full Name:" xml:space="preserve">
-    <value>Full Name:</value>
+    <value>Nome e cognome:</value>
   </data>
   <data name="Register" xml:space="preserve">
-    <value>Register</value>
+    <value>Registrati</value>
   </data>
   <data name="Registration is Disabled For This Site" xml:space="preserve">
-    <value>Registration is Disabled For This Site</value>
+    <value>La registrazione è disabilitata per questo sito</value>
   </data>
   <data name="User Account Created. Please Check Your Email For Verification Instructions." xml:space="preserve">
-    <value>User Account Created. Please Check Your Email For Verification Instructions.</value>
+    <value>Account utente creato. Controlla la tua email per le istruzioni di verifica.</value>
   </data>
   <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
-    <value>Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use.</value>
+    <value>Errore durante la creazione dell'utente. Assicurati che la password soddisfi i requisiti di complessità e che il nome utente non sia già in uso.</value>
   </data>
   <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Passwords Entered Do Not Match</value>
+    <value>Le password inserite non corrispondono</value>
   </data>
   <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
-    <value>You Must Provide A Username, Password, and Email Address</value>
+    <value>Devi inserire un nome utente, una password e un indirizzo e-mail</value>
   </data>
   <data name="Error Adding User" xml:space="preserve">
-    <value>Error Adding User</value>
+    <value>Errore durante la creazione dell'utente</value>
   </data>
 </root>

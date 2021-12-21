@@ -127,21 +127,21 @@
     <value>Annulla</value>
   </data>
   <data name="Confirm Password:" xml:space="preserve">
-    <value>Confirm Password:</value>
+    <value>Conferma password:</value>
   </data>
   <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Passwords Entered Do Not Match</value>
+    <value>Le password inserite non corrispondono</value>
   </data>
   <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
-    <value>You Must Provide A Username, Password, and Email Address</value>
+    <value>Devi inserire un nome utente, una password e un indirizzo e-mail</value>
   </data>
   <data name="Reset Password" xml:space="preserve">
-    <value>Reset Password</value>
+    <value>Reimposta la password</value>
   </data>
   <data name="Error Resetting User Password. Please Ensure Password Meets Complexity Requirements." xml:space="preserve">
-    <value>Error Resetting User Password. Please Ensure Password Meets Complexity Requirements.</value>
+    <value>Errore durante la reimpostazione della password utente. Assicurati che la password soddisfi i requisiti di complessità.</value>
   </data>
   <data name="Error Resetting User Password" xml:space="preserve">
-    <value>Error Resetting User Password</value>
+    <value>Errore durante la reimpostazione della password utente</value>
   </data>
 </root>
