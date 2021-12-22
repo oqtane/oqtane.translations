@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Module Does Not Have A Component Named {0}.razor" xml:space="preserve">
-    <value>Module Does Not Have A Component Named {0}.razor</value>
+    <value>Il modulo non ha un componente denominato {0}.razor</value>
   </data>
   <data name="Module Type Is Invalid For {0}" xml:space="preserve">
     <value>Il tipo di modulo non è valido per {0}</value>
