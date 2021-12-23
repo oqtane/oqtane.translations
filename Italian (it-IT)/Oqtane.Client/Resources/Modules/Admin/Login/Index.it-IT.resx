@@ -139,12 +139,33 @@
     <value>Account utente verificato con successo. Ora puoi accedere con il tuo nome utente e password qui sotto.</value>
   </data>
   <data name="User Account Could Not Be Verified. Please Contact Your Administrator For Further Instructions." xml:space="preserve">
-    <value>Impossibile verificare l'account utente. Si prega di contattare i responsabili del sito per informazioni.</value>
+    <value>Impossibile verificare l'account utente. Si prega di contattare i responsabili del sito per ulteriori informazioni.</value>
   </data>
   <data name="Login Failed. Please Remember That Passwords Are Case Sensitive And User Accounts Require Verification When They Are Initially Created So You May Wish To Check Your Email." xml:space="preserve">
     <value>Accesso non riuscito. Ricorda che le password fanno distinzione tra maiuscole e minuscole e gli account utente richiedono la verifica quando vengono creati inizialmente, quindi potresti aver ricevuto un messaggio nella tua posta elettronica.</value>
   </data>
   <data name="Please Provide Your Username And Password" xml:space="preserve">
     <value>Si prega di fornire il nome utente e la password</value>
+  </data>
+  <data name="Error.Login.Fail" xml:space="preserve">
+    <value>Autenticazione non riuscita. Ricorda che la password fa distinzione tra maiuscole e minuscole e che l'account utente deve essere verificato appena creato, quindi dovresti controllare le tue e-mail.</value>
+  </data>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>Password dimenticata</value>
+  </data>
+  <data name="Info.SignedIn" xml:space="preserve">
+    <value>Sei già loggato</value>
+  </data>
+  <data name="Message.Account.NotVerfied" xml:space="preserve">
+    <value>Impossibile verificare l'account utente. Si prega di contattare i responsabili del sito per ulteriori informazioni.</value>
+  </data>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Si prega di fornire un nome utente e una password</value>
+  </data>
+  <data name="RememberMe" xml:space="preserve">
+    <value>Ricordami?</value>
+  </data>
+  <data name="Success.Account.Verified" xml:space="preserve">
+    <value>Il tuo account è stato verificato. Ora puoi accedere con il tuo nome utente e password qui sotto.</value>
   </data>
 </root>

@@ -162,4 +162,61 @@
   <data name="Error Adding User" xml:space="preserve">
     <value>Errore durante la creazione dell'utente</value>
   </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Devi inserire nuovamente la password per verificare che corrispondano.</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Conferma Password:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Nome e cognome.</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Nome e cognome:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>La tua email dove vuoi ricevere le notifiche</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="Error.User.Add" xml:space="preserve">
+    <value>Errore durante la creazione dell'utente</value>
+  </data>
+  <data name="Error.User.AddInfo" xml:space="preserve">
+    <value>Errore durante la creazione dell'utente. Assicurati che la password soddisfi i requisiti di complessità e che il nome utente non sia già in uso.</value>
+  </data>
+  <data name="Info.Registration.Disabled" xml:space="preserve">
+    <value>La registrazione è disabilitata per questo sito</value>
+  </data>
+  <data name="Info.Registration.Exists" xml:space="preserve">
+    <value>Sei già registrato</value>
+  </data>
+  <data name="Info.Registration.InvalidEmail" xml:space="preserve">
+    <value>Nota: la registrazione richiede un indirizzo e-mail valido per verificare la propria identità</value>
+  </data>
+  <data name="Info.User.AccountCreate" xml:space="preserve">
+    <value>Account utente creato. Controlla la tua email per le istruzioni di verifica.</value>
+  </data>
+  <data name="Message.Password.NoMatch" xml:space="preserve">
+    <value>Le password inserite non corrispondono</value>
+  </data>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Devi inserire un nome utente, una password e un indirizzo e-mail</value>
+  </data>
+  <data name="Password.Confirm" xml:space="preserve">
+    <value>Conferma Password:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Se vuoi cambiare la tua password, puoi inserirla qui. Assicurati che sia sufficientemente sicura.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Nome utente univoco. Nota che questo campo non può essere modificato una volta salvato.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Username:</value>
+  </data>
 </root>
