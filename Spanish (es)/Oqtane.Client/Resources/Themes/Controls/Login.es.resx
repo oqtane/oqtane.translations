@@ -120,7 +120,4 @@
   <data name="Logout" xml:space="preserve">
     <value>Desconectar</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Acceder</value>
-  </data>
 </root>

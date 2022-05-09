@@ -123,10 +123,10 @@
   <data name="User" xml:space="preserve">
     <value>Usuario</value>
   </data>
-  <data name="Enter Username" xml:space="preserve">
+  <data name="Username.Enter" xml:space="preserve">
     <value>Ingrese nombre de usuario</value>
   </data>
-  <data name="Add" xml:space="preserve">
-    <value>Agregar</value>
+  <data name="Message.Username.DontExist" xml:space="preserve">
+    <value>El nombre de usuario no existe</value>
   </data>
 </root>

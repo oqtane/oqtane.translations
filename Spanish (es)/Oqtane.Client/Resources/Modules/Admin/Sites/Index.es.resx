@@ -117,8 +117,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>Nombre</value>
+  <data name="Confirm.DeleteSite" xml:space="preserve">
+    <value>¿Seguro que deseas borrar el sitio {0}?</value>
+  </data>
+  <data name="Error.FailAuth.DeleteSite" xml:space="preserve">
+    <value>No puede borrar el sitio actual</value>
+  </data>
+  <data name="Error.DeleteSite" xml:space="preserve">
+    <value>Error borrando sitio</value>
   </data>
   <data name="AddSite.Text" xml:space="preserve">
     <value>Agregar sitio</value>
@@ -126,7 +132,7 @@
   <data name="DeleteSite.Header" xml:space="preserve">
     <value>Borrar sitio</value>
   </data>
-  <data name="DeleteSite.Message" xml:space="preserve">
-    <value>¿Seguro que deseas borrar el sitio {0}?</value>
+  <data name="Browse" xml:space="preserve">
+    <value>Buscar</value>
   </data>
 </root>

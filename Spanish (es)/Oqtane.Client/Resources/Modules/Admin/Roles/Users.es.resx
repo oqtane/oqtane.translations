@@ -117,26 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete" xml:space="preserve">
-    <value>Borrar</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Cargando...</value>
-  </data>
   <data name="User.Text" xml:space="preserve">
     <value>Usuario:</value>
   </data>
-  <data name="Select User" xml:space="preserve">
+  <data name="User.Select" xml:space="preserve">
     <value>Elegir usuario</value>
   </data>
   <data name="Users" xml:space="preserve">
     <value>Usuarios</value>
+  </data>
+  <data name="Error.User.Load" xml:space="preserve">
+    <value>Error cargando usuarios</value>
+  </data>
+  <data name="Error.User.LoadRole" xml:space="preserve">
+    <value>Error cargando roles de usuario</value>
+  </data>
+  <data name="Success.User.AssignedRole" xml:space="preserve">
+    <value>Usuario asignado a rol</value>
+  </data>
+  <data name="Message.Required.UserSelect" xml:space="preserve">
+    <value>Debes seleccionar un usuario</value>
+  </data>
+  <data name="Error.User.SaveRole" xml:space="preserve">
+    <value>Error guardando los roles del usuario</value>
+  </data>
+  <data name="Confirm.User.RoleRemoved" xml:space="preserve">
+    <value>Usuario quitado del rol</value>
+  </data>
+  <data name="Error.User.RemoveRole" xml:space="preserve">
+    <value>Error quitando el usuario del rol</value>
   </data>
   <data name="Role.HelpText" xml:space="preserve">
     <value>El rol que le estas asingando al usuario</value>
@@ -158,5 +167,14 @@
   </data>
   <data name="ExpiryDate.Text" xml:space="preserve">
     <value>Fecha de expiración:</value>
+  </data>
+  <data name="Confirm.User.DeleteRole" xml:space="preserve">
+    <value>¿Seguro desea quitar {0} de este rol?</value>
+  </data>
+  <data name="Effective" xml:space="preserve">
+    <value>Efectivo</value>
+  </data>
+  <data name="Expiry" xml:space="preserve">
+    <value>Expiración</value>
   </data>
 </root>

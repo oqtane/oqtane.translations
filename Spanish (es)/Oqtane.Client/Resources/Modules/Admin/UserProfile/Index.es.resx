@@ -117,11 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="Message.Password.Invalid" xml:space="preserve">
+    <value>Las contraseñas no concuerdan</value>
   </data>
   <data name="From" xml:space="preserve">
     <value>Desde</value>
@@ -141,8 +138,23 @@
   <data name="Inbox" xml:space="preserve">
     <value>Bandeja de entrada</value>
   </data>
-  <data name="Sent Items" xml:space="preserve">
+  <data name="Items.Sent" xml:space="preserve">
     <value>Enviar items</value>
+  </data>
+  <data name="Message.User.NoLogIn" xml:space="preserve">
+    <value>El usuario actual no accedió</value>
+  </data>
+  <data name="Error.Profile.Load" xml:space="preserve">
+    <value>Error cargando el perfil del usuario</value>
+  </data>
+  <data name="Success.Profile.Update" xml:space="preserve">
+    <value>El perfil del usuario se actualizó correctamente</value>
+  </data>
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
+    <value>Debe proveer un nombre de usuario y correo así como toda la información del perfil</value>
+  </data>
+  <data name="Error.Profile.Save" xml:space="preserve">
+    <value>Error guardando el perfil</value>
   </data>
   <data name="SendNotification.Text" xml:space="preserve">
     <value>Enviar notificacion</value>
@@ -155,5 +167,56 @@
   </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>Identidad</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Si estas cambiando tu contraseña debes ingresar nuevamente para confirmar que coincide el valor ingresado</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Confirmación:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Tu nombre completo</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Nombre completo:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Tu correo donde deseas recibir las notificaciones</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>Correo:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Si deseas cambiar tu contraseña puedes hacerlo aqui. Por favor elija una contraseña segura.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Contraseña:</value>
+  </data>
+  <data name="Photo.HelpText" xml:space="preserve">
+    <value>Una foto suya</value>
+  </data>
+  <data name="Photo.Text" xml:space="preserve">
+    <value>Foto:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Su nombre de usuario. Este campo no puede modificarse.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nombre de usuario:</value>
+  </data>
+  <data name="TwoFactor.HelpText" xml:space="preserve">
+    <value>Indique si requiere doble factor de autenticación. Doble factor de autenticación requiere que ingrese un código enviado por correo luego del acceso</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>¿Doble Factor?</value>
+  </data>
+  <data name="DeleteAllNotifications.Header" xml:space="preserve">
+    <value>Borrar notificaciones</value>
+  </data>
+  <data name="DeleteAllNotifications.Message" xml:space="preserve">
+    <value>¿Seguro deseas borrar todas las notificaciones?</value>
+  </data>
+  <data name="DeleteAllNotifications.Text" xml:space="preserve">
+    <value>Borrar todas las notificaciones</value>
   </data>
 </root>

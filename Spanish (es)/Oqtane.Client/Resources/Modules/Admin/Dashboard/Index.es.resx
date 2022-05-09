@@ -117,25 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Database Configuration" xml:space="preserve">
-    <value>Configuración de base de datos</value>
-  </data>
-  <data name="Local Database" xml:space="preserve">
-    <value>Base de datos local</value>
-  </data>
-  <data name="SQL Server" xml:space="preserve">
-    <value>SQL Server</value>
-  </data>
-  <data name="True" xml:space="preserve">
-    <value>Verdadero</value>
-  </data>
-  <data name="False" xml:space="preserve">
-    <value>Falso</value>
-  </data>
-  <data name="Application Administrator" xml:space="preserve">
-    <value>Administrador de aplicación</value>
-  </data>
-  <data name="Install Now" xml:space="preserve">
-    <value>Instalar ahora</value>
-  </data>
 </root>

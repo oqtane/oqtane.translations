@@ -117,17 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Select Folder" xml:space="preserve">
+  <data name="Folder.Select" xml:space="preserve">
     <value>Seleccionar carpeta</value>
   </data>
-  <data name="Upload" xml:space="preserve">
-    <value>Cargar</value>
+  <data name="Message.Required.UrlFolder" xml:space="preserve">
+    <value>Debes ingresar una liga y seleccionar una carpeta</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="Message.Download.InvalidExtension" xml:space="preserve">
+    <value>El archivo no puede ser descargado desde la liga debido a su extensión</value>
   </data>
-  <data name="Download" xml:space="preserve">
-    <value>Descargar</value>
+  <data name="Message.Required.UrlName" xml:space="preserve">
+    <value>Debes ingresar una liga con nu nombre de archivo válido</value>
+  </data>
+  <data name="Success.Download.File" xml:space="preserve">
+    <value>Archivo descargado con éxito desde la liga</value>
+  </data>
+  <data name="Error.Download.InvalidUrl" xml:space="preserve">
+    <value>Error descargando el archivo desde la liga. Por favor verifique que la liga es válida.</value>
   </data>
   <data name="Upload.HelpText" xml:space="preserve">
     <value>Cargue el archivo que desee</value>
@@ -142,12 +148,18 @@
     <value>Cargar:</value>
   </data>
   <data name="Url.Text" xml:space="preserve">
-    <value>Url: </value>
+    <value>Liga: </value>
   </data>
   <data name="Folder.Text" xml:space="preserve">
     <value>Carpeta:</value>
   </data>
   <data name="UploadFiles.Heading" xml:space="preserve">
     <value>Cargar archivos</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Ingrese el nombre de la liga a descargar</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nombre:</value>
   </data>
 </root>

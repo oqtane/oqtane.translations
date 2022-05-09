@@ -117,25 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
-  <data name="Download" xml:space="preserve">
-    <value>Descargar</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Nombre</value>
-  </data>
-  <data name="Version" xml:space="preserve">
-    <value>Versión</value>
-  </data>
-  <data name="Install" xml:space="preserve">
-    <value>Instalar</value>
+  <data name="Error.Package.Load" xml:space="preserve">
+    <value>Error cargando paquetes</value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
-    <value>Tema:</value>
+    <value>Tema: </value>
+  </data>
+  <data name="Success.Theme.Install" xml:space="preserve">
+    <value>El tema se instaló correctamente. Debes &lt;a href={0}&gt;Reiniciar&lt;/a&gt; la aplicacion para aplicar los cambios.</value>
+  </data>
+  <data name="Success.Theme.Download" xml:space="preserve">
+    <value>Tema descargado con éxito. Click instalar para completar la instalación.</value>
+  </data>
+  <data name="Error.Theme.Download" xml:space="preserve">
+    <value>Error descargando tema</value>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
-    <value>Cargar uno o mas paquetes de temas. Una vez que fue cargado haga click en instalar para completar la instalación</value>
+    <value>Cargar uno o mas paquetes de tema. Una vez cargados click instalar para completar la instalación</value>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>Ningún tema coincide con el critero o el servicio de paquetes está deshabilitado</value>
   </data>
 </root>

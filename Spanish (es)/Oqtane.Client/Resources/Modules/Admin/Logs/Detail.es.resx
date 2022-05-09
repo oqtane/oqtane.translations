@@ -117,11 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
   <data name="Url.Text" xml:space="preserve">
     <value>Url: </value>
+  </data>
+  <data name="Error Loading Log" xml:space="preserve">
+    <value>Error cargando registro</value>
   </data>
   <data name="DateTime.HelpText" xml:space="preserve">
     <value>La fecha y hora de este registro</value>
@@ -203,5 +203,8 @@
   </data>
   <data name="Server.Text" xml:space="preserve">
     <value>Servidor:</value>
+  </data>
+  <data name="Error.Log.Load" xml:space="preserve">
+    <value>Error cargando registro</value>
   </data>
 </root>

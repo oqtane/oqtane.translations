@@ -120,23 +120,26 @@
   <data name="Template.Text" xml:space="preserve">
     <value>Plantilla:</value>
   </data>
-  <data name="Select Template" xml:space="preserve">
+  <data name="Template.Select" xml:space="preserve">
     <value>Elija Plantilla</value>
   </data>
-  <data name="Internal" xml:space="preserve">
-    <value>Interno</value>
-  </data>
-  <data name="External" xml:space="preserve">
-    <value>Externo</value>
-  </data>
-  <data name="Local Version" xml:space="preserve">
-    <value>Versión local</value>
-  </data>
-  <data name="Create Module" xml:space="preserve">
+  <data name="Module.Create" xml:space="preserve">
     <value>Crear Módulo</value>
   </data>
-  <data name="Activate Module" xml:space="preserve">
+  <data name="Module.Activate" xml:space="preserve">
     <value>Activar Módulo</value>
+  </data>
+  <data name="Info.Module.Creator" xml:space="preserve">
+    <value>Por favor note que el módulo Creador solo se debe utilizar en un ambiente de desarrollo</value>
+  </data>
+  <data name="Info.Module.Activate" xml:space="preserve">
+    <value>Una vez que hayas compilado el módulo y reiniciado la aplicación podrás activar el módulo abajo</value>
+  </data>
+  <data name="Success.Module.Create" xml:space="preserve">
+    <value>El código fuente para tu módulo fue generado en la ubicación especificada abajo y debe ser compilado para que funcione. Una vez compilado deberas &lt;a href={0}&gt;Reiniciar&lt;/a&gt; tu aplicacion para aplicar los cambios</value>
+  </data>
+  <data name="Message.Require.ValidName" xml:space="preserve">
+    <value>Deberas ingresar un nombre dueño y de módulo válido (ej. Sin puntuaciones o espacios) y seleccionar una plantilla</value>
   </data>
   <data name="OwnerName.HelpText" xml:space="preserve">
     <value>Ingrese el nombre de la organización que está desarrollando este módulo. No debe tener espacios ni puntos.</value>
@@ -148,10 +151,10 @@
     <value>Ingrese una descrición corta para el módulo</value>
   </data>
   <data name="Template.HelpText" xml:space="preserve">
-    <value>Elija la plantilla de módulos. Los módulos internos se crean dentro del marco de referencia (framework) y los externos se crean fuera de la solución.</value>
+    <value>Elija la plantilla de módulos. Los módulos estan ubicados en la carpeta wwwroot/Modules/Templates del servidor.</value>
   </data>
   <data name="FrameworkReference.HelpText" xml:space="preserve">
-    <value>Elija la versión del marco de referencia (framework)</value>
+    <value>Elija la versión del framework</value>
   </data>
   <data name="Location.HelpText" xml:space="preserve">
     <value>Ubicación donde el módulo sera creado</value>

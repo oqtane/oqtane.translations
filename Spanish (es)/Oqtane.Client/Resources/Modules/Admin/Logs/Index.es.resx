@@ -117,19 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete" xml:space="preserve">
-    <value>Borrar</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Cargando...</value>
-  </data>
   <data name="Level.Text" xml:space="preserve">
     <value>Nivel: </value>
   </data>
   <data name="Function.Text" xml:space="preserve">
     <value>Función: </value>
   </data>
-  <data name="All Levels" xml:space="preserve">
+  <data name="AllLevels" xml:space="preserve">
     <value>Todos los niveles</value>
   </data>
   <data name="Trace" xml:space="preserve">
@@ -150,17 +144,11 @@
   <data name="Critical" xml:space="preserve">
     <value>Crítico</value>
   </data>
-  <data name="All Functions" xml:space="preserve">
+  <data name="AllFunctions" xml:space="preserve">
     <value>Todas las funciones</value>
-  </data>
-  <data name="Create" xml:space="preserve">
-    <value>Crear</value>
   </data>
   <data name="Read" xml:space="preserve">
     <value>Leer</value>
-  </data>
-  <data name="Update" xml:space="preserve">
-    <value>Actualizar</value>
   </data>
   <data name="Security" xml:space="preserve">
     <value>Seguridad</value>
@@ -180,8 +168,11 @@
   <data name="Function" xml:space="preserve">
     <value>Función</value>
   </data>
-  <data name="No Logs Match The Criteria Specified" xml:space="preserve">
+  <data name="NoLogs" xml:space="preserve">
     <value>Ningún registro coincide con el criterio elegido</value>
+  </data>
+  <data name="Error.Log.Load" xml:space="preserve">
+    <value>Error cargando registros</value>
   </data>
   <data name="Level.HelpText" xml:space="preserve">
     <value>Elija el nivel de registro para los regiostros de eventos</value>
@@ -194,5 +185,29 @@
   </data>
   <data name="Rows.Text" xml:space="preserve">
     <value>Máximos registros: </value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>Crear</value>
+  </data>
+  <data name="LogDetails.Text" xml:space="preserve">
+    <value>Detalles</value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Error guardando configuraciones</value>
+  </data>
+  <data name="Events.Heading" xml:space="preserve">
+    <value>Eventos</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>Numero de días a retener los eventos</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>Retención (Días):</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Configuración</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Configuracíon guardada exitosamente</value>
   </data>
 </root>

@@ -117,16 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete Page" xml:space="preserve">
-    <value>Borrar Pagina</value>
+  <data name="Confirm.Page.Delete" xml:space="preserve">
+    <value>¿Seguro deseas borrar la página {0}?</value>
   </data>
-  <data name="Name" xml:space="preserve">
-    <value>Nombre</value>
-  </data>
-  <data name="DeleteModule.Message" xml:space="preserve">
-    <value>Mensaje de borrado</value>
+  <data name="Error.Page.Delete" xml:space="preserve">
+    <value>Error borrando página</value>
   </data>
   <data name="AddPage.Text" xml:space="preserve">
-    <value>Agregar Pagina</value>
+    <value>Agregar página</value>
+  </data>
+  <data name="DeletePage.Header" xml:space="preserve">
+    <value>Borrar Pagina</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="DeletePage.Text" xml:space="preserve">
+    <value>Borrar</value>
+  </data>
+  <data name="EditPage.Text" xml:space="preserve">
+    <value>Editar</value>
   </data>
 </root>

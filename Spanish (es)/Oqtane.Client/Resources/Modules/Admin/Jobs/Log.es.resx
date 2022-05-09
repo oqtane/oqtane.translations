@@ -117,19 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>Nombre</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Cargando...</value>
-  </data>
-  <data name="Status" xml:space="preserve">
-    <value>Estado</value>
+  <data name="Executing" xml:space="preserve">
+    <value>Ejecutando</value>
   </data>
   <data name="Started" xml:space="preserve">
     <value>Iniciado</value>
   </data>
   <data name="Finished" xml:space="preserve">
     <value>Finalizado</value>
+  </data>
+  <data name="Succeeded" xml:space="preserve">
+    <value>Exitoso</value>
+  </data>
+  <data name="Failed" xml:space="preserve">
+    <value>Fallido</value>
   </data>
 </root>

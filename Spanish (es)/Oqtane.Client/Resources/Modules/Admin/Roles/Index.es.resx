@@ -117,11 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>Nombre</value>
+  <data name="Confirm.DeleteUser" xml:space="preserve">
+    <value>¿Seguro que deseas borrar el rol {0}?</value>
   </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Cargando...</value>
+  <data name="Error.DeleteRole" xml:space="preserve">
+    <value>Error borrando rol</value>
   </data>
   <data name="AddRole.Text" xml:space="preserve">
     <value>Agregar rol</value>
@@ -129,7 +129,13 @@
   <data name="DeleteRole.Header" xml:space="preserve">
     <value>Borrar rol</value>
   </data>
-  <data name="DeleteRole.Message" xml:space="preserve">
-    <value>¿Seguro que deseas borrar el rol {0}?</value>
+  <data name="DeleteRole.Text" xml:space="preserve">
+    <value>Borrar</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="Users.Text" xml:space="preserve">
+    <value>Usuarios</value>
   </data>
 </root>

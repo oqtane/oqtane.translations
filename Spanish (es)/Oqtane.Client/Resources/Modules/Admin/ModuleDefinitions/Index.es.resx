@@ -117,17 +117,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>Nombre</value>
+  <data name="CreateModule.Text" xml:space="preserve">
+    <value>Crear módulo</value>
   </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Cargando...</value>
+  <data name="Success.Module.Install" xml:space="preserve">
+    <value>Módulo instalado con éxito. Debes &lt;a href={0}&gt;Reinicar&lt;/a&gt; la aplicación para aplicar los cambios.</value>
   </data>
-  <data name="Version" xml:space="preserve">
-    <value>Versión</value>
+  <data name="Error.Module.Download" xml:space="preserve">
+    <value>Error descargando módulo</value>
   </data>
-  <data name="Upgrade" xml:space="preserve">
-    <value>Actualizar</value>
+  <data name="Confirm.Module.Delete" xml:space="preserve">
+    <value>¿Seguro desea borrar el módulo {0}?</value>
+  </data>
+  <data name="Error.Module.Load" xml:space="preserve">
+    <value>Error cargando módulos</value>
+  </data>
+  <data name="Success.Module.Delete" xml:space="preserve">
+    <value>Módulo borrado con éxito</value>
+  </data>
+  <data name="Error.Module.Delete" xml:space="preserve">
+    <value>Error borrando módulo</value>
   </data>
   <data name="InstallModule.Text" xml:space="preserve">
     <value>Instalar Módulo</value>
@@ -135,7 +144,10 @@
   <data name="DeleteModule.Header" xml:space="preserve">
     <value>Borrar Módulo</value>
   </data>
-  <data name="DeleteModule.Message" xml:space="preserve">
-    <value>@(</value>
+  <data name="InUse" xml:space="preserve">
+    <value>En uso</value>
+  </data>
+  <data name="EditModule.Text" xml:space="preserve">
+    <value>Editar</value>
   </data>
 </root>

@@ -117,10 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="Message.Password.NoMatch" xml:space="preserve">
+    <value>La contraseñas no coinciden</value>
   </data>
-  <data name="Reset Password" xml:space="preserve">
-    <value>Resetear Clave</value>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Debe ingresar la contraseña y la confirmación</value>
+  </data>
+  <data name="Password.Reset" xml:space="preserve">
+    <value>Resetar contraseña</value>
+  </data>
+  <data name="Error.Password.ResetInfo" xml:space="preserve">
+    <value>Error reseteando la contraseña de usuario. Por favor asegurese que el pedido de reset se realizó dentro de las últimas 24hs y la nueva contraseña cumple con los requerimientos de complejidad</value>
+  </data>
+  <data name="Error.Password.Reset" xml:space="preserve">
+    <value>Error reseteando la contraseña de usuario</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Confirmar:</value>
+  </data>
+  <data name="Conform.HelpText" xml:space="preserve">
+    <value>Ingrese la contraseña nuevamente. Debe coincidir exactamente con la cargada arriba</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>La nueva contraseña debe cumplir con los requerimientos de complejidad del sitio</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Contraseña:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Su nombre de usuario sera llenado desde la liga que reciba en la notificacion de reseteo</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nombre de usuario:</value>
   </data>
 </root>

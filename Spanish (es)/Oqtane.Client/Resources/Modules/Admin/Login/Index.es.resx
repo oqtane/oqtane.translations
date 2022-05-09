@@ -117,22 +117,112 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>Usuario:</value>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>Olvidó su contraseña</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Clave:</value>
+  <data name="Success.Account.Verified" xml:space="preserve">
+    <value>La cuenta de usuario se verificó correctamente. Ya puede acceder con su usuario y contraseña</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="Message.Account.NotVerified" xml:space="preserve">
+    <value>La cuenta de usuario no pudo ser verificada. Por favor contacte al administador</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>Acceso</value>
+  <data name="Success.Account.Linked" xml:space="preserve">
+    <value>La cuenta de usuario se vinculó con éxito. Ya puede acceder con su acceso externo</value>
   </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Acceder</value>
+  <data name="Message.Account.NotLinked" xml:space="preserve">
+    <value>La cuenta de usuario external no pudo vincularse. Por favor contacte al administrador</value>
   </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Olvido su clave</value>
+  <data name="Error.Login.Fail" xml:space="preserve">
+    <value>Acceso fallido. Por favor recuerde que las contraseñas son sensibles a mayusculas y minusculas. Si intentas acceder multiples veces su cuenta sera bloqueada</value>
+  </data>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Por favor carge todos los campos requeridos</value>
+  </data>
+  <data name="Info.SignedIn" xml:space="preserve">
+    <value>Ya te encuentras conectado</value>
+  </data>
+  <data name="Message.ForgotPassword" xml:space="preserve">
+    <value>Por favor ingrese el nombre de usuario de su cuenta y seleccione que olvidó su contraseña nuevamente</value>
+  </data>
+  <data name="Message.ForgotUser" xml:space="preserve">
+    <value>Por favor verifique su correo para recibir notificaciones de reseteo de contraseñas</value>
+  </data>
+  <data name="Message.UserDoesNotExist" xml:space="preserve">
+    <value>El usuario no existe</value>
+  </data>
+  <data name="Code.HelpText" xml:space="preserve">
+    <value>Por favor ingrese el código de verificacion que se envió a tu correo.</value>
+  </data>
+  <data name="Code.Placeholder" xml:space="preserve">
+    <value>Código de verificación</value>
+  </data>
+  <data name="Code.Text" xml:space="preserve">
+    <value>Códido de verificación:</value>
+  </data>
+  <data name="Error.TwoFactor.Fail" xml:space="preserve">
+    <value>Falló la verificación. Por favor asegurese que ingresó el código exactamente como lo recibió en un correo. Si gustas puede solicitar un nuevo código presionando cancelar y accediendo nuevamente</value>
+  </data>
+  <data name="Message.TwoFactor" xml:space="preserve">
+    <value>Se envió un código de verificación a tu correo. Por favor ingrese el código que recibió. Si no recibió el código o perdió el acceso a su correo contactese con el administrador</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Por favor ingrese la contraseña de su cuenta. Recuerde que las contraseñas diferencian entre minusculas y mayusculas. Si intentantes acceder sin éxito a tu cuenta multiples veces tu cuenta será bloqueada.</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Contraseña</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Contraseña:</value>
+  </data>
+  <data name="Remember.HelpText" xml:space="preserve">
+    <value>Especifique si desea acceder automaticamente la proxima vez que visite este sitio</value>
+  </data>
+  <data name="Remember.Text" xml:space="preserve">
+    <value>Recordarme</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Por favor ingrese el nombre de usuario de su cuenta</value>
+  </data>
+  <data name="Username.Placeholder" xml:space="preserve">
+    <value>Nombre de usuario</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nombre de usuario:</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Usar</value>
+  </data>
+  <data name="Error.LoadLogin" xml:space="preserve">
+    <value>Error cargando acceso</value>
+  </data>
+  <data name="Error.Login" xml:space="preserve">
+    <value>Error iniciando acceso</value>
+  </data>
+  <data name="Error.ResetPassword" xml:space="preserve">
+    <value>Error reseteando contraseña</value>
+  </data>
+  <data name="ExternalLoginStatus.DuplicateEmail" xml:space="preserve">
+    <value>Existen multiples cuentas de usuario con el correo de su acceso externo. Por favor contactese con su administrador para futuras instrucciones</value>
+  </data>
+  <data name="ExternalLoginStatus.InvalidEmail" xml:space="preserve">
+    <value>El acceso externo cargado no provee una dirección de correo válida para su cuenta. Por favor contactese con su administrador para futuras instrucciones.</value>
+  </data>
+  <data name="ExternalLoginStatus.ProviderKeyMismatch" xml:space="preserve">
+    <value>Ocurrió un error verificando su acceso externo.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserDoesNotExist" xml:space="preserve">
+    <value>La cuenta de usuario que se vincula con su correo no existe en el acceso externo. Por favor contactese con su administrador para futuras instrucciones.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserNotCreated" xml:space="preserve">
+    <value>Una cuenta de usuario no se pudo crear para el acceso externo. Por favor contactese con su administrador para futuras instrucciones.</value>
+  </data>
+  <data name="ExternalLoginStatus.VerificationRequired" xml:space="preserve">
+    <value>Para vincular su acceso externo con su cuenta de usuario debe verificar su identidad. Por favor contactese con su administrador para futuras instrucciones.</value>
+  </data>
+  <data name="ExternalLoginStatus.AccessDenied" xml:space="preserve">
+    <value>Su acceso externo fue denegado. Por favor contactese con su administrador para futuras instrucciones.</value>
+  </data>
+  <data name="ExternalLoginStatus.RemoteFailure" xml:space="preserve">
+    <value>Su acceso externo falló. Por favor contactese con su administrador para futuras instrucciones.</value>
   </data>
 </root>
