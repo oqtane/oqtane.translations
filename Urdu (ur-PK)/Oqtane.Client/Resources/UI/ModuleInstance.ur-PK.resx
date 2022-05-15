@@ -117,10 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Module Does Not Have A Component Named {0}.razor" xml:space="preserve">
+  <data name="Error.Module.InvalidName" xml:space="preserve">
     <value>ماڈیول میں ایک جز نہیں ہے جس کا نام {0} ہے</value>
   </data>
-  <data name="Module Type Is Invalid For {0}" xml:space="preserve">
+  <data name="Error.Module.InvalidType" xml:space="preserve">
     <value>{0} ماڈیول کی قسم درست نہیں ہے</value>
   </data>
 </root>

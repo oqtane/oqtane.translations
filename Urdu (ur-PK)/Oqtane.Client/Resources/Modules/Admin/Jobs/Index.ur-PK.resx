@@ -117,26 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>نام</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>لوڈ ہو رہا ہے…</value>
-  </data>
-  <data name="Status" xml:space="preserve">
-    <value>حالت</value>
-  </data>
-  <data name="Frequency" xml:space="preserve">
-    <value>تعدد</value>
-  </data>
-  <data name="Next Execution" xml:space="preserve">
+  <data name="NextExecution" xml:space="preserve">
     <value>اگلی بار</value>
-  </data>
-  <data name="Stop" xml:space="preserve">
-    <value>روکو اسے</value>
-  </data>
-  <data name="Start" xml:space="preserve">
-    <value>شروع کریں</value>
   </data>
   <data name="Disabled" xml:space="preserve">
     <value>غیر فعال</value>
@@ -165,7 +147,7 @@
   <data name="s" xml:space="preserve">
     <value>s</value>
   </data>
-  <data name="Error Deleting Job" xml:space="preserve">
+  <data name="Error.Job.Delete" xml:space="preserve">
     <value>ملازمت کو حذف کرنے میں خرابی</value>
   </data>
   <data name="ViewJobs.Text" xml:space="preserve">
@@ -176,5 +158,14 @@
   </data>
   <data name="DeleteJob.Message" xml:space="preserve">
     <value>کیا آپ واقعی یہ کام حذف کرنا چاہتے ہیں؟</value>
+  </data>
+  <data name="Frequency" xml:space="preserve">
+    <value>تعدد</value>
+  </data>
+  <data name="Start" xml:space="preserve">
+    <value>شروع کریں</value>
+  </data>
+  <data name="Stop" xml:space="preserve">
+    <value>روکو اسے</value>
   </data>
 </root>

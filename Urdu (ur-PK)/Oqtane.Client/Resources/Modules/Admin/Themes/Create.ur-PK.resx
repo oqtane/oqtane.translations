@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,17 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
   <data name="Template.Text" xml:space="preserve">
     <value>ٹیمپلیٹس:</value>
   </data>
-  <data name="Select Template" xml:space="preserve">
+  <data name="Template.Select" xml:space="preserve">
     <value>ٹیمپلیٹ منتخب کریں</value>
-  </data>
-  <data name="Local Version" xml:space="preserve">
-    <value>مقامی ورژن</value>
   </data>
   <data name="FrameworkReference.HelpText" xml:space="preserve">
     <value>ایک فریم ورک ریفرنس ورژن منتخب کریں</value>
@@ -141,16 +135,16 @@
   <data name="Location.Text" xml:space="preserve">
     <value>جگہ:</value>
   </data>
-  <data name="Create Theme" xml:space="preserve">
+  <data name="Theme.Create" xml:space="preserve">
     <value>تھیم بنائیں</value>
   </data>
-  <data name="Please Note That The Theme Creator Is Only Intended To Be Used In A Development Environment" xml:space="preserve">
+  <data name="Info.Theme.CreatorIntent" xml:space="preserve">
     <value>براہ کرم نوٹ کریں کہ تھیم خالق صرف ترقیاتی ماحول میں استعمال ہونے کا ارادہ رکھتا ہے</value>
   </data>
-  <data name="The Source Code For Your Theme Has Been Created At The Location Specified Below And Must Be Compiled In Order To Make It Functional. Once It Has Been Compiled You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Activate The Module." xml:space="preserve">
+  <data name="Success.Theme.Create" xml:space="preserve">
     <value>آپ کے تھیم کا ماخذ کوڈ ذیل میں بیان کردہ مقام پر تیار کیا گیا ہے اور اسے مرتب کرنا ضروری ہے ، تاکہ اسے فعال بنائے جا.۔ ایک بار یہ مرتب ہوجانے کے بعد آپ ماڈیول کو چالو کرنے کے لئے اپنی ایپ کو دوبارہ شروع کریں۔</value>
   </data>
-  <data name="You Must Provide A Valid Owner Name And Theme Name ( ie. No Punctuation Or Spaces And The Values Cannot Be The Same ) And Choose A Template" xml:space="preserve">
+  <data name="Message.Required.ValidName" xml:space="preserve">
     <value>آپ کو ایک درست مالک کا نام اور تھیم کا نام فراہم کرنا ہوگا (یعنی کوئی اوقاف یا خالی جگہ اور قدریں ایک جیسی نہیں ہوسکتی ہیں) اور ایک ٹیمپلیٹ منتخب کریں۔</value>
   </data>
   <data name="OwnerName.HelpText" xml:space="preserve">

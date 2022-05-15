@@ -117,40 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>نام:</value>
   </data>
-  <data name="No Parent" xml:space="preserve">
-    <value>کوئی والدین نہیں</value>
+  <data name="NoParent" xml:space="preserve">
+    <value>کوئی والدین نہیں۔</value>
   </data>
-  <data name="Error Loading Folder" xml:space="preserve">
+  <data name="Error.Folder.Load" xml:space="preserve">
     <value>فولڈر لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="Folders Must Have A Parent And A Name" xml:space="preserve">
+  <data name="Message.Required.FolderParent" xml:space="preserve">
     <value>فولڈرز میں پیرنٹ فولڈر اور ایک نام ہونا ضروری ہے</value>
   </data>
-  <data name="Folder Name Not Valid." xml:space="preserve">
+  <data name="Message.Folder.InvalidName" xml:space="preserve">
     <value>فولڈر کا نام درست نہیں۔</value>
   </data>
-  <data name="An Error Was Encountered Saving The Folder" xml:space="preserve">
-    <value>فولڈر کو محفوظ کرنے میں ایک خرابی پیش آگئی</value>
-  </data>
-  <data name="Error Saving Folder" xml:space="preserve">
+  <data name="Error.Folder.Save" xml:space="preserve">
     <value>فولڈر کو محفوظ کرنے میں خامی</value>
   </data>
-  <data name="Folder Has Files And Cannot Be Deleted" xml:space="preserve">
+  <data name="Message.Folder.Files.InvalidDelete" xml:space="preserve">
     <value>فولڈر میں فائلیں ہیں اور اسے حذف نہیں کیا جاسکتا</value>
   </data>
-  <data name="Folder Has Subfolders And Cannot Be Deleted" xml:space="preserve">
+  <data name="Message.Folder.Subfolders.InvalidDelete" xml:space="preserve">
     <value>فولڈر میں ذیلی فولڈرز ہیں اور اسے حذف نہیں کیا جاسکتا</value>
   </data>
-  <data name="Error Deleting Folder" xml:space="preserve">
+  <data name="Error.Folder.Delete" xml:space="preserve">
     <value>فولڈر کو حذف کرنے میں خرابی</value>
   </data>
   <data name="Parent.HelpText" xml:space="preserve">
@@ -173,5 +164,23 @@
   </data>
   <data name="DeleteFolder.Message" xml:space="preserve">
     <value>کیا آپ واقعی اس فولڈر کو حذف کرنا چاہتے ہیں؟</value>
+  </data>
+  <data name="Type.HelpText" xml:space="preserve">
+    <value>فولڈر کی قسم منتخب کریں۔ پرائیویٹ فولڈرز صرف مجاز صارفین کے ذریعہ قابل رسائی ہیں۔ عوامی فولڈرز تک تمام صارفین رسائی حاصل کر سکتے ہیں۔</value>
+  </data>
+  <data name="Type.Text" xml:space="preserve">
+    <value>قسم:</value>
+  </data>
+  <data name="Capacity.HelpText" xml:space="preserve">
+    <value>فولڈر کی زیادہ سے زیادہ گنجائش (میگا بائٹس میں) درج کریں۔ اگر صلاحیت لامحدود ہے تو صفر کی وضاحت کریں۔</value>
+  </data>
+  <data name="Capacity.Text" xml:space="preserve">
+    <value>سائز:</value>
+  </data>
+  <data name="ImageSizes.HelpText" xml:space="preserve">
+    <value>تصویر کے سائز کی ایک فہرست درج کریں، جو اپ لوڈ کردہ تصاویر سے بنائی جا سکتی ہے (200x200x200,200x میں)</value>
+  </data>
+  <data name="ImageSizes.Text" xml:space="preserve">
+    <value>تصویر کے سائز:</value>
   </data>
 </root>

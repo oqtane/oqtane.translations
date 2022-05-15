@@ -117,16 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Synchronize Content" xml:space="preserve">
+  <data name="SynchronizeContent" xml:space="preserve">
     <value>مواد کی ہم آہنگی کریں</value>
   </data>
-  <data name="Insert Image" xml:space="preserve">
+  <data name="InsertImage" xml:space="preserve">
     <value>تصویر داخل کریں</value>
   </data>
   <data name="Close" xml:space="preserve">
     <value>بند کریں</value>
   </data>
-  <data name="You Must Select An Image To Insert" xml:space="preserve">
+  <data name="Message.Require.Image" xml:space="preserve">
     <value>آپ داخل کرنے کے لئے ایک امیج منتخب کریں</value>
   </data>
 </root>

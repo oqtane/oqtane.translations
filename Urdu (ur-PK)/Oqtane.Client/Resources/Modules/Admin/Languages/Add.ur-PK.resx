@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,25 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>جی ہاں</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>نہیں</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>لوڈ ہو رہا ہے…</value>
-  </data>
   <data name="The Only Supported Culture That Has Been Defined Is English" xml:space="preserve">
     <value>صرف تائید شدہ ثقافت جس کی تعریف کی گئی ہے وہ انگریزی ہے</value>
   </data>
-  <data name="Error Adding Language" xml:space="preserve">
+  <data name="Error.Language.Add" xml:space="preserve">
     <value>زبان شامل کرنے میں خرابی</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
@@ -149,5 +134,23 @@
   </data>
   <data name="IsDefault.Text" xml:space="preserve">
     <value>ڈیفالٹ؟</value>
+  </data>
+  <data name="AllLanguages" xml:space="preserve">
+    <value>تمام انسٹال شدہ زبانیں شامل کر دی گئی ہیں۔</value>
+  </data>
+  <data name="Error.Language.Download" xml:space="preserve">
+    <value>ترجمہ ڈاؤن لوڈ کرنے میں خرابی۔</value>
+  </data>
+  <data name="OnlyEnglish" xml:space="preserve">
+    <value>واحد نصب شدہ زبان انگریزی ہے۔</value>
+  </data>
+  <data name="Success.Language.Download" xml:space="preserve">
+    <value>ترجمہ کامیابی کے ساتھ ڈاؤن لوڈ ہو گیا۔ انسٹالیشن مکمل کرنے کے لیے انسٹال پر کلک کریں۔</value>
+  </data>
+  <data name="Success.Language.Install" xml:space="preserve">
+    <value>ترجمے کامیابی کے ساتھ انسٹال ہو گئے۔ ان تبدیلیوں کو لاگو کرنے کے لیے آپ کو اپنی درخواست کو &lt;a href={0}&gt;دوبارہ شروع&lt;/a&gt; کرنا ہوگا۔</value>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>کوئی ترجمہ فراہم کردہ معیار سے میل نہیں کھاتا یا پیکیج سروس غیر فعال ہے۔</value>
   </data>
 </root>

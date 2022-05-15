@@ -117,19 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Download" xml:space="preserve">
-    <value>ڈاؤن لوڈ کریں</value>
-  </data>
-  <data name="Install" xml:space="preserve">
-    <value>انسٹال کریں</value>
-  </data>
-  <data name="Upgrade To" xml:space="preserve">
-    <value>اپ گریڈ</value>
-  </data>
-  <data name="Error Executing Upgrade" xml:space="preserve">
+  <data name="Error.Upgrade.Execute" xml:space="preserve">
     <value>اپ گریڈ پر عمل درآمد میں خرابی</value>
   </data>
-  <data name="Error Downloading Framework" xml:space="preserve">
+  <data name="Error.Framework.Download" xml:space="preserve">
     <value>فریم ورک ڈاؤن لوڈ کرنے میں خرابی</value>
   </data>
   <data name="Framework.HelpText" xml:space="preserve">
@@ -137,5 +128,11 @@
   </data>
   <data name="Framework.Text" xml:space="preserve">
     <value>فریم ورک:</value>
+  </data>
+  <data name="Info.Upgrade.Wait" xml:space="preserve">
+    <value>براہ کرم صبر کریں جب تک اپ گریڈ جاری ہے...</value>
+  </data>
+  <data name="Success.Framework.Download" xml:space="preserve">
+    <value>فریم ورک کامیابی سے ڈاؤن لوڈ ہو گیا... براہ کرم عمل مکمل کرنے کے لیے اپ گریڈ کو منتخب کریں۔</value>
   </data>
 </root>

@@ -123,13 +123,10 @@
   <data name="User" xml:space="preserve">
     <value>صارف</value>
   </data>
-  <data name="Enter Username" xml:space="preserve">
+  <data name="Username.Enter" xml:space="preserve">
     <value>صارف نام درج کریں</value>
   </data>
-  <data name="Add" xml:space="preserve">
-    <value>شامل کریں</value>
-  </data>
-  <data name="Username Does Not Exist" xml:space="preserve">
+  <data name="Message.Username.DontExist" xml:space="preserve">
     <value>صارف نام موجود نہیں ہے</value>
   </data>
 </root>

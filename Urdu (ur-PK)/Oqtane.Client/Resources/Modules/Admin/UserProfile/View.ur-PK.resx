@@ -117,37 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Error Loading Users" xml:space="preserve">
+  <data name="Error.User.Load" xml:space="preserve">
     <value>صارفین کو لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="Send" xml:space="preserve">
-    <value>بھیجیں</value>
-  </data>
-  <data name="User Does Not Exist. Please Verify That The Username Provided Is Correct." xml:space="preserve">
+  <data name="Message.User.Invalid" xml:space="preserve">
     <value>صارف موجود نہیں. براہ کرم تصدیق کریں کہ فراہم کردہ صارف نام درست ہے۔</value>
   </data>
-  <data name="Error Adding Notification" xml:space="preserve">
+  <data name="Error.Notification.Add" xml:space="preserve">
     <value>اطلاع شامل کرنے میں خرابی</value>
   </data>
-  <data name="Title:" xml:space="preserve">
+  <data name="Title" xml:space="preserve">
     <value>عنوان:</value>
   </data>
-  <data name="Subject:" xml:space="preserve">
+  <data name="Subject" xml:space="preserve">
     <value>مضمون:</value>
   </data>
-  <data name="Date:" xml:space="preserve">
+  <data name="Date" xml:space="preserve">
     <value>تاریخ:</value>
   </data>
-  <data name="Message:" xml:space="preserve">
+  <data name="Message" xml:space="preserve">
     <value>پیغام:</value>
   </data>
   <data name="Reply" xml:space="preserve">
     <value>جواب</value>
   </data>
-  <data name="Original Message" xml:space="preserve">
+  <data name="OriginalMessage" xml:space="preserve">
     <value>اصل پیغام</value>
   </data>
 </root>

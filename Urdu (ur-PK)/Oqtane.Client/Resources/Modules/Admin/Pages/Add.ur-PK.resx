@@ -117,18 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>جی ہاں</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>نہیں</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>نام:</value>
   </data>
@@ -141,10 +129,10 @@
   <data name="Settings.Heading" xml:space="preserve">
     <value>ترتیبات</value>
   </data>
-  <data name="Site Root" xml:space="preserve">
+  <data name="SiteRoot" xml:space="preserve">
     <value>سائٹ روٹ</value>
   </data>
-  <data name="At Beginning" xml:space="preserve">
+  <data name="AtBeginning" xml:space="preserve">
     <value>شروع میں</value>
   </data>
   <data name="Before" xml:space="preserve">
@@ -153,31 +141,31 @@
   <data name="After" xml:space="preserve">
     <value>اس کے بعد</value>
   </data>
-  <data name="At End" xml:space="preserve">
+  <data name="AtEnd" xml:space="preserve">
     <value>آخر میں</value>
   </data>
-  <data name="Select Page" xml:space="preserve">
+  <data name="Page.Select" xml:space="preserve">
     <value>صفحہ منتخب کریں</value>
   </data>
-  <data name="Select Container" xml:space="preserve">
+  <data name="Container.Select" xml:space="preserve">
     <value>کنٹینر منتخب کریں</value>
   </data>
-  <data name="Error Initializing Page" xml:space="preserve">
+  <data name="Error.Page.Initialize" xml:space="preserve">
     <value>صفحہ شروع کرنے میں خرابی</value>
   </data>
-  <data name="Error Loading Child Pages For Parent" xml:space="preserve">
+  <data name="Error.ChildPage.Load" xml:space="preserve">
     <value>والدین کے لئے ، بچوں کے صفحات ، لوڈ کرنے میں غلطی۔</value>
   </data>
-  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+  <data name="Error.Pane.Load" xml:space="preserve">
     <value>تھیم کیلئے پین لے آؤٹ لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="A page with path {0} already exists for the selected parent page. The page path needs to be unique for the selected parent." xml:space="preserve">
-    <value>منتخب کردہ والدین کے صفحے کے لئے ، ایک صفحہ ، محل وقوع {0} پہلے سے موجود ہے۔ صفحے کے مقام کو منتخب کردہ والدین کے لئے انوکھا ہونا ضروری ہے۔</value>
+  <data name="Message.Page.Exists" xml:space="preserve">
+    <value>پاتھ {0} والا صفحہ منتخب شدہ بنیادی صفحہ کے لیے پہلے سے موجود ہے۔ صفحہ کا راستہ منتخب والدین کے لیے منفرد ہونا ضروری ہے۔</value>
   </data>
-  <data name="You Must Provide Page Name, Theme, and Container" xml:space="preserve">
+  <data name="Message.Required.PageInfo" xml:space="preserve">
     <value>آپ کو صفحہ کا نام ، تھیم اور کنٹینر فراہم کرنا ہوگا</value>
   </data>
-  <data name="Error Saving Page" xml:space="preserve">
+  <data name="Error.Page.Save" xml:space="preserve">
     <value>صفحہ محفوظ کرنے میں خرابی</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
@@ -239,5 +227,8 @@
   </data>
   <data name="Appearance.Name" xml:space="preserve">
     <value>ظہور</value>
+  </data>
+  <data name="Message.Page.Deleted" xml:space="preserve">
+    <value>ری سائیکل بن میں منتخب پیرنٹ پیج کے لیے پاتھ {0} والا صفحہ پہلے سے موجود ہے۔ یا تو صفحہ بازیافت کریں یا ری سائیکل بن سے ہٹائیں اور اسے دوبارہ بنائیں۔</value>
   </data>
 </root>

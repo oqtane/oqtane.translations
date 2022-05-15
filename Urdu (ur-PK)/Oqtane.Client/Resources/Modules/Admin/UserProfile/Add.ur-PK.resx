@@ -117,19 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
   <data name="Message.Text" xml:space="preserve">
     <value>پیغام:</value>
   </data>
-  <data name="Send" xml:space="preserve">
-    <value>بھیجیں</value>
-  </data>
-  <data name="User Does Not Exist. Please Verify That The Username Provided Is Correct." xml:space="preserve">
+  <data name="Message.User.Invalid" xml:space="preserve">
     <value>صارف موجود نہیں. براہ کرم تصدیق کریں کہ فراہم کردہ صارف نام درست ہے۔</value>
   </data>
-  <data name="Error Adding Notification" xml:space="preserve">
+  <data name="Error.Notification.Add" xml:space="preserve">
     <value>اطلاع شامل کرنے میں خرابی</value>
   </data>
   <data name="To.HelpText" xml:space="preserve">

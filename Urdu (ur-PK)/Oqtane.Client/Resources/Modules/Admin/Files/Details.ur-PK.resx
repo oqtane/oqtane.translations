@@ -117,22 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
   <data name="Folder.Text" xml:space="preserve">
     <value>فولڈر:</value>
   </data>
-  <data name="Error Loading File" xml:space="preserve">
+  <data name="Error.File.Load" xml:space="preserve">
     <value>فائل کو لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="File Name Not Valid" xml:space="preserve">
+  <data name="Message.File.InvalidName" xml:space="preserve">
     <value>فائل کا نام درست نہیں</value>
   </data>
-  <data name="Error Saving File" xml:space="preserve">
+  <data name="Error.File.Save" xml:space="preserve">
     <value>فائل کو محفوظ کرنے میں خرابی</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
@@ -149,5 +143,11 @@
   </data>
   <data name="Size.Text" xml:space="preserve">
     <value>سائز:</value>
+  </data>
+  <data name="Description.HelpText" xml:space="preserve">
+    <value>فائل کی تفصیل۔ اسے تصویری فائلوں کے لیے بطور عنوان استعمال کیا جا سکتا ہے</value>
+  </data>
+  <data name="Description.Text" xml:space="preserve">
+    <value>تفصیل:</value>
   </data>
 </root>

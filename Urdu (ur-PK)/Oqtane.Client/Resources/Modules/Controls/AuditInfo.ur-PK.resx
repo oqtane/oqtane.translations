@@ -120,13 +120,13 @@
   <data name="Created" xml:space="preserve">
     <value>بنائی گئی</value>
   </data>
-  <data name="by" xml:space="preserve">
+  <data name="By" xml:space="preserve">
     <value>سے</value>
   </data>
-  <data name="on" xml:space="preserve">
+  <data name="On" xml:space="preserve">
     <value>پر</value>
   </data>
-  <data name="Last modified" xml:space="preserve">
+  <data name="LastModified" xml:space="preserve">
     <value>آخری بار ترمیم کی</value>
   </data>
   <data name="Deleted" xml:space="preserve">

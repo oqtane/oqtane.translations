@@ -117,19 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete" xml:space="preserve">
-    <value>حذف کریں</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>لوڈ ہو رہا ہے…</value>
-  </data>
   <data name="Level.Text" xml:space="preserve">
     <value>سطح:</value>
   </data>
   <data name="Function.Text" xml:space="preserve">
     <value>فنکشن:</value>
   </data>
-  <data name="All Levels" xml:space="preserve">
+  <data name="AllLevels" xml:space="preserve">
     <value>تمام سطحیں</value>
   </data>
   <data name="Trace" xml:space="preserve">
@@ -150,7 +144,7 @@
   <data name="Critical" xml:space="preserve">
     <value>ناخوشگوار</value>
   </data>
-  <data name="All Functions" xml:space="preserve">
+  <data name="AllFunctions" xml:space="preserve">
     <value>تمام افعال</value>
   </data>
   <data name="Create" xml:space="preserve">
@@ -180,10 +174,10 @@
   <data name="Function" xml:space="preserve">
     <value>فنکشن</value>
   </data>
-  <data name="No Logs Match The Criteria Specified" xml:space="preserve">
+  <data name="NoLogs" xml:space="preserve">
     <value>کوئی لاگ  میچ نہیں جو معیار طے کیا گیا ہے</value>
   </data>
-  <data name="Error Loading Logs" xml:space="preserve">
+  <data name="Error.Log.Load" xml:space="preserve">
     <value>لاگ ان لوڈ کرنے میں خرابی</value>
   </data>
   <data name="Level.HelpText" xml:space="preserve">

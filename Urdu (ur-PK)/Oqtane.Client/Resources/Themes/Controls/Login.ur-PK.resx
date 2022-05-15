@@ -120,7 +120,4 @@
   <data name="Logout" xml:space="preserve">
     <value>لاگ آوٹ</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>لاگ ان کریں</value>
-  </data>
 </root>
