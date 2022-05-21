@@ -129,7 +129,7 @@
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>Contenedor por defecto:</value>
   </data>
-  <data name="Default Admin Container" xml:space="preserve">
+  <data name="DefaultAdminContainer" xml:space="preserve">
     <value>Contenedor administrador por defecto</value>
   </data>
   <data name="Smtp.Required.EnableNotificationJob" xml:space="preserve">

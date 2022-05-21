@@ -141,7 +141,7 @@
   <data name="Reply" xml:space="preserve">
     <value>Responder</value>
   </data>
-  <data name="Original Message" xml:space="preserve">
+  <data name="OriginalMessage" xml:space="preserve">
     <value>Mensaje original</value>
   </data>
 </root>

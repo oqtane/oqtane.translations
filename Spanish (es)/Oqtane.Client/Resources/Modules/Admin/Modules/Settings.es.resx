@@ -141,7 +141,7 @@
   <data name="DisplayOnAllPages.Text" xml:space="preserve">
     <value>¿Mostrar en todas las páginas?</value>
   </data>
-  <data name="ModuleSettings.Heading" xml:space="preserve">
+  <data name="Settings.Heading" xml:space="preserve">
     <value>Configuraciones del módulo</value>
   </data>
   <data name="Message.Required.Title" xml:space="preserve">

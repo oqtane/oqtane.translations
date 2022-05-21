@@ -186,4 +186,16 @@
   <data name="Password.Placeholder" xml:space="preserve">
     <value>Contraseña</value>
   </data>
+  <data name="LastIPAddress.HelpText" xml:space="preserve">
+    <value>La dirección IP del usuario registrado en su último acceso</value>
+  </data>
+  <data name="LastIPAddress.Text" xml:space="preserve">
+    <value>Ultima dirección IP: </value>
+  </data>
+  <data name="LastLogin.HelpText" xml:space="preserve">
+    <value>La fecha y hora que el usuario accedió por última vez</value>
+  </data>
+  <data name="LastLogin.Text" xml:space="preserve">
+    <value>Ultimo acceso:</value>
+  </data>
 </root>

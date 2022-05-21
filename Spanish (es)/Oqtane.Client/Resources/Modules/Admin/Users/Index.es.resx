@@ -226,7 +226,7 @@
     <value>El Client ID del proveedor</value>
   </data>
   <data name="ClientID.Text" xml:space="preserve">
-    <value>Client ID:</value>
+    <value>Cliente ID:</value>
   </data>
   <data name="ClientSecret.HelpText" xml:space="preserve">
     <value>El Client Secret del proveedor</value>
@@ -337,7 +337,7 @@
     <value>La cantidad de minutos durante los cuales un token debe ser válido</value>
   </data>
   <data name="Lifetime.Text" xml:space="preserve">
-    <value>Lifetime:</value>
+    <value>Tiempo de vida:</value>
   </data>
   <data name="Secret.HelpText" xml:space="preserve">
     <value>Si desea proporcionar acceso a la API, especifique un secreto que se utilizará para cifrar sus tokens. El secreto debe tener 16 caracteres o más para garantizar una seguridad óptima. Tenga en cuenta que si cambia este secreto, todos los tokens existentes dejarán de ser válidos y deberán regenerarse.</value>
@@ -369,12 +369,6 @@
   <data name="Required" xml:space="preserve">
     <value>Obligatorio</value>
   </data>
-  <data name="CreatedOn" xml:space="preserve">
-    <value>Creado el</value>
-  </data>
-  <data name="LastIPAddress" xml:space="preserve">
-    <value>Ultima dirección IP</value>
-  </data>
   <data name="LastLoginOn" xml:space="preserve">
     <value>Ultimo acceso</value>
   </data>
@@ -383,5 +377,11 @@
   </data>
   <data name="IdentifierClaimType.Text" xml:space="preserve">
     <value>Reclamo de identificador:</value>
+  </data>
+  <data name="Parameters.HelpText" xml:space="preserve">
+    <value>Especifique opcionalmente algún parámetro adiciona en pares nombre/valor para enviar al proveedor (separados por coma si son muchos).</value>
+  </data>
+  <data name="Parameters.Text" xml:space="preserve">
+    <value>Parametros:</value>
   </data>
 </root>

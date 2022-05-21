@@ -177,7 +177,7 @@
   <data name="DeleteAllModules.Message" xml:space="preserve">
     <value>¿Estas seguro que deseas realizar un borrado permanente de todos los módulos?</value>
   </data>
-  <data name="Pages.Name" xml:space="preserve">
+  <data name="Pages.Heading" xml:space="preserve">
     <value>Páginas</value>
   </data>
   <data name="Modules.Heading" xml:space="preserve">
