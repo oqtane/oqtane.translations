@@ -1,5 +1,4 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
@@ -18,13 +17,6 @@
     <dependencies>
       <dependency id="Oqtane.Framework" version="3.1.1" />
     </dependencies>
+    <RootNamespace>Oqtane</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <EmbeddedResource Update="Resources\SharedResources.es.resx">
-      <Generator></Generator>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-    </EmbeddedResource>
-  </ItemGroup>
-
 </Project>
