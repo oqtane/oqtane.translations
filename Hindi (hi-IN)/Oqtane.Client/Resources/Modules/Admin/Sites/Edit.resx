@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,84 +118,84 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>सेव</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>रद्द करना</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>हाँ</value>
   </data>
   <data name="No" xml:space="preserve">
-    <value>No</value>
+    <value>नहीं</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Name: </value>
+    <value>नाम: </value>
   </data>
   <data name="Select Container" xml:space="preserve">
-    <value>Select Container</value>
+    <value>कंटेनर का चयन करें</value>
   </data>
   <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
-    <value>Error Loading Pane Layouts For Theme</value>
+    <value>थीम के लिए पेन लेआउट लोड करने में त्रुटि</value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
-    <value>Default Container: </value>
+    <value>डिफ़ॉल्ट कंटेनर: </value>
   </data>
   <data name="Select Theme" xml:space="preserve">
-    <value>Select Theme</value>
+    <value>थीम का चयन करें</value>
   </data>
   <data name="Default Admin Container" xml:space="preserve">
-    <value>Default Admin Container</value>
+    <value>डिफ़ॉल्ट व्यवस्थापक कंटेनर</value>
   </data>
   <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
-    <value>An Alias Specified Has Already Been Used For Another Site</value>
+    <value>निर्दिष्ट उपनाम पहले से ही किसी अन्य साइट के लिए उपयोग किया जा चुका है</value>
   </data>
   <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
-    <value>You Must Provide A Site Name, Alias, And Default Theme/Container</value>
+    <value>आपको कोई साइट नाम, उपनाम, और डिफ़ॉल्ट थीम/कंटेनर प्रदान करना होगा</value>
   </data>
   <data name="Error Saving Site" xml:space="preserve">
-    <value>Error Saving Site</value>
+    <value>साइट सहेजने में त्रुटि</value>
   </data>
   <data name="Aliases.HelpText" xml:space="preserve">
-    <value>Enter the alias for the server</value>
+    <value>सर्वर के लिए उपनाम दर्ज करें</value>
   </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
-    <value>Select the default container for the site</value>
+    <value>साइट के लिए डिफ़ॉल्ट कंटेनर का चयन करें</value>
   </data>
   <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
-    <value>Select the default admin container for the site</value>
+    <value>साइट के लिए डिफ़ॉल्ट व्यवस्थापक कंटेनर का चयन करें</value>
   </data>
   <data name="Tenant.Text" xml:space="preserve">
-    <value>Tenant: </value>
+    <value>टेनेंट: </value>
   </data>
   <data name="Aliases.Text" xml:space="preserve">
-    <value>Aliases: </value>
+    <value>उपनाम: </value>
   </data>
   <data name="IsDeleted.Text" xml:space="preserve">
-    <value>Is Deleted? </value>
+    <value>हटा दिया गया है? </value>
   </data>
   <data name="DefaultTheme.Text" xml:space="preserve">
-    <value>Default Theme: </value>
+    <value>डिफ़ॉल्ट थीम: </value>
   </data>
   <data name="DefaultAdminContainer.Text" xml:space="preserve">
-    <value>Default Admin Container: </value>
+    <value>डिफ़ॉल्ट व्यवस्थापक कंटेनर: </value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>Enter the name of the site</value>
+    <value>साइट का नाम दर्ज करें</value>
   </data>
   <data name="DefaultTheme.HelpText" xml:space="preserve">
-    <value>Select the default theme for the website</value>
+    <value>वेबसाइट के लिए डिफ़ॉल्ट थीम का चयन करें</value>
   </data>
   <data name="IsDeleted.HelpText" xml:space="preserve">
-    <value>Has this site been deleted?</value>
+    <value>क्या इस साइट को हटा दिया गया है?</value>
   </data>
   <data name="Tenant.HelpText" xml:space="preserve">
-    <value>The tenant for the site</value>
+    <value>साइट के लिए टेनेंट</value>
   </data>
   <data name="ConnectionString.HelpText" xml:space="preserve">
-    <value>The database connection string</value>
+    <value>डेटाबेस कनेक्शन स्ट्रिंग</value>
   </data>
   <data name="ConnectionString.Text" xml:space="preserve">
-    <value>Connection String: </value>
+    <value>कनेक्शन स्ट्रिंग: </value>
   </data>
 </root>

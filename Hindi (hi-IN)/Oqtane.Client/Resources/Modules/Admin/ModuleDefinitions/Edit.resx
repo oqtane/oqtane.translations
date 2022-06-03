@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,81 +118,81 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>सेव</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>रद्द करना</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Name: </value>
+    <value>नाम: </value>
   </data>
   <data name="Information" xml:space="preserve">
-    <value>Information</value>
+    <value>सूचना</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description: </value>
+    <value>विवरण: </value>
   </data>
   <data name="Error Loading Module" xml:space="preserve">
-    <value>Error Loading Module</value>
+    <value>मॉड्यूल लोड करने में त्रुटि</value>
   </data>
   <data name="Error Saving Module" xml:space="preserve">
-    <value>Error Saving Module</value>
+    <value>मॉड्यूल सहेजने में त्रुटि</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>The name of the module</value>
+    <value>मॉड्यूल का नाम</value>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
-    <value>The description of the module</value>
+    <value>मॉड्यूल का विवरण</value>
   </data>
   <data name="Categories.HelpText" xml:space="preserve">
-    <value>Comma delimited list of module categories</value>
+    <value>मॉड्यूल श्रेणियों की अल्पविराम सीमांकित सूची</value>
   </data>
   <data name="InternalName.HelpText" xml:space="preserve">
-    <value>The internal name of the module</value>
+    <value>मॉड्यूल का आंतरिक नाम</value>
   </data>
   <data name="Version.HelpText" xml:space="preserve">
-    <value>The version of the module</value>
+    <value>मॉड्यूल का संस्करण</value>
   </data>
   <data name="Owner.HelpText" xml:space="preserve">
-    <value>The owner or creator of the module</value>
+    <value>मॉड्यूल का मालिक या निर्माता</value>
   </data>
   <data name="ReferenceUrl.HelpText" xml:space="preserve">
-    <value>The reference url of the module</value>
+    <value>मॉड्यूल का संदर्भ URL</value>
   </data>
   <data name="Contact.HelpText" xml:space="preserve">
-    <value>The contact for the module</value>
+    <value>मॉड्यूल के लिए संपर्क</value>
   </data>
   <data name="License.HelpText" xml:space="preserve">
-    <value>The module license terms</value>
+    <value>मॉड्यूल लायसेंस शर्तें</value>
   </data>
   <data name="Runtimes.HelpText" xml:space="preserve">
-    <value>The Blazor runtimes which this module supports</value>
+    <value>Blazor रनटाइम जो इस मॉड्यूल का समर्थन करता है</value>
   </data>
   <data name="Categories.Text" xml:space="preserve">
-    <value>Categories: </value>
+    <value>श्रेणियाँ: </value>
   </data>
   <data name="InternalName.Text" xml:space="preserve">
-    <value>Internal Name: </value>
+    <value>आंतरिक नाम: </value>
   </data>
   <data name="Version.Text" xml:space="preserve">
-    <value>Version: </value>
+    <value>संस्करण: </value>
   </data>
   <data name="Owner.Text" xml:space="preserve">
-    <value>Owner: </value>
+    <value>मालिक: </value>
   </data>
   <data name="ReferenceUrl.Text" xml:space="preserve">
-    <value>Reference Url: </value>
+    <value>संदर्भ URL: </value>
   </data>
   <data name="Contact.Text" xml:space="preserve">
-    <value>Contact: </value>
+    <value>संपर्क: </value>
   </data>
   <data name="License.Text" xml:space="preserve">
-    <value>License: </value>
+    <value>लायसेंस: </value>
   </data>
   <data name="Runtimes.Text" xml:space="preserve">
-    <value>Runtimes: </value>
+    <value>रनटाइम: </value>
   </data>
   <data name="Definition.Name" xml:space="preserve">
-    <value>Definition</value>
+    <value>परिभाषा</value>
   </data>
 </root>

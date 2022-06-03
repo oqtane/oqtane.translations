@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,63 +118,63 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Template.Text" xml:space="preserve">
-    <value>Template: </value>
+    <value>टेम्पलेट:</value>
   </data>
   <data name="Select Template" xml:space="preserve">
-    <value>Select Template</value>
+    <value>टेम्पलेट का चयन करें</value>
   </data>
   <data name="Local Version" xml:space="preserve">
-    <value>Local Version</value>
+    <value>स्थानीय संस्करण</value>
   </data>
   <data name="Create Module" xml:space="preserve">
-    <value>Create Module</value>
+    <value>मॉड्यूल बनाएँ</value>
   </data>
   <data name="Activate Module" xml:space="preserve">
-    <value>Activate Module</value>
+    <value>मॉड्यूल सक्रिय करें</value>
   </data>
   <data name="Please Note That The Module Creator Is Only Intended To Be Used In A Development Environment" xml:space="preserve">
-    <value>Please Note That The Module Creator Is Only Intended To Be Used In A Development Environment</value>
+    <value>कृपया ध्यान दें कि मॉड्यूल निर्माता केवल एक विकास वातावरण में उपयोग करने के लिए अभिप्रेत है</value>
   </data>
   <data name="Once You Have Compiled The Module And Restarted The Application You Can Activate The Module Below" xml:space="preserve">
-    <value>Once You Have Compiled The Module And Restarted The Application You Can Activate The Module Below</value>
+    <value>एक बार जब आप मॉड्यूल संकलित कर लेते हैं और एप्लिकेशन को पुनरारंभ कर देते हैं तो आप नीचे दिए गए मॉड्यूल को सक्रिय कर सकते हैं</value>
   </data>
   <data name="The Source Code For Your Module Has Been Created At The Location Specified Below And Must Be Compiled In Order To Make It Functional. Once It Has Been Compiled You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
-    <value>The Source Code For Your Module Has Been Created At The Location Specified Below And Must Be Compiled In Order To Make It Functional. Once It Has Been Compiled You Must &lt;a href=\"{0}\"&gt;Restart&lt;/a&gt; Your Application To Apply These Changes.</value>
+    <value>आपके मॉड्यूल के लिए स्रोत कोड नीचे निर्दिष्ट स्थान पर बनाया गया है और इसे कार्यात्मक बनाने के लिए संकलित किया जाना चाहिए। एक बार जब इसे संकलित कर दिया जाता है तो आपको &lt;a href = "{0}"&gt;अनियमित&lt;/a&gt; करें आपका आवेदन इन परिवर्तनों को लागू करने के लिए तैयार है।</value>
   </data>
   <data name="You Must Provide A Valid Owner Name And Module Name ( ie. No Punctuation Or Spaces And The Values Cannot Be The Same ) And Choose A Template" xml:space="preserve">
-    <value>You Must Provide A Valid Owner Name And Module Name ( ie. No Punctuation Or Spaces And The Values Cannot Be The Same ) And Choose A Template</value>
+    <value>आपको एक मान्य स्वामी नाम और मॉड्यूल नाम प्रदान करना होगा (यानी, कोई विराम चिह्न या रिक्तियाँ और मान समान नहीं हो सकते हैं) और एक टेम्पलेट चुनें</value>
   </data>
   <data name="OwnerName.HelpText" xml:space="preserve">
-    <value>Enter the name of the organization who is developing this module. It should not contain spaces or punctuation.</value>
+    <value>उस संगठन का नाम दर्ज करें जो इस मॉड्यूल को विकसित कर रहा है. इसमें रिक्तियाँ या विराम चिह्न नहीं होने चाहिए।</value>
   </data>
   <data name="ModuleName.HelpText" xml:space="preserve">
-    <value>Enter a name for this module. It should not contain spaces or punctuation.</value>
+    <value>इस मॉड्यूल के लिए कोई नाम दर्ज करें. इसमें रिक्तियाँ या विराम चिह्न नहीं होने चाहिए।</value>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
-    <value>Enter a short description for the module</value>
+    <value>मॉड्यूल के लिए एक छोटा विवरण दर्ज करें</value>
   </data>
   <data name="Template.HelpText" xml:space="preserve">
-    <value>Select a module template. Templates are located in the wwwroot/Modules/Templates folder on the server.</value>
+    <value>किसी मॉड्यूल टेम्पलेट का चयन करें. टेम्पलेट्स सर्वर पर wwwroot/Modules/Templates फ़ोल्डर में स्थित हैं।</value>
   </data>
   <data name="FrameworkReference.HelpText" xml:space="preserve">
-    <value>Select a framework reference version</value>
+    <value>किसी फ़्रेमवर्क संदर्भ संस्करण का चयन करें</value>
   </data>
   <data name="Location.HelpText" xml:space="preserve">
-    <value>Location where the module will be created</value>
+    <value>वह स्थान जहाँ मॉड्यूल बनाया जाएगा</value>
   </data>
   <data name="OwnerName.Text" xml:space="preserve">
-    <value>Owner Name: </value>
+    <value>मालिक का नाम: </value>
   </data>
   <data name="ModuleName.Text" xml:space="preserve">
-    <value>Module Name: </value>
+    <value>मॉड्यूल का नाम: </value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description: </value>
+    <value>वर्णन: </value>
   </data>
   <data name="FrameworkReference.Text" xml:space="preserve">
-    <value>Framework Reference: </value>
+    <value>फ्रेमवर्क संदर्भ: </value>
   </data>
   <data name="Location.Text" xml:space="preserve">
-    <value>Location: </value>
+    <value>स्थान:</value>
   </data>
 </root>

@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,84 +118,84 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>सेव</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>रद्द करना</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>हाँ</value>
   </data>
   <data name="No" xml:space="preserve">
-    <value>No</value>
+    <value>नहीं</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Name: </value>
+    <value>नाम: </value>
   </data>
   <data name="Minute(s)" xml:space="preserve">
-    <value>Minute(s)</value>
+    <value>मिनट (मिनट्स)</value>
   </data>
   <data name="Hour(s)" xml:space="preserve">
-    <value>Hour(s)</value>
+    <value>घंटा (घंटे)</value>
   </data>
   <data name="Day(s)" xml:space="preserve">
-    <value>Day(s)</value>
+    <value>दिन</value>
   </data>
   <data name="Month(s)" xml:space="preserve">
-    <value>Month(s)</value>
+    <value>महीना (महीने)</value>
   </data>
   <data name="Error Loading Job" xml:space="preserve">
-    <value>Error Loading Job</value>
+    <value>कार्य लोड करने में त्रुटि</value>
   </data>
   <data name="Error Updating Job" xml:space="preserve">
-    <value>Error Updating Job</value>
+    <value>कार्य अद्यतन करने में त्रुटि</value>
   </data>
   <data name="You Must Provide The Job Name, Type, Frequency, and Retention" xml:space="preserve">
-    <value>You Must Provide The Job Name, Type, Frequency, and Retention</value>
+    <value>आपको कार्य का नाम, प्रकार, आवृत्ति, और अवधारण प्रदान करना आवश्यक है</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>Enter the job name</value>
+    <value>कार्य का नाम दर्ज करें</value>
   </data>
   <data name="Type.HelpText" xml:space="preserve">
-    <value>The fully qualified job type name</value>
+    <value>पूरी तरह से योग्य कार्य प्रकार का नाम</value>
   </data>
   <data name="Enabled.HelpText" xml:space="preserve">
-    <value>Select whether you want the job enabled or not</value>
+    <value>चुनें कि क्या आप कार्य सक्षम करना चाहते हैं या नहीं</value>
   </data>
   <data name="RunsEvery.HelpText" xml:space="preserve">
-    <value>Select how often you want the job to run</value>
+    <value>चुनें कि आप कितनी बार कार्य चलाना चाहते हैं</value>
   </data>
   <data name="Starting.HelpText" xml:space="preserve">
-    <value>What time do you want the job to start</value>
+    <value>आप किस समय काम शुरू करना चाहते हैं</value>
   </data>
   <data name="Ending.HelpText" xml:space="preserve">
-    <value>When do you want the job to end</value>
+    <value>आप कब काम खत्म करना चाहते हैं</value>
   </data>
   <data name="RetentionLog.HelpText" xml:space="preserve">
-    <value>Number of log entries to retain for this job</value>
+    <value>इस कार्य के लिए बनाए रखने के लिए लॉग प्रविष्टियों की संख्या</value>
   </data>
   <data name="NextExecution.HelpText" xml:space="preserve">
-    <value>Next execution for this job.</value>
+    <value>इस काम के लिए अगला निष्पादन।</value>
   </data>
   <data name="Type.Text" xml:space="preserve">
-    <value>Type: </value>
+    <value>प्रकार:</value>
   </data>
   <data name="Enabled.Text" xml:space="preserve">
-    <value>Enabled? </value>
+    <value>सक्षम?</value>
   </data>
   <data name="RunsEvery.Text" xml:space="preserve">
-    <value>Runs Every: </value>
+    <value>हर रन: </value>
   </data>
   <data name="Starting.Text" xml:space="preserve">
-    <value>Starting: </value>
+    <value>शुरूआत: </value>
   </data>
   <data name="Ending.Text" xml:space="preserve">
-    <value>Ending: </value>
+    <value>अंत :</value>
   </data>
   <data name="RetentionLog.Text" xml:space="preserve">
-    <value>Retention Log (Items): </value>
+    <value>अवधारण लॉग (आइटम):</value>
   </data>
   <data name="NextExecution.Text" xml:space="preserve">
-    <value>Next Execution: </value>
+    <value>अगला निष्पादन:</value>
   </data>
 </root>
