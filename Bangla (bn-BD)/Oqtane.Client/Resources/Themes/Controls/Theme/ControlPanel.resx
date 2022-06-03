@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,72 +118,81 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Delete" xml:space="preserve">
-    <value>Delete</value>
+    <value>মুছে ফেলা</value>
   </data>
   <data name="Add" xml:space="preserve">
-    <value>Add</value>
+    <value>সংযোজন</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>বাতিল করুন</value>
   </data>
   <data name="Details.Text" xml:space="preserve">
-    <value>Edit</value>
+    <value>সম্পাদনা করুন</value>
   </data>
   <data name="Select Page" xml:space="preserve">
-    <value>Select Page</value>
+    <value>পৃষ্ঠা নির্বাচন করুন</value>
   </data>
   <data name="DeletePage.Header" xml:space="preserve">
-    <value>Delete Page</value>
+    <value>পৃষ্ঠা মুছুন</value>
   </data>
   <data name="Title:" xml:space="preserve">
-    <value>Title:</value>
+    <value>শিরোনাম:</value>
   </data>
   <data name="Control Panel" xml:space="preserve">
-    <value>Control Panel</value>
+    <value>কন্ট্রোল প্যানেল</value>
   </data>
   <data name="Admin Dashboard" xml:space="preserve">
-    <value>Admin Dashboard</value>
+    <value>অ্যাডমিন ড্যাশবোর্ড</value>
   </data>
   <data name="Page Management:" xml:space="preserve">
-    <value>Page Management:</value>
+    <value>পৃষ্ঠা ব্যবস্থাপনা:</value>
   </data>
   <data name="Unpublish Page" xml:space="preserve">
-    <value>Unpublish Page</value>
+    <value>অপ্রকাশিত পাতা</value>
   </data>
   <data name="Publish Page" xml:space="preserve">
-    <value>Publish Page</value>
+    <value>পৃষ্ঠা প্রকাশ করুন</value>
   </data>
   <data name="Module Management:" xml:space="preserve">
-    <value>Module Management:</value>
+    <value>মডিউল ব্যবস্থাপনা:</value>
   </data>
   <data name="Add New Module" xml:space="preserve">
-    <value>Add New Module</value>
+    <value>নতুন মডিউল যোগ করুন</value>
   </data>
   <data name="Add Existing Module" xml:space="preserve">
-    <value>Add Existing Module</value>
+    <value>বিদ্যমান মডিউল যোগ করুন</value>
   </data>
   <data name="Modules" xml:space="preserve">
-    <value>Modules</value>
+    <value>মডিউল</value>
   </data>
   <data name="Select Module" xml:space="preserve">
-    <value>Select Module</value>
+    <value>মডিউল নির্বাচন করুন</value>
   </data>
   <data name="Pane:" xml:space="preserve">
-    <value>Pane:</value>
+    <value>ফলক:</value>
   </data>
   <data name="Container:" xml:space="preserve">
-    <value>Container:</value>
+    <value>ধারক:</value>
   </data>
   <data name="Add Module To Page" xml:space="preserve">
-    <value>Add Module To Page</value>
+    <value>পৃষ্ঠায় মডিউল যোগ করুন</value>
   </data>
   <data name="Module Added To Page" xml:space="preserve">
-    <value>Module Added To Page</value>
+    <value>মডিউল পৃষ্ঠায় যোগ করা হয়েছে</value>
   </data>
   <data name="You Must Select A Module" xml:space="preserve">
-    <value>You Must Select A Module</value>
+    <value>আপনাকে একটি মডিউল নির্বাচন করতে হবে</value>
   </data>
   <data name="Not Authorized" xml:space="preserve">
-    <value>Not Authorized</value>
+    <value>অনুমোদিত না</value>
+  </data>
+  <data name="String" xml:space="preserve">
+    <value>স্ট্রিং</value>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value>স্ট্রিং 1</value>
+  </data>
+  <data name="String2" xml:space="preserve">
+    <value>স্ট্রিং 2</value>
   </data>
 </root>

@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,81 +118,159 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>সংরক্ষণ</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>বাতিল</value>
   </data>
   <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
+    <value>হ্যাঁ</value>
   </data>
   <data name="No" xml:space="preserve">
-    <value>No</value>
+    <value>না</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Name: </value>
+    <value>নাম:</value>
   </data>
   <data name="Category.Text" xml:space="preserve">
-    <value>Category: </value>
+    <value>বিভাগ:</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description: </value>
+    <value>বর্ণনা:</value>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Title: </value>
+    <value>শিরোনাম:</value>
   </data>
   <data name="Error Loading Profile" xml:space="preserve">
-    <value>Error Loading Profile</value>
+    <value>প্রোফাইল লোড করার সময় ত্রুটি৷</value>
   </data>
   <data name="Error Saving Profile" xml:space="preserve">
-    <value>Error Saving Profile</value>
+    <value>প্রোফাইল সংরক্ষণে ত্রুটি৷</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>The name of this profile item</value>
+    <value>এই প্রোফাইল আইটেম নাম</value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
-    <value>The title of the profile item to display to the user</value>
+    <value>ব্যবহারকারীর কাছে প্রদর্শন করার জন্য প্রোফাইল আইটেমের শিরোনাম</value>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
-    <value>The help text displayed to the user for this profile item</value>
+    <value>এই প্রোফাইল আইটেমের জন্য ব্যবহারকারীর কাছে সাহায্যের টেক্সটটি  প্রদর্শিত হয়েছে৷</value>
   </data>
   <data name="Category.HelpText" xml:space="preserve">
-    <value>The category of this profile item (for grouping)</value>
+    <value>এই প্রোফাইল আইটেমের বিভাগ (গ্রুপ করার জন্য)</value>
   </data>
   <data name="Order.HelpText" xml:space="preserve">
-    <value>The index order of where this profile item should be displayed</value>
+    <value>এই প্রোফাইল আইটেমটি যেখানে প্রদর্শিত হবে তার সূচী ক্রম</value>
   </data>
   <data name="Length.HelpText" xml:space="preserve">
-    <value>The max number of characters this profile item should accept (enter zero for unlimited)</value>
+    <value>এই প্রোফাইল আইটেমটি গ্রহণ করা উচিত অক্ষরের সর্বাধিক সংখ্যা (সীমাহীনের জন্য শূন্য লিখুন)</value>
   </data>
   <data name="DefaultValue.HelpText" xml:space="preserve">
-    <value>The default value for this profile item</value>
+    <value>এই প্রোফাইল আইটেম জন্য ডিফল্ট মান</value>
   </data>
   <data name="Options.HelpText" xml:space="preserve">
-    <value>A comma delimited list of options the user can select from</value>
+    <value>ব্যবহারকারী নির্বাচন করতে পারেন এমন বিকল্পগুলির একটি কমা সীমাবদ্ধ তালিকা</value>
   </data>
   <data name="Required.HelpText" xml:space="preserve">
-    <value>Should a user be required to provide a value for this profile item?</value>
+    <value>একজন ব্যবহারকারীকে কি এই প্রোফাইল আইটেমের জন্য একটি মান প্রদান করতে হবে?</value>
   </data>
   <data name="Private.HelpText" xml:space="preserve">
-    <value>Should this profile item be visible to all users?</value>
+    <value>এই প্রোফাইল আইটেমটি সমস্ত ব্যবহারকারীদের কাছে দৃশ্যমান হওয়া উচিত?</value>
   </data>
   <data name="Order.Text" xml:space="preserve">
-    <value>Order: </value>
+    <value>আদেশ:</value>
   </data>
   <data name="Length.Text" xml:space="preserve">
-    <value>Length: </value>
+    <value>দৈর্ঘ্য:</value>
   </data>
   <data name="DefaultValue.Text" xml:space="preserve">
-    <value>Default Value: </value>
+    <value>ডিফল্ট মান:</value>
   </data>
   <data name="Options.Text" xml:space="preserve">
-    <value>Options: </value>
+    <value>বিকল্প:</value>
   </data>
   <data name="Required.Text" xml:space="preserve">
-    <value>Required? </value>
+    <value>প্রয়োজন?</value>
   </data>
   <data name="Private.Text" xml:space="preserve">
-    <value>Private? </value>
+    <value>ব্যক্তিগত?</value>
+  </data>
+  <data name="String" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String10" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String11" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String12" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String13" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String14" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String15" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String16" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String17" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String18" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String19" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String2" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String20" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String21" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String22" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String23" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String24" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String25" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String3" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String4" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String5" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String6" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String7" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String8" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String9" xml:space="preserve">
+    <value />
   </data>
 </root>

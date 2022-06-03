@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,48 +118,93 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+    <value>ব্যবহারকারীর নাম:</value>
   </data>
   <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+    <value>পাসওয়ার্ড:</value>
   </data>
   <data name="Email:" xml:space="preserve">
-    <value>Email:</value>
+    <value>ইমেইল:</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>বাতিল</value>
   </data>
   <data name="You Are Already Registered" xml:space="preserve">
-    <value>You Are Already Registered</value>
+    <value>আপনি ইতোমধ্যে নিবন্ধিত</value>
   </data>
   <data name="Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity" xml:space="preserve">
-    <value>Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity</value>
+    <value>অনুগ্রহ করে মনে রাখবেন যে আপনার পরিচয় যাচাই করার জন্য নিবন্ধনের জন্য একটি বৈধ ইমেল ঠিকানা প্রয়োজন</value>
   </data>
   <data name="Confirm Password:" xml:space="preserve">
-    <value>Confirm Password:</value>
+    <value>পাসওয়ার্ড নিশ্চিত করুন:</value>
   </data>
   <data name="Full Name:" xml:space="preserve">
-    <value>Full Name:</value>
+    <value>পুরো নাম:</value>
   </data>
   <data name="Register" xml:space="preserve">
-    <value>Register</value>
+    <value>নিবন্ধন</value>
   </data>
   <data name="Registration is Disabled For This Site" xml:space="preserve">
-    <value>Registration is Disabled For This Site</value>
+    <value>এই সাইটের জন্য নিবন্ধন নিষ্ক্রিয় করা হয়েছে</value>
   </data>
   <data name="User Account Created. Please Check Your Email For Verification Instructions." xml:space="preserve">
-    <value>User Account Created. Please Check Your Email For Verification Instructions.</value>
+    <value>ব্যবহারকারীর অ্যাকাউন্ট তৈরি করা হয়েছে। যাচাইকরণ নির্দেশাবলীর জন্য আপনার ইমেল চেক করুন.</value>
   </data>
   <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
-    <value>Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use.</value>
+    <value>ব্যবহারকারী যোগ করার সময় ত্রুটি৷ অনুগ্রহ করে নিশ্চিত করুন যে পাসওয়ার্ড জটিলতার প্রয়োজনীয়তা পূরণ করে এবং ব্যবহারকারীর নাম ইতিমধ্যে ব্যবহার করা হচ্ছে না।</value>
   </data>
   <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Passwords Entered Do Not Match</value>
+    <value>প্রবেশ করা পাসওয়ার্ড মেলে না</value>
   </data>
   <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
-    <value>You Must Provide A Username, Password, and Email Address</value>
+    <value>আপনাকে অবশ্যই একটি ব্যবহারকারীর নাম, পাসওয়ার্ড এবং ইমেল ঠিকানা প্রদান করতে হবে</value>
   </data>
   <data name="Error Adding User" xml:space="preserve">
-    <value>Error Adding User</value>
+    <value>ব্যবহারকারী যোগ করার সময় ত্রুটি</value>
+  </data>
+  <data name="String" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String10" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String11" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String12" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String13" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String14" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String2" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String3" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String4" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String5" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String6" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String7" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String8" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String9" xml:space="preserve">
+    <value />
   </data>
 </root>
