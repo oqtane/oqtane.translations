@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,69 +118,69 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Name" xml:space="preserve">
-    <value>Name</value>
+    <value>નામ</value>
   </data>
   <data name="DeleteModule.Header" xml:space="preserve">
-    <value>Delete Module</value>
+    <value>મોડ્યુલ કાઢી નાંખો</value>
   </data>
   <data name="DeletePage.Header" xml:space="preserve">
-    <value>Delete Page</value>
+    <value>પાનું કાઢી નાંખો</value>
   </data>
   <data name="No Deleted Pages" xml:space="preserve">
-    <value>No Deleted Pages</value>
+    <value>કોઈ કાઢી નંખાયેલ પાનાંઓ નથી</value>
   </data>
   <data name="Deleted By" xml:space="preserve">
-    <value>Deleted By</value>
+    <value>દ્વારા કાઢી નંખાયેલ છે</value>
   </data>
   <data name="Deleted On" xml:space="preserve">
-    <value>Deleted On</value>
+    <value>પર કાઢી નંખાયેલ છે</value>
   </data>
   <data name="Are You Sure You Wish To Permanently Delete The {0} Page?" xml:space="preserve">
-    <value>Are You Sure You Wish To Permanently Delete The {0} Page?</value>
+    <value>શું તમે ખરેખર {0} પૃષ્ઠને કાયમી ધોરણે કાઢી નાંખવા માંગો છો?</value>
   </data>
   <data name="No Deleted Modules" xml:space="preserve">
-    <value>No Deleted Modules</value>
+    <value>કાઢી નંખાયેલ મોડ્યુલો નથી</value>
   </data>
   <data name="Page" xml:space="preserve">
-    <value>Page</value>
+    <value>પૃષ્ઠ</value>
   </data>
   <data name="Module" xml:space="preserve">
-    <value>Module</value>
+    <value>મોડ્યુલ</value>
   </data>
   <data name="Restore" xml:space="preserve">
-    <value>Restore</value>
+    <value>પુન:સંગ્રહ કરો</value>
   </data>
   <data name="Are You Sure You Wish To Permanently Delete The {0} Module?" xml:space="preserve">
-    <value>Are You Sure You Wish To Permanently Delete The {0} Module?</value>
+    <value>શું તમે ખરેખર {0} મોડ્યુલને કાયમી રીતે કાઢી નાંખવા માંગો છો?</value>
   </data>
   <data name="Error Loading Deleted Pages Or Modules" xml:space="preserve">
-    <value>Error Loading Deleted Pages Or Modules</value>
+    <value>કાઢી નંખાયેલ પાનાંઓ અથવા મોડ્યુલો લાવવામાં ભૂલ</value>
   </data>
   <data name="Error Restoring Deleted Page" xml:space="preserve">
-    <value>Error Restoring Deleted Page</value>
+    <value>કાઢી નંખાયેલ પાનાંને પુન:સંગ્રહી રહ્યા હોય ત્યારે ભૂલ</value>
   </data>
   <data name="Error Restoring Deleted Module" xml:space="preserve">
-    <value>Error Restoring Deleted Module</value>
+    <value>કાઢી નંખાયેલ મોડ્યુલને પુન:સંગ્રહતી વખતે ભૂલ</value>
   </data>
   <data name="Error Permanently Deleting Module" xml:space="preserve">
-    <value>Error Permanently Deleting Module</value>
+    <value>મોડ્યુલને કાયમી રીતે કાઢી રહ્યા હોય ત્યારે ભૂલ</value>
   </data>
   <data name="Error Permanently Deleting Modules" xml:space="preserve">
-    <value>Error Permanently Deleting Modules</value>
+    <value>મોડ્યુલોને કાયમી રીતે કાઢી રહ્યા હોય ત્યારે ભૂલ</value>
   </data>
   <data name="DeleteAllPages.Header" xml:space="preserve">
-    <value>Delete All Pages</value>
+    <value>બધા પાનાંઓ કાઢી નાંખો</value>
   </data>
   <data name="DeleteAllPages.Message" xml:space="preserve">
-    <value>Are You Sure You Wish To Permanently Delete All Pages?</value>
+    <value>શું તમે ખરેખર બધા પૃષ્ઠોને કાયમ માટે કાઢી નાખવા માંગો છો?</value>
   </data>
   <data name="DeleteAllModules.Header" xml:space="preserve">
-    <value>Delete All Modules</value>
+    <value>બધા મોડ્યુલો કાઢી નાંખો</value>
   </data>
   <data name="DeleteAllModules.Message" xml:space="preserve">
-    <value>Are You Sure You Wish To Permanently Delete All Modules?</value>
+    <value>શું તમે ખરેખર બધા મોડ્યુલોને કાયમ માટે કાઢી નાંખવા માંગો છો?</value>
   </data>
   <data name="Pages.Name" xml:space="preserve">
-    <value>Pages</value>
+    <value>પાનાંઓ</value>
   </data>
 </root>

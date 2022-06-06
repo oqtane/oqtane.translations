@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -118,78 +118,78 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+    <value>વપરાશકર્તાનામ:</value>
   </data>
   <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+    <value>પાસવર્ડ:</value>
   </data>
   <data name="Email:" xml:space="preserve">
-    <value>Email:</value>
+    <value>ઇમેઇલ:</value>
   </data>
   <data name="Save" xml:space="preserve">
-    <value>Save</value>
+    <value>સંગ્રહો</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>રદ્દ</value>
   </data>
   <data name="Confirm Password:" xml:space="preserve">
-    <value>Confirm Password:</value>
+    <value>ખાતરી પાસવર્ડ:</value>
   </data>
   <data name="Full Name:" xml:space="preserve">
-    <value>Full Name:</value>
+    <value>સંપૂર્ણ નામ:</value>
   </data>
   <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Passwords Entered Do Not Match</value>
+    <value>દાખલ થયેલ પાસવર્ડો બંધબેસતા નથી</value>
   </data>
   <data name="Photo:" xml:space="preserve">
-    <value>Photo:</value>
+    <value>ફોટો:</value>
   </data>
   <data name="From" xml:space="preserve">
-    <value>From</value>
+    <value>તરફથી</value>
   </data>
   <data name="Subject" xml:space="preserve">
-    <value>Subject</value>
+    <value>વિષય</value>
   </data>
   <data name="Received" xml:space="preserve">
-    <value>Received</value>
+    <value>મેળવેલ</value>
   </data>
   <data name="To" xml:space="preserve">
-    <value>To</value>
+    <value>પ્રતિ</value>
   </data>
   <data name="Sent" xml:space="preserve">
-    <value>Sent</value>
+    <value>મોકલેલ</value>
   </data>
   <data name="Inbox" xml:space="preserve">
-    <value>Inbox</value>
+    <value>ઈનબોક્સ</value>
   </data>
   <data name="Sent Items" xml:space="preserve">
-    <value>Sent Items</value>
+    <value>મોકલેલ વસ્તુઓ</value>
   </data>
   <data name="Current User Is Not Logged In" xml:space="preserve">
-    <value>Current User Is Not Logged In</value>
+    <value>વર્તમાન વપરાશકર્તા પ્રવેશેલ નથી</value>
   </data>
   <data name="Error Loading User Profile" xml:space="preserve">
-    <value>Error Loading User Profile</value>
+    <value>વપરાશકર્તા રૂપરેખા લાવવામાં ભૂલ</value>
   </data>
   <data name="User Profile Updated Successfully" xml:space="preserve">
-    <value>User Profile Updated Successfully</value>
+    <value>વપરાશકર્તા રૂપરેખા સફળતાપૂર્વક સુધારાઈ ગઈ</value>
   </data>
   <data name="You Must Provide A Username and Email Address As Well As All Required Profile Information" xml:space="preserve">
-    <value>You Must Provide A Username and Email Address As Well As All Required Profile Information</value>
+    <value>તમારે વપરાશકર્તાનામ અને ઇમેઇલ એડ્રેસ તેમજ તમામ જરૂરી પ્રોફાઇલ માહિતી પૂરી પાડવી આવશ્યક છે</value>
   </data>
   <data name="Error Saving User Profile" xml:space="preserve">
-    <value>Error Saving User Profile</value>
+    <value>વપરાશકર્તા રૂપરેખા સંગ્રહવામાં ભૂલ</value>
   </data>
   <data name="SendNotification.Text" xml:space="preserve">
-    <value>Send Notification</value>
+    <value>સૂચન મોકલો</value>
   </data>
   <data name="DeleteNotification.Header" xml:space="preserve">
-    <value>Delete Notification</value>
+    <value>સૂચનને કાઢી નાંખો</value>
   </data>
   <data name="DeleteNotification.Message" xml:space="preserve">
-    <value>Are You Sure You Wish To Delete This Notification?</value>
+    <value>શું તમે ખરેખર આ નોટિફિકેશનને ડિલીટ કરવા માગો છો?</value>
   </data>
   <data name="Identity.Name" xml:space="preserve">
-    <value>Identity</value>
+    <value>ઓળખ</value>
   </data>
 </root>
