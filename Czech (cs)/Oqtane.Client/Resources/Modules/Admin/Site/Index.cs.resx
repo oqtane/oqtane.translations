@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Název:</value>
+  </data>
+  <data name="Container.Select" xml:space="preserve">
+    <value>Vyberte Kontejner</value>
+  </data>
+  <data name="Error.Theme.LoadPane" xml:space="preserve">
+    <value>Chyba při načítání rozložení podokna pro motiv</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>Výchozí kontejner:</value>
+  </data>
+  <data name="DefaultAdminContainer" xml:space="preserve">
+    <value>Výchozí editační kontejner</value>
+  </data>
+  <data name="Smtp.Required.EnableNotificationJob" xml:space="preserve">
+    <value>** Upozorňujeme, že SMTP vyžaduje, aby byla v naplánovaných úlohách povolena úloha oznámení</value>
+  </data>
+  <data name="Smtp.TestConfig" xml:space="preserve">
+    <value>Otestujte konfiguraci SMTP</value>
+  </data>
+  <data name="Success.Settings.SaveSite" xml:space="preserve">
+    <value>Nastavení webu uloženo</value>
+  </data>
+  <data name="Message.Aliases.Taken" xml:space="preserve">
+    <value>Nebyl zadán výchozí alias nebo byl zadán alias, který již byl použit pro jiný web</value>
+  </data>
+  <data name="Message.Required.SiteName" xml:space="preserve">
+    <value>Musíte zadat název webu, alias a výchozí téma/kontejner</value>
+  </data>
+  <data name="Error.SaveSite" xml:space="preserve">
+    <value>Chyba při ukládání webu</value>
+  </data>
+  <data name="Info.Smtp.SaveSettings" xml:space="preserve">
+    <value>Nastavení SMTP byla uložena a zpráva byla odeslána na e-mailovou adresu přidruženou k vašemu uživatelskému účtu... Počkejte prosím několik minut na doručení. Pokud e-mail neobdržíte, zkontrolujte prosím úlohu oznamování v naplánovaných úlohách, kde najdete podrobnosti o protokolu.</value>
+  </data>
+  <data name="Error.Smtp.TestConfig" xml:space="preserve">
+    <value>Chyba při testování konfigurace SMTP</value>
+  </data>
+  <data name="Message.Required.Smtp" xml:space="preserve">
+    <value>Musíte zadat hostitele SMTP, port a odesílatele</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Zadejte název webu</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>Zadejte nájemce webu</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>Aliasy webu. Alias může být název domény (www.site.com) nebo virtuální složka (např. www.site.com/folder). Pokud má web více aliasů, měly by být odděleny čárkami.</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>Je tato stránka smazána?</value>
+  </data>
+  <data name="Logo.HelpText" xml:space="preserve">
+    <value>Zadejte logo webu</value>
+  </data>
+  <data name="FavoriteIcon.HelpText" xml:space="preserve">
+    <value>Zadejte Favicon</value>
+  </data>
+  <data name="DefaultTheme.HelpText" xml:space="preserve">
+    <value>Vyberte výchozí motiv webů</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>Vyberte výchozí kontejner pro web</value>
+  </data>
+  <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
+    <value>Vyberte výchozí kontejner pro editační okno</value>
+  </data>
+  <data name="Host.HelpText" xml:space="preserve">
+    <value>Zadejte název hostitele serveru SMTP</value>
+  </data>
+  <data name="Port.HelpText" xml:space="preserve">
+    <value>Zadejte číslo portu pro server SMTP. Upozorňujeme, že toto pole je povinné, pokud zadáte název hostitele.</value>
+  </data>
+  <data name="UseSsl.HelpText" xml:space="preserve">
+    <value>Zadejte, zda je pro váš server SMTP vyžadován SSL</value>
+  </data>
+  <data name="SmptUsername.HelpText" xml:space="preserve">
+    <value>Zadejte uživatelské jméno pro váš účet SMTP</value>
+  </data>
+  <data name="SmtpPassword.HelpText" xml:space="preserve">
+    <value>Zadejte heslo ke svému účtu SMTP</value>
+  </data>
+  <data name="SmptSender.HelpText" xml:space="preserve">
+    <value>Zadejte e-mail, ze kterého budou zasílány e-maily. Upozorňujeme, že tato e-mailová adresa může vyžadovat autorizaci na serveru SMTP.</value>
+  </data>
+  <data name="EnablePWA.HelpText" xml:space="preserve">
+    <value>Vyberte, zda chcete, aby byl tento web dostupný jako progresivní webová aplikace (PWA)</value>
+  </data>
+  <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
+    <value>Zahrňte ikonu aplikace pro váš PWA. Mělo by se jednat o PNG o rozměrech 192 x 192 pixelů.</value>
+  </data>
+  <data name="PwaSplashIcon.HelpText" xml:space="preserve">
+    <value>Zahrňte úvodní ikonu pro váš PWA. Měl by to být PNG o rozměrech 512 x 512 pixelů.</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Nájemce:</value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>Přezdívky:</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Smazáno?</value>
+  </data>
+  <data name="Logo.Text" xml:space="preserve">
+    <value>Logo:</value>
+  </data>
+  <data name="FavoriteIcon.Text" xml:space="preserve">
+    <value>Favicon:</value>
+  </data>
+  <data name="DefaultTheme.Text" xml:space="preserve">
+    <value>Výchozí motiv:</value>
+  </data>
+  <data name="DefaultAdminContainer.Text" xml:space="preserve">
+    <value>Výchozí editační kontejner:</value>
+  </data>
+  <data name="Host.Text" xml:space="preserve">
+    <value>Hostitel:</value>
+  </data>
+  <data name="Port.Text" xml:space="preserve">
+    <value>Port:</value>
+  </data>
+  <data name="UseSsl.Text" xml:space="preserve">
+    <value>SSL povoleno:</value>
+  </data>
+  <data name="SmptUsername.Text" xml:space="preserve">
+    <value>uživatelské jméno:</value>
+  </data>
+  <data name="SmtpPassword.Text" xml:space="preserve">
+    <value>Heslo:</value>
+  </data>
+  <data name="SmptSender.Text" xml:space="preserve">
+    <value>Odesílatel e-mailu:</value>
+  </data>
+  <data name="EnablePWA.Text" xml:space="preserve">
+    <value>Je povoleno?</value>
+  </data>
+  <data name="PwaApplicationIcon.Text" xml:space="preserve">
+    <value>Ikona aplikace:</value>
+  </data>
+  <data name="PwaSplashIcon.Text" xml:space="preserve">
+    <value>Úvodní ikona:</value>
+  </data>
+  <data name="Confirm.DeleteSite" xml:space="preserve">
+    <value>Jste si jisti, že chcete tento web smazat?</value>
+  </data>
+  <data name="Error.DeleteSite" xml:space="preserve">
+    <value>Chyba při mazání webu</value>
+  </data>
+  <data name="Message.FailAuth.DeleteSite" xml:space="preserve">
+    <value>Nejste oprávněni web smazat</value>
+  </data>
+  <data name="Theme.Select" xml:space="preserve">
+    <value>Vyberte téma</value>
+  </data>
+  <data name="Hosting.Heading" xml:space="preserve">
+    <value>Model hostování</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Určuje, zda má být web předběžně vykreslen (pro vyhledávací prohledávače atd.)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>Předvykreslení?</value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>Běhový hostingový model Blazor</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Doba běhu:</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Procházet</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>Informace o nájemci</value>
+  </data>
+  <data name="PWASettings.Heading" xml:space="preserve">
+    <value>Nastavení PWA</value>
+  </data>
+  <data name="SMTPSettings.Heading" xml:space="preserve">
+    <value>Nastavení SMTP</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Spojení:</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Databáze:</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>Informace o připojení k databázi</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Databáze pro nájemce</value>
+  </data>
+  <data name="DeleteSite.Text" xml:space="preserve">
+    <value>Smazat web</value>
+  </data>
+  <data name="DefaultAlias.HelpText" xml:space="preserve">
+    <value>Výchozí alias pro web. Požadavky na jiné než výchozí aliasy budou přesměrovány na výchozí alias.</value>
+  </data>
+  <data name="DefaultAlias.Text" xml:space="preserve">
+    <value>Výchozí alias:</value>
+  </data>
+  <data name="Aliases.Heading" xml:space="preserve">
+    <value>Přezdívky</value>
+  </data>
+</root>

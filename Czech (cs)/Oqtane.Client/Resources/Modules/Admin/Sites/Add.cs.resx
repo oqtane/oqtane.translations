@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="LocalDatabase" xml:space="preserve">
+    <value>Místní databáze</value>
+  </data>
+  <data name="SqlServer" xml:space="preserve">
+    <value>SQL Server</value>
+  </data>
+  <data name="Server.Text" xml:space="preserve">
+    <value>server:</value>
+  </data>
+  <data name="Container.Select" xml:space="preserve">
+    <value>Vyberte Kontejner</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>Výchozí kontejner:</value>
+  </data>
+  <data name="Theme.Select" xml:space="preserve">
+    <value>Vyberte téma</value>
+  </data>
+  <data name="DefaultContainer.Admin" xml:space="preserve">
+    <value>Výchozí kontejner správce</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>Zadejte alias serveru</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>Vyberte výchozí kontejner pro web</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Nájemce:</value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>Přezdívky:</value>
+  </data>
+  <data name="DefaultTheme.Text" xml:space="preserve">
+    <value>Výchozí motiv:</value>
+  </data>
+  <data name="SiteTemplate.Select" xml:space="preserve">
+    <value>Vyberte Šablona webu</value>
+  </data>
+  <data name="Tenant.Select" xml:space="preserve">
+    <value>Vyberte Nájemce</value>
+  </data>
+  <data name="Tenant.Add" xml:space="preserve">
+    <value>Vytvořit nového nájemce</value>
+  </data>
+  <data name="Error.Theme.LoadContainers" xml:space="preserve">
+    <value>Chyba při načítání kontejnerů pro motiv</value>
+  </data>
+  <data name="Error.Required.ServerDatabase" xml:space="preserve">
+    <value>Musíte zadat server a databázi</value>
+  </data>
+  <data name="Error.InvalidPassword" xml:space="preserve">
+    <value>Neplatné heslo hostitele</value>
+  </data>
+  <data name="Error.TenantName.Exists" xml:space="preserve">
+    <value>Jméno nájemce chybí nebo již existuje</value>
+  </data>
+  <data name="Message.SiteName.InUse" xml:space="preserve">
+    <value>{0} Již se používá pro jiný web</value>
+  </data>
+  <data name="Message.Required.Tenant" xml:space="preserve">
+    <value>Musíte poskytnout nájemce, název webu, alias, výchozí téma/kontejner a šablonu webu</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Zadejte název webu</value>
+  </data>
+  <data name="DefaultTheme.HelpText" xml:space="preserve">
+    <value>Vyberte výchozí motiv pro web</value>
+  </data>
+  <data name="AdminContainer.HelpText" xml:space="preserve">
+    <value>Vyberte kontejner správce pro web</value>
+  </data>
+  <data name="SiteTemplate.HelpText" xml:space="preserve">
+    <value>Vyberte šablonu webu</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>Vyberte tenanta pro web</value>
+  </data>
+  <data name="TenantName.HelpText" xml:space="preserve">
+    <value>Zadejte jméno nájemce</value>
+  </data>
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>Vyberte typ databáze pro tenanta</value>
+  </data>
+  <data name="DatabaseServer.HelpText" xml:space="preserve">
+    <value>Zadejte server pro tenanta</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Zadejte databázi pro nájemce</value>
+  </data>
+  <data name="IntegratedSecurity.HelpText" xml:space="preserve">
+    <value>Vyberte, zda chcete integrované zabezpečení nebo ne</value>
+  </data>
+  <data name="DatabaseUsername.HelpText" xml:space="preserve">
+    <value>Zadejte uživatelské jméno pro integrované zabezpečení</value>
+  </data>
+  <data name="DatabasePassword.HelpText" xml:space="preserve">
+    <value>Zadejte heslo pro integrované zabezpečení</value>
+  </data>
+  <data name="HostUsername.HelpText" xml:space="preserve">
+    <value>Zadejte uživatelské jméno stávajícího hostitele</value>
+  </data>
+  <data name="HostPassword.HelpText" xml:space="preserve">
+    <value>Zadejte heslo stávajícího hostitele</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Jméno stránky:</value>
+  </data>
+  <data name="AdminContainer.Text" xml:space="preserve">
+    <value>Kontejner správce:</value>
+  </data>
+  <data name="SiteTemplate.Text" xml:space="preserve">
+    <value>Šablona webu:</value>
+  </data>
+  <data name="TenantName.Text" xml:space="preserve">
+    <value>Jméno nájemce:</value>
+  </data>
+  <data name="DatabaseType.Text" xml:space="preserve">
+    <value>Typ databáze:</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Databáze:</value>
+  </data>
+  <data name="IntegratedSecurity.Text" xml:space="preserve">
+    <value>Integrované zabezpečení:</value>
+  </data>
+  <data name="DatabaseUsername.Text" xml:space="preserve">
+    <value>Uživatelské jméno databáze:</value>
+  </data>
+  <data name="DatabasePassword.Text" xml:space="preserve">
+    <value>Heslo databáze:</value>
+  </data>
+  <data name="HostUsername.Text" xml:space="preserve">
+    <value>Uživatelské jméno hostitele:</value>
+  </data>
+  <data name="HostPassword.Text" xml:space="preserve">
+    <value>Heslo hostitele:</value>
+  </data>
+  <data name="Error.Database.LoadConfig" xml:space="preserve">
+    <value>Chyba při načítání řízení konfigurace databáze</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Určuje, zda má být web předběžně vykreslen (pro prohledávače atd.)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>Předvykreslení?</value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>Běhový hostingový model Blazor</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Doba běhu:</value>
+  </data>
+</root>
