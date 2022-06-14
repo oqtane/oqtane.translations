@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>Zapomenuté heslo</value>
+  </data>
+  <data name="Success.Account.Verified" xml:space="preserve">
+    <value>Uživatelský účet byl úspěšně ověřen. Nyní se můžete přihlásit pomocí níže uvedeného uživatelského jména a hesla.</value>
+  </data>
+  <data name="Message.Account.NotVerified" xml:space="preserve">
+    <value>Uživatelský účet nelze ověřit. Další pokyny vám poskytne správce.</value>
+  </data>
+  <data name="Success.Account.Linked" xml:space="preserve">
+    <value>Uživatelský účet byl úspěšně propojen. Nyní se můžete přihlásit pomocí svého externího přihlášení níže.</value>
+  </data>
+  <data name="Message.Account.NotLinked" xml:space="preserve">
+    <value>Externí přihlášení nelze propojit. Další pokyny vám poskytne správce.</value>
+  </data>
+  <data name="Error.Login.Fail" xml:space="preserve">
+    <value>Přihlášení selhalo. Pamatujte, že hesla rozlišují malá a velká písmena. Pokud jste se několikrát neúspěšně pokusili přihlásit, váš účet bude na určitou dobu uzamčen. Upozorňujeme, že uživatelské účty vyžadují ověření při prvním vytvoření, takže si můžete chtít zkontrolovat svůj e-mail, pokud jste nový uživatel.</value>
+  </data>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Zadejte prosím všechna povinná pole</value>
+  </data>
+  <data name="Info.SignedIn" xml:space="preserve">
+    <value>Již jste přihlášeni</value>
+  </data>
+  <data name="Message.ForgotPassword" xml:space="preserve">
+    <value>Zadejte uživatelské jméno související s vaším účtem a poté znovu vyberte možnost Zapomenuté heslo</value>
+  </data>
+  <data name="Message.ForgotUser" xml:space="preserve">
+    <value>Zkontrolujte prosím e-mailovou adresu přidruženou k vašemu uživatelskému účtu pro oznámení o resetování hesla</value>
+  </data>
+  <data name="Message.UserDoesNotExist" xml:space="preserve">
+    <value>Uživatel neexistuje</value>
+  </data>
+  <data name="Code.HelpText" xml:space="preserve">
+    <value>Zadejte zabezpečený ověřovací kód, který vám byl zaslán e-mailem.</value>
+  </data>
+  <data name="Code.Placeholder" xml:space="preserve">
+    <value>Ověřovací kód</value>
+  </data>
+  <data name="Code.Text" xml:space="preserve">
+    <value>Ověřovací kód:</value>
+  </data>
+  <data name="Error.TwoFactor.Fail" xml:space="preserve">
+    <value>Ověření se nezdařilo. Ujistěte se, že jste kód zadali přesně ve formuláři uvedeném ve vašem e-mailu. Pokud si přejete požádat o nový ověřovací kód, vyberte možnost Zrušit a znovu se přihlaste.</value>
+  </data>
+  <data name="Message.TwoFactor" xml:space="preserve">
+    <value>Na vaši e-mailovou adresu byl odeslán bezpečný ověřovací kód. Zadejte kód, který jste obdrželi. Pokud kód neobdržíte nebo jste ztratili přístup ke svému e-mailu, kontaktujte svého správce.</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Zadejte prosím heslo související s vaším účtem. Pamatujte, že hesla rozlišují malá a velká písmena. Pokud se několikrát neúspěšně pokusíte přihlásit ke svému účtu, budete na určitou dobu zablokováni.</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Heslo</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Heslo:</value>
+  </data>
+  <data name="Remember.HelpText" xml:space="preserve">
+    <value>Zadejte, zda chcete být při příští návštěvě tohoto webu automaticky znovu přihlášeni</value>
+  </data>
+  <data name="Remember.Text" xml:space="preserve">
+    <value>Zapamatuj si mě?</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Zadejte uživatelské jméno související s vaším účtem</value>
+  </data>
+  <data name="Username.Placeholder" xml:space="preserve">
+    <value>uživatelské jméno</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>uživatelské jméno:</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Použití</value>
+  </data>
+  <data name="Error.LoadLogin" xml:space="preserve">
+    <value>Chyba při načítání přihlášení</value>
+  </data>
+  <data name="Error.Login" xml:space="preserve">
+    <value>Chyba při přihlašování</value>
+  </data>
+  <data name="Error.ResetPassword" xml:space="preserve">
+    <value>Chyba při resetování hesla</value>
+  </data>
+  <data name="ExternalLoginStatus.DuplicateEmail" xml:space="preserve">
+    <value>Již existuje více uživatelských účtů s e-mailovou adresou vašeho externího přihlášení. Další pokyny vám poskytne správce.</value>
+  </data>
+  <data name="ExternalLoginStatus.InvalidEmail" xml:space="preserve">
+    <value>Poskytovatel externího přihlášení neuvedl platnou e-mailovou adresu pro váš účet. Další pokyny vám poskytne správce.</value>
+  </data>
+  <data name="ExternalLoginStatus.ProviderKeyMismatch" xml:space="preserve">
+    <value>Při ověřování vašeho externího přihlášení došlo k chybě. Další pokyny vám poskytne správce.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserDoesNotExist" xml:space="preserve">
+    <value>Uživatelský účet odpovídající e-mailové adrese vašeho externího přihlášení neexistuje. Další pokyny vám poskytne správce.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserNotCreated" xml:space="preserve">
+    <value>Nebylo možné vytvořit uživatelský účet pro vaše externí přihlášení. Další pokyny vám poskytne správce.</value>
+  </data>
+  <data name="ExternalLoginStatus.VerificationRequired" xml:space="preserve">
+    <value>Chcete-li propojit své externí přihlášení s vaším uživatelským účtem, musíte ověřit svou totožnost. Další pokyny naleznete ve svém e-mailu.</value>
+  </data>
+  <data name="ExternalLoginStatus.AccessDenied" xml:space="preserve">
+    <value>Přístup k vašemu externímu přihlášení byl odepřen. Další pokyny vám poskytne správce.</value>
+  </data>
+  <data name="ExternalLoginStatus.RemoteFailure" xml:space="preserve">
+    <value>Vaše externí přihlášení se nezdařilo. Další pokyny vám poskytne správce.</value>
+  </data>
+</root>

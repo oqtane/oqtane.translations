@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Message.Password.Invalid" xml:space="preserve">
+    <value>Zadaná hesla se neshodují</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>Z</value>
+  </data>
+  <data name="Subject" xml:space="preserve">
+    <value>Předmět</value>
+  </data>
+  <data name="Received" xml:space="preserve">
+    <value>Přijato</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>Na</value>
+  </data>
+  <data name="Sent" xml:space="preserve">
+    <value>Odesláno</value>
+  </data>
+  <data name="Inbox" xml:space="preserve">
+    <value>Doručená pošta</value>
+  </data>
+  <data name="Items.Sent" xml:space="preserve">
+    <value>Odeslané položky</value>
+  </data>
+  <data name="Message.User.NoLogIn" xml:space="preserve">
+    <value>Aktuální uživatel není přihlášen</value>
+  </data>
+  <data name="Error.Profile.Load" xml:space="preserve">
+    <value>Chyba při načítání profilu uživatele</value>
+  </data>
+  <data name="Success.Profile.Update" xml:space="preserve">
+    <value>Uživatelský profil byl úspěšně aktualizován</value>
+  </data>
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
+    <value>Musíte zadat uživatelské jméno a e-mailovou adresu a také všechny požadované informace o profilu</value>
+  </data>
+  <data name="Error.Profile.Save" xml:space="preserve">
+    <value>Chyba při ukládání profilu uživatele</value>
+  </data>
+  <data name="SendNotification.Text" xml:space="preserve">
+    <value>Odeslat oznámení</value>
+  </data>
+  <data name="DeleteNotification.Header" xml:space="preserve">
+    <value>Smazat oznámení</value>
+  </data>
+  <data name="DeleteNotification.Message" xml:space="preserve">
+    <value>Jste si jisti, že chcete toto oznámení smazat?</value>
+  </data>
+  <data name="Identity.Name" xml:space="preserve">
+    <value>Identita</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Pokud měníte své heslo, musíte ho zadat znovu, abyste potvrdili, že odpovídá hodnotě zadané výše</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Potvrzení:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Vaše celé jméno</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Celé jméno:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Vaše e-mailová adresa, na kterou si přejete dostávat upozornění</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mailem:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Pokud si přejete změnit heslo, můžete ho zadat zde. Zvolte si prosím dostatečně bezpečné heslo.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Heslo:</value>
+  </data>
+  <data name="Photo.HelpText" xml:space="preserve">
+    <value>Fotku sebe sama</value>
+  </data>
+  <data name="Photo.Text" xml:space="preserve">
+    <value>Fotografie:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Vaše uživatelské jméno. Upozorňujeme, že toto pole nelze upravit.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>uživatelské jméno:</value>
+  </data>
+  <data name="TwoFactor.HelpText" xml:space="preserve">
+    <value>Označuje, zda používáte dvoufaktorové ověřování. Dvoufaktorová autentizace vyžaduje, abyste po přihlášení zadali ověřovací kód zaslaný e-mailem.</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>Dvoufaktorový?</value>
+  </data>
+  <data name="DeleteAllNotifications.Header" xml:space="preserve">
+    <value>Vymazat oznámení</value>
+  </data>
+  <data name="DeleteAllNotifications.Message" xml:space="preserve">
+    <value>Jste si jisti, že chcete trvale smazat všechna oznámení?</value>
+  </data>
+  <data name="DeleteAllNotifications.Text" xml:space="preserve">
+    <value>Smazat VŠECHNA oznámení</value>
+  </data>
+</root>
