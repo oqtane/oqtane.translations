@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-    <!-- 
+  <!-- 
             Microsoft ResX Schema 
 
             Version 2.0
@@ -59,122 +59,143 @@
                     : using a System.ComponentModel.TypeConverter
                     : and then encoded with base64 encoding.
             -->
-    <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-        <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-        <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
             <xsd:complexType>
-                <xsd:choice maxOccurs="unbounded">
-                    <xsd:element name="metadata">
-                        <xsd:complexType>
-                            <xsd:sequence>
-                                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
-                            </xsd:sequence>
-                            <xsd:attribute name="name" use="required" type="xsd:string"/>
-                            <xsd:attribute name="type" type="xsd:string"/>
-                            <xsd:attribute name="mimetype" type="xsd:string"/>
-                            <xsd:attribute ref="xml:space"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                    <xsd:element name="assembly">
-                        <xsd:complexType>
-                            <xsd:attribute name="alias" type="xsd:string"/>
-                            <xsd:attribute name="name" type="xsd:string"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                    <xsd:element name="data">
-                        <xsd:complexType>
-                            <xsd:sequence>
-                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
-                            </xsd:sequence>
-                            <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-                            <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-                            <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-                            <xsd:attribute ref="xml:space"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                    <xsd:element name="resheader">
-                        <xsd:complexType>
-                            <xsd:sequence>
-                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                            </xsd:sequence>
-                            <xsd:attribute name="name" type="xsd:string" use="required"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                </xsd:choice>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
-        </xsd:element>
-    </xsd:schema>
-    <resheader name="resmimetype">
-        <value>text/microsoft-resx</value>
-    </resheader>
-    <resheader name="version">
-        <value>2.0</value>
-    </resheader>
-    <resheader name="reader">
-        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-    </resheader>
-    <resheader name="writer">
-        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-    </resheader>
-    <data name="Delete" xml:space="preserve">
-        <value>حذف</value>
-    </data>
-    <data name="Loading..." xml:space="preserve">
-        <value>در حال بارگذاری...</value>
-    </data>
-    <data name="All Levels" xml:space="preserve">
-        <value>تمام سطوح</value>
-    </data>
-    <data name="Trace" xml:space="preserve">
-        <value>Trace</value>
-    </data>
-    <data name="Debug" xml:space="preserve">
-        <value>Debug</value>
-    </data>
-    <data name="Information" xml:space="preserve">
-        <value>Information</value>
-    </data>
-    <data name="Warning" xml:space="preserve">
-        <value>Warning</value>
-    </data>
-    <data name="Error" xml:space="preserve">
-        <value>Error</value>
-    </data>
-    <data name="Critical" xml:space="preserve">
-        <value>Critical</value>
-    </data>
-    <data name="All Functions" xml:space="preserve">
-        <value>تمام توابع</value>
-    </data>
-    <data name="Create" xml:space="preserve">
-        <value>ایجاد</value>
-    </data>
-    <data name="Read" xml:space="preserve">
-        <value>خواندن</value>
-    </data>
-    <data name="Update" xml:space="preserve">
-        <value>به‌روزرسانی</value>
-    </data>
-    <data name="Security" xml:space="preserve">
-        <value>امنیتی</value>
-    </data>
-    <data name="Other" xml:space="preserve">
-        <value>سایر</value>
-    </data>
-    <data name="Date" xml:space="preserve">
-        <value>تاریخ</value>
-    </data>
-    <data name="Level" xml:space="preserve">
-        <value>سطح</value>
-    </data>
-    <data name="Feature" xml:space="preserve">
-        <value>امکان</value>
-    </data>
-    <data name="Function" xml:space="preserve">
-        <value>تابع</value>
-    </data>
-    <data name="No Logs Match The Criteria Specified" xml:space="preserve">
-        <value>هیچ رکورد لاگی با معیارهای مشخص شده مطابقت ندارد</value>
-    </data>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Delete" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="Loading..." xml:space="preserve">
+    <value>بارگذاری...</value>
+  </data>
+  <data name="Level.Text" xml:space="preserve">
+    <value>سطح: </value>
+  </data>
+  <data name="Function.Text" xml:space="preserve">
+    <value>Function: </value>
+  </data>
+  <data name="All Levels" xml:space="preserve">
+    <value>همه سطح ها</value>
+  </data>
+  <data name="Trace" xml:space="preserve">
+    <value>Trace</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Critical</value>
+  </data>
+  <data name="All Functions" xml:space="preserve">
+    <value>All Functions</value>
+  </data>
+  <data name="Create" xml:space="preserve">
+    <value>ايجاد</value>
+  </data>
+  <data name="Read" xml:space="preserve">
+    <value>Read</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="Security" xml:space="preserve">
+    <value>Security</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>سایر</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>تاریخ</value>
+  </data>
+  <data name="Level" xml:space="preserve">
+    <value>Level</value>
+  </data>
+  <data name="Feature" xml:space="preserve">
+    <value>Feature</value>
+  </data>
+  <data name="Function" xml:space="preserve">
+    <value>Function</value>
+  </data>
+  <data name="No Logs Match The Criteria Specified" xml:space="preserve">
+    <value>هیچ لاگی با معیارهای مشخص شده مطابقت ندارد</value>
+  </data>
+  <data name="Error Loading Logs" xml:space="preserve">
+    <value>خطا در بارگیری لاگ ها</value>
+  </data>
+  <data name="Level.HelpText" xml:space="preserve">
+    <value>Select the log level for event log items</value>
+  </data>
+  <data name="Function.HelpText" xml:space="preserve">
+    <value>عملکرد موارد لاگ رویداد را انتخاب کنید</value>
+  </data>
+  <data name="Rows.HelpText" xml:space="preserve">
+    <value>حداکثر تعداد موارد لاگ رویداد را برای مرور انتخاب کنید. لطفا توجه داشته باشید که اگر بیش از 10 مورد را انتخاب کنید، اطلاعات به صفحات تقسیم می شود.</value>
+  </data>
+  <data name="Rows.Text" xml:space="preserve">
+    <value>حداکثر موارد:</value>
+  </data>
 </root>

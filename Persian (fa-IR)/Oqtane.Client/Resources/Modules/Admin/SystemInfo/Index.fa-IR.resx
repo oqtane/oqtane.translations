@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-    <!-- 
+  <!-- 
             Microsoft ResX Schema 
 
             Version 2.0
@@ -59,107 +59,107 @@
                     : using a System.ComponentModel.TypeConverter
                     : and then encoded with base64 encoding.
             -->
-    <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-        <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-        <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
             <xsd:complexType>
-                <xsd:choice maxOccurs="unbounded">
-                    <xsd:element name="metadata">
-                        <xsd:complexType>
-                            <xsd:sequence>
-                                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
-                            </xsd:sequence>
-                            <xsd:attribute name="name" use="required" type="xsd:string"/>
-                            <xsd:attribute name="type" type="xsd:string"/>
-                            <xsd:attribute name="mimetype" type="xsd:string"/>
-                            <xsd:attribute ref="xml:space"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                    <xsd:element name="assembly">
-                        <xsd:complexType>
-                            <xsd:attribute name="alias" type="xsd:string"/>
-                            <xsd:attribute name="name" type="xsd:string"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                    <xsd:element name="data">
-                        <xsd:complexType>
-                            <xsd:sequence>
-                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
-                            </xsd:sequence>
-                            <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-                            <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-                            <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-                            <xsd:attribute ref="xml:space"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                    <xsd:element name="resheader">
-                        <xsd:complexType>
-                            <xsd:sequence>
-                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                            </xsd:sequence>
-                            <xsd:attribute name="name" type="xsd:string" use="required"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                </xsd:choice>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
-        </xsd:element>
-    </xsd:schema>
-    <resheader name="resmimetype">
-        <value>text/microsoft-resx</value>
-    </resheader>
-    <resheader name="version">
-        <value>2.0</value>
-    </resheader>
-    <resheader name="reader">
-        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-    </resheader>
-    <resheader name="writer">
-        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-    </resheader>
-    <data name="Access Framework API" xml:space="preserve">
-        <value>Access Framework API</value>
-    </data>
-    <data name="FrameworkVersion.HelpText" xml:space="preserve">
-        <value>نسخه چارچوب</value>
-    </data>
-    <data name="BlazorRunime.HelpText" xml:space="preserve">
-        <value>مدل اجرای بلیزر (Server یا WebAssembly)</value>
-    </data>
-    <data name="ClrVerion.HelpText" xml:space="preserve">
-        <value>Common Language Runtime Version</value>
-    </data>
-    <data name="OsVersion.HelpText" xml:space="preserve">
-        <value>نسخه سیستم عامل</value>
-    </data>
-    <data name="ServerPath.HelpText" xml:space="preserve">
-        <value>مسیر کارگزار</value>
-    </data>
-    <data name="ServerTime.HelpText" xml:space="preserve">
-        <value>زمان کارگزار</value>
-    </data>
-    <data name="FrameworkVersion.Text" xml:space="preserve">
-        <value>نسخه چارچوب: </value>
-    </data>
-    <data name="BlazorRunime.Text" xml:space="preserve">
-        <value>مدل اجرای بلیزر: </value>
-    </data>
-    <data name="ClrVerion.Text" xml:space="preserve">
-        <value>نسخه CLR: </value>
-    </data>
-    <data name="OsVersion.Text" xml:space="preserve">
-        <value>نسخه سیستم عامل: </value>
-    </data>
-    <data name="ServerPath.Text" xml:space="preserve">
-        <value>مسیر کارگزار: </value>
-    </data>
-    <data name="ServerTime.Text" xml:space="preserve">
-        <value>زمان کارگزار: </value>
-    </data>
-    <data name="RestartApplication.Header" xml:space="preserve">
-        <value>راه اندازی مجدد برنامه</value>
-    </data>
-    <data name="RestartApplication.Message" xml:space="preserve">
-        <value>آیا از راه‌اندازی مجدد برنامه مطمئن هستید؟</value>
-    </data>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Access Framework API" xml:space="preserve">
+    <value>Access Framework API</value>
+  </data>
+  <data name="FrameworkVersion.HelpText" xml:space="preserve">
+    <value>نسخه Framework</value>
+  </data>
+  <data name="BlazorRunime.HelpText" xml:space="preserve">
+    <value>Blazor Runtime (Server or WebAssembly)</value>
+  </data>
+  <data name="ClrVerion.HelpText" xml:space="preserve">
+    <value>Common Language Runtime Version</value>
+  </data>
+  <data name="OsVersion.HelpText" xml:space="preserve">
+    <value>نسخه سیستم عامل</value>
+  </data>
+  <data name="ServerPath.HelpText" xml:space="preserve">
+    <value>مسیر سرور</value>
+  </data>
+  <data name="ServerTime.HelpText" xml:space="preserve">
+    <value>زمان سرور</value>
+  </data>
+  <data name="FrameworkVersion.Text" xml:space="preserve">
+    <value>Framework نسخه: </value>
+  </data>
+  <data name="BlazorRunime.Text" xml:space="preserve">
+    <value>Blazor Runtime: </value>
+  </data>
+  <data name="ClrVerion.Text" xml:space="preserve">
+    <value>CLR نسخه: </value>
+  </data>
+  <data name="OsVersion.Text" xml:space="preserve">
+    <value>نسخه سیستم عامل</value>
+  </data>
+  <data name="ServerPath.Text" xml:space="preserve">
+    <value>مسیر سرور</value>
+  </data>
+  <data name="ServerTime.Text" xml:space="preserve">
+    <value>زمان سرور</value>
+  </data>
+  <data name="RestartApplication.Header" xml:space="preserve">
+    <value>راه اندازی مجدد برنامه</value>
+  </data>
+  <data name="RestartApplication.Message" xml:space="preserve">
+    <value>آیا از راه‌اندازی مجدد برنامه مطمئن هستید؟</value>
+  </data>
 </root>
