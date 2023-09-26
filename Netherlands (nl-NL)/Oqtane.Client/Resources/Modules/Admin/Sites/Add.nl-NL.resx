@@ -145,7 +145,7 @@
     <value>Selecteer de standaardcontainer voor de site</value>
   </data>
   <data name="Tenant.Text" xml:space="preserve">
-    <value>Huurder:</value>
+    <value>Tenant :</value>
   </data>
   <data name="Aliases.Text" xml:space="preserve">
     <value>aliassen:</value>
@@ -172,7 +172,7 @@
     <value>Ongeldig hostwachtwoord</value>
   </data>
   <data name="Error.TenantName.Exists" xml:space="preserve">
-    <value>Naam huurder ontbreekt of bestaat al</value>
+    <value>Naam Tenant ontbreekt of bestaat al</value>
   </data>
   <data name="Message.SiteName.InUse" xml:space="preserve">
     <value>{0} Reeds gebruikt voor een andere site</value>
@@ -232,7 +232,7 @@
     <value>Sitesjabloon:</value>
   </data>
   <data name="TenantName.Text" xml:space="preserve">
-    <value>Naam huurder:</value>
+    <value>Naam Tenant :</value>
   </data>
   <data name="DatabaseType.Text" xml:space="preserve">
     <value>Databasetype:</value>
@@ -257,5 +257,17 @@
   </data>
   <data name="Error.Database.LoadConfig" xml:space="preserve">
     <value>Fout bij laden van databaseconfiguratiebeheer</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Specificeert of de site vooraf moet worden weergegeven (voor zoekcrawlers, enz...)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>Vooraf?</value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>Het Blazor runtime-hostingmodel</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Looptijd:</value>
   </data>
 </root>

@@ -117,70 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DeleteModule.Header" xml:space="preserve">
-    <value>Module verwijderen</value>
+  <data name="MappedUrl.Text" xml:space="preserve">
+    <value>Omleiden naar:</value>
   </data>
-  <data name="DeletePage.Header" xml:space="preserve">
-    <value>Pagina verwijderen</value>
+  <data name="MappedUrl.HelpText" xml:space="preserve">
+    <value>Een volledig gekwalificeerde URL waar de gebruiker naar wordt omgeleid</value>
   </data>
-  <data name="NoPage.Deleted" xml:space="preserve">
-    <value>Geen verwijderde pagina's</value>
+  <data name="Url.HelpText" xml:space="preserve">
+    <value>Een volledig gekwalificeerde URL voor deze site</value>
   </data>
-  <data name="DeletedBy" xml:space="preserve">
-    <value>Verwijderd door</value>
+  <data name="Url.Text" xml:space="preserve">
+    <value>URL:</value>
   </data>
-  <data name="DeletedOn" xml:space="preserve">
-    <value>Verwijderd aan</value>
+  <data name="Error.LoadUrlMapping" xml:space="preserve">
+    <value>Fout bij laden van URL-toewijzing</value>
   </data>
-  <data name="Confirm.Page.Delete" xml:space="preserve">
-    <value>Weet je zeker dat je de pagina {0} permanent wil verwijderen?</value>
+  <data name="Error.SaveUrlMapping" xml:space="preserve">
+    <value>Fout bij opslaan van URL-toewijzing</value>
   </data>
-  <data name="NoModule.Deleted" xml:space="preserve">
-    <value>Geen verwijderde modules</value>
-  </data>
-  <data name="Page" xml:space="preserve">
-    <value>Bladzijde</value>
-  </data>
-  <data name="Module" xml:space="preserve">
-    <value>module</value>
-  </data>
-  <data name="Restore" xml:space="preserve">
-    <value>Herstellen</value>
-  </data>
-  <data name="Confirm.Module.Delete" xml:space="preserve">
-    <value>Weet je zeker dat je de module {0} permanent wil verwijderen?</value>
-  </data>
-  <data name="Error.DeletedModulePage.Load" xml:space="preserve">
-    <value>Fout bij laden van verwijderde pagina's of modules</value>
-  </data>
-  <data name="Error.Page.Restore" xml:space="preserve">
-    <value>Fout bij herstellen van verwijderde pagina</value>
-  </data>
-  <data name="Error.Module.Restore" xml:space="preserve">
-    <value>Fout bij herstellen van verwijderde module</value>
-  </data>
-  <data name="Error.Module.Delete" xml:space="preserve">
-    <value>Fout bij permanent verwijderen van module</value>
-  </data>
-  <data name="Error.Modules.Delete" xml:space="preserve">
-    <value>Fout bij het permanent verwijderen van modules</value>
-  </data>
-  <data name="DeleteAllPages.Header" xml:space="preserve">
-    <value>Alle pagina's verwijderen</value>
-  </data>
-  <data name="DeleteAllPages.Message" xml:space="preserve">
-    <value>Weet je zeker dat je alle pagina's permanent wil verwijderen?</value>
-  </data>
-  <data name="DeleteAllModules.Header" xml:space="preserve">
-    <value>Alle modules verwijderen</value>
-  </data>
-  <data name="DeleteAllModules.Message" xml:space="preserve">
-    <value>Weet j zeker dat je alle modules permanent wil verwijderen?</value>
-  </data>
-  <data name="Pages.Heading" xml:space="preserve">
-    <value>Pagina's</value>
-  </data>
-  <data name="Modules.Heading" xml:space="preserve">
-    <value>Modules</value>
+  <data name="Message.InfoRequired" xml:space="preserve">
+    <value>Geef alle vereiste informatie op</value>
   </data>
 </root>

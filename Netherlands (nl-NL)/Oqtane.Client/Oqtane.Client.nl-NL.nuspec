@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Oqtane.Client.nl-NL</id>
-    <version>2.3.0</version>
+    <version>3.0.1</version>
     <authors>Leigh Pointer</authors>
     <owners>.NET Foundation</owners>
     <title>Oqtane Framework nl-NL Translation</title>
@@ -11,16 +11,16 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/oqtane/oqtane.translations</projectUrl>
-    <icon>icon.png</icon>
+    <icon>icon-nl.png</icon>
     <tags>oqtane translation</tags>
     <releaseNotes></releaseNotes>
     <summary></summary>
     <dependencies>
-      <dependency id="Oqtane.Framework" version="2.3.0" />
+      <dependency id="Oqtane.Framework" version="3.0.1" />
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\Oqtane.Server\bin\Release\net5.0\nl-NL\Oqtane.Client.resources.dll" target="lib\net5.0\nl-NL" />
-    <file src="..\..\Oqtane.Server\wwwroot\icon.png" target="" />
+    <file src="..\..\Oqtane.Server\bin\Release\net6.0\nl-NL\Oqtane.Client.resources.dll" target="lib\net6.0\nl-NL" />
+    <file src="..\..\Oqtane.Server\wwwroot\icon-nl.png" target="" />
   </files>
 </package>

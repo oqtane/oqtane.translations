@@ -117,70 +117,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DeleteModule.Header" xml:space="preserve">
-    <value>Module verwijderen</value>
+  <data name="Url" xml:space="preserve">
+    <value>URL</value>
   </data>
-  <data name="DeletePage.Header" xml:space="preserve">
-    <value>Pagina verwijderen</value>
+  <data name="AllVisitors" xml:space="preserve">
+    <value>Alle bezoekers</value>
   </data>
-  <data name="NoPage.Deleted" xml:space="preserve">
-    <value>Geen verwijderde pagina's</value>
+  <data name="PastDay" xml:space="preserve">
+    <value>Gisteren</value>
   </data>
-  <data name="DeletedBy" xml:space="preserve">
-    <value>Verwijderd door</value>
+  <data name="PastMonth" xml:space="preserve">
+    <value>Afgelopen maand</value>
   </data>
-  <data name="DeletedOn" xml:space="preserve">
-    <value>Verwijderd aan</value>
+  <data name="PastWeek" xml:space="preserve">
+    <value>Vorige week</value>
   </data>
-  <data name="Confirm.Page.Delete" xml:space="preserve">
-    <value>Weet je zeker dat je de pagina {0} permanent wil verwijderen?</value>
+  <data name="UsersOnly" xml:space="preserve">
+    <value>Alleen gebruikers</value>
   </data>
-  <data name="NoModule.Deleted" xml:space="preserve">
-    <value>Geen verwijderde modules</value>
+  <data name="Language" xml:space="preserve">
+    <value>Taal</value>
   </data>
-  <data name="Page" xml:space="preserve">
-    <value>Bladzijde</value>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Fout bij opslaan van instellingen</value>
   </data>
-  <data name="Module" xml:space="preserve">
-    <value>module</value>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Instellingen</value>
   </data>
-  <data name="Restore" xml:space="preserve">
-    <value>Herstellen</value>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Instellingen succesvol opgeslagen</value>
   </data>
-  <data name="Confirm.Module.Delete" xml:space="preserve">
-    <value>Weet je zeker dat je de module {0} permanent wil verwijderen?</value>
+  <data name="Visitors.Heading" xml:space="preserve">
+    <value>Bezoekers</value>
   </data>
-  <data name="Error.DeletedModulePage.Load" xml:space="preserve">
-    <value>Fout bij laden van verwijderde pagina's of modules</value>
+  <data name="VisitorTracking.HelpText" xml:space="preserve">
+    <value>Geef aan of het volgen van bezoekers is ingeschakeld</value>
   </data>
-  <data name="Error.Page.Restore" xml:space="preserve">
-    <value>Fout bij herstellen van verwijderde pagina</value>
+  <data name="VisitorTracking.Text" xml:space="preserve">
+    <value>Bezoekers volgen ingeschakeld?</value>
   </data>
-  <data name="Error.Module.Restore" xml:space="preserve">
-    <value>Fout bij herstellen van verwijderde module</value>
+  <data name="Visited" xml:space="preserve">
+    <value>Bezocht</value>
   </data>
-  <data name="Error.Module.Delete" xml:space="preserve">
-    <value>Fout bij permanent verwijderen van module</value>
+  <data name="Visits" xml:space="preserve">
+    <value>Bezoeken</value>
   </data>
-  <data name="Error.Modules.Delete" xml:space="preserve">
-    <value>Fout bij het permanent verwijderen van modules</value>
+  <data name="IP" xml:space="preserve">
+    <value>IP</value>
   </data>
-  <data name="DeleteAllPages.Header" xml:space="preserve">
-    <value>Alle pagina's verwijderen</value>
+  <data name="User" xml:space="preserve">
+    <value>Gebruiker</value>
   </data>
-  <data name="DeleteAllPages.Message" xml:space="preserve">
-    <value>Weet je zeker dat je alle pagina's permanent wil verwijderen?</value>
-  </data>
-  <data name="DeleteAllModules.Header" xml:space="preserve">
-    <value>Alle modules verwijderen</value>
-  </data>
-  <data name="DeleteAllModules.Message" xml:space="preserve">
-    <value>Weet j zeker dat je alle modules permanent wil verwijderen?</value>
-  </data>
-  <data name="Pages.Heading" xml:space="preserve">
-    <value>Pagina's</value>
-  </data>
-  <data name="Modules.Heading" xml:space="preserve">
-    <value>Modules</value>
+  <data name="Created" xml:space="preserve">
+    <value>Gemaakt</value>
   </data>
 </root>

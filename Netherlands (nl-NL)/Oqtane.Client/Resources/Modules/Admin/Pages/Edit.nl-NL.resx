@@ -210,9 +210,6 @@
   <data name="Personalizable.Text" xml:space="preserve">
     <value>Personaliseerbaar?</value>
   </data>
-  <data name="Appearance.Name" xml:space="preserve">
-    <value>Uiterlijk</value>
-  </data>
   <data name="ThisLocation.Keep" xml:space="preserve">
     <value>Huidige locatie behouden</value>
   </data>
@@ -230,5 +227,41 @@
   </data>
   <data name="Move.Text" xml:space="preserve">
     <value>Actie:</value>
+  </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>module</value>
+  </data>
+  <data name="ModuleTitle" xml:space="preserve">
+    <value>Titel</value>
+  </data>
+  <data name="PageModules.Heading" xml:space="preserve">
+    <value>Modules</value>
+  </data>
+  <data name="ModuleSettings.Text" xml:space="preserve">
+    <value>Bewerk</value>
+  </data>
+  <data name="DeleteModule.Header" xml:space="preserve">
+    <value>Module verwijderen</value>
+  </data>
+  <data name="DeleteModule.Message" xml:space="preserve">
+    <value>Weet je zeker dat je deze module wil verwijderen?</value>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Uiterlijk</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Rechten</value>
+  </data>
+  <data name="ThemeSettings.Heading" xml:space="preserve">
+    <value>Thema instellingen</value>
+  </data>
+  <data name="Clickable.HelpText" xml:space="preserve">
+    <value>Selecteer of de link in de sitenavigatie is ingeschakeld of uitgeschakeld</value>
+  </data>
+  <data name="Clickable.Text" xml:space="preserve">
+    <value>Klikbaar?</value>
   </data>
 </root>

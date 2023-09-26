@@ -129,9 +129,6 @@
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>Standaardcontainer:</value>
   </data>
-  <data name="Appearance.Name" xml:space="preserve">
-    <value>Uiterlijk</value>
-  </data>
   <data name="DefaultAdminContainer" xml:space="preserve">
     <value>Standaard beheerderscontainer</value>
   </data>
@@ -167,12 +164,6 @@
   </data>
   <data name="Tenant.HelpText" xml:space="preserve">
     <value>Voer de huurder voor de site in</value>
-  </data>
-  <data name="Aliases.HelpText" xml:space="preserve">
-    <value>Voer de alias voor de server in</value>
-  </data>
-  <data name="AllowRegistration.HelpText" xml:space="preserve">
-    <value>Wil je dat de gebruikers zich kunnen registreren voor een account op de site?</value>
   </data>
   <data name="IsDeleted.HelpText" xml:space="preserve">
     <value>Is deze site verwijderd?</value>
@@ -220,13 +211,10 @@
     <value>Voeg een splash-pictogram toe voor uw PWA. Het moet een PNG zijn met een afmeting van 512 x 512 pixels.</value>
   </data>
   <data name="Tenant.Text" xml:space="preserve">
-    <value>Huurder:</value>
+    <value>Tenant :</value>
   </data>
   <data name="Aliases.Text" xml:space="preserve">
     <value>aliassen:</value>
-  </data>
-  <data name="AllowRegistration.Text" xml:space="preserve">
-    <value>Gebruikersregistratie toestaan?</value>
   </data>
   <data name="IsDeleted.Text" xml:space="preserve">
     <value>Is verwijderd?</value>
@@ -281,5 +269,53 @@
   </data>
   <data name="Theme.Select" xml:space="preserve">
     <value>Selecteer thema</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>De aliassen voor de site. Een alias kan een domeinnaam (www.site.com) of een virtuele map (bijv. www.site.com/folder) zijn. Als een site meerdere aliassen heeft, moeten deze worden gescheiden door komma's.</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Specificeert of de site vooraf moet worden weergegeven (voor zoekcrawlers, enz...)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>Vooraf?</value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>Het Blazor runtime-hostingmodel</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Looptijd:</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Bladeren</value>
+  </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Uiterlijk</value>
+  </data>
+  <data name="Hosting.Heading" xml:space="preserve">
+    <value>Hostingmodel</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>Tenant Informatie</value>
+  </data>
+  <data name="PWASettings.Heading" xml:space="preserve">
+    <value>PWA-instellingen</value>
+  </data>
+  <data name="SMTPSettings.Heading" xml:space="preserve">
+    <value>SMTP-instellingen</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Verbinding:</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Gegevensbestand:</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>De verbindingsinformatie voor de database</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>De database voor de tenant</value>
+  </data>
+  <data name="DeleteSite.Text" xml:space="preserve">
+    <value>Site verwijderen</value>
   </data>
 </root>

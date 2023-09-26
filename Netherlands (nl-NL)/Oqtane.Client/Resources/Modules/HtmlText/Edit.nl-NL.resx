@@ -120,4 +120,7 @@
   <data name="Error.Content.Save" xml:space="preserve">
     <value>Fout bij opslaan van inhoud</value>
   </data>
+  <data name="Error.Content.Load" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het laden van inhoud</value>
+  </data>
 </root>

@@ -123,9 +123,6 @@
   <data name="FrameworkVersion.HelpText" xml:space="preserve">
     <value>Framework-versie</value>
   </data>
-  <data name="BlazorRuntime.HelpText" xml:space="preserve">
-    <value>Blazor Runtime (Server of WebAssembly)</value>
-  </data>
   <data name="CLRVersion.HelpText" xml:space="preserve">
     <value>Common Language Runtime-versie</value>
   </data>
@@ -140,9 +137,6 @@
   </data>
   <data name="FrameworkVersion.Text" xml:space="preserve">
     <value>Framework-versie:</value>
-  </data>
-  <data name="BlazorRuntime.Text" xml:space="preserve">
-    <value>Blazor-runtime:</value>
   </data>
   <data name="CLRVersion.Text" xml:space="preserve">
     <value>CLR-versie:</value>
@@ -165,17 +159,8 @@
   <data name="Error.UpdateConfig" xml:space="preserve">
     <value>Er is een fout opgetreden bij het bijwerken van de configuratie</value>
   </data>
-  <data name="Server" xml:space="preserve">
-    <value>Server</value>
-  </data>
-  <data name="ServerPrerendered" xml:space="preserve">
-    <value>ServerVooraf weergegeven</value>
-  </data>
   <data name="Success.UpdateConfig.Restart" xml:space="preserve">
     <value>Configuratie bijgewerkt. Selecteer Applicatie opnieuw starten om deze wijzigingen te activeren.</value>
-  </data>
-  <data name="WebAssembly" xml:space="preserve">
-    <value>WebAssembly</value>
   </data>
   <data name="InstallationId.Text" xml:space="preserve">
     <value>Installatie-ID:</value>
@@ -219,12 +204,6 @@
   <data name="Critical" xml:space="preserve">
     <value>Kritiek</value>
   </data>
-  <data name="Info" xml:space="preserve">
-    <value>Info</value>
-  </data>
-  <data name="Options" xml:space="preserve">
-    <value>Opties</value>
-  </data>
   <data name="Register" xml:space="preserve">
     <value>Registreer mij alstublieft voor belangrijke productupdates en beveiligingsbulletins</value>
   </data>
@@ -242,5 +221,14 @@
   </data>
   <data name="Swagger.Text" xml:space="preserve">
     <value>Swagger ingeschakeld?</value>
+  </data>
+  <data name="Info.Heading" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="Options.Heading" xml:space="preserve">
+    <value>Opties</value>
+  </data>
+  <data name="RestartApplication.Text" xml:space="preserve">
+    <value>Applicatie opnieuw starten</value>
   </data>
 </root>

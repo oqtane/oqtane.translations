@@ -126,4 +126,31 @@
   <data name="DeleteUser.Header" xml:space="preserve">
     <value>Verwijder gebruiker</value>
   </data>
+  <data name="AllowRegistration.HelpText" xml:space="preserve">
+    <value>Wil je dat gebruikers zich kunnen registreren voor een account op de site?</value>
+  </data>
+  <data name="AllowRegistration.Text" xml:space="preserve">
+    <value>Gebruikersregistratie toestaan?</value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Fout bij opslaan van instellingen</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Instellingen succesvol opgeslagen</value>
+  </data>
+  <data name="Users.Heading" xml:space="preserve">
+    <value>Gebruikers</value>
+  </data>
+  <data name="DeleteUser.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="EditUser.Text" xml:space="preserve">
+    <value>Bewerk</value>
+  </data>
+  <data name="Roles.Text" xml:space="preserve">
+    <value>Rollen</value>
+  </data>
 </root>
