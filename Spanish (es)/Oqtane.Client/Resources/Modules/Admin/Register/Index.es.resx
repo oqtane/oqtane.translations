@@ -117,19 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="Info.Registration.Exists" xml:space="preserve">
+    <value>You Are Already Registered</value>
+  </data>
+  <data name="Info.Registration.InvalidEmail" xml:space="preserve">
+    <value>Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity</value>
+  </data>
+  <data name="Password.Confirm" xml:space="preserve">
+    <value>Confirm Password:</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Registro</value>
   </data>
-  <data name="You Are Already Registered" xml:space="preserve">
-    <value>Ya estas registrado</value>
+  <data name="Info.Registration.Disabled" xml:space="preserve">
+    <value>El registro esta desactivado en este sitio</value>
   </data>
-  <data name="Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity" xml:space="preserve">
-    <value>Por favor note que el registro requiere un correo electrónico válido para verificar tu identidad</value>
+  <data name="Info.User.AccountCreate" xml:space="preserve">
+    <value>Cuenta de usuario creada. Verifique el correo para instrucciones.</value>
   </data>
-  <data name="Registration is Disabled For This Site" xml:space="preserve">
-    <value>El registro esta deshabilitado para este sitio</value>
+  <data name="Error.User.AddInfo" xml:space="preserve">
+    <value>Error agregando el usuario. Por favor asegurese que la contraseña cumple con la los requerimientos de complejidad y el nombre de usuario no se encuentra en uso</value>
+  </data>
+  <data name="Message.Password.NoMatch" xml:space="preserve">
+    <value>Las contraseñas no coinciden</value>
+  </data>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Debe proveer un nombre de usuario, contraseña y correo</value>
+  </data>
+  <data name="Error.User.Add" xml:space="preserve">
+    <value>Error Agregando usuario</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Ingrese su contraseña nuevamente para confirmar que concide con el valor ingresado arriba</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Confirmar contraseña:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Tu nombre y apellido</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Nombre completo:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Tu dirección de correo donde deseas recibir las notificaciones</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>Correo:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Por favor selecciones una contraseña suficientemente segura e ingresela aquí</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Contraseña:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Tu nombre de usuario. Note que este campo no puede ser modificado una vez guardado</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nombre de usuario:</value>
   </data>
 </root>

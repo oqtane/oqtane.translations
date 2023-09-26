@@ -117,20 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete" xml:space="preserve">
-    <value>Borrar</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Cargando...</value>
-  </data>
   <data name="User.Text" xml:space="preserve">
     <value>Usuario:</value>
+  </data>
+  <data name="Error.User.LoadRole" xml:space="preserve">
+    <value>Error cargando roles de usuario</value>
+  </data>
+  <data name="Success.User.AssignRole" xml:space="preserve">
+    <value>Usuario asignado al rol</value>
+  </data>
+  <data name="Error.User.SaveRole" xml:space="preserve">
+    <value>Error guardando roles de usuario</value>
+  </data>
+  <data name="Success.User.Remove" xml:space="preserve">
+    <value>Usuario quitado del rol</value>
+  </data>
+  <data name="Error.User.RemoveRole" xml:space="preserve">
+    <value>Error quitando usuario del rol</value>
   </data>
   <data name="EffectiveDate.HelpText" xml:space="preserve">
     <value>La fecha que esta asignación de rol es activa</value>
@@ -147,16 +150,34 @@
   <data name="ExpiryDate.Text" xml:space="preserve">
     <value>Fecha de expiración:</value>
   </data>
-  <data name="Select Role" xml:space="preserve">
+  <data name="Role.Select" xml:space="preserve">
     <value>Elija rol</value>
   </data>
   <data name="Roles" xml:space="preserve">
     <value>Roles</value>
+  </data>
+  <data name="Error.LoadRole" xml:space="preserve">
+    <value>Error cargando roles</value>
+  </data>
+  <data name="Message.Required.Role" xml:space="preserve">
+    <value>Debes seleccionar un rol</value>
   </data>
   <data name="User.HelpText" xml:space="preserve">
     <value>El usuario al que asignaste el ro</value>
   </data>
   <data name="Role.HelpText" xml:space="preserve">
     <value>Elija el rol</value>
+  </data>
+  <data name="Confirm.User.RemoveRole" xml:space="preserve">
+    <value>¿Seguro que deseas quitar este usuario del rol {0}?</value>
+  </data>
+  <data name="Effective" xml:space="preserve">
+    <value>Efectivo</value>
+  </data>
+  <data name="Expiry" xml:space="preserve">
+    <value>Expiración</value>
+  </data>
+  <data name="DeleteUserRole.Text" xml:space="preserve">
+    <value>Quitar</value>
   </data>
 </root>

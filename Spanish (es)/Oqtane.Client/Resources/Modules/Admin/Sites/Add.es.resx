@@ -117,43 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Local Database" xml:space="preserve">
+  <data name="LocalDatabase" xml:space="preserve">
     <value>Base de datos local</value>
   </data>
-  <data name="SQL Server" xml:space="preserve">
+  <data name="SqlServer" xml:space="preserve">
     <value>SQL Server</value>
-  </data>
-  <data name="True" xml:space="preserve">
-    <value>Verdadero</value>
-  </data>
-  <data name="False" xml:space="preserve">
-    <value>Falso</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar:</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Cargando...</value>
   </data>
   <data name="Server.Text" xml:space="preserve">
     <value>Servidor:</value>
   </data>
+  <data name="Container.Select" xml:space="preserve">
+    <value>Elegir contenedor</value>
+  </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>Contenedor por defecto:</value>
   </data>
-  <data name="Select Theme" xml:space="preserve">
+  <data name="Theme.Select" xml:space="preserve">
     <value>Elegir tema</value>
   </data>
-  <data name="Select Layout" xml:space="preserve">
-    <value>Elegir distribución</value>
-  </data>
-  <data name="Select Container" xml:space="preserve">
-    <value>Elegir contenedor</value>
-  </data>
-  <data name="Default Admin Container" xml:space="preserve">
+  <data name="DefaultContainer.Admin" xml:space="preserve">
     <value>Contenedor administrador por defecto</value>
   </data>
   <data name="Aliases.HelpText" xml:space="preserve">
@@ -161,7 +143,6 @@
   </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
     <value>Elija el contenedor por defecto para el sitio</value>
-    <comment>Select the default container for the site</comment>
   </data>
   <data name="Tenant.Text" xml:space="preserve">
     <value>Inquilino:</value>
@@ -172,40 +153,47 @@
   <data name="DefaultTheme.Text" xml:space="preserve">
     <value>Tema por defecto:</value>
   </data>
-  <data name="DefaultLayout.Text" xml:space="preserve">
-    <value>Distribución por defecto:</value>
-  </data>
-  <data name="Select Site Template" xml:space="preserve">
+  <data name="SiteTemplate.Select" xml:space="preserve">
     <value>Elegir plantilla de sitio</value>
   </data>
-  <data name="Select Tenant" xml:space="preserve">
+  <data name="Tenant.Select" xml:space="preserve">
     <value>Elegir inquilino</value>
   </data>
-  <data name="Create New Tenant" xml:space="preserve">
+  <data name="Tenant.Add" xml:space="preserve">
     <value>Crear nuevo inquilino</value>
+  </data>
+  <data name="Error.Theme.LoadContainers" xml:space="preserve">
+    <value>Error cargando contenedores para el tema</value>
+  </data>
+  <data name="Error.Required.ServerDatabase" xml:space="preserve">
+    <value>Debes especificar un servidor y base de datos</value>
+  </data>
+  <data name="Error.InvalidPassword" xml:space="preserve">
+    <value>Clave de anfitrión inválida</value>
+  </data>
+  <data name="Error.TenantName.Exists" xml:space="preserve">
+    <value>El nombre del inquilino no se encuentra o ya existe</value>
+  </data>
+  <data name="Message.SiteName.InUse" xml:space="preserve">
+    <value>{0} ya se esta usando en otro sitio</value>
+  </data>
+  <data name="Message.Required.Tenant" xml:space="preserve">
+    <value>Debes probeer un inquilino, sitio, alias, un tema y contendedor por defecto y una plantilla de sitio</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Ingrese el nombre del sitio</value>
-    <comment>Enter the name of the site</comment>
   </data>
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Elija el tema por defecto para el sitio web</value>
-    <comment>Select the default theme for the website</comment>
-  </data>
-  <data name="DefaultLayout.HelpText" xml:space="preserve">
-    <value>Elija la distribucion por defecto para el sitio</value>
-    <comment>Select the default layout for the site</comment>
   </data>
   <data name="AdminContainer.HelpText" xml:space="preserve">
     <value>Elija el contenedor administrador para el sitio</value>
-    <comment>Select the admin container for the site</comment>
   </data>
   <data name="SiteTemplate.HelpText" xml:space="preserve">
     <value>Elejir plantilla de sitio</value>
   </data>
   <data name="Tenant.HelpText" xml:space="preserve">
     <value>Elejir el inquilino para el sitio</value>
-    <comment>Select the tenant for the site</comment>
   </data>
   <data name="TenantName.HelpText" xml:space="preserve">
     <value>Ingrese el nombre del inquilino</value>
@@ -221,23 +209,18 @@
   </data>
   <data name="IntegratedSecurity.HelpText" xml:space="preserve">
     <value>Elija si desea seguridad integrada o no</value>
-    <comment>Select if you want integrated security or not</comment>
   </data>
   <data name="DatabaseUsername.HelpText" xml:space="preserve">
     <value>Ingrese el nombre de usuario para la seguridad integrada</value>
-    <comment>Enter the username for the integrated security</comment>
   </data>
   <data name="DatabasePassword.HelpText" xml:space="preserve">
     <value>Ingrese la clave para la seguridad integrada</value>
-    <comment>Enter the password for the integrated security</comment>
   </data>
   <data name="HostUsername.HelpText" xml:space="preserve">
     <value>Ingrese el nombre de usuario del servidor para el sitio</value>
-    <comment>Enter the username of the host for this site</comment>
   </data>
   <data name="HostPassword.HelpText" xml:space="preserve">
     <value>Ingrese la clave para el servidor del sitio</value>
-    <comment>Enter the password for the host of this site</comment>
   </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nombre del sitio:</value>
@@ -271,5 +254,20 @@
   </data>
   <data name="HostPassword.Text" xml:space="preserve">
     <value>Clave de servidor:</value>
+  </data>
+  <data name="Error.Database.LoadConfig" xml:space="preserve">
+    <value>Error cargando el control de la configuración de la base de datos</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Especifique si se utilizará prerender (para los buscadores, etc...)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>¿Prerender? </value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>The Blazor runtime hosting model</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Runtime: </value>
   </data>
 </root>

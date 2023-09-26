@@ -117,20 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nombre:</value>
   </data>
-  <data name="Information" xml:space="preserve">
-    <value>Información</value>
-  </data>
   <data name="Description.Text" xml:space="preserve">
     <value>Descripción</value>
+  </data>
+  <data name="Error.Module.Load" xml:space="preserve">
+    <value>Error cargando módulo</value>
+  </data>
+  <data name="Error.Module.Save" xml:space="preserve">
+    <value>Error guardando módulo</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>El nombre del módulo</value>
@@ -186,7 +183,16 @@
   <data name="Runtimes.Text" xml:space="preserve">
     <value>Runtimes: </value>
   </data>
-  <data name="Definition.Name" xml:space="preserve">
+  <data name="Definition.Heading" xml:space="preserve">
     <value>Definición</value>
+  </data>
+  <data name="Information.Heading" xml:space="preserve">
+    <value>Información</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permisos</value>
+  </data>
+  <data name="Information.Text" xml:space="preserve">
+    <value>Información</value>
   </data>
 </root>

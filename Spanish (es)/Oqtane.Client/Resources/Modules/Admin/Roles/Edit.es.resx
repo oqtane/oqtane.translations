@@ -117,18 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Si</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nombre:</value>
   </data>
@@ -146,5 +134,14 @@
   </data>
   <data name="AutoAssigned.Text" xml:space="preserve">
     <value>¿Autoasignar?</value>
+  </data>
+  <data name="Error.LoadRole" xml:space="preserve">
+    <value>Error cargando rol</value>
+  </data>
+  <data name="Error.SaveRole" xml:space="preserve">
+    <value>Error guardando rol</value>
+  </data>
+  <data name="Message.InfoRequired" xml:space="preserve">
+    <value>Por favor ingrese toda la información requerida</value>
   </data>
 </root>

@@ -117,37 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
-  <data name="Select Page" xml:space="preserve">
-    <value>Seleccionar Página</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nombre:</value>
   </data>
   <data name="Parent.Text" xml:space="preserve">
     <value>Padre:</value>
   </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Si</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
   <data name="Title.Text" xml:space="preserve">
     <value>Título:</value>
   </data>
-  <data name="ModuleSettings.Name" xml:space="preserve">
+  <data name="Settings.Heading" xml:space="preserve">
     <value>Configuración</value>
   </data>
-  <data name="Site Root" xml:space="preserve">
+  <data name="SiteRoot" xml:space="preserve">
     <value>Sitio raiz</value>
   </data>
-  <data name="At Beginning" xml:space="preserve">
+  <data name="AtBeginning" xml:space="preserve">
     <value>Al inicio</value>
   </data>
   <data name="Before" xml:space="preserve">
@@ -156,11 +141,32 @@
   <data name="After" xml:space="preserve">
     <value>Despues</value>
   </data>
-  <data name="At End" xml:space="preserve">
+  <data name="AtEnd" xml:space="preserve">
     <value>Al final</value>
   </data>
-  <data name="Inherit From Site" xml:space="preserve">
-    <value>Heredar de Sitio:</value>
+  <data name="Page.Select" xml:space="preserve">
+    <value>Seleccione página</value>
+  </data>
+  <data name="Container.Select" xml:space="preserve">
+    <value>Seleccine contenedor</value>
+  </data>
+  <data name="Error.Page.Initialize" xml:space="preserve">
+    <value>Error inicializando página</value>
+  </data>
+  <data name="Error.ChildPage.Load" xml:space="preserve">
+    <value>Error cargando páginas hijas del pad</value>
+  </data>
+  <data name="Error.Pane.Load" xml:space="preserve">
+    <value>Error cargando panel de diseño para el tema</value>
+  </data>
+  <data name="Message.Page.Exists" xml:space="preserve">
+    <value>Una página con la ruta {0} ya existe para la página padre seleccionada. La ruta necesita ser única para el padre elegido.</value>
+  </data>
+  <data name="Message.Required.PageInfo" xml:space="preserve">
+    <value>Debes proveer un nombre de página, tema y contenedor</value>
+  </data>
+  <data name="Error.Page.Save" xml:space="preserve">
+    <value>Error guardando la página</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Ingrese el nombre de la página</value>
@@ -186,9 +192,6 @@
   <data name="Theme.HelpText" xml:space="preserve">
     <value>Seleccione el tema para esta página</value>
   </data>
-  <data name="Layout.HelpText" xml:space="preserve">
-    <value>Selecciona la composición de la página</value>
-  </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
     <value>Selecciona el contenedor por defecto para la pagina</value>
   </data>
@@ -213,9 +216,6 @@
   <data name="Theme.Text" xml:space="preserve">
     <value>Tema:</value>
   </data>
-  <data name="Layout.Text" xml:space="preserve">
-    <value>Composición:</value>
-  </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>Contenedor por defecto:</value>
   </data>
@@ -227,5 +227,14 @@
   </data>
   <data name="Appearance.Name" xml:space="preserve">
     <value>Apariencia</value>
+  </data>
+  <data name="Message.Page.Deleted" xml:space="preserve">
+    <value>Una página con la ruta {0} ya existe para la página padre en la papelera. Recupere o remueva la página de la papelera.</value>
+  </data>
+  <data name="Meta.HelpText" xml:space="preserve">
+    <value>Ingrese meta tags opcionales (en la misma forma que desea que se incluyan en la salida de la página).</value>
+  </data>
+  <data name="Meta.Text" xml:space="preserve">
+    <value>Meta:</value>
   </data>
 </root>

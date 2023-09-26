@@ -117,25 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete Page" xml:space="preserve">
-    <value>Borrar Página</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Nombre</value>
-  </data>
   <data name="DeleteModule.Header" xml:space="preserve">
     <value>Borrar módulo</value>
   </data>
-  <data name="No Deleted Pages" xml:space="preserve">
+  <data name="DeletePage.Header" xml:space="preserve">
+    <value>Borrar Página</value>
+  </data>
+  <data name="NoPage.Deleted" xml:space="preserve">
     <value>Páginas no borradas</value>
   </data>
-  <data name="Deleted By" xml:space="preserve">
+  <data name="DeletedBy" xml:space="preserve">
     <value>Borrado por</value>
   </data>
-  <data name="Deleted On" xml:space="preserve">
+  <data name="DeletedOn" xml:space="preserve">
     <value>Borrado en</value>
   </data>
-  <data name="No Deleted Modules" xml:space="preserve">
+  <data name="Confirm.Page.Delete" xml:space="preserve">
+    <value>¿Estas seguro que deseas realizar un borrado permanente de la página {0}?</value>
+  </data>
+  <data name="NoModule.Deleted" xml:space="preserve">
     <value>Módulos no borrados</value>
   </data>
   <data name="Page" xml:space="preserve">
@@ -147,8 +147,23 @@
   <data name="Restore" xml:space="preserve">
     <value>Recuperar</value>
   </data>
-  <data name="DeletePage.Message" xml:space="preserve">
-    <value>¿Estas seguro que deseas realizar un borrado permanente de la página {0}?</value>
+  <data name="Confirm.Module.Delete" xml:space="preserve">
+    <value>¿Estas seguro que deseas realizar un borrado permanente del módulo {0}?</value>
+  </data>
+  <data name="Error.DeletedModulePage.Load" xml:space="preserve">
+    <value>Error cargando páginas o módulos borrados</value>
+  </data>
+  <data name="Error.Page.Restore" xml:space="preserve">
+    <value>Error recuperando páginas borradas</value>
+  </data>
+  <data name="Error.Module.Restore" xml:space="preserve">
+    <value>Error recuperando módulos borrados</value>
+  </data>
+  <data name="Error.Module.Delete" xml:space="preserve">
+    <value>Error borrando el módulo de manera permanente</value>
+  </data>
+  <data name="Error.Modules.Delete" xml:space="preserve">
+    <value>Error borrando módulos de manera permanente</value>
   </data>
   <data name="DeleteAllPages.Header" xml:space="preserve">
     <value>Borrar todas las páginas</value>
@@ -156,16 +171,16 @@
   <data name="DeleteAllPages.Message" xml:space="preserve">
     <value>¿Estas seguro que deseas realizar un borrado permanente de todas las páginas?</value>
   </data>
-  <data name="DeleteModule.Message" xml:space="preserve">
-    <value>¿Estas seguro que deseas realizar un borrado permanente del módulo {0}?</value>
-  </data>
   <data name="DeleteAllModules.Header" xml:space="preserve">
     <value>Borrar todos los módulos</value>
   </data>
   <data name="DeleteAllModules.Message" xml:space="preserve">
     <value>¿Estas seguro que deseas realizar un borrado permanente de todos los módulos?</value>
   </data>
-  <data name="Pages.Name" xml:space="preserve">
+  <data name="Pages.Heading" xml:space="preserve">
     <value>Páginas</value>
+  </data>
+  <data name="Modules.Heading" xml:space="preserve">
+    <value>Modulós</value>
   </data>
 </root>

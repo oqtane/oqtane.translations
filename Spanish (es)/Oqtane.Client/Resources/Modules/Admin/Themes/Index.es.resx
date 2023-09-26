@@ -117,19 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>Nombre</value>
+  <data name="Success.Theme.Install" xml:space="preserve">
+    <value>El tema se instaló correctamente. Debes &lt;a href={0}&gt;Reiniciar&lt;/a&gt; la aplicacion para aplicar los cambios.</value>
   </data>
-  <data name="Version" xml:space="preserve">
-    <value>Versión</value>
+  <data name="Error.Theme.Download" xml:space="preserve">
+    <value>Error descargando tema</value>
   </data>
-  <data name="Upgrade" xml:space="preserve">
-    <value>Actualizar</value>
+  <data name="Confirm.Theme.Delete" xml:space="preserve">
+    <value>¿Seguro que deseas borrar el tema {0}?</value>
+  </data>
+  <data name="Error.Theme.Load" xml:space="preserve">
+    <value>Error cargando tema</value>
+  </data>
+  <data name="Success.Theme.Delete" xml:space="preserve">
+    <value>Tema borrado con éxito</value>
+  </data>
+  <data name="Error.Theme.Delete" xml:space="preserve">
+    <value>Error borrando tema</value>
   </data>
   <data name="DeleteTheme.Header" xml:space="preserve">
     <value>Borrar tema</value>
   </data>
-  <data name="DeleteTheme.Message" xml:space="preserve">
-    <value>¿Seguro que deseas borrar el tema {0}?</value>
+  <data name="CreateTheme.Text" xml:space="preserve">
+    <value>Crear tema</value>
+  </data>
+  <data name="ViewTheme.Text" xml:space="preserve">
+    <value>Ver</value>
   </data>
 </root>

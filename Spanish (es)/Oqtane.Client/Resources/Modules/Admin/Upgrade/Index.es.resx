@@ -117,20 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Download" xml:space="preserve">
-    <value>Descargar</value>
+  <data name="Error.Upgrade.Execute" xml:space="preserve">
+    <value>Error ejecutando la actualizacion</value>
   </data>
-  <data name="Install" xml:space="preserve">
-    <value>Instalar</value>
-  </data>
-  <data name="Upgrade To" xml:space="preserve">
-    <value>Actualizar a</value>
+  <data name="Error.Framework.Download" xml:space="preserve">
+    <value>Error descargando el paquete del framework</value>
   </data>
   <data name="Framework.HelpText" xml:space="preserve">
     <value>Carge un paquete del framework y seleccione instalar para completar la instalación</value>
-    <comment>Upload a framework package and select Install to complete the installation</comment>
   </data>
   <data name="Framework.Text" xml:space="preserve">
     <value>Framework: </value>
+  </data>
+  <data name="Info.Upgrade.Wait" xml:space="preserve">
+    <value>Por favor espere, la actualización está en progreso...</value>
+  </data>
+  <data name="Success.Framework.Download" xml:space="preserve">
+    <value>El Framework se descargó correctamente... Por favor seleccione actualizar para completar el proceso</value>
+  </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Descargar</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Cargar</value>
   </data>
 </root>

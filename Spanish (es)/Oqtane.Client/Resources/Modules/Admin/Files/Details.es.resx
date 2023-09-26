@@ -117,14 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
   <data name="Folder.Text" xml:space="preserve">
     <value>Carpeta:</value>
+  </data>
+  <data name="Error.File.Load" xml:space="preserve">
+    <value>Error cargando archivo</value>
+  </data>
+  <data name="Message.File.InvalidName" xml:space="preserve">
+    <value>Archivo no válido</value>
+  </data>
+  <data name="Error.File.Save" xml:space="preserve">
+    <value>Error guardando archivo</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>El nombre del archivo</value>
@@ -140,5 +143,11 @@
   </data>
   <data name="Size.Text" xml:space="preserve">
     <value>Tamaño:</value>
+  </data>
+  <data name="Description.HelpText" xml:space="preserve">
+    <value>Una descripción para el archivo. Esta puede ser usada para título de archivos de imagen</value>
+  </data>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Descripción:</value>
   </data>
 </root>

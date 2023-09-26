@@ -120,4 +120,7 @@
   <data name="Edit.Action" xml:space="preserve">
     <value>Editar</value>
   </data>
+  <data name="Error.Content.Load" xml:space="preserve">
+    <value>Ocurrió un error cargando el contenido</value>
+  </data>
 </root>

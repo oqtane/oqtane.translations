@@ -117,20 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nombre:</value>
   </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Si</value>
+  <data name="Minute(s)" xml:space="preserve">
+    <value>Minuto(s)</value>
   </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
+  <data name="Hour(s)" xml:space="preserve">
+    <value>Hora(s)</value>
+  </data>
+  <data name="Day(s)" xml:space="preserve">
+    <value>Día(s)</value>
+  </data>
+  <data name="Month(s)" xml:space="preserve">
+    <value>Mes(es)</value>
+  </data>
+  <data name="Error.Job.Load" xml:space="preserve">
+    <value>Error cargando tarea</value>
+  </data>
+  <data name="Error.Job.Update" xml:space="preserve">
+    <value>Error actualizando tarea</value>
+  </data>
+  <data name="Message.Required.JobInfo" xml:space="preserve">
+    <value>Debe proveer el nombre de la tarea, frecuencia y retención</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Ingrese el nombre del trabajo</value>
@@ -176,5 +185,11 @@
   </data>
   <data name="NextExecution.Text" xml:space="preserve">
     <value>Proxima Ejecución:</value>
+  </data>
+  <data name="Week(s)" xml:space="preserve">
+    <value>Semana(s)</value>
+  </data>
+  <data name="Once" xml:space="preserve">
+    <value>Ejecutar una vez</value>
   </data>
 </root>

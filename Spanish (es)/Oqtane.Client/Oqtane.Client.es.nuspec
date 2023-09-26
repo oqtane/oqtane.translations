@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Oqtane.Client.es</id>
+    <version>3.1.2</version>
+    <authors>Santiago Cattaneo</authors>
+    <owners>.NET Foundation</owners>
+    <title>Oqtane Framework es Translation</title>
+    <description>Oqtane Framework es Translation</description>
+    <copyright>.NET Foundation</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/oqtane/oqtane.translations</projectUrl>
+    <tags>oqtane translation</tags>
+    <releaseNotes></releaseNotes>
+    <summary></summary>
+    <dependencies>
+      <dependency id="Oqtane.Framework" version="3.1.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\net6.0\es\Oqtane.Client.resources.dll" target="lib\net6.0\es" />
+  </files>
+</package>

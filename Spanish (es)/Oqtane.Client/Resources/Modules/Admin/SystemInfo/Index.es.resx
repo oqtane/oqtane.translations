@@ -117,22 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Access Framework API" xml:space="preserve">
-    <value>Access Framework API</value>
+  <data name="Access.ApiFramework" xml:space="preserve">
+    <value>Acceder a la API de Swagger</value>
   </data>
   <data name="FrameworkVersion.HelpText" xml:space="preserve">
     <value>Versión del Framework</value>
   </data>
-  <data name="BlazorRunime.HelpText" xml:space="preserve">
-    <value>Blazor Runtime (Server o WebAssembly)</value>
-  </data>
-  <data name="ClrVerion.HelpText" xml:space="preserve">
+  <data name="CLRVersion.HelpText" xml:space="preserve">
     <value>Versión del Common Language Runtime</value>
   </data>
-  <data name="OsVersion.HelpText" xml:space="preserve">
+  <data name="OSVersion.HelpText" xml:space="preserve">
     <value>Versión del sistema operativo</value>
   </data>
-  <data name="ServerPath.HelpText" xml:space="preserve">
+  <data name="ContentRootPath.HelpText" xml:space="preserve">
     <value>Ruta del servidor</value>
   </data>
   <data name="ServerTime.HelpText" xml:space="preserve">
@@ -141,16 +138,13 @@
   <data name="FrameworkVersion.Text" xml:space="preserve">
     <value>Versión del Framework: </value>
   </data>
-  <data name="BlazorRunime.Text" xml:space="preserve">
-    <value>Blazor Runtime: </value>
-  </data>
-  <data name="ClrVerion.Text" xml:space="preserve">
+  <data name="CLRVersion.Text" xml:space="preserve">
     <value>Versión del CLR: </value>
   </data>
-  <data name="OsVersion.Text" xml:space="preserve">
+  <data name="OSVersion.Text" xml:space="preserve">
     <value>Versión del OS: </value>
   </data>
-  <data name="ServerPath.Text" xml:space="preserve">
+  <data name="ContentRootPath.Text" xml:space="preserve">
     <value>Ruta del servidor:</value>
   </data>
   <data name="ServerTime.Text" xml:space="preserve">
@@ -161,5 +155,119 @@
   </data>
   <data name="RestartApplication.Message" xml:space="preserve">
     <value>¿Seguro que deseas reiniciar la aplicación?</value>
+  </data>
+  <data name="Error.UpdateConfig" xml:space="preserve">
+    <value>Ocurrió un error actualizando la configuración</value>
+  </data>
+  <data name="Success.UpdateConfig.Restart" xml:space="preserve">
+    <value>Configuración actualizada. Por favor seleccione reiniciar la aplicación para que se apliquen los cambios</value>
+  </data>
+  <data name="InstallationId.Text" xml:space="preserve">
+    <value>ID de instalación: </value>
+  </data>
+  <data name="InstallationId.HelpText" xml:space="preserve">
+    <value>El identificador de su instalación</value>
+  </data>
+  <data name="DetailedErrors.Text" xml:space="preserve">
+    <value>¿Errores detallados? </value>
+  </data>
+  <data name="DetailedErrors.HelpText" xml:space="preserve">
+    <value>Especifique si los errores detallados estan habilitados para Blazor. Esta opcion no debe estar activa en ambientes productivos</value>
+  </data>
+  <data name="True" xml:space="preserve">
+    <value>Verdadero</value>
+  </data>
+  <data name="False" xml:space="preserve">
+    <value>Falso</value>
+  </data>
+  <data name="LoggingLevel.Text" xml:space="preserve">
+    <value>Nivel de registro: </value>
+  </data>
+  <data name="LoggingLevel.HelpText" xml:space="preserve">
+    <value>El nivel de registro minimo para el log de registro. Esta opcion permite controlar el volumne de items guardados en tu registro de eventos</value>
+  </data>
+  <data name="Trace" xml:space="preserve">
+    <value>Rastro</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Depurar</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Información</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Advertencia</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Critico</value>
+  </data>
+  <data name="Info.Heading" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="Options.Heading" xml:space="preserve">
+    <value>Optiones</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Por favor registrame para recibir notificaciones de actualizaciones importantes y de seguridad</value>
+  </data>
+  <data name="Success.Register" xml:space="preserve">
+    <value>Fuiste registrado con éxito para recibir actualizaciones</value>
+  </data>
+  <data name="PackageService.HelpText" xml:space="preserve">
+    <value>Especifique si el servicio de paquetes esta activo para instalar módulos, temas y traducciones</value>
+  </data>
+  <data name="PackageService.Text" xml:space="preserve">
+    <value>¿Servicio de paquetes activo?</value>
+  </data>
+  <data name="Swagger.HelpText" xml:space="preserve">
+    <value>Especifique si Swagger esta activo para la API</value>
+  </data>
+  <data name="Swagger.Text" xml:space="preserve">
+    <value>¿Swagger activo?</value>
+  </data>
+  <data name="RestartApplication.Text" xml:space="preserve">
+    <value>Reiniciar aplicación</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Ninguno</value>
+  </data>
+  <data name="NotificationLevel.HelpText" xml:space="preserve">
+    <value>El mínimo nivel de registro donde las notificaciones deben ser enviadas al usuario anfitrión.</value>
+  </data>
+  <data name="NotificationLevel.Text" xml:space="preserve">
+    <value>Nivel de notificación:</value>
+  </data>
+  <data name="IPAddress.HelpText" xml:space="preserve">
+    <value>Dirección IP del servidor</value>
+  </data>
+  <data name="IPAddress.Text" xml:space="preserve">
+    <value>Dirección IP:</value>
+  </data>
+  <data name="MachineName.HelpText" xml:space="preserve">
+    <value>Nombre del servidor</value>
+  </data>
+  <data name="MachineName.Text" xml:space="preserve">
+    <value>Nombre del servidor:</value>
+  </data>
+  <data name="TickCount.HelpText" xml:space="preserve">
+    <value>Cantidad de tiempo que el servicio esta activo y operacional</value>
+  </data>
+  <data name="TickCount.Text" xml:space="preserve">
+    <value>Uptime del servicio:</value>
+  </data>
+  <data name="WebRootPath.HelpText" xml:space="preserve">
+    <value>Ruta web raiz del server</value>
+  </data>
+  <data name="WebRootPath.Text" xml:space="preserve">
+    <value>Ruta web:</value>
+  </data>
+  <data name="WorkingSet.HelpText" xml:space="preserve">
+    <value>Memoria asignada al servicio (in MB)</value>
+  </data>
+  <data name="WorkingSet.Text" xml:space="preserve">
+    <value>Memoria asignada:</value>
   </data>
 </root>

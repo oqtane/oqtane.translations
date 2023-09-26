@@ -117,10 +117,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
+  <data name="Confirm.Delete" xml:space="preserve">
+    <value>¿Seguro que de sea borrar la versión {0}?</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
+  <data name="Confirm.Restore" xml:space="preserve">
+    <value>¿Seguro que desea recuperar la versión {0}?</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>Creado por</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>Creado el</value>
+  </data>
+  <data name="Delete.Header" xml:space="preserve">
+    <value>Versión borrada</value>
+  </data>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Borrar</value>
+  </data>
+  <data name="Error.Content.Delete" xml:space="preserve">
+    <value>Error borrando la versión</value>
+  </data>
+  <data name="Error.Content.Load" xml:space="preserve">
+    <value>Ocurrió un error cargando el contenido</value>
+  </data>
+  <data name="Error.Content.Restore" xml:space="preserve">
+    <value>Error recuperando la versión</value>
+  </data>
+  <data name="Error.Content.Save" xml:space="preserve">
+    <value>Ocurrió un error guardando el contenido</value>
+  </data>
+  <data name="Error.Content.View" xml:space="preserve">
+    <value>Error mostrando la versión</value>
+  </data>
+  <data name="Message.Content.Deleted" xml:space="preserve">
+    <value>Versión borrada</value>
+  </data>
+  <data name="Message.Content.Restored" xml:space="preserve">
+    <value>Versión recuperada</value>
+  </data>
+  <data name="Restore.Header" xml:space="preserve">
+    <value>Recuperar versión</value>
+  </data>
+  <data name="Restore.Text" xml:space="preserve">
+    <value>Recuperar</value>
+  </data>
+  <data name="View.Text" xml:space="preserve">
+    <value>Ver</value>
   </data>
 </root>

@@ -117,17 +117,32 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nombre:</value>
+    <value>Nombre: </value>
   </data>
-  <data name="No Parent" xml:space="preserve">
+  <data name="NoParent" xml:space="preserve">
     <value>Sin padre</value>
+  </data>
+  <data name="Error.Folder.Load" xml:space="preserve">
+    <value>Error cargando carpeta</value>
+  </data>
+  <data name="Message.Required.FolderParent" xml:space="preserve">
+    <value>Las carpetas deben tener un nombre y un padre</value>
+  </data>
+  <data name="Message.Folder.InvalidName" xml:space="preserve">
+    <value>Nombre de carpeta inválido.</value>
+  </data>
+  <data name="Error.Folder.Save" xml:space="preserve">
+    <value>Error guardando carpeta</value>
+  </data>
+  <data name="Message.Folder.Files.InvalidDelete" xml:space="preserve">
+    <value>La carpeta tiene archivos y no puede ser borrada</value>
+  </data>
+  <data name="Message.Folder.Subfolders.InvalidDelete" xml:space="preserve">
+    <value>La carpeta tiene subcarpetas y no puede ser borrada</value>
+  </data>
+  <data name="Error.Folder.Delete" xml:space="preserve">
+    <value>Error borrando carpeta</value>
   </data>
   <data name="Parent.HelpText" xml:space="preserve">
     <value>Elija la carpeta padre</value>
@@ -149,5 +164,23 @@
   </data>
   <data name="DeleteFolder.Message" xml:space="preserve">
     <value>¿Seguro que desea borrar esta carpeta?</value>
+  </data>
+  <data name="Type.HelpText" xml:space="preserve">
+    <value>Seleccione el tipo de carpeta. Carpetas privadas solo se pueden acceder por usuarios autorizados. Carpetas publicas pueden ser accedidas por todos los usuarios</value>
+  </data>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Tipo:</value>
+  </data>
+  <data name="Capacity.HelpText" xml:space="preserve">
+    <value>Ingrese la capacidad de la carpeta (en megabytes). Especifique cero para capacidad ilimitada.</value>
+  </data>
+  <data name="Capacity.Text" xml:space="preserve">
+    <value>Capacidad:</value>
+  </data>
+  <data name="ImageSizes.HelpText" xml:space="preserve">
+    <value>Ingrese una lista de tamaños de imagenes que podran ser generadas en la carga de imagenes (ie. 200x200,x200,200x)</value>
+  </data>
+  <data name="ImageSizes.Text" xml:space="preserve">
+    <value>Tamaños de imagenes:</value>
   </data>
 </root>

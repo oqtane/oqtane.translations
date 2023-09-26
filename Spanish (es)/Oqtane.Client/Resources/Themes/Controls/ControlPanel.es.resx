@@ -117,49 +117,73 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete" xml:space="preserve">
-    <value>Borrar</value>
-  </data>
-  <data name="Add" xml:space="preserve">
-    <value>Agregar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
-  <data name="Control Panel" xml:space="preserve">
+  <data name="ControlPanel" xml:space="preserve">
     <value>Panel de control</value>
   </data>
-  <data name="Admin Dashboard" xml:space="preserve">
+  <data name="AdminDash" xml:space="preserve">
     <value>Panel de control</value>
   </data>
-  <data name="Edit" xml:space="preserve">
-    <value>Editar</value>
-  </data>
-  <data name="Unpublish Page" xml:space="preserve">
+  <data name="Page.Unpublish" xml:space="preserve">
     <value>Despublicar página</value>
   </data>
-  <data name="Publish Page" xml:space="preserve">
+  <data name="Page.Publish" xml:space="preserve">
     <value>Publicar página</value>
   </data>
-  <data name="Delete Page" xml:space="preserve">
+  <data name="Page.Delete" xml:space="preserve">
     <value>Borrar página</value>
   </data>
-  <data name="Add New Module" xml:space="preserve">
+  <data name="Module.AddNew" xml:space="preserve">
     <value>Agregar nuevo módulo</value>
   </data>
-  <data name="Add Existing Module" xml:space="preserve">
+  <data name="Module.AddExisting" xml:space="preserve">
     <value>Agregar módulo existente</value>
   </data>
   <data name="Modules" xml:space="preserve">
     <value>Módulos</value>
   </data>
-  <data name="Select Module" xml:space="preserve">
-    <value>Elija módulo</value>
-  </data>
-  <data name="Select Page" xml:space="preserve">
+  <data name="Page.Select" xml:space="preserve">
     <value>Elija página</value>
   </data>
-  <data name="Add Module To Page" xml:space="preserve">
+  <data name="Page.Module.Add" xml:space="preserve">
     <value>Agregar módulo a la página</value>
+  </data>
+  <data name="Container" xml:space="preserve">
+    <value>Contenedor:</value>
+  </data>
+  <data name="Error.Authorize.No" xml:space="preserve">
+    <value>No Autorizado</value>
+  </data>
+  <data name="Message.Require.ModuleSelect" xml:space="preserve">
+    <value>Debes seleccionar un módulo</value>
+  </data>
+  <data name="Module.Manage" xml:space="preserve">
+    <value>Gestión de módulos:</value>
+  </data>
+  <data name="Module.Select" xml:space="preserve">
+    <value>Elija módulo</value>
+  </data>
+  <data name="Page.Manage" xml:space="preserve">
+    <value>Gestión de páginas:</value>
+  </data>
+  <data name="Pane" xml:space="preserve">
+    <value>Panel:</value>
+  </data>
+  <data name="Success.Page.ModuleAdd" xml:space="preserve">
+    <value>El módulo fue agregado a la página</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Título:</value>
+  </data>
+  <data name="System.Update" xml:space="preserve">
+    <value>Buscar actualizaciones del sistema</value>
+  </data>
+  <data name="Visibility" xml:space="preserve">
+    <value>Visibilidad:</value>
+  </data>
+  <data name="VisibilityEdit" xml:space="preserve">
+    <value>Solo editores de página</value>
+  </data>
+  <data name="VisibilityView" xml:space="preserve">
+    <value>Igual que la página</value>
   </data>
 </root>

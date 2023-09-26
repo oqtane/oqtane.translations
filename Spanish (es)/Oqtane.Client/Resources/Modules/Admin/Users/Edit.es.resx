@@ -117,19 +117,85 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Si</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
+  <data name="Message.Password.NoMatch" xml:space="preserve">
+    <value>Las contraseñas no coinciden</value>
   </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>Identidad</value>
+  </data>
+  <data name="Confirm.Delete" xml:space="preserve">
+    <value>¿Esta borrado?</value>
+  </data>
+  <data name="Error.User.Load" xml:space="preserve">
+    <value>Error cargando usuario</value>
+  </data>
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
+    <value>Debes ingresar un nombre de usuario, contraseña, dirección de correo y toda la información del perfil obligatoria</value>
+  </data>
+  <data name="Error.User.Save" xml:space="preserve">
+    <value>Error guardando usuario</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Por favor ingrese la contraseña nuevamente para confirmar que coincide con la de arriba</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Confirmar contraseña:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>El nombre copleto del usuario</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Nombre completo:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>La dirección de correo donde el usuario recibirá notificaciones</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>Correo:</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>Indica si el usuario está activo</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>¿Borrado?</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>La contraseña del usuario. Por favor eija una contraseña suficientemente segura.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Contraseña:</value>
+  </data>
+  <data name="Photo.HelpText" xml:space="preserve">
+    <value>Una foto del usuario</value>
+  </data>
+  <data name="Photo.Text" xml:space="preserve">
+    <value>Foto:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Un nombre de usuario único por usuario. Note que este campo no puede ser modificado una vez guardado.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nombre de usuario:</value>
+  </data>
+  <data name="Identity.Heading" xml:space="preserve">
+    <value>Identidad</value>
+  </data>
+  <data name="Profile.Heading" xml:space="preserve">
+    <value>Perfil</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Contraseña</value>
+  </data>
+  <data name="LastIPAddress.HelpText" xml:space="preserve">
+    <value>La dirección IP del usuario registrado en su último acceso</value>
+  </data>
+  <data name="LastIPAddress.Text" xml:space="preserve">
+    <value>Ultima dirección IP: </value>
+  </data>
+  <data name="LastLogin.HelpText" xml:space="preserve">
+    <value>La fecha y hora que el usuario accedió por última vez</value>
+  </data>
+  <data name="LastLogin.Text" xml:space="preserve">
+    <value>Ultimo acceso:</value>
   </data>
 </root>

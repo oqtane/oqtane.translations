@@ -117,23 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Cancelar</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Si</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
   <data name="Page.Text" xml:space="preserve">
     <value>Página:</value>
-  </data>
-  <data name="Inherit From Page Or Site" xml:space="preserve">
-    <value>Heredar de una página o sitio</value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
     <value>Ingrese el título del módulo</value>
@@ -156,10 +141,10 @@
   <data name="DisplayOnAllPages.Text" xml:space="preserve">
     <value>¿Mostrar en todas las páginas?</value>
   </data>
-  <data name="ModuleSettings.Heading" xml:space="preserve">
+  <data name="Settings.Heading" xml:space="preserve">
     <value>Configuraciones del módulo</value>
   </data>
-  <data name="ModuleSettings.Name" xml:space="preserve">
-    <value>Configuraciones</value>
+  <data name="Message.Required.Title" xml:space="preserve">
+    <value>Debes proveer un título para el módulo</value>
   </data>
 </root>

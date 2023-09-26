@@ -117,35 +117,47 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Guardar</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nombre:</value>
   </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Si</value>
+  <data name="Container.Select" xml:space="preserve">
+    <value>Elija contenedor</value>
   </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
+  <data name="Error.Theme.LoadPane" xml:space="preserve">
+    <value>Error cargando los paneles para el tema</value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>Contenedor por defecto:</value>
   </data>
-  <data name="Select Theme" xml:space="preserve">
-    <value>Elija tema</value>
-  </data>
-  <data name="Select Layout" xml:space="preserve">
-    <value>Elija distribución</value>
-  </data>
-  <data name="Select Container" xml:space="preserve">
-    <value>Elija contenedor</value>
-  </data>
-  <data name="Default Admin Container" xml:space="preserve">
+  <data name="DefaultAdminContainer" xml:space="preserve">
     <value>Contenedor administrador por defecto</value>
   </data>
-  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In the Scheduled Jobs" xml:space="preserve">
+  <data name="Smtp.Required.EnableNotificationJob" xml:space="preserve">
     <value>Por favor note que STMP requiere que el trabajo de notificaciones este activado en el programador de trabajos</value>
+  </data>
+  <data name="Smtp.TestConfig" xml:space="preserve">
+    <value>Configuración de pruebas de SMTP</value>
+  </data>
+  <data name="Success.Settings.SaveSite" xml:space="preserve">
+    <value>Configuracion de sitio guardada</value>
+  </data>
+  <data name="Message.Aliases.Taken" xml:space="preserve">
+    <value>El alias por defecto no se especificó o ya existía en otro sitio</value>
+  </data>
+  <data name="Message.Required.SiteName" xml:space="preserve">
+    <value>Debe proveer un nombre de sitio, alias y un tema y contenedor por defecto</value>
+  </data>
+  <data name="Error.SaveSite" xml:space="preserve">
+    <value>Error guardando el sitio</value>
+  </data>
+  <data name="Info.Smtp.SaveSettings" xml:space="preserve">
+    <value>Se guardó la configuración SMTP y se envió un correo a la dirección de correo asociada a tu cuenta. Por favor espere unos minutos mientra se envía. Si no recibes el correo por favor revisa la tarea de la notificacion en la seccion de tareas programadas para mas detalle</value>
+  </data>
+  <data name="Error.Smtp.TestConfig" xml:space="preserve">
+    <value>Error probando la configuracion de SMTP</value>
+  </data>
+  <data name="Message.Required.Smtp" xml:space="preserve">
+    <value>Debes especificar SMTP servidor, puerto y dirección de envío</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Ingrese el nombre del sitio</value>
@@ -156,6 +168,9 @@
   <data name="Aliases.HelpText" xml:space="preserve">
     <value>Ingrese el alias para el servidor</value>
   </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>Esta borrado este sitio?</value>
+  </data>
   <data name="Logo.HelpText" xml:space="preserve">
     <value>Cargar el logo para el sitio</value>
   </data>
@@ -165,20 +180,11 @@
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Elija el tema por defecto para el sitio</value>
   </data>
-  <data name="DefaultLayout.HelpText" xml:space="preserve">
-    <value>Elija la distribución por defecto para el sitio</value>
-  </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
     <value>Elija el contenedor por defecto para el sitio</value>
   </data>
   <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
     <value>Elija el contenedor administrador por defecto para el sitio</value>
-  </data>
-  <data name="AllowRegistration.HelpText" xml:space="preserve">
-    <value>¿Deseas que los usuarios puedan registrarse en el sitio?</value>
-  </data>
-  <data name="IsDeleted.HelpText" xml:space="preserve">
-    <value>¿Este sitio esta borrado?</value>
   </data>
   <data name="Host.HelpText" xml:space="preserve">
     <value>Ingrese el nombre de servidor SMTP</value>
@@ -213,6 +219,9 @@
   <data name="Aliases.Text" xml:space="preserve">
     <value>Alias:</value>
   </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Esta borrado? </value>
+  </data>
   <data name="Logo.Text" xml:space="preserve">
     <value>Logo: </value>
   </data>
@@ -222,17 +231,8 @@
   <data name="DefaultTheme.Text" xml:space="preserve">
     <value>Tema por defecto:</value>
   </data>
-  <data name="DefaultLayout.Text" xml:space="preserve">
-    <value>Distribución por defecto:</value>
-  </data>
   <data name="DefaultAdminContainer.Text" xml:space="preserve">
     <value>Contenedor adminstrador por defecto:</value>
-  </data>
-  <data name="AllowRegistration.Text" xml:space="preserve">
-    <value>¿Permitir registro de usuarios?</value>
-  </data>
-  <data name="IsDeleted.Text" xml:space="preserve">
-    <value>¿Esta borrado?</value>
   </data>
   <data name="Host.Text" xml:space="preserve">
     <value>Servidor SMTP:</value>
@@ -261,10 +261,67 @@
   <data name="PwaSplashIcon.Text" xml:space="preserve">
     <value>Icono Splash: </value>
   </data>
+  <data name="Confirm.DeleteSite" xml:space="preserve">
+    <value>¿Seguro desea borrar este sitio?</value>
+  </data>
+  <data name="Error.DeleteSite" xml:space="preserve">
+    <value>Error borrando el sitio</value>
+  </data>
+  <data name="Message.FailAuth.DeleteSite" xml:space="preserve">
+    <value>No estas autorizado a borrar el sitio</value>
+  </data>
+  <data name="Theme.Select" xml:space="preserve">
+    <value>Seleccionar tema</value>
+  </data>
+  <data name="Hosting.Heading" xml:space="preserve">
+    <value>Modo de anfitrión</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Especifique si el sitio debe tener prerender (para buscadorer, etc)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>¿Prerender? </value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>The Blazor runtime hosting model</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Runtime: </value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>Información del arrendatario</value>
+  </data>
+  <data name="PWASettings.Heading" xml:space="preserve">
+    <value>Configuración PWA</value>
+  </data>
   <data name="SMTPSettings.Heading" xml:space="preserve">
     <value>Configuraciones SMTP</value>
   </data>
-  <data name="SMTPSettings.Name" xml:space="preserve">
-    <value>SMTP</value>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Conexión:</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Bases de datos:</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>La información de conexión de la base de datos</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>La base de datos del arrendatario</value>
+  </data>
+  <data name="DeleteSite.Text" xml:space="preserve">
+    <value>Borrar sitio</value>
+  </data>
+  <data name="DefaultAlias.HelpText" xml:space="preserve">
+    <value>Los pedidos al alias por defecto del sitio seran redireccionados al alias por defecto.</value>
+  </data>
+  <data name="DefaultAlias.Text" xml:space="preserve">
+    <value>Alias por defecto: </value>
+  </data>
+  <data name="Aliases.Heading" xml:space="preserve">
+    <value>Alias</value>
   </data>
 </root>

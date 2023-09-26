@@ -117,16 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Select Folder" xml:space="preserve">
+  <data name="Folder.Select" xml:space="preserve">
     <value>Elija carpeta</value>
   </data>
-  <data name="Select File" xml:space="preserve">
+  <data name="File.Select" xml:space="preserve">
     <value>Elijaarchivo</value>
   </data>
-  <data name="Upload" xml:space="preserve">
-    <value>Cargar</value>
+  <data name="Error.File.Load" xml:space="preserve">
+    <value>Ocurrió un error abriendo archivos</value>
   </data>
-  <data name="Delete" xml:space="preserve">
-    <value>Borrar</value>
+  <data name="Error.File.Upload" xml:space="preserve">
+    <value>Ocurrió un error cargando archivos</value>
+  </data>
+  <data name="Message.File.NotSelected" xml:space="preserve">
+    <value>No seleccionó ningún archivo a subir</value>
+  </data>
+  <data name="Success.File.Delete" xml:space="preserve">
+    <value>Archivo borrado</value>
+  </data>
+  <data name="Error.File.Delete" xml:space="preserve">
+    <value>Ocurrió un error borrando el archivo</value>
+  </data>
+  <data name="Success.File.Upload" xml:space="preserve">
+    <value>El archivo se cargó satisfactoriamente</value>
   </data>
 </root>

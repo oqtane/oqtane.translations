@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <version>3.1.2</version>
+    <authors>Santiago Cattaneo</authors>
+    <owners>.NET Foundation</owners>
+    <title>Oqtane Framework es Translation</title>
+    <description>Oqtane Framework es Translation</description>
+    <copyright>.NET Foundation</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/oqtane/oqtane.translations</projectUrl>
+    <tags>oqtane translation</tags>
+    <releaseNotes></releaseNotes>
+    <summary></summary>
+    <dependencies>
+      <dependency id="Oqtane.Framework" version="3.1.2" />
+    </dependencies>
+    <RootNamespace>Oqtane</RootNamespace>
+  </PropertyGroup>
+</Project>
