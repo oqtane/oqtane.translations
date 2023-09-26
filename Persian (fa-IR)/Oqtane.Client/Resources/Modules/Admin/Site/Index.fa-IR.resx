@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-    <!-- 
+  <!-- 
             Microsoft ResX Schema 
 
             Version 2.0
@@ -59,212 +59,227 @@
                     : using a System.ComponentModel.TypeConverter
                     : and then encoded with base64 encoding.
             -->
-    <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-        <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
-        <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
             <xsd:complexType>
-                <xsd:choice maxOccurs="unbounded">
-                    <xsd:element name="metadata">
-                        <xsd:complexType>
-                            <xsd:sequence>
-                                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
-                            </xsd:sequence>
-                            <xsd:attribute name="name" use="required" type="xsd:string"/>
-                            <xsd:attribute name="type" type="xsd:string"/>
-                            <xsd:attribute name="mimetype" type="xsd:string"/>
-                            <xsd:attribute ref="xml:space"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                    <xsd:element name="assembly">
-                        <xsd:complexType>
-                            <xsd:attribute name="alias" type="xsd:string"/>
-                            <xsd:attribute name="name" type="xsd:string"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                    <xsd:element name="data">
-                        <xsd:complexType>
-                            <xsd:sequence>
-                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
-                            </xsd:sequence>
-                            <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-                            <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-                            <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-                            <xsd:attribute ref="xml:space"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                    <xsd:element name="resheader">
-                        <xsd:complexType>
-                            <xsd:sequence>
-                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                            </xsd:sequence>
-                            <xsd:attribute name="name" type="xsd:string" use="required"/>
-                        </xsd:complexType>
-                    </xsd:element>
-                </xsd:choice>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
-        </xsd:element>
-    </xsd:schema>
-    <resheader name="resmimetype">
-        <value>text/microsoft-resx</value>
-    </resheader>
-    <resheader name="version">
-        <value>2.0</value>
-    </resheader>
-    <resheader name="reader">
-        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-    </resheader>
-    <resheader name="writer">
-        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-    </resheader>
-    <data name="Save" xml:space="preserve">
-        <value>ثبت</value>
-    </data>
-    <data name="Name.Text" xml:space="preserve">
-        <value>نام: </value>
-    </data>
-    <data name="Yes" xml:space="preserve">
-        <value>بله</value>
-    </data>
-    <data name="No" xml:space="preserve">
-        <value>خیر</value>
-    </data>
-    <data name="DefaultContainer.Text" xml:space="preserve">
-        <value>کانتینر پیشفرض: </value>
-    </data>
-    <data name="Select Theme" xml:space="preserve">
-        <value>انتخاب تم</value>
-    </data>
-    <data name="Select Layout" xml:space="preserve">
-        <value>انتخاب قالب</value>
-    </data>
-    <data name="Select Container" xml:space="preserve">
-        <value>انتخاب کانتینر</value>
-    </data>
-    <data name="Default Admin Container" xml:space="preserve">
-        <value>کانتینر پیشفرض مدیریتی</value>
-    </data>
-    <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In the Scheduled Jobs" xml:space="preserve">
-        <value>Please Note That SMTP Requires The Notification Job To Be Enabled In the Scheduled Jobs</value>
-    </data>
-    <data name="Name.HelpText" xml:space="preserve">
-        <value>نام سایت را وارد کنید</value>
-    </data>
-    <data name="Tenant.HelpText" xml:space="preserve">
-        <value>نام تننت را برای این سایت وارد کنید</value>
-    </data>
-    <data name="Aliases.HelpText" xml:space="preserve">
-        <value>نام مستعار برای کارگزار را انتخاب کنید</value>
-    </data>
-    <data name="Logo.HelpText" xml:space="preserve">
-        <value>یک لوگو برای این سایت آپلود کنید</value>
-    </data>
-    <data name="FavoriteIcon.HelpText" xml:space="preserve">
-        <value>نشانه پیشفرض خود را انتخاب کنید</value>
-    </data>
-    <data name="DefaultTheme.HelpText" xml:space="preserve">
-        <value>تم پیشفرض را انتخاب کنید</value>
-    </data>
-    <data name="DefaultLayout.HelpText" xml:space="preserve">
-        <value>قالب پیشفرض سایت را انتخاب کنید</value>
-    </data>
-    <data name="DefaultContainer.HelpText" xml:space="preserve">
-        <value>کانتینر پیشفرض سایت را انتخاب کنید</value>
-    </data>
-    <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
-        <value>کانتینر پیشفرض مدیریتی را برای سایت انتخاب کنید</value>
-    </data>
-    <data name="AllowRegistration.HelpText" xml:space="preserve">
-        <value>Do you want the users to be able to register for an account on the site</value>
-    </data>
-    <data name="IsDeleted.HelpText" xml:space="preserve">
-        <value>آیا این سایت را می‌توان حذف کرد؟</value>
-    </data>
-    <data name="Host.HelpText" xml:space="preserve">
-        <value>Enter the host name of the SMTP server</value>
-    </data>
-    <data name="Port.HelpText" xml:space="preserve">
-        <value>Enter the port number for the SMTP server. Please note this field is required if you provide a host name.</value>
-    </data>
-    <data name="UseSsl.HelpText" xml:space="preserve">
-        <value>Specify if SSL is required for your SMTP server</value>
-    </data>
-    <data name="SmptUsername.HelpText" xml:space="preserve">
-        <value>Enter the username for your SMTP account</value>
-    </data>
-    <data name="SmtpPassword.HelpText" xml:space="preserve">
-        <value>Enter the password for your SMTP account</value>
-    </data>
-    <data name="SmptSender.HelpText" xml:space="preserve">
-        <value>Enter the email which emails will be sent from. Please note that this email address may need to be authorized with the SMTP server.</value>
-    </data>
-    <data name="EnablePWA.HelpText" xml:space="preserve">
-        <value>Select whether you would like this site to be available as a Progressive Web Application (PWA)</value>
-    </data>
-    <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
-        <value>Include an application icon for your PWA. It should be a PNG which is 192 X 192 pixels in dimension.</value>
-    </data>
-    <data name="PwaSplashIcon.HelpText" xml:space="preserve">
-        <value>Include a splash icon for your PWA. It should be a PNG which is 512 X 512 pixels in dimension.</value>
-    </data>
-    <data name="Tenant.Text" xml:space="preserve">
-        <value>تننت: </value>
-    </data>
-    <data name="Aliases.Text" xml:space="preserve">
-        <value>نام‌های مستعر: </value>
-    </data>
-    <data name="Logo.Text" xml:space="preserve">
-        <value>لوگو: </value>
-    </data>
-    <data name="FavoriteIcon.Text" xml:space="preserve">
-        <value>فوآیکن: </value>
-    </data>
-    <data name="DefaultTheme.Text" xml:space="preserve">
-        <value>تم پیشفرض: </value>
-    </data>
-    <data name="DefaultLayout.Text" xml:space="preserve">
-        <value>قالب پیشفرض: </value>
-    </data>
-    <data name="DefaultAdminContainer.Text" xml:space="preserve">
-        <value>کانتینر مدیریتی پیشفرض: </value>
-    </data>
-    <data name="AllowRegistration.Text" xml:space="preserve">
-        <value>اجازه ثبت نام به کاربران؟ </value>
-    </data>
-    <data name="IsDeleted.Text" xml:space="preserve">
-        <value>حذف شده؟ </value>
-    </data>
-    <data name="Host.Text" xml:space="preserve">
-        <value>میزبان: </value>
-    </data>
-    <data name="Port.Text" xml:space="preserve">
-        <value>پورت: </value>
-    </data>
-    <data name="UseSsl.Text" xml:space="preserve">
-        <value>اس اس ال فعال؟ </value>
-    </data>
-    <data name="SmptUsername.Text" xml:space="preserve">
-        <value>نام کاربری: </value>
-    </data>
-    <data name="SmtpPassword.Text" xml:space="preserve">
-        <value>رمز عبور: </value>
-    </data>
-    <data name="SmptSender.Text" xml:space="preserve">
-        <value>Email Sender: </value>
-    </data>
-    <data name="EnablePWA.Text" xml:space="preserve">
-        <value>فعال؟ </value>
-    </data>
-    <data name="PwaApplicationIcon.Text" xml:space="preserve">
-        <value>آیکن برنامه: </value>
-    </data>
-    <data name="PwaSplashIcon.Text" xml:space="preserve">
-        <value>آیکن اسپلش: </value>
-    </data>
-    <data name="SMTPSettings.Heading" xml:space="preserve">
-        <value>تنطیمات SMTP</value>
-    </data>
-    <data name="SMTPSettings.Name" xml:space="preserve">
-        <value>SMTP</value>
-    </data>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Save" xml:space="preserve">
+    <value>ثبت</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>بله</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>خیر</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>نام: </value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>انتخاب کانتینر</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>خطا در بارگیری طرح‌بندی‌های صفحه برای تم</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>کانتینر پیشفرض: </value>
+  </data>
+  <data name="Appearance.Name" xml:space="preserve">
+    <value>ظاهر</value>
+  </data>
+  <data name="Select Theme" xml:space="preserve">
+    <value>انتخاب تم</value>
+  </data>
+  <data name="Default Admin Container" xml:space="preserve">
+    <value>کانتینر پیشفرض مدیریتی</value>
+  </data>
+  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs" xml:space="preserve">
+    <value>Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs</value>
+  </data>
+  <data name="Test SMTP Configuration" xml:space="preserve">
+    <value>تست پیکربندی SMTP</value>
+  </data>
+  <data name="Site Settings Saved" xml:space="preserve">
+    <value>تنظیمات سایت ذخیره شد</value>
+  </data>
+  <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
+    <value>An Alias Specified Has Already Been Used For Another Site</value>
+  </data>
+  <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
+    <value>You Must Provide A Site Name, Alias, And Default Theme/Container</value>
+  </data>
+  <data name="Error Saving Site" xml:space="preserve">
+    <value>خطا در ذخیره</value>
+  </data>
+  <data name="SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details." xml:space="preserve">
+    <value>SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details.</value>
+  </data>
+  <data name="Error Testing SMTP Configuration" xml:space="preserve">
+    <value>خطا در تست پیکربندی SMTP</value>
+  </data>
+  <data name="You Must Specify The SMTP Host, Port, And Sender" xml:space="preserve">
+    <value>شما باید میزبان، پورت و فرستنده SMTP را مشخص کنید</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>نام سایت را وارد کنید</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>نام Tenant را برای این سایت وارد کنید</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>نام Alias سرور را وارد کنید</value>
+  </data>
+  <data name="AllowRegistration.HelpText" xml:space="preserve">
+    <value>آیا می خواهید کاربران بتوانند برای یک حساب کاربری در سایت ثبت نام کنند؟</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>آیا این سایت حذف شده است؟</value>
+  </data>
+  <data name="Logo.HelpText" xml:space="preserve">
+    <value>یک لوگو برای این سایت آپلود کنید</value>
+  </data>
+  <data name="FavoriteIcon.HelpText" xml:space="preserve">
+    <value>Favicon خود را انتخاب کنید</value>
+  </data>
+  <data name="DefaultTheme.HelpText" xml:space="preserve">
+    <value>تم پیش فرض سایت ها را انتخاب کنید</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>ظرف پیش فرض سایت را انتخاب کنید</value>
+  </data>
+  <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
+    <value>کانتینر پیشفرض مدیریتی را برای سایت انتخاب کنید</value>
+  </data>
+  <data name="Host.HelpText" xml:space="preserve">
+    <value>نام میزبان سرور SMTP را وارد کنید</value>
+  </data>
+  <data name="Port.HelpText" xml:space="preserve">
+    <value>شماره پورت سرور SMTP را وارد کنید. لطفاً توجه داشته باشید که در صورت ارائه نام میزبان، این فیلد ضروری است.</value>
+  </data>
+  <data name="UseSsl.HelpText" xml:space="preserve">
+    <value>مشخص کنید که آیا SSL برای سرور SMTP شما مورد نیاز است یا خیر</value>
+  </data>
+  <data name="SmptUsername.HelpText" xml:space="preserve">
+    <value>نام کاربری حساب SMTP خود را وارد کنید</value>
+  </data>
+  <data name="SmtpPassword.HelpText" xml:space="preserve">
+    <value>رمز عبور حساب SMTP خود را وارد کنید</value>
+  </data>
+  <data name="SmptSender.HelpText" xml:space="preserve">
+    <value>ایمیلی که ایمیل ها از آن ارسال می شوند را وارد کنید. لطفاً توجه داشته باشید که این آدرس ایمیل ممکن است نیاز به مجوز با سرور SMTP داشته باشد.</value>
+  </data>
+  <data name="EnablePWA.HelpText" xml:space="preserve">
+    <value>انتخاب کنید که آیا مایلید این سایت به عنوان یک برنامه وب پیشرو (PWA) در دسترس باشد یا خیر.</value>
+  </data>
+  <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
+    <value>یک آیکون برنامه برای PWA خود اضافه کنید. این باید یک PNG با ابعاد 192 در 192 پیکسل باشد.</value>
+  </data>
+  <data name="PwaSplashIcon.HelpText" xml:space="preserve">
+    <value>یک splash icon برای PWA خود اضافه کنید. باید یک PNG با ابعاد 512 در 512 پیکسل باشد.</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Tenant: </value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>Aliases: </value>
+  </data>
+  <data name="AllowRegistration.Text" xml:space="preserve">
+    <value>ثبت نام کاربر مجاز است؟ </value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>حذف شده است؟ </value>
+  </data>
+  <data name="Logo.Text" xml:space="preserve">
+    <value>لوگو: </value>
+  </data>
+  <data name="FavoriteIcon.Text" xml:space="preserve">
+    <value>Favicon: </value>
+  </data>
+  <data name="DefaultTheme.Text" xml:space="preserve">
+    <value>تم پیش فرض: </value>
+  </data>
+  <data name="DefaultAdminContainer.Text" xml:space="preserve">
+    <value>کانتینر مدیریت پیش فرض: </value>
+  </data>
+  <data name="Host.Text" xml:space="preserve">
+    <value>هاست: </value>
+  </data>
+  <data name="Port.Text" xml:space="preserve">
+    <value>پورت: </value>
+  </data>
+  <data name="UseSsl.Text" xml:space="preserve">
+    <value>SSL فعال است: </value>
+  </data>
+  <data name="SmptUsername.Text" xml:space="preserve">
+    <value>نام کاربری: </value>
+  </data>
+  <data name="SmtpPassword.Text" xml:space="preserve">
+    <value>رمز عبور: </value>
+  </data>
+  <data name="SmptSender.Text" xml:space="preserve">
+    <value>فرستنده ایمیل: </value>
+  </data>
+  <data name="EnablePWA.Text" xml:space="preserve">
+    <value>فعال شده است؟ </value>
+  </data>
+  <data name="PwaApplicationIcon.Text" xml:space="preserve">
+    <value>App Icon: </value>
+  </data>
+  <data name="PwaSplashIcon.Text" xml:space="preserve">
+    <value>Splash Icon: </value>
+  </data>
 </root>

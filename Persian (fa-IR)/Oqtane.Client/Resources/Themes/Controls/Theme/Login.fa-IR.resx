@@ -117,16 +117,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Cancel" xml:space="preserve">
-        <value>لغو</value>
+    <data name="Logout" xml:space="preserve">
+        <value>خروج</value>
     </data>
-    <data name="Send" xml:space="preserve">
-        <value>ارسال</value>
-    </data>
-    <data name="Reply" xml:space="preserve">
-        <value>پاسخ</value>
-    </data>
-    <data name="Original Message" xml:space="preserve">
-        <value>پیام اصلی</value>
+    <data name="Login" xml:space="preserve">
+        <value>ورود</value>
     </data>
 </root>
