@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,19 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Access Framework API" xml:space="preserve">
-    <value>فریم ورک API تک رسائی حاصل کریں</value>
+  <data name="Access.ApiFramework" xml:space="preserve">
+    <value>سویگر API تک رسائی حاصل کریں</value>
   </data>
   <data name="FrameworkVersion.HelpText" xml:space="preserve">
     <value>فریم ورک ورژن</value>
   </data>
-  <data name="BlazorRunime.HelpText" xml:space="preserve">
+  <data name="BlazorRuntime.HelpText" xml:space="preserve">
     <value>بلیزر رن ٹائم (سرور یا ویب اسمبلی)</value>
   </data>
-  <data name="ClrVerion.HelpText" xml:space="preserve">
+  <data name="CLRVersion.HelpText" xml:space="preserve">
     <value>کامن لینگویج رن ٹائم ورژن</value>
   </data>
-  <data name="OsVersion.HelpText" xml:space="preserve">
+  <data name="OSVersion.HelpText" xml:space="preserve">
     <value>آپریٹنگ سسٹم کا ورژن</value>
   </data>
   <data name="ServerPath.HelpText" xml:space="preserve">
@@ -141,13 +141,13 @@
   <data name="FrameworkVersion.Text" xml:space="preserve">
     <value>فریم ورک ورژن:</value>
   </data>
-  <data name="BlazorRunime.Text" xml:space="preserve">
+  <data name="BlazorRuntime.Text" xml:space="preserve">
     <value>بلیزر رن ٹائم:</value>
   </data>
-  <data name="ClrVerion.Text" xml:space="preserve">
+  <data name="CLRVersion.Text" xml:space="preserve">
     <value>سی ایل آر ورژن:</value>
   </data>
-  <data name="OsVersion.Text" xml:space="preserve">
+  <data name="OSVersion.Text" xml:space="preserve">
     <value>OS ورژن:</value>
   </data>
   <data name="ServerPath.Text" xml:space="preserve">
@@ -161,5 +161,86 @@
   </data>
   <data name="RestartApplication.Message" xml:space="preserve">
     <value>کیا آپ واقعی میں ایپ کو دوبارہ شروع کرنا چاہتے ہیں؟</value>
+  </data>
+  <data name="Error.UpdateConfig" xml:space="preserve">
+    <value>کنفیگریشن کو اپ ڈیٹ کرنے میں ایک خرابی پیش آ گئی</value>
+  </data>
+  <data name="Server" xml:space="preserve">
+    <value>سرور</value>
+  </data>
+  <data name="ServerPrerendered" xml:space="preserve">
+    <value>پہلے سے پیش کردہ سرور</value>
+  </data>
+  <data name="Success.UpdateConfig.Restart" xml:space="preserve">
+    <value>کنفیگریشن اپ ڈیٹ ہو گئی۔ ان تبدیلیوں کو چالو کرنے کے لیے براہ کرم ری اسٹارٹ ایپلیکیشن کو منتخب کریں</value>
+  </data>
+  <data name="WebAssembly" xml:space="preserve">
+    <value>ویب اسمبلی</value>
+  </data>
+  <data name="InstallationId.Text" xml:space="preserve">
+    <value>تنصیب کی شناخت:</value>
+  </data>
+  <data name="InstallationId.HelpText" xml:space="preserve">
+    <value>آپ کی تنصیب کے لیے منفرد شناخت کنندہ</value>
+  </data>
+  <data name="DetailedErrors.Text" xml:space="preserve">
+    <value>تفصیلی غلطیاں؟</value>
+  </data>
+  <data name="DetailedErrors.HelpText" xml:space="preserve">
+    <value>واضح کریں کہ آیا بلیزر کے لیے تفصیلی خامیاں فعال ہیں۔ یہ اختیار پیداوار میں فعال نہیں ہونا چاہیے</value>
+  </data>
+  <data name="True" xml:space="preserve">
+    <value>سچ ہے۔</value>
+  </data>
+  <data name="False" xml:space="preserve">
+    <value>غلط</value>
+  </data>
+  <data name="LoggingLevel.Text" xml:space="preserve">
+    <value>لاگنگ کی سطح:</value>
+  </data>
+  <data name="LoggingLevel.HelpText" xml:space="preserve">
+    <value>ایونٹ لاگ کے لیے کم از کم لاگنگ کی سطح۔ یہ آپشن آپ کے ایونٹ لاگ میں ذخیرہ شدہ آئٹمز کے حجم کو کنٹرول کرنے کے لیے استعمال کیا جا سکتا ہے۔</value>
+  </data>
+  <data name="Trace" xml:space="preserve">
+    <value>ٹریس</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>ڈیبگ</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>معلومات</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>وارننگ</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>خرابی</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>نازک صورتحال</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>معلومات</value>
+  </data>
+  <data name="Options" xml:space="preserve">
+    <value>اختیارات</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>براہ کرم مجھے اہم پروڈکٹ اپ ڈیٹس اور سیکیورٹی بلیٹنز کے لیے رجسٹر کریں</value>
+  </data>
+  <data name="Success.Register" xml:space="preserve">
+    <value>اپ ڈیٹس کے لیے آپ کامیابی کے ساتھ رجسٹر ہو چکے ہیں</value>
+  </data>
+  <data name="PackageService.HelpText" xml:space="preserve">
+    <value>وضاحت کریں کہ آیا پیکیج سروس ماڈیولز، تھیمز اور ترجمے کو انسٹال کرنے کے لیے فعال ہے</value>
+  </data>
+  <data name="PackageService.Text" xml:space="preserve">
+    <value>پیکیج سروس فعال ہے؟</value>
+  </data>
+  <data name="Swagger.HelpText" xml:space="preserve">
+    <value>وضاحت کریں کہ آیا آپ کے سرور API کے لیے سویگر فعال ہے </value>
+  </data>
+  <data name="Swagger.Text" xml:space="preserve">
+    <value>سویگر فعال ہے؟</value>
   </data>
 </root>

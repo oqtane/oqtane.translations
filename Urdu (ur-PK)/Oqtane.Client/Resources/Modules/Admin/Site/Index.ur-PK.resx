@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,22 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>جی ہاں</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>نہیں</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>نام:</value>
   </data>
-  <data name="Select Container" xml:space="preserve">
+  <data name="Container.Select" xml:space="preserve">
     <value>کنٹینر منتخب کریں</value>
   </data>
-  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+  <data name="Error.Theme.LoadPane" xml:space="preserve">
     <value>تھیم کیلئے پین لے آؤٹ لوڈ کرنے میں خرابی</value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
@@ -141,37 +132,34 @@
   <data name="Appearance.Name" xml:space="preserve">
     <value>ظاہری شکل</value>
   </data>
-  <data name="Select Theme" xml:space="preserve">
-    <value>تھیم منتخب کریں</value>
-  </data>
-  <data name="Default Admin Container" xml:space="preserve">
+  <data name="DefaultAdminContainer" xml:space="preserve">
     <value>ڈیفالٹ ایڈمن کنٹینر</value>
   </data>
-  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs" xml:space="preserve">
-    <value>براہ کرم نوٹ کریں کہ ایس ایم ٹی پی کو شیڈول ملازمتوں میں نوٹیفیکیشن جاب کو قابل بنائے جانے کی ضرورت ہے</value>
+  <data name="Smtp.Required.EnableNotificationJob" xml:space="preserve">
+    <value>**براہ کرم نوٹ کریں کہ ایس ایم ٹی پی کو شیڈول ملازمتوں میں نوٹیفیکیشن جاب کو قابل بنائے جانے کی ضرورت ہے</value>
   </data>
-  <data name="Test SMTP Configuration" xml:space="preserve">
+  <data name="Smtp.TestConfig" xml:space="preserve">
     <value>ٹیسٹ ایس ایم ٹی پی کنفیگریشن</value>
   </data>
-  <data name="Site Settings Saved" xml:space="preserve">
+  <data name="Success.Settings.SaveSite" xml:space="preserve">
     <value>سائٹ کی ترتیبات محفوظ ہوگئیں</value>
   </data>
-  <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
+  <data name="Message.Aliases.Taken" xml:space="preserve">
     <value>ایک عرف کا نام پہلے سے ہی کسی دوسری سائٹ کے لئے استعمال ہوچکا ہے</value>
   </data>
-  <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
+  <data name="Message.Required.SiteName" xml:space="preserve">
     <value>آپ کو سائٹ کا نام ، عرف ، اور ڈیفالٹ تھیم / کنٹینر فراہم کرنا ہوگا</value>
   </data>
-  <data name="Error Saving Site" xml:space="preserve">
+  <data name="Error.SaveSite" xml:space="preserve">
     <value>سائٹ کو محفوظ کرنے میں خرابی</value>
   </data>
-  <data name="SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details." xml:space="preserve">
+  <data name="Info.Smtp.SaveSettings" xml:space="preserve">
     <value>ایس ایم ٹی پی کی ترتیبات محفوظ ہوگئی اور آپ کے صارف اکاؤنٹ سے وابستہ ای میل ایڈریس پر پیغام بھیجا گیا ہے ... براہ کرم فراہمی کے لئے کچھ منٹ انتظار کریں۔ اگر آپ کو ای میل موصول نہیں ہوتا ہے تو براہ کرم کسی بھی لاگ کی تفصیلات کے لئے شیڈول ملازمتوں میں اطلاعاتی نوکری کا جائزہ لیں۔</value>
   </data>
-  <data name="Error Testing SMTP Configuration" xml:space="preserve">
+  <data name="Error.Smtp.TestConfig" xml:space="preserve">
     <value>ایس ایم ٹی پی کی تشکیل کی جانچ میں غلطی</value>
   </data>
-  <data name="You Must Specify The SMTP Host, Port, And Sender" xml:space="preserve">
+  <data name="Message.Required.Smtp" xml:space="preserve">
     <value>آپ کو ایس ایم ٹی پی میزبان ، پورٹ ، اور مرسل کی وضاحت کرنا ہوگی</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
@@ -281,5 +269,17 @@
   </data>
   <data name="PwaSplashIcon.Text" xml:space="preserve">
     <value>سپلیش آئیکن:</value>
+  </data>
+  <data name="Confirm.DeleteSite" xml:space="preserve">
+    <value>کیا آپ کو یقین ہے کہ آپ اس سائٹ کو حذف کرنا چاہتے ہیں؟</value>
+  </data>
+  <data name="Error.DeleteSite" xml:space="preserve">
+    <value>سائٹ کو حذف کرنے میں خرابی</value>
+  </data>
+  <data name="Message.FailAuth.DeleteSite" xml:space="preserve">
+    <value>آپ سائٹ کو حذف کرنے کے مجاز نہیں ہیں</value>
+  </data>
+  <data name="Theme.Select" xml:space="preserve">
+    <value>تھیم منتخب کریں</value>
   </data>
 </root>

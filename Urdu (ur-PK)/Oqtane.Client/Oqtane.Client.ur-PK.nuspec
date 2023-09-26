@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Oqtane.Client.ur-PK</id>
-    <version>2.2.0</version>
+    <version>2.3.1</version>
     <authors>Ijaz Saeed</authors>
     <owners>.NET Foundation</owners>
     <title>Oqtane Framework ur-PK Translation</title>
@@ -16,7 +16,7 @@
     <releaseNotes></releaseNotes>
     <summary></summary>
     <dependencies>
-      <dependency id="Oqtane.Framework" version="2.2.0" />
+      <dependency id="Oqtane.Framework" version="2.3.1" />
     </dependencies>
   </metadata>
   <files>

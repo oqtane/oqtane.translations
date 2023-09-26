@@ -120,16 +120,16 @@
   <data name="Tenant.Text" xml:space="preserve">
     <value>کرایہ دار:</value>
   </data>
-  <data name="Select Tenant" xml:space="preserve">
+  <data name="Tenant.Select" xml:space="preserve">
     <value>کرایہ دار منتخب کریں</value>
   </data>
   <data name="Execute" xml:space="preserve">
     <value>انجام دیں</value>
   </data>
-  <data name="You Must Select A Tenant And Provide A SQL Query" xml:space="preserve">
+  <data name="Message.Required.Tenant" xml:space="preserve">
     <value>آپ کو کرایہ دار منتخب کرنا ہوگا اور ایس کیو ایل کمانڈ فراہم کرنا ہوگا</value>
   </data>
-  <data name="No Results Returned" xml:space="preserve">
+  <data name="Return.NoResult" xml:space="preserve">
     <value>کوئی نتیجہ نہیں</value>
   </data>
   <data name="Tenant.HelpText" xml:space="preserve">
@@ -140,5 +140,8 @@
   </data>
   <data name="SqlQuery.Text" xml:space="preserve">
     <value>ایس کیو ایل کمانڈ:</value>
+  </data>
+  <data name="Success.QueryExecuted" xml:space="preserve">
+    <value>ایس کیو ایل کمانڈ پر عمل درآمد ہوا</value>
   </data>
 </root>

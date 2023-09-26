@@ -117,18 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>جی ہاں</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>نہیں</value>
-  </data>
   <data name="Page.Text" xml:space="preserve">
     <value>صفحہ:</value>
   </data>
@@ -155,5 +143,8 @@
   </data>
   <data name="Settings.Heading" xml:space="preserve">
     <value>ترتیبات</value>
+  </data>
+  <data name="Message.Required.Title" xml:space="preserve">
+    <value>آپ کو ماڈیول کے لیے ایک عنوان فراہم کرنا چاہیے</value>
   </data>
 </root>

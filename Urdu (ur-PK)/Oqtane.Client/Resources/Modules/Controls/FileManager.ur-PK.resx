@@ -117,34 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Select Folder" xml:space="preserve">
+  <data name="Folder.Select" xml:space="preserve">
     <value>فولڈر منتخب کریں</value>
   </data>
-  <data name="Select File" xml:space="preserve">
+  <data name="File.Select" xml:space="preserve">
     <value>فائل منتخب کریں</value>
   </data>
-  <data name="Upload" xml:space="preserve">
-    <value>اپ لوڈ کریں</value>
-  </data>
-  <data name="Delete" xml:space="preserve">
-    <value>حذف کریں</value>
-  </data>
-  <data name="Error Loading Files" xml:space="preserve">
+  <data name="Error.File.Load" xml:space="preserve">
     <value>فائلیں لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="File Upload Succeeded" xml:space="preserve">
+  <data name="Success.File.Upload" xml:space="preserve">
     <value>فائل اپ لوڈ کامیاب ہوگئی</value>
   </data>
-  <data name="File Upload Failed" xml:space="preserve">
+  <data name="Error.File.Upload" xml:space="preserve">
     <value>فائل اپ لوڈ ناکام</value>
   </data>
-  <data name="You Have Not Selected A File To Upload" xml:space="preserve">
+  <data name="Message.File.NotSelected" xml:space="preserve">
     <value>اپ لوڈ کرنے کے لئے آپ نے کوئی فائل منتخب نہیں کی ہے</value>
   </data>
-  <data name="File Deleted" xml:space="preserve">
+  <data name="Success.File.Delete" xml:space="preserve">
     <value>فائل حذف ہوگئی</value>
   </data>
-  <data name="Error Deleting File" xml:space="preserve">
+  <data name="Error.File.Delete" xml:space="preserve">
     <value>فائل کو حذف کرنے میں خرابی</value>
   </data>
 </root>

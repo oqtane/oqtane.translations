@@ -117,52 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>صارف نام:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>پاس ورڈ:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>ای میل:</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>جی ہاں</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>نہیں</value>
-  </data>
-  <data name="Confirm Password:" xml:space="preserve">
-    <value>پاس ورڈ کی تصدیق کریں:</value>
-  </data>
-  <data name="Full Name:" xml:space="preserve">
-    <value>پورا نام:</value>
-  </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+  <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>داخل کردہ پاس ورڈ میچ نہیں کرتے ہیں</value>
-  </data>
-  <data name="Photo:" xml:space="preserve">
-    <value>تصویر:</value>
   </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>شناخت</value>
   </data>
-  <data name="Is Deleted?" xml:space="preserve">
+  <data name="Confirm.Delete" xml:space="preserve">
     <value>کیا حذف ہوگیا ہے؟</value>
   </data>
-  <data name="Error Loading User" xml:space="preserve">
+  <data name="Error.User.Load" xml:space="preserve">
     <value>صارف کو لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="You Must Provide A Username, Password, Email Address, And All Required Profile Information" xml:space="preserve">
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
     <value>آپ کو صارف نام ، پاس ورڈ ، ای میل ایڈریس ، اور پروفائل کی تمام مطلوبہ معلومات فراہم کرنا ضروری ہے</value>
   </data>
-  <data name="Error Saving User" xml:space="preserve">
+  <data name="Error.User.Save" xml:space="preserve">
     <value>صارف کو محفوظ کرنے میں خامی</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>براہ کرم اس بات کی تصدیق کرنے کے لیے پاس ورڈ دوبارہ درج کریں کہ یہ اوپر دی گئی قدر سے مماثل ہے۔</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>پاس ورڈ کی تصدیق کریں:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>صارف کا پورا نام</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>پورا نام:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>ای میل پتہ جہاں صارف کو اطلاعات موصول ہوں گی۔</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>ای میل:</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>اشارہ کریں کہ آیا صارف فعال ہے۔</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>حذف کر دیا؟</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>صارف کا پاس ورڈ۔ براہ کرم ایک پاس ورڈ منتخب کریں جو کافی حد تک محفوظ ہو۔</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>پاس ورڈ:</value>
+  </data>
+  <data name="Photo.HelpText" xml:space="preserve">
+    <value>صارف کی تصویر</value>
+  </data>
+  <data name="Photo.Text" xml:space="preserve">
+    <value>تصویر:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>صارف کے لیے منفرد صارف نام۔ نوٹ کریں کہ اس فیلڈ میں ترمیم نہیں کی جا سکتی ہے۔</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>صارف نام:</value>
   </data>
 </root>

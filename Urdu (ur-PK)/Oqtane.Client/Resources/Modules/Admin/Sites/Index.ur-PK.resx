@@ -117,16 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>نام</value>
-  </data>
-  <data name="Are You Sure You Wish To Delete The {0} Site?" xml:space="preserve">
+  <data name="Confirm.DeleteSite" xml:space="preserve">
     <value>کیا آپ واقعی {0} سائٹ کو حذف کرنا چاہتے ہیں؟</value>
   </data>
-  <data name="You Can Not Delete The Current Site" xml:space="preserve">
+  <data name="Error.FailAuth.DeleteSite" xml:space="preserve">
     <value>آپ موجودہ سائٹ کو حذف نہیں کرسکتے ہیں</value>
   </data>
-  <data name="Error Deleting Site" xml:space="preserve">
+  <data name="Error.DeleteSite" xml:space="preserve">
     <value>سائٹ کو حذف کرنے میں خرابی</value>
   </data>
   <data name="AddSite.Text" xml:space="preserve">
@@ -134,5 +131,8 @@
   </data>
   <data name="DeleteSite.Header" xml:space="preserve">
     <value>سائٹ کو حذف کریں</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>براؤز کریں</value>
   </data>
 </root>

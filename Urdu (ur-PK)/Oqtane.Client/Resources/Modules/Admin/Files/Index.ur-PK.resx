@@ -117,40 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Error Loading Files" xml:space="preserve">
+  <data name="Error.File.Load" xml:space="preserve">
     <value>فائلیں لوڈ کرنے میں خرابی</value>
   </data>
   <data name="UploadFiles.Heading" xml:space="preserve">
     <value>فائلیں اپ لوڈ کرو</value>
   </data>
-  <data name="Folder:" xml:space="preserve">
-    <value>فولڈر:</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>نام</value>
-  </data>
-  <data name="Modified" xml:space="preserve">
-    <value>ترمیم شدہ</value>
-  </data>
-  <data name="Type" xml:space="preserve">
-    <value>قسم</value>
-  </data>
-  <data name="Size" xml:space="preserve">
-    <value>سائز</value>
-  </data>
-  <data name="Are You Sure You Wish To Delete {0}?" xml:space="preserve">
+  <data name="Confirm.File.Delete" xml:space="preserve">
     <value>کیا آپ واقعی {0} کو حذف کرنا چاہتے ہیں؟</value>
   </data>
-  <data name="File" xml:space="preserve">
-    <value>فائل</value>
-  </data>
-  <data name="No Files Exist In Selected Folder" xml:space="preserve">
+  <data name="NoFiles" xml:space="preserve">
     <value>منتخب کردہ فولڈر میں کوئی فائلیں موجود نہیں ہیں</value>
   </data>
-  <data name="File {0} Deleted" xml:space="preserve">
+  <data name="Success.File.Delete" xml:space="preserve">
     <value>فائل {0} حذف ہوگئی</value>
   </data>
-  <data name="Error Deleting File {0}" xml:space="preserve">
+  <data name="Error.File.Delete" xml:space="preserve">
     <value>فائل کو حذف کرنے میں غلطی {0}</value>
   </data>
   <data name="EditFolder.Text" xml:space="preserve">
@@ -164,5 +146,17 @@
   </data>
   <data name="DeleteFile.Header" xml:space="preserve">
     <value>فائل کو ڈیلیٹ کریں</value>
+  </data>
+  <data name="Folder" xml:space="preserve">
+    <value>فولڈر</value>
+  </data>
+  <data name="Modified" xml:space="preserve">
+    <value>ترمیم شدہ</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>سائز</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>قسم</value>
   </data>
 </root>

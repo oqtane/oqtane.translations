@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,18 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>جی ہاں</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>نہیں</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>نام:</value>
   </data>
@@ -144,13 +132,13 @@
   <data name="Month(s)" xml:space="preserve">
     <value>مہینے</value>
   </data>
-  <data name="Error Loading Job" xml:space="preserve">
+  <data name="Error.Job.Load" xml:space="preserve">
     <value>کام کو لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="Error Updating Job" xml:space="preserve">
+  <data name="Error.Job.Update" xml:space="preserve">
     <value>نوکری اپ ڈیٹ کرنے میں خرابی</value>
   </data>
-  <data name="You Must Provide The Job Name, Type, Frequency, and Retention" xml:space="preserve">
+  <data name="Message.Required.JobInfo" xml:space="preserve">
     <value>آپ کو لازمی طور پر کام کا نام ، قسم ، تعدد اور برقراری فراہم کرنا ہوگی</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
@@ -166,16 +154,16 @@
     <value>منتخب کریں کہ آپ کتنی بار کام چلانا چاہتے ہیں</value>
   </data>
   <data name="Starting.HelpText" xml:space="preserve">
-    <value>آپ کس وقت کام شروع کرنا چاہتے ہیں؟</value>
+    <value>اختیاری طور پر وہ تاریخ اور وقت درج کریں جب یہ کام شروع ہونا چاہیے۔</value>
   </data>
   <data name="Ending.HelpText" xml:space="preserve">
-    <value>آپ کب چاہتے ہیں کہ کام ختم ہوجائے؟</value>
+    <value>اختیاری طور پر وہ تاریخ اور وقت درج کریں جب یہ کام انجام دینا بند کر دے۔</value>
   </data>
   <data name="RetentionLog.HelpText" xml:space="preserve">
     <value>اس کام کو برقرار رکھنے کے لئے لاگ انٹریوں کی تعداد</value>
   </data>
   <data name="NextExecution.HelpText" xml:space="preserve">
-    <value>اس نوکری کے لئے اگلی بار</value>
+    <value>اختیاری طور پر اس تاریخ اور وقت میں ترمیم کریں جب اس کام کو اگلا انجام دیا جائے۔</value>
   </data>
   <data name="Type.Text" xml:space="preserve">
     <value>قسم:</value>

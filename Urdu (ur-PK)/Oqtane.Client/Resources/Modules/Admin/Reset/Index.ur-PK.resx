@@ -117,31 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>صارف نام:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>پاس ورڈ:</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Confirm Password:" xml:space="preserve">
+  <data name="Password.Confirm" xml:space="preserve">
     <value>پاس ورڈ کی تصدیق کریں:</value>
   </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+  <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>داخل کردہ پاس ورڈ میچ نہیں کرتے ہیں</value>
   </data>
-  <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
+  <data name="Message.Required.UserInfo" xml:space="preserve">
     <value>آپ کو صارف نام ، پاس ورڈ ، اور ای میل ایڈریس فراہم کرنا ہوگا</value>
   </data>
-  <data name="Reset Password" xml:space="preserve">
+  <data name="Password.Reset" xml:space="preserve">
     <value>پاس ورڈ ری سیٹ</value>
   </data>
-  <data name="Error Resetting User Password. Please Ensure Password Meets Complexity Requirements." xml:space="preserve">
+  <data name="Error.Password.ResetInfo" xml:space="preserve">
     <value>صارف کا پاس ورڈ دوبارہ ترتیب دینے میں خامی۔ براہ کرم یقینی بنائیں کہ پاس ورڈ پیچیدگی کی ضروریات کو پورا کرتا ہے۔</value>
   </data>
-  <data name="Error Resetting User Password" xml:space="preserve">
+  <data name="Error.Password.Reset" xml:space="preserve">
     <value>صارف کا پاس ورڈ دوبارہ ترتیب دینے میں خامی</value>
   </data>
 </root>

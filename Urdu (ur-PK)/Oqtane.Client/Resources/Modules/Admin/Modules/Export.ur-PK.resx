@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
   <data name="Export" xml:space="preserve">
     <value>برآمد کریں</value>
   </data>
@@ -128,5 +125,11 @@
   </data>
   <data name="Content.Text" xml:space="preserve">
     <value>مواد:</value>
+  </data>
+  <data name="Error.Module.Export" xml:space="preserve">
+    <value>ماڈیول مواد برآمد کرنے میں خرابی</value>
+  </data>
+  <data name="Success.Content.Export" xml:space="preserve">
+    <value>مواد کامیابی کے ساتھ برآمد ہوا</value>
   </data>
 </root>

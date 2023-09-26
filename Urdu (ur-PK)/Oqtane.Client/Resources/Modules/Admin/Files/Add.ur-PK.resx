@@ -129,19 +129,19 @@
   <data name="Download" xml:space="preserve">
     <value>ڈاؤن لوڈ کریں</value>
   </data>
-  <data name="You Must Enter A Url And Select A Folder" xml:space="preserve">
+  <data name="Message.Required.UrlFolder" xml:space="preserve">
     <value>آپ کو ایک ارل درج کرنا ہوگا اور فولڈر منتخب کرنا ہوگا</value>
   </data>
-  <data name="File Could Not Be Downloaded From Url Due To Its File Extension" xml:space="preserve">
+  <data name="Message.Download.InvalidExtension" xml:space="preserve">
     <value>فائل کو یو آر ایل سے ڈاؤن لوڈ نہیں کیا جاسکا</value>
   </data>
-  <data name="You Must Enter A Url With A Valid File Name" xml:space="preserve">
+  <data name="Message.Required.UrlName" xml:space="preserve">
     <value>آپ کو ایک درست فائل نام کے ساتھ ایک ارل درج کرنا ہوگا</value>
   </data>
-  <data name="File Downloaded Successfully From Url" xml:space="preserve">
+  <data name="Success.Download.File" xml:space="preserve">
     <value>فائل کو یو آر ایل سے کامیابی کے ساتھ ڈاؤن لوڈ کیا گیا</value>
   </data>
-  <data name="Error Downloading File From Url. Please Verify That The Url Is Valid." xml:space="preserve">
+  <data name="Error.Download.InvalidUrl" xml:space="preserve">
     <value>یو آر ایل سے فائل ڈاؤن لوڈ کرنے میں خامی۔ براہ کرم تصدیق کریں کہ ارل درست ہے۔</value>
   </data>
   <data name="Upload.HelpText" xml:space="preserve">
@@ -164,5 +164,11 @@
   </data>
   <data name="UploadFiles.Heading" xml:space="preserve">
     <value>فائلیں اپ لوڈ کرو</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>ڈاؤن لوڈ ہونے والی فائل کا نام درج کریں</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>نام:</value>
   </data>
 </root>

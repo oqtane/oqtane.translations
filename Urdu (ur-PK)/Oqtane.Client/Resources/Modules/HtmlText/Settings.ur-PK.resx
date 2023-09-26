@@ -117,16 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Yes" xml:space="preserve">
-    <value>جی ہاں</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>نہیں</value>
-  </data>
-  <data name="Allow File Management.HelpText" xml:space="preserve">
+  <data name="AllowFileManagement.HelpText" xml:space="preserve">
     <value>اگر ایڈیٹرز ، فائلیں اپ لوڈ اور منتخب کرسکتے ہیں تو اس کی وضاحت کریں</value>
   </data>
-  <data name="Allow File Management.Text" xml:space="preserve">
+  <data name="AllowFileManagement.Text" xml:space="preserve">
     <value>فائل مینجمنٹ کی اجازت دیں:</value>
   </data>
 </root>

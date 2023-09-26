@@ -117,46 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete" xml:space="preserve">
-    <value>حذف کریں</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>لوڈ ہو رہا ہے…</value>
-  </data>
   <data name="User.Text" xml:space="preserve">
     <value>صارف:</value>
   </data>
-  <data name="Select User" xml:space="preserve">
+  <data name="User.Select" xml:space="preserve">
     <value>صارف منتخب کریں</value>
   </data>
   <data name="Users" xml:space="preserve">
     <value>صارفین</value>
   </data>
-  <data name="Error Loading Users" xml:space="preserve">
+  <data name="Error.User.Load" xml:space="preserve">
     <value>صارفین کو لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="Error Loading User Roles" xml:space="preserve">
+  <data name="Error.User.LoadRole" xml:space="preserve">
     <value>صارف کے کردار کو لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="User Assigned To Role" xml:space="preserve">
+  <data name="Success.User.AssignedRole" xml:space="preserve">
     <value>صارف کو کردار کے لئے تفویض کیا گیا</value>
   </data>
-  <data name="You Must Select A User" xml:space="preserve">
+  <data name="Message.Required.UserSelect" xml:space="preserve">
     <value>آپ کو ایک صارف منتخب کرنا چاہئے</value>
   </data>
-  <data name="Error Saving User Roles" xml:space="preserve">
+  <data name="Error.User.SaveRole" xml:space="preserve">
     <value>صارف کے کرداروں کو محفوظ کرنے میں خامی</value>
   </data>
-  <data name="User Removed From Role" xml:space="preserve">
+  <data name="Confirm.User.RoleRemoved" xml:space="preserve">
     <value>صارف کو کردار سے ہٹا دیا گیا</value>
   </data>
-  <data name="Error Removing User From Role" xml:space="preserve">
+  <data name="Error.User.RemoveRole" xml:space="preserve">
     <value>صارف کو کردار سے ہٹانے میں خرابی</value>
   </data>
   <data name="Role.HelpText" xml:space="preserve">
@@ -179,5 +167,14 @@
   </data>
   <data name="ExpiryDate.Text" xml:space="preserve">
     <value>خاتمے کی تاریخ:</value>
+  </data>
+  <data name="Confirm.User.DeleteRole" xml:space="preserve">
+    <value>کیا آپ واقعی {0} کو اس کردار سے ہٹانا چاہتے ہیں؟</value>
+  </data>
+  <data name="Effective" xml:space="preserve">
+    <value>موثر</value>
+  </data>
+  <data name="Expiry" xml:space="preserve">
+    <value>ختم</value>
   </data>
 </root>

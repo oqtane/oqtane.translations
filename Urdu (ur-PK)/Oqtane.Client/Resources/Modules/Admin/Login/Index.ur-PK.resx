@@ -117,34 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>صارف نام:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>پاس ورڈ:</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Remember Me?" xml:space="preserve">
+  <data name="RememberMe" xml:space="preserve">
     <value>مجھے اسٹور کرو؟</value>
   </data>
-  <data name="Login" xml:space="preserve">
-    <value>لاگ ان کریں</value>
-  </data>
-  <data name="Forgot Password" xml:space="preserve">
+  <data name="ForgotPassword" xml:space="preserve">
     <value>پاسورڈ بھول گے</value>
   </data>
-  <data name="User Account Verified Successfully. You Can Now Login With Your Username And Password Below." xml:space="preserve">
+  <data name="Success.Account.Verified" xml:space="preserve">
     <value>صارف کا اکاؤنٹ کامیابی کے ساتھ تصدیق شدہ۔ اب آپ ذیل میں اپنے صارف نام اور پاس ورڈ کے ساتھ لاگ ان کرسکتے ہیں۔</value>
   </data>
-  <data name="User Account Could Not Be Verified. Please Contact Your Administrator For Further Instructions." xml:space="preserve">
+  <data name="Message.Account.NotVerfied" xml:space="preserve">
     <value>صارف کے اکاؤنٹ کی توثیق نہیں ہوسکی ، مزید ہدایات کے لئے براہ کرم اپنے ایڈمنسٹریٹر سے رابطہ کریں۔</value>
   </data>
-  <data name="Login Failed. Please Remember That Passwords Are Case Sensitive And User Accounts Require Verification When They Are Initially Created So You May Wish To Check Your Email." xml:space="preserve">
+  <data name="Error.Login.Fail" xml:space="preserve">
     <value>لاگ ان ناکام رہے. براہ کرم یاد رکھیں کہ پاس ورڈ کیس حساس ہیں ، اور صارف کے اکاؤنٹس کی توثیق کی ضرورت ہوتی ہے ، جب وہ ابتدائی طور پر تخلیق کیے جاتے ہیں ، لہذا آپ کو اپنا ای میل چیک کرنا چاہئے۔</value>
   </data>
-  <data name="Please Provide Your Username And Password" xml:space="preserve">
+  <data name="Message.Required.UserInfo" xml:space="preserve">
     <value>برائے کرم اپنا صارف نام اور پاس ورڈ فراہم کریں</value>
+  </data>
+  <data name="Info.SignedIn" xml:space="preserve">
+    <value>آپ پہلے ہی سائن ان ہیں</value>
   </data>
 </root>

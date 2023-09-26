@@ -117,32 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>صارف نام:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>پاس ورڈ:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>ای میل:</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Confirm Password:" xml:space="preserve">
-    <value>پاس ورڈ کی تصدیق کریں:</value>
-  </data>
-  <data name="Full Name:" xml:space="preserve">
-    <value>پورا نام:</value>
-  </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+  <data name="Message.Password.Invalid" xml:space="preserve">
     <value>داخل کردہ پاس ورڈ میچ نہیں کرتے ہیں</value>
-  </data>
-  <data name="Photo:" xml:space="preserve">
-    <value>تصویر:</value>
   </data>
   <data name="From" xml:space="preserve">
     <value>سے</value>
@@ -162,22 +138,22 @@
   <data name="Inbox" xml:space="preserve">
     <value>ان باکس</value>
   </data>
-  <data name="Sent Items" xml:space="preserve">
+  <data name="Items.Sent" xml:space="preserve">
     <value>بھیجا اشیاء</value>
   </data>
-  <data name="Current User Is Not Logged In" xml:space="preserve">
+  <data name="Message.User.NoLogIn" xml:space="preserve">
     <value>موجودہ صارف لاگ ان نہیں ہے</value>
   </data>
-  <data name="Error Loading User Profile" xml:space="preserve">
+  <data name="Error.Profile.Load" xml:space="preserve">
     <value>صارف کا پروفائل لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="User Profile Updated Successfully" xml:space="preserve">
+  <data name="Success.Profile.Update" xml:space="preserve">
     <value>صارف کا پروفائل کامیابی کے ساتھ اپ ڈیٹ ہوا</value>
   </data>
-  <data name="You Must Provide A Username and Email Address As Well As All Required Profile Information" xml:space="preserve">
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
     <value>آپ کو صارف نام اور ای میل ایڈریس کے ساتھ ساتھ پروفائل کی تمام مطلوبہ معلومات فراہم کرنا ضروری ہے</value>
   </data>
-  <data name="Error Saving User Profile" xml:space="preserve">
+  <data name="Error.Profile.Save" xml:space="preserve">
     <value>صارف کے پروفائل کو محفوظ کرنے میں خامی</value>
   </data>
   <data name="SendNotification.Text" xml:space="preserve">
@@ -191,5 +167,41 @@
   </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>شناخت</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>اگر آپ اپنا پاس ورڈ تبدیل کر رہے ہیں تو آپ کو یہ تصدیق کرنے کے لیے دوبارہ داخل کرنا چاہیے کہ یہ مماثل ہے</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>پاس ورڈ کی تصدیق کریں:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>پورا نام</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>پورا نام:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>آپ کا ای میل پتہ جہاں آپ اطلاعات موصول کرنا چاہتے ہیں</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>ای میل:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>اگر آپ اپنا پاس ورڈ تبدیل کرنا چاہتے ہیں تو آپ اسے یہاں درج کر سکتے ہیں۔ براہ کرم کافی محفوظ پاس ورڈ منتخب کریں۔</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>پاس ورڈ:</value>
+  </data>
+  <data name="Photo.HelpText" xml:space="preserve">
+    <value>اپنی ایک تصویر</value>
+  </data>
+  <data name="Photo.Text" xml:space="preserve">
+    <value>تصویر:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>آپ کا صارف نام، نوٹ کریں کہ اس فیلڈ میں ترمیم نہیں کی جا سکتی ہے۔</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>صارف نام:</value>
   </data>
 </root>

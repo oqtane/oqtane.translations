@@ -117,28 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>نام</value>
-  </data>
   <data name="DeleteModule.Header" xml:space="preserve">
     <value>ماڈیول کو حذف کریں</value>
   </data>
   <data name="DeletePage.Header" xml:space="preserve">
     <value>صفحہ حذف کریں</value>
   </data>
-  <data name="No Deleted Pages" xml:space="preserve">
+  <data name="NoPage.Deleted" xml:space="preserve">
     <value>حذف شدہ صفحات نہیں</value>
   </data>
-  <data name="Deleted By" xml:space="preserve">
+  <data name="DeletedBy" xml:space="preserve">
     <value>صارف کے ذریعہ مٹا دیا گیا</value>
   </data>
-  <data name="Deleted On" xml:space="preserve">
+  <data name="DeletedOn" xml:space="preserve">
     <value>تاریخ کو حذف کردیا گیا</value>
   </data>
-  <data name="Are You Sure You Wish To Permanently Delete The {0} Page?" xml:space="preserve">
+  <data name="Confirm.Page.Delete" xml:space="preserve">
     <value>کیا آپ واقعی {0} صفحہ کو مستقل طور پر حذف کرنا چاہتے ہیں؟</value>
   </data>
-  <data name="No Deleted Modules" xml:space="preserve">
+  <data name="NoModule.Deleted" xml:space="preserve">
     <value>کوئی حذف شدہ ماڈیول نہیں</value>
   </data>
   <data name="Page" xml:space="preserve">
@@ -150,22 +147,22 @@
   <data name="Restore" xml:space="preserve">
     <value>بحال کریں</value>
   </data>
-  <data name="Are You Sure You Wish To Permanently Delete The {0} Module?" xml:space="preserve">
+  <data name="Confirm.Module.Delete" xml:space="preserve">
     <value>کیا آپ واقعی {0} ماڈیول کو مستقل طور پر حذف کرنا چاہتے ہیں؟</value>
   </data>
-  <data name="Error Loading Deleted Pages Or Modules" xml:space="preserve">
+  <data name="Error.DeletedModulePage.Load" xml:space="preserve">
     <value>حذف شدہ صفحات یا ماڈیولز کو لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="Error Restoring Deleted Page" xml:space="preserve">
+  <data name="Error.Page.Restore" xml:space="preserve">
     <value>حذف شدہ صفحہ کی بحالی میں خامی</value>
   </data>
-  <data name="Error Restoring Deleted Module" xml:space="preserve">
+  <data name="Error.Module.Restore" xml:space="preserve">
     <value>حذف شدہ ماڈیول کی بحالی میں خرابی</value>
   </data>
-  <data name="Error Permanently Deleting Module" xml:space="preserve">
+  <data name="Error.Module.Delete" xml:space="preserve">
     <value>ماڈیول کو مستقل طور پر حذف کرنے میں خرابی</value>
   </data>
-  <data name="Error Permanently Deleting Modules" xml:space="preserve">
+  <data name="Error.Modules.Delete" xml:space="preserve">
     <value>ماڈیول مستقل طور پر حذف کرنے میں خرابی</value>
   </data>
   <data name="DeleteAllPages.Header" xml:space="preserve">

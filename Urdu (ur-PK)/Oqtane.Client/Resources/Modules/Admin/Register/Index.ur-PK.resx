@@ -117,49 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>صارف نام:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>پاس ورڈ:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>ای میل:</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="You Are Already Registered" xml:space="preserve">
+  <data name="Info.Registration.Exists" xml:space="preserve">
     <value>آپ پہلے ہی رجسٹرڈ ہیں</value>
   </data>
-  <data name="Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity" xml:space="preserve">
+  <data name="Info.Registration.InvalidEmail" xml:space="preserve">
     <value>براہ کرم نوٹ کریں کہ ، اپنی شناخت کی توثیق کرنے کے لئے ، اندراج کے عمل کے لئے ایک درست ای میل پتہ کی ضرورت ہے۔</value>
   </data>
-  <data name="Confirm Password:" xml:space="preserve">
+  <data name="Password.Confirm" xml:space="preserve">
     <value>پاس ورڈ کی تصدیق کریں:</value>
-  </data>
-  <data name="Full Name:" xml:space="preserve">
-    <value>پورا نام:</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>رجسٹر کریں</value>
   </data>
-  <data name="Registration is Disabled For This Site" xml:space="preserve">
+  <data name="Info.Registration.Disabled" xml:space="preserve">
     <value>اس سائٹ کے لئے اندراج غیر فعال ہے</value>
   </data>
-  <data name="User Account Created. Please Check Your Email For Verification Instructions." xml:space="preserve">
+  <data name="Info.User.AccountCreate" xml:space="preserve">
     <value>صارف اکاؤنٹ بنایا گیا۔ براہ کرم توثیقی ہدایات کے لئے اپنا ای میل چیک کریں۔</value>
   </data>
-  <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
+  <data name="Error.User.AddInfo" xml:space="preserve">
     <value>صارف کو شامل کرنے میں خرابی۔ براہ کرم یقینی بنائیں کہ پاس ورڈ پیچیدگی کی ضروریات کو پورا کرتا ہے اور صارف نام پہلے ہی استعمال میں نہیں ہے۔</value>
   </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+  <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>داخل کردہ پاس ورڈ میچ نہیں کرتے ہیں</value>
   </data>
-  <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
+  <data name="Message.Required.UserInfo" xml:space="preserve">
     <value>آپ کو صارف نام ، پاس ورڈ ، اور ای میل ایڈریس فراہم کرنا ہوگا</value>
   </data>
-  <data name="Error Adding User" xml:space="preserve">
+  <data name="Error.User.Add" xml:space="preserve">
     <value>صارف کو شامل کرنے میں خرابی</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>اپنا پاس ورڈ دوبارہ درج کریں اس بات کی تصدیق کرنے کے لیے کہ یہ اوپر درج کی گئی قدر سے میل کھاتا ہے</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>پاس ورڈ کی تصدیق کریں:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>پورا نام:</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>پورا نام:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>آپ کا ای میل پتہ جہاں آپ اطلاعات موصول کرنا چاہتے ہیں</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>ای میل:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>براہ کرم کافی محفوظ پاس ورڈ منتخب کریں اور اسے یہاں درج کریں</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>پاس ورڈ:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>اپنا اسم رکنیت. نوٹ کریں کہ اس فیلڈ کو محفوظ کرنے کے بعد اس میں ترمیم نہیں کی جا سکتی۔</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>صارف نام:</value>
   </data>
 </root>

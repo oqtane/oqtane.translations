@@ -153,10 +153,10 @@
   <data name="Pwd.HelpText" xml:space="preserve">
     <value>ڈیٹا بیس کے لئے استعمال کرنے کے لئے پاس ورڈ درج کریں</value>
   </data>
-  <data name="True" xml:space="preserve">
-    <value>درست</value>
+  <data name="Custom" xml:space="preserve">
+    <value>کسٹم</value>
   </data>
-  <data name="False" xml:space="preserve">
-    <value>نہیں</value>
+  <data name="Integrated" xml:space="preserve">
+    <value>انٹیگریٹ</value>
   </data>
 </root>

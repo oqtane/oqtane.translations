@@ -117,10 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Title.HelpText" xml:space="preserve">
-    <value>اگر صفحہ فوٹر ظاہر کیا جانا چاہئے تو ، کی وضاحت کریں</value>
+  <data name="Footer.HelpText" xml:space="preserve">
+    <value>وضاحت کریں کہ کیا فوٹر پین ہمیشہ صفحہ کے نیچے ایک مقررہ جگہ پر ظاہر ہونا چاہیے۔</value>
   </data>
-  <data name="Title.Text" xml:space="preserve">
-    <value>فوٹر دکھائیں؟</value>
+  <data name="Footer.Text" xml:space="preserve">
+    <value>فوٹر ڈسپلے کریں؟</value>
+  </data>
+  <data name="Login.HelpText" xml:space="preserve">
+    <value>اس بات کی وضاحت کریں کہ کیا لاگ ان کا اختیار ظاہر ہونا چاہیے، نوٹ کریں کہ یہ آپشن لاگ ان صفحہ کو براہ راست یو آر ایل کے ذریعے قابل رسائی ہونے سے نہیں روکتا ہے۔</value>
+  </data>
+  <data name="Login.Text" xml:space="preserve">
+    <value>لاگ ان دکھائیں؟</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>صفحہ</value>
+  </data>
+  <data name="Register.HelpText" xml:space="preserve">
+    <value>واضح کریں کہ آیا رجسٹر کا آپشن ظاہر ہونا چاہیے۔ نوٹ کریں کہ یہ آپشن سائٹ سیٹنگز میں رجسٹریشن کی اجازت دینے کے آپشن پر بھی منحصر ہے۔</value>
+  </data>
+  <data name="Register.Text" xml:space="preserve">
+    <value>رجسٹر دکھائیں؟</value>
+  </data>
+  <data name="Site" xml:space="preserve">
+    <value>سائٹ</value>
   </data>
 </root>

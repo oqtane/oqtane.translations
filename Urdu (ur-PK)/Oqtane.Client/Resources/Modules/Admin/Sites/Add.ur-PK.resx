@@ -117,40 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Local Database" xml:space="preserve">
+  <data name="LocalDatabase" xml:space="preserve">
     <value>مقامی ڈیٹا بیس</value>
   </data>
-  <data name="SQL Server" xml:space="preserve">
+  <data name="SqlServer" xml:space="preserve">
     <value>ایس کیو ایل سرور</value>
-  </data>
-  <data name="True" xml:space="preserve">
-    <value>سچا</value>
-  </data>
-  <data name="False" xml:space="preserve">
-    <value>نہیں</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>محفوظ کریں</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>منسوخ کریں</value>
-  </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>لوڈ ہو رہا ہے…</value>
   </data>
   <data name="Server.Text" xml:space="preserve">
     <value>سرور:</value>
   </data>
-  <data name="Select Container" xml:space="preserve">
+  <data name="Container.Select" xml:space="preserve">
     <value>کنٹینر منتخب کریں</value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>پہلے سے طے شدہ کنٹینر:</value>
   </data>
-  <data name="Select Theme" xml:space="preserve">
+  <data name="Theme.Select" xml:space="preserve">
     <value>تھیم منتخب کریں</value>
   </data>
-  <data name="Default Admin Container" xml:space="preserve">
+  <data name="DefaultContainer.Admin" xml:space="preserve">
     <value>ڈیفالٹ ایڈمن کنٹینر</value>
   </data>
   <data name="Aliases.HelpText" xml:space="preserve">
@@ -168,31 +153,31 @@
   <data name="DefaultTheme.Text" xml:space="preserve">
     <value>ڈیفالٹ تھیم:</value>
   </data>
-  <data name="Select Site Template" xml:space="preserve">
+  <data name="SiteTemplate.Select" xml:space="preserve">
     <value>سائٹ ٹیمپلیٹ کو منتخب کریں</value>
   </data>
-  <data name="Select Tenant" xml:space="preserve">
+  <data name="Tenant.Select" xml:space="preserve">
     <value>کرایہ دار منتخب کریں</value>
   </data>
-  <data name="Create New Tenant" xml:space="preserve">
+  <data name="Tenant.Add" xml:space="preserve">
     <value>نیا کرایہ دار بنائیں</value>
   </data>
-  <data name="Error Loading Containers For Theme" xml:space="preserve">
+  <data name="Error.Theme.LoadContainers" xml:space="preserve">
     <value>تھیم کے لئے کنٹینر لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="You Must Specify A Server And Database" xml:space="preserve">
+  <data name="Error.Required.ServerDatabase" xml:space="preserve">
     <value>آپ کو سرور اور ڈیٹا بیس کی وضاحت کرنی ہوگی</value>
   </data>
-  <data name="Invalid Host Password" xml:space="preserve">
+  <data name="Error.InvalidPassword" xml:space="preserve">
     <value>غلط میزبان پاس ورڈ</value>
   </data>
-  <data name="Tenant Name Is Missing Or Already Exists" xml:space="preserve">
+  <data name="Error.TenantName.Exists" xml:space="preserve">
     <value>کرایہ دار کا نام غائب ہے یا پہلے سے موجود ہے</value>
   </data>
-  <data name="{0} Already Used For Another Site&quot;, string.Join(&quot;, " xml:space="preserve">
-    <value>{0} Already Used For Another Site", string.Join(", </value>
+  <data name="Message.SiteName.InUse" xml:space="preserve">
+    <value>{0} پہلے سے ہی کسی دوسری سائٹ کے لیے استعمال ہو چکا ہے</value>
   </data>
-  <data name="You Must Provide A Tenant, Site Name, Alias, Default Theme/Container, And Site Template" xml:space="preserve">
+  <data name="Message.Required.Tenant" xml:space="preserve">
     <value>آپ کو کرایہ دار ، سائٹ کا نام ، عرف ، پہلے سے طے شدہ تھیم / کنٹینر اور سائٹ ٹیمپلیٹ فراہم کرنا ہوگا</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
@@ -269,5 +254,8 @@
   </data>
   <data name="HostPassword.Text" xml:space="preserve">
     <value>میزبان پاس ورڈ:</value>
+  </data>
+  <data name="Error.Database.LoadConfig" xml:space="preserve">
+    <value>ڈیٹا بیس کنفیگریشن کنٹرول لوڈ کرنے میں خرابی</value>
   </data>
 </root>
