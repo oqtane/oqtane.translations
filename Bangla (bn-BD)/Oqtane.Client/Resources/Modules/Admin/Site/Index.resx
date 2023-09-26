@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Save" xml:space="preserve">
+    <value>সংরক্ষণ</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>হ্যাঁ</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>না</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>নাম:</value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>ধারক নির্বাচন করুন</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>থিমের জন্য ফলক লেআউট লোড করার সময় ত্রুটি৷</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>ডিফল্ট ধারক:</value>
+  </data>
+  <data name="Appearance.Name" xml:space="preserve">
+    <value>চেহারা</value>
+  </data>
+  <data name="Select Theme" xml:space="preserve">
+    <value>থিম নির্বাচন কর</value>
+  </data>
+  <data name="Default Admin Container" xml:space="preserve">
+    <value>ডিফল্ট অ্যাডমিন কন্টেইনার</value>
+  </data>
+  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs" xml:space="preserve">
+    <value>অনুগ্রহ করে মনে রাখবেন যে SMTP-এর জন্য নির্ধারিত চাকরিতে বিজ্ঞপ্তির কাজ সক্রিয় করা প্রয়োজন</value>
+  </data>
+  <data name="Test SMTP Configuration" xml:space="preserve">
+    <value>SMTP কনফিগারেশন পরীক্ষা করুন</value>
+  </data>
+  <data name="Site Settings Saved" xml:space="preserve">
+    <value>সাইট সেটিংস সংরক্ষিত</value>
+  </data>
+  <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
+    <value>নির্দিষ্ট করা একটি উপনাম ইতিমধ্যেই অন্য সাইটের জন্য ব্যবহার করা হয়েছে৷</value>
+  </data>
+  <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
+    <value>আপনাকে অবশ্যই একটি সাইটের নাম, উপনাম এবং ডিফল্ট থিম/ধারক প্রদান করতে হবে</value>
+  </data>
+  <data name="Error Saving Site" xml:space="preserve">
+    <value>সাইট সংরক্ষণে ত্রুটি৷</value>
+  </data>
+  <data name="SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details." xml:space="preserve">
+    <value>SMTP সেটিংস সংরক্ষিত হয়েছে এবং আপনার ব্যবহারকারীর অ্যাকাউন্টের সাথে যুক্ত ইমেল ঠিকানায় একটি বার্তা পাঠানো হয়েছে... বিতরণের জন্য অনুগ্রহ করে কয়েক মিনিট অপেক্ষা করুন৷ আপনি যদি ইমেলটি না পান তাহলে অনুগ্রহ করে যেকোন লগ বিশদ বিবরণের জন্য নির্ধারিত চাকরিতে বিজ্ঞপ্তির চাকরিটি পর্যালোচনা করুন।</value>
+  </data>
+  <data name="Error Testing SMTP Configuration" xml:space="preserve">
+    <value>SMTP কনফিগারেশন পরীক্ষা করার সময় ত্রুটি৷</value>
+  </data>
+  <data name="You Must Specify The SMTP Host, Port, And Sender" xml:space="preserve">
+    <value>আপনাকে অবশ্যই SMTP হোস্ট, পোর্ট এবং প্রেরক নির্দিষ্ট করতে হবে</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>সাইটের নাম লিখুন</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>সাইটের ভাড়াটে লিখুন</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>Translate by voice
+2,001 / 5,000
+Translation results
+সার্ভারের উপনাম লিখুন</value>
+  </data>
+  <data name="AllowRegistration.HelpText" xml:space="preserve">
+    <value>আপনি কি ব্যবহারকারীদের সাইটে একটি অ্যাকাউন্টের জন্য নিবন্ধন করতে সক্ষম হতে চানআপনি কি ব্যবহারকারীদের সাইটে একটি অ্যাকাউন্টের জন্য নিবন্ধন করতে সক্ষম হতে চান</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>এই সাইট মুছে ফেলা হয়?</value>
+  </data>
+  <data name="Logo.HelpText" xml:space="preserve">
+    <value>সাইটের জন্য একটি লোগো নির্দিষ্ট করুন</value>
+  </data>
+  <data name="FavoriteIcon.HelpText" xml:space="preserve">
+    <value>একটি ফেভিকন নির্দিষ্ট করুন</value>
+  </data>
+  <data name="DefaultTheme.HelpText" xml:space="preserve">
+    <value>সাইট ডিফল্ট থিম নির্বাচন করুন</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>সাইটের জন্য ডিফল্ট ধারক নির্বাচন করুন</value>
+  </data>
+  <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
+    <value>সাইটের জন্য ডিফল্ট অ্যাডমিন কন্টেইনার নির্বাচন করুন</value>
+  </data>
+  <data name="Host.HelpText" xml:space="preserve">
+    <value>SMTP সার্ভারের হোস্ট নাম লিখুন</value>
+  </data>
+  <data name="Port.HelpText" xml:space="preserve">
+    <value>SMTP সার্ভারের জন্য পোর্ট নম্বর লিখুন। আপনি একটি হোস্ট নাম প্রদান করলে এই ক্ষেত্রটি প্রয়োজন অনুগ্রহ করে মনে রাখবেন।</value>
+  </data>
+  <data name="UseSsl.HelpText" xml:space="preserve">
+    <value>আপনার SMTP সার্ভারের জন্য SSL প্রয়োজন কিনা তা নির্দিষ্ট করুন৷</value>
+  </data>
+  <data name="SmptUsername.HelpText" xml:space="preserve">
+    <value>আপনার SMTP অ্যাকাউন্টের জন্য ব্যবহারকারীর নাম লিখুন</value>
+  </data>
+  <data name="SmtpPassword.HelpText" xml:space="preserve">
+    <value>আপনার SMTP অ্যাকাউন্টের জন্য পাসওয়ার্ড লিখুন</value>
+  </data>
+  <data name="SmptSender.HelpText" xml:space="preserve">
+    <value>যে ইমেল থেকে ইমেল পাঠানো হবে তা লিখুন। অনুগ্রহ করে মনে রাখবেন যে এই ইমেল ঠিকানাটি SMTP সার্ভারের সাথে অনুমোদিত হতে পারে৷</value>
+  </data>
+  <data name="EnablePWA.HelpText" xml:space="preserve">
+    <value>আপনি এই সাইটটিকে একটি প্রগতিশীল ওয়েব অ্যাপ্লিকেশন (PWA) হিসাবে উপলব্ধ করতে চান কিনা তা নির্বাচন করুন</value>
+  </data>
+  <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
+    <value>আপনার PWA এর জন্য একটি অ্যাপ্লিকেশন আইকন অন্তর্ভুক্ত করুন। এটি একটি PNG হওয়া উচিত যার মাত্রা 192 X 192 পিক্সেল।</value>
+  </data>
+  <data name="PwaSplashIcon.HelpText" xml:space="preserve">
+    <value>আপনার PWA এর জন্য একটি স্প্ল্যাশ আইকন অন্তর্ভুক্ত করুন। এটি একটি PNG হওয়া উচিত যার মাত্রা 512 X 512 পিক্সেল।</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>ভাড়াটে: </value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>উপনাম:</value>
+  </data>
+  <data name="AllowRegistration.Text" xml:space="preserve">
+    <value>ব্যবহারকারী নিবন্ধনের অনুমতি দেবেন?</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>মুছে ফেলা হয়?</value>
+  </data>
+  <data name="Logo.Text" xml:space="preserve">
+    <value>লোগো:</value>
+  </data>
+  <data name="FavoriteIcon.Text" xml:space="preserve">
+    <value>ফেভিকন:</value>
+  </data>
+  <data name="DefaultTheme.Text" xml:space="preserve">
+    <value>ডিফল্ট থিম:</value>
+  </data>
+  <data name="DefaultAdminContainer.Text" xml:space="preserve">
+    <value>ডিফল্ট অ্যাডমিন কন্টেইনার:</value>
+  </data>
+  <data name="Host.Text" xml:space="preserve">
+    <value>হোস্ট:</value>
+  </data>
+  <data name="Port.Text" xml:space="preserve">
+    <value>পোর্ট : </value>
+  </data>
+  <data name="UseSsl.Text" xml:space="preserve">
+    <value>SSL সক্ষম:</value>
+  </data>
+  <data name="SmptUsername.Text" xml:space="preserve">
+    <value>ব্যবহারকারীর নাম: </value>
+  </data>
+  <data name="SmtpPassword.Text" xml:space="preserve">
+    <value>পাসওয়ার্ড:</value>
+  </data>
+  <data name="SmptSender.Text" xml:space="preserve">
+    <value>ইমেল প্রেরক:</value>
+  </data>
+  <data name="EnablePWA.Text" xml:space="preserve">
+    <value>সক্রিয় করা হয়?</value>
+  </data>
+  <data name="PwaApplicationIcon.Text" xml:space="preserve">
+    <value>অ্যাপ আইকন:</value>
+  </data>
+  <data name="PwaSplashIcon.Text" xml:space="preserve">
+    <value>স্প্ল্যাশ আইকন:</value>
+  </data>
+</root>
