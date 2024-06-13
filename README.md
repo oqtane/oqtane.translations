@@ -13,6 +13,7 @@ Simply you can start your new translation from the repository by copying the `En
 When your translations are ready you can contribute it with `Oqtane.Translations` by submitting a PR with the added files.
 
 **2. Using ResX Manager in Visual Studio**
+
 ResX Manager is a powerful Visual Studio extension designed to simplify and streamline the process of managing resource files in .NET projects. This tool is particularly useful for developers working on applications that require localization, as it provides an intuitive interface for handling .resx files and helps ensure consistency across different languages and cultures.
 
 **Key Features of ResX Manager**
