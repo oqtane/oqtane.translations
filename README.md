@@ -20,6 +20,7 @@ ResX Manager is a powerful Visual Studio extension designed to simplify and stre
 - **Localization Support**: The extension supports multiple languages and cultures, allowing you to add, edit, and review translations efficiently.
 - **Pattern Configuration**: Customize patterns for various file types, ensuring that resource keys are consistently referenced in your codebase.
 - **Integration with Visual Studio**: Seamlessly integrates with Visual Studio, offering tools directly within your development environment.
+  [Learn More](https://github.com/oqtane/oqtane.translations/blob/main/ResXManager/1.Intro.md)
 
 **3. Using Oqtane Resources Extractor Tool**
 
