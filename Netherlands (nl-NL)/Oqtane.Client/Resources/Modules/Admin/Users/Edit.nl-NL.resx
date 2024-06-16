@@ -165,12 +165,6 @@
   <data name="Password.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
   </data>
-  <data name="Photo.HelpText" xml:space="preserve">
-    <value>Een foto van de gebruiker</value>
-  </data>
-  <data name="Photo.Text" xml:space="preserve">
-    <value>Foto:</value>
-  </data>
   <data name="Username.HelpText" xml:space="preserve">
     <value>De unieke gebruikersnaam voor een gebruiker. Merk op dat dit veld niet kan worden gewijzigd.</value>
   </data>
@@ -182,5 +176,23 @@
   </data>
   <data name="Profile.Heading" xml:space="preserve">
     <value>Profiel</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Wachtwoord</value>
+  </data>
+  <data name="LastIPAddress.HelpText" xml:space="preserve">
+    <value>Het IP-adres van de gebruiker geregistreerd tijdens de laatste login</value>
+  </data>
+  <data name="LastIPAddress.Text" xml:space="preserve">
+    <value>Laatste IP-adres:</value>
+  </data>
+  <data name="LastLogin.HelpText" xml:space="preserve">
+    <value>De datum en tijd waarop de gebruiker zich voor het laatst heeft aangemeld</value>
+  </data>
+  <data name="LastLogin.Text" xml:space="preserve">
+    <value>Laatste aanmelding:</value>
+  </data>
+  <data name="Message.Password.Complexity" xml:space="preserve">
+    <value>Opgegeven wachtwoord voldoet niet aan het complexiteitsbeleid</value>
   </data>
 </root>

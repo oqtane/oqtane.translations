@@ -192,4 +192,34 @@
   <data name="LogDetails.Text" xml:space="preserve">
     <value>Details</value>
   </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Fout bij opslaan van instellingen</value>
+  </data>
+  <data name="Events.Heading" xml:space="preserve">
+    <value>Evenementen</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>Aantal dagen evenementen om te bewaren</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>Bewaartermijn (dagen):</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Instellingen succesvol opgeslagen</value>
+  </data>
+  <data name="DeleteLogs.Header" xml:space="preserve">
+    <value>Gebeurtenissen wissen</value>
+  </data>
+  <data name="DeleteLogs.Message" xml:space="preserve">
+    <value>Weet je zeker dat je alle loggebeurtenissen wilt verwijderen?</value>
+  </data>
+  <data name="DeleteLogs.Text" xml:space="preserve">
+    <value>Gebeurtenissen wissen</value>
+  </data>
+  <data name="Error.DeleteLogs" xml:space="preserve">
+    <value>Fout bij verwijderen van logboekgebeurtenissen</value>
+  </data>
 </root>

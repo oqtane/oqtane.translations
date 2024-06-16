@@ -165,9 +165,6 @@
   <data name="Server.HelpText" xml:space="preserve">
     <value>De server die is getroffen</value>
   </data>
-  <data name="DateTime.Text" xml:space="preserve">
-    <value>Datum Tijd:</value>
-  </data>
   <data name="Level.Text" xml:space="preserve">
     <value>Niveau:</value>
   </data>
@@ -176,9 +173,6 @@
   </data>
   <data name="Function.Text" xml:space="preserve">
     <value>Functie:</value>
-  </data>
-  <data name="Category.Text" xml:space="preserve">
-    <value>Categorie:</value>
   </data>
   <data name="Page.Text" xml:space="preserve">
     <value>Bladzijde:</value>
@@ -206,5 +200,11 @@
   </data>
   <data name="Error.Log.Load" xml:space="preserve">
     <value>Fout bij laden van logboek</value>
+  </data>
+  <data name="Category.Text" xml:space="preserve">
+    <value>Typenaam:</value>
+  </data>
+  <data name="DateTime.Text" xml:space="preserve">
+    <value>Datum Tijd:</value>
   </data>
 </root>

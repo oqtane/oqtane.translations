@@ -177,4 +177,25 @@
   <data name="System.Update" xml:space="preserve">
     <value>Controleren op systeemupdates</value>
   </data>
+  <data name="Visibility" xml:space="preserve">
+    <value>Zichtbaarheid:</value>
+  </data>
+  <data name="VisibilityEdit" xml:space="preserve">
+    <value>Alleen pagina-editors</value>
+  </data>
+  <data name="VisibilityView" xml:space="preserve">
+    <value>Zelfde als pagina</value>
+  </data>
+  <data name="Confirm.Page.Delete" xml:space="preserve">
+    <value>Weet u zeker dat u deze pagina wilt verwijderen?</value>
+  </data>
+  <data name="Location" xml:space="preserve">
+    <value>Plaats:</value>
+  </data>
+  <data name="LocationBottom" xml:space="preserve">
+    <value>Onderkant</value>
+  </data>
+  <data name="LocationTop" xml:space="preserve">
+    <value>Bovenkant</value>
+  </data>
 </root>

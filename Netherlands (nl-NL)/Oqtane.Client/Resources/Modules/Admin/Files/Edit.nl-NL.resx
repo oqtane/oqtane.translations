@@ -177,10 +177,25 @@
   <data name="Capacity.Text" xml:space="preserve">
     <value>Capaciteit:</value>
   </data>
-  <data name="ImageSizes.HelpText" xml:space="preserve">
-    <value>Voer een lijst in met afbeeldingsformaten die dynamisch kunnen worden gegenereerd uit geüploade afbeeldingen (bijv. 200x200,x200,200x)</value>
-  </data>
   <data name="ImageSizes.Text" xml:space="preserve">
     <value>Afbeeldingsformaten:</value>
+  </data>
+  <data name="FolderManagement.Title" xml:space="preserve">
+    <value>Mappenbeheer!</value>
+  </data>
+  <data name="Private" xml:space="preserve">
+    <value>Privaat</value>
+  </data>
+  <data name="Public" xml:space="preserve">
+    <value>Openbaar</value>
+  </data>
+  <data name="ImageSizes.HelpText" xml:space="preserve">
+    <value>Voer een lijst met afbeeldingsformaten in die dynamisch kunnen worden gegenereerd op basis van geüploade afbeeldingen (bijv. 200x200,400x400). Gebruik * om aan te geven dat de map alle afbeeldingsformaten ondersteunt.</value>
+  </data>
+  <data name="Folder Management" xml:space="preserve">
+    <value>Mapbeheer</value>
+  </data>
+  <data name="Message.Folder.Duplicate" xml:space="preserve">
+    <value>Opgegeven mapnaam bestaat al in bovenliggende map</value>
   </data>
 </root>

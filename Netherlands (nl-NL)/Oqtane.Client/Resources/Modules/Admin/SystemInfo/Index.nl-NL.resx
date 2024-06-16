@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -129,12 +129,6 @@
   <data name="OSVersion.HelpText" xml:space="preserve">
     <value>Besturingssysteemversie</value>
   </data>
-  <data name="ServerPath.HelpText" xml:space="preserve">
-    <value>Serverpad</value>
-  </data>
-  <data name="ServerTime.HelpText" xml:space="preserve">
-    <value>Server tijd</value>
-  </data>
   <data name="FrameworkVersion.Text" xml:space="preserve">
     <value>Framework-versie:</value>
   </data>
@@ -143,12 +137,6 @@
   </data>
   <data name="OSVersion.Text" xml:space="preserve">
     <value>OS-versie:</value>
-  </data>
-  <data name="ServerPath.Text" xml:space="preserve">
-    <value>Serverpad:</value>
-  </data>
-  <data name="ServerTime.Text" xml:space="preserve">
-    <value>Server tijd:</value>
   </data>
   <data name="RestartApplication.Header" xml:space="preserve">
     <value>Applicatie opnieuw starten</value>
@@ -166,7 +154,7 @@
     <value>Installatie-ID:</value>
   </data>
   <data name="InstallationId.HelpText" xml:space="preserve">
-    <value>De unieke identificatie voor uw installatie</value>
+    <value>De unieke identificatie voor je installatie</value>
   </data>
   <data name="DetailedErrors.Text" xml:space="preserve">
     <value>Gedetailleerde fouten?</value>
@@ -184,7 +172,7 @@
     <value>Loggingsniveau:</value>
   </data>
   <data name="LoggingLevel.HelpText" xml:space="preserve">
-    <value>Het minimale registratieniveau voor het gebeurtenislogboek. Deze optie kan worden gebruikt om het volume van items te regelen die zijn opgeslagen in uw gebeurtenislogboek.</value>
+    <value>Het minimale registratieniveau voor het gebeurtenislogboek. Deze optie kan worden gebruikt om het volume van items te regelen die zijn opgeslagen in jou gebeurtenislogboek.</value>
   </data>
   <data name="Trace" xml:space="preserve">
     <value>Tracé</value>
@@ -210,14 +198,8 @@
   <data name="Success.Register" xml:space="preserve">
     <value>Je bent met succes geregistreerd voor updates</value>
   </data>
-  <data name="PackageService.HelpText" xml:space="preserve">
-    <value>Specificeer of de pakketservice is ingeschakeld voor het installeren van modules, thema's en vertalingen</value>
-  </data>
-  <data name="PackageService.Text" xml:space="preserve">
-    <value>Pakketservice ingeschakeld?</value>
-  </data>
   <data name="Swagger.HelpText" xml:space="preserve">
-    <value>Specificeer of Swagger is ingeschakeld voor uw server-API</value>
+    <value>Specificeer of Swagger is ingeschakeld voor je server-API</value>
   </data>
   <data name="Swagger.Text" xml:space="preserve">
     <value>Swagger ingeschakeld?</value>
@@ -230,5 +212,86 @@
   </data>
   <data name="RestartApplication.Text" xml:space="preserve">
     <value>Applicatie opnieuw starten</value>
+  </data>
+  <data name="ServerTime.HelpText" xml:space="preserve">
+    <value>Serverdatum/tijd (in UTC)</value>
+  </data>
+  <data name="ServerTime.Text" xml:space="preserve">
+    <value>Serverdatum/tijd:</value>
+  </data>
+  <data name="ContentRootPath.HelpText" xml:space="preserve">
+    <value>Server root pad</value>
+  </data>
+  <data name="ContentRootPath.Text" xml:space="preserve">
+    <value>Wortelpad:</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Geen</value>
+  </data>
+  <data name="NotificationLevel.HelpText" xml:space="preserve">
+    <value>Het minimale registratieniveau waarvoor meldingen naar hostgebruikers moeten worden verzonden.</value>
+  </data>
+  <data name="NotificationLevel.Text" xml:space="preserve">
+    <value>Meldingsniveau:</value>
+  </data>
+  <data name="IPAddress.HelpText" xml:space="preserve">
+    <value>Server IP adres</value>
+  </data>
+  <data name="IPAddress.Text" xml:space="preserve">
+    <value>IP adres:</value>
+  </data>
+  <data name="MachineName.HelpText" xml:space="preserve">
+    <value>Naam servercomputer</value>
+  </data>
+  <data name="MachineName.Text" xml:space="preserve">
+    <value>Machine naam:</value>
+  </data>
+  <data name="WebRootPath.HelpText" xml:space="preserve">
+    <value>Hoofdpad serverweb</value>
+  </data>
+  <data name="WebRootPath.Text" xml:space="preserve">
+    <value>Webpad:</value>
+  </data>
+  <data name="WorkingSet.HelpText" xml:space="preserve">
+    <value>Geheugentoewijzing van service (in MB)</value>
+  </data>
+  <data name="WorkingSet.Text" xml:space="preserve">
+    <value>Geheugentoewijzing:</value>
+  </data>
+  <data name="Environment.HelpText" xml:space="preserve">
+    <value>Omgevingsnaam</value>
+  </data>
+  <data name="Environment.Text" xml:space="preserve">
+    <value>Omgeving:</value>
+  </data>
+  <data name="Log.Heading" xml:space="preserve">
+    <value>Logboek</value>
+  </data>
+  <data name="Log.Text" xml:space="preserve">
+    <value>Logboek:</value>
+  </data>
+  <data name="Log.HelpText" xml:space="preserve">
+    <value>Systeemlogboekinformatie voor de huidige dag</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Duidelijk</value>
+  </data>
+  <data name="Success.ClearLog" xml:space="preserve">
+    <value>Systeemlogboek is succesvol gewist</value>
+  </data>
+  <data name="Error.ClearLog" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het wissen van het systeemlogboek</value>
+  </data>
+  <data name="PackageManager.HelpText" xml:space="preserve">
+    <value>Geef de pakketbeheerservice op voor het installeren van modules, thema's en vertalingen. Als dit veld leeg is, betekent dit dat de Package Manager-service is uitgeschakeld voor deze installatie.</value>
+  </data>
+  <data name="PackageManager.Text" xml:space="preserve">
+    <value>Pakket manager:</value>
+  </data>
+  <data name="Process.HelpText" xml:space="preserve">
+    <value>Geeft aan of het huidige proces 32 bit of 64 bit is</value>
+  </data>
+  <data name="Process.Text" xml:space="preserve">
+    <value>Proces:</value>
   </data>
 </root>

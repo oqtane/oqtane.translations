@@ -144,4 +144,16 @@
   <data name="ViewTheme.Text" xml:space="preserve">
     <value>Visie</value>
   </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Ingeschakeld?</value>
+  </data>
+  <data name="InstallTheme.Text" xml:space="preserve">
+    <value>Installeer thema</value>
+  </data>
+  <data name="DeleteTheme.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="EditTheme.Text" xml:space="preserve">
+    <value>Bewerking</value>
+  </data>
 </root>

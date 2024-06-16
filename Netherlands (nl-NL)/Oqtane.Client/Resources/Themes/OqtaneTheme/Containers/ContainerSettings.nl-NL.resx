@@ -117,28 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Title.HelpText" xml:space="preserve">
-    <value>Specificeer of de moduletitel moet worden weergegeven</value>
-  </data>
-  <data name="Background.HelpText" xml:space="preserve">
-    <value>Geef optioneel een achtergrondkleur op voor de container</value>
-  </data>
-  <data name="Text.HelpText" xml:space="preserve">
-    <value>Geef optioneel een tekstkleur op voor de container</value>
-  </data>
-  <data name="Border.HelpText" xml:space="preserve">
-    <value>Geef optioneel een rand op voor de container</value>
-  </data>
-  <data name="Title.Text" xml:space="preserve">
-    <value>Titel weergeven?</value>
-  </data>
-  <data name="Background.Text" xml:space="preserve">
-    <value>Achtergrond kleur:</value>
-  </data>
-  <data name="Text.Text" xml:space="preserve">
-    <value>Tekst kleur:</value>
-  </data>
-  <data name="Border.Text" xml:space="preserve">
-    <value>Rand kleur:</value>
-  </data>
 </root>

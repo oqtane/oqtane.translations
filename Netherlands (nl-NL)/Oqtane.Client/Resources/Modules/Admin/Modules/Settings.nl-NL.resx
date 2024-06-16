@@ -147,4 +147,46 @@
   <data name="Message.Required.Title" xml:space="preserve">
     <value>Je  moet een titel voor de module opgeven</value>
   </data>
+  <data name="Error.Module.Load" xml:space="preserve">
+    <value>Er is een probleem opgetreden bij het laden van module {0}. De module is ongeldig of bestaat niet.</value>
+  </data>
+  <data name="Module.HelpText" xml:space="preserve">
+    <value>De naam van de module</value>
+  </data>
+  <data name="Module.Text" xml:space="preserve">
+    <value>Module:</value>
+  </data>
+  <data name="Pane.HelpText" xml:space="preserve">
+    <value>Het deelvenster waarin de module wordt weergegeven</value>
+  </data>
+  <data name="Pane.Text" xml:space="preserve">
+    <value>Venster:</value>
+  </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>De datum waarop deze module actief is</value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Ingangsdatum:</value>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>De datum waarop deze module verloopt</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Vervaldatum:</value>
+  </data>
+  <data name="ModuleSettings.Heading" xml:space="preserve">
+    <value>Module-instellingen</value>
+  </data>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Rechten</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Rechten</value>
+  </data>
+  <data name="ContainerSettings.Heading" xml:space="preserve">
+    <value>Containerinstellingen</value>
+  </data>
+  <data name="ModuleSettings.Title" xml:space="preserve">
+    <value>Module-instellingen</value>
+  </data>
 </root>

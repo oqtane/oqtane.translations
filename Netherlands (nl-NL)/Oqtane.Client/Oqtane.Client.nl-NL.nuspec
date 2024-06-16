@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>Oqtane.Client.nl-NL</id>
-    <version>3.0.1</version>
+    <id>Oqtane.Framework.nl-NL</id>
+    <version>5.1.0</version>
     <authors>Leigh Pointer</authors>
     <owners>.NET Foundation</owners>
     <title>Oqtane Framework nl-NL Translation</title>
@@ -16,11 +16,12 @@
     <releaseNotes></releaseNotes>
     <summary></summary>
     <dependencies>
-      <dependency id="Oqtane.Framework" version="3.0.1" />
+      <dependency id="Oqtane.Framework" version="5.1.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\Oqtane.Server\bin\Release\net6.0\nl-NL\Oqtane.Client.resources.dll" target="lib\net6.0\nl-NL" />
-    <file src="..\..\Oqtane.Server\wwwroot\icon-nl.png" target="" />
+    <file src="..\Oqtane.Server\bin\Release\net8.0\nl-NL\Oqtane.Client.resources.dll" target="lib\net8.0\nl-NL" />
+    <file src="..\Oqtane.Server\bin\Release\net8.0\nl-NL\Oqtane.Server.resources.dll" target="lib\net8.0\nl-NL" />
+    <file src="..\Oqtane.Client\icon-nl.png" target="" />
   </files>
 </package>

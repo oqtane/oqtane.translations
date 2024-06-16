@@ -139,7 +139,7 @@
     <value>Verwijderen</value>
   </data>
   <data name="Cancel" xml:space="preserve">
-    <value>annuleren</value>
+    <value>Annuleren</value>
   </data>
   <data name="Admin Dashboard" xml:space="preserve">
     <value>Beheerdersdashboard</value>
@@ -214,7 +214,7 @@
     <value>Resetten</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Zoeken</value>
+    <value>Zoekopdracht</value>
   </data>
   <data name="Search.Hint" xml:space="preserve">
     <value>Voer zoekterm in</value>
@@ -250,7 +250,7 @@
     <value>Wachtwoord:</value>
   </data>
   <data name="Send" xml:space="preserve">
-    <value>Sturen</value>
+    <value>Versturen</value>
   </data>
   <data name="Status" xml:space="preserve">
     <value>Toestand</value>
@@ -259,7 +259,7 @@
     <value>Upgrade</value>
   </data>
   <data name="Username" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
+    <value>gebruikersnaam</value>
   </data>
   <data name="Version" xml:space="preserve">
     <value>Versie</value>
@@ -277,19 +277,13 @@
     <value>Lokale versie</value>
   </data>
   <data name="Search.Source" xml:space="preserve">
-    <value>bron</value>
+    <value>Bron</value>
   </data>
   <data name="Message.InfoRequired" xml:space="preserve">
     <value>Geef alle vereiste informatie op</value>
   </data>
-  <data name="Free" xml:space="preserve">
-    <value>Gratis</value>
-  </data>
-  <data name="Paid" xml:space="preserve">
-    <value>Betaald</value>
-  </data>
   <data name="Search.Price" xml:space="preserve">
-    <value>prijs</value>
+    <value>Prijs</value>
   </data>
   <data name="Accept" xml:space="preserve">
     <value>Aanvaarden</value>
@@ -312,13 +306,157 @@
   <data name="Not Specified" xml:space="preserve">
     <value>Niet gespecificeerd</value>
   </data>
-  <data name="BlazorServer" xml:space="preserve">
-    <value>Blazor-server</value>
-  </data>
-  <data name="BlazorWebAssembly" xml:space="preserve">
-    <value>Blazor WebAssembly</value>
-  </data>
   <data name="Settings" xml:space="preserve">
     <value>Instellingen</value>
+  </data>
+  <data name="HidePassword" xml:space="preserve">
+    <value>Verbergen</value>
+  </data>
+  <data name="ShowPassword" xml:space="preserve">
+    <value>Tonen</value>
+  </data>
+  <data name="Visitor Management" xml:space="preserve">
+    <value>Bezoekersbeheer</value>
+  </data>
+  <data name="Url Mappings" xml:space="preserve">
+    <value>URL-toewijzingen</value>
+  </data>
+  <data name="PageOfPages" xml:space="preserve">
+    <value>Pagina {0} van {1}</value>
+  </data>
+  <data name="Oqtane.Marketplace" xml:space="preserve">
+    <value>Houd er rekening mee dat extensies van derden zijn geregistreerd in de &lt;a href="https://www.oqtane.net" target="new"&gt;Oqtane Marketplace&lt;/a&gt;, waardoor ze naadloos kunnen worden gedownload en geïnstalleerd in het framework.</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Thuis</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Dichtbij</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>Toepassen</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Selecteer</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Volgende</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Vorig</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Indienen</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Vernieuwen</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Rug</value>
+  </data>
+  <data name="Return" xml:space="preserve">
+    <value>Opbrengst</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>Nieuw</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>Weergave</value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value>Bevestigen</value>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>Commercieel</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Open source</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>Hulp</value>
+  </data>
+  <data name="Support" xml:space="preserve">
+    <value>Steun</value>
+  </data>
+  <data name="Search.Alphabetical" xml:space="preserve">
+    <value>Alfabetisch</value>
+  </data>
+  <data name="Buy" xml:space="preserve">
+    <value>Koop nu</value>
+  </data>
+  <data name="Search.Popularity" xml:space="preserve">
+    <value>Populariteit</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>Resultaten</value>
+  </data>
+  <data name="Search.RecentlyReleased" xml:space="preserve">
+    <value>Onlangs uitgebracht</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>Van</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>Naar</value>
+  </data>
+  <data name="Password.DigitRequirement" xml:space="preserve">
+    <value>Minstens één cijfer</value>
+  </data>
+  <data name="Password.LowercaseRequirement" xml:space="preserve">
+    <value>Ten minste een kleine letter</value>
+  </data>
+  <data name="Password.PunctuationRequirement" xml:space="preserve">
+    <value>Ten minste één leesteken</value>
+  </data>
+  <data name="Password.UppercaseRequirement" xml:space="preserve">
+    <value>Ten minste een hoofdletter</value>
+  </data>
+  <data name="Password.ValidationCriteria" xml:space="preserve">
+    <value>Wachtwoorden moeten een minimale lengte van {0} tekens hebben, inclusief ten minste {1} unieke tekens, {2}{3}{4}{5} om te voldoen aan de wachtwoordcomexiteitsvereisten voor deze site.</value>
+  </data>
+  <data name="ProfileInvalid" xml:space="preserve">
+    <value>{0} is niet geldig</value>
+  </data>
+  <data name="ProfileRequired" xml:space="preserve">
+    <value>{0} is vereist</value>
+  </data>
+  <data name="Test" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="Uninstall" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="Message.EffectiveExpiryDateError" xml:space="preserve">
+    <value>De ingangsdatum kan niet na de vervaldatum liggen.</value>
+  </data>
+  <data name="RuntimeServer" xml:space="preserve">
+    <value>Server (SignaalR)</value>
+  </data>
+  <data name="RuntimeWebAssembly" xml:space="preserve">
+    <value>Klant (WebAssembly)</value>
+  </data>
+  <data name="StaticServer" xml:space="preserve">
+    <value>Statische serverweergave</value>
+  </data>
+  <data name="RuntimeAuto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="RenderModeHeadless" xml:space="preserve">
+    <value>Hoofdloos (alleen API)</value>
+  </data>
+  <data name="RenderModeInteractive" xml:space="preserve">
+    <value>Interactief</value>
+  </data>
+  <data name="RenderModeStatic" xml:space="preserve">
+    <value>Statisch</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Uitgeschakeld</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Ingeschakeld</value>
   </data>
 </root>

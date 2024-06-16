@@ -117,31 +117,76 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Tenant.Text" xml:space="preserve">
-    <value>Tenant :</value>
-  </data>
-  <data name="Tenant.Select" xml:space="preserve">
-    <value>Selecteer huurder</value>
-  </data>
   <data name="Execute" xml:space="preserve">
     <value>uitvoeren</value>
   </data>
-  <data name="Message.Required.Tenant" xml:space="preserve">
-    <value>Je  moet een huurder selecteren en een geldige SQL-query opgeven</value>
-  </data>
   <data name="Return.NoResult" xml:space="preserve">
     <value>Geen resultaten geretourneerd</value>
-  </data>
-  <data name="Tenant.HelpText" xml:space="preserve">
-    <value>Selecteer de tenant voor de SQL-server</value>
-  </data>
-  <data name="SqlQuery.HelpText" xml:space="preserve">
-    <value>Voer de query voor de SQL-server in</value>
   </data>
   <data name="SqlQuery.Text" xml:space="preserve">
     <value>SQL-query:</value>
   </data>
   <data name="Success.QueryExecuted" xml:space="preserve">
     <value>SQL-query uitgevoerd</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>Selecteer de tenant die is gekoppeld aan de databaseserver</value>
+  </data>
+  <data name="SqlQuery.HelpText" xml:space="preserve">
+    <value>Voer de SQL-query voor de databaseserver in</value>
+  </data>
+  <data name="Connection.Text" xml:space="preserve">
+    <value>Verbinding:</value>
+  </data>
+  <data name="Connection.HelpText" xml:space="preserve">
+    <value>Selecteer een databaseverbinding (van appsettings.json)</value>
+  </data>
+  <data name="Connection.Select" xml:space="preserve">
+    <value>Selecteer Verbinding</value>
+  </data>
+  <data name="Connection.Add" xml:space="preserve">
+    <value>Verbinding toevoegen</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam:</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Voer de naam van de verbinding in</value>
+  </data>
+  <data name="DatabaseType.Text" xml:space="preserve">
+    <value>Type:</value>
+  </data>
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>Selecteer het databasetype</value>
+  </data>
+  <data name="Type.Select" xml:space="preserve">
+    <value>Selecteer type</value>
+  </data>
+  <data name="EnterConnectionParameters" xml:space="preserve">
+    <value>Voer verbindingsparameters in</value>
+  </data>
+  <data name="EnterConnectionString" xml:space="preserve">
+    <value>Voer verbindingsreeks in</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Instellingen:</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>Een volledige verbindingsreeks inclusief alle parameters en scheidingstekens</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Toevoegen</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Gegevensbestand:</value>
+  </data>
+  <data name="Message.Required.Tenant" xml:space="preserve">
+    <value>Je moet een databasetype selecteren en een geldige SQL-query opgeven</value>
+  </data>
+  <data name="Message.Required.Connection" xml:space="preserve">
+    <value>Je moet een verbindingsnaam en instellingen opgeven</value>
+  </data>
+  <data name="Message.Connection.Added" xml:space="preserve">
+    <value>Verbinding succesvol toegevoegd</value>
   </data>
 </root>

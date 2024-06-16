@@ -150,20 +150,14 @@
   <data name="Container.Select" xml:space="preserve">
     <value>Selecteer container</value>
   </data>
-  <data name="Error.Page.Initialize" xml:space="preserve">
-    <value>Fout bij initialiseren van pagina</value>
-  </data>
   <data name="Error.ChildPage.Load" xml:space="preserve">
     <value>Fout bij het laden van onderliggende pagina's voor ouder</value>
   </data>
   <data name="Error.Pane.Load" xml:space="preserve">
     <value>Fout bij het laden van deelvensterlay-outs voor thema</value>
   </data>
-  <data name="Message.Page.Exists" xml:space="preserve">
-    <value>Er bestaat al een pagina met pad {0} voor de geselecteerde bovenliggende pagina. Het paginapad moet uniek zijn voor de geselecteerde ouder.</value>
-  </data>
   <data name="Message.Required.PageInfo" xml:space="preserve">
-    <value>Je  moet een paginanaam, thema en container opgeven</value>
+    <value>Je moet een paginanaam, thema en container opgeven</value>
   </data>
   <data name="Error.Page.Save" xml:space="preserve">
     <value>Fout bij opslaan van pagina</value>
@@ -175,13 +169,13 @@
     <value>Selecteer de ouder voor de pagina in de sitehiërarchie</value>
   </data>
   <data name="Insert.HelpText" xml:space="preserve">
-    <value>Selecteer de locatie waar je de pagina wil invoegen ten opzichte van andere pagina's</value>
+    <value>Selecteer de locatie waar je de pagina wilt invoegen ten opzichte van andere pagina's</value>
   </data>
   <data name="Navigation.HelpText" xml:space="preserve">
     <value>Selecteer of de pagina deel uitmaakt van de sitenavigatie of verborgen is</value>
   </data>
   <data name="UrlPath.HelpText" xml:space="preserve">
-    <value>Voer optioneel een url-pad in voor deze pagina (bijv. home ). Als je geen url-pad opgeeft, wordt de paginanaam gebruikt.</value>
+    <value>Voer optioneel een url-pad in voor deze pagina (bijv. home ). Als je geen url-pad opgeeft, wordt de paginanaam gebruikt. Als de pagina bedoeld is als hoofdpad, specificeert '/'.</value>
   </data>
   <data name="Redirect.HelpText" xml:space="preserve">
     <value>Voer optioneel een url in waarnaar deze pagina moet doorverwijzen wanneer een gebruiker ernaartoe navigeert</value>
@@ -226,9 +220,51 @@
     <value>Personaliseerbaar?</value>
   </data>
   <data name="Appearance.Name" xml:space="preserve">
-    <value>Uiterlijk</value>
+    <value>Verschijning</value>
   </data>
-  <data name="Message.Page.Deleted" xml:space="preserve">
-    <value>Er bestaat al een pagina met pad {0} voor de geselecteerde bovenliggende pagina in de Prullenbak. Herstel de pagina of verwijder deze uit de Prullenbak en maak hem opnieuw aan.</value>
+  <data name="Message.Page.Exists" xml:space="preserve">
+    <value>Er bestaat al een pagina met pad '{0}' voor deze site. Paginapaden moeten uniek zijn. Mogelijk moet je controleren of er een pagina met dit pad in de Prullenbak staat.</value>
+  </data>
+  <data name="Message.Page.Reserved" xml:space="preserve">
+    <value>De paginanaam {0} is gereserveerd. Voer een andere naam in voor jou pagina.</value>
+  </data>
+  <data name="Error.Page.Load" xml:space="preserve">
+    <value>Fout bij laden van pagina</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>Voer optioneel inhoud in die moet worden opgenomen in de paginakop (d.w.z. meta-, link- of scripttags)</value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Hoofd Inhoud:</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>Voer optioneel inhoud in die moet worden opgenomen in de hoofdtekst van de pagina (d.w.z. scripttags)</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Lichaamsinhoud:</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Pagina inhoud</value>
+  </data>
+  <data name="ThemeChanged.Message" xml:space="preserve">
+    <value>Houd er rekening mee dat het overschrijven van het standaard sitethema door een niet-gerelateerd paginathema kan leiden tot compatibiliteitsproblemen voor je site</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Rechten</value>
+  </data>
+  <data name="Theme.Heading" xml:space="preserve">
+    <value>Thema instellingen</value>
+  </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>De datum waarop deze pagina actief is</value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Ingangsdatum:</value>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>De datum waarop deze pagina vervalt</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Vervaldatum:</value>
   </data>
 </root>

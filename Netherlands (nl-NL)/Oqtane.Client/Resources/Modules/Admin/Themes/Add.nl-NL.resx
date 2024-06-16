@@ -123,19 +123,25 @@
   <data name="Theme.Text" xml:space="preserve">
     <value>Thema:</value>
   </data>
-  <data name="Success.Theme.Install" xml:space="preserve">
-    <value>Thema succesvol geïnstalleerd. Je moet jouw toepassing &lt;a href={0}&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
-  </data>
-  <data name="Success.Theme.Download" xml:space="preserve">
-    <value>Thema is succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
-  </data>
   <data name="Error.Theme.Download" xml:space="preserve">
     <value>Fout bij downloaden van thema</value>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
-    <value>Upload een of meerdere themapakketten. Zodra ze zijn geüpload, klikt u op Installeren om de installatie te voltooien.</value>
+    <value>Upload een of meerdere themapakketten. Zodra ze zijn geüpload, klikt je op Installeren om de installatie te voltooien.</value>
   </data>
   <data name="Search.NoResults" xml:space="preserve">
     <value>Geen thema's komen overeen met de opgegeven criteria of pakketservice is uitgeschakeld</value>
+  </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Marktplaats</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Uploaden</value>
+  </data>
+  <data name="Product" xml:space="preserve">
+    <value>Product</value>
+  </data>
+  <data name="Success.Theme.Download" xml:space="preserve">
+    <value>Themapakket succesvol gedownload. U moet uw toepassing &lt;a href={0}&gt;opnieuw starten&lt;/a&gt; om de installatie te voltooien.</value>
   </data>
 </root>

@@ -117,10 +117,67 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Error.Content.Save" xml:space="preserve">
-    <value>Fout bij opslaan van inhoud</value>
+  <data name="Confirm.Delete" xml:space="preserve">
+    <value>Weet je zeker dat je de {0}-versie wil verwijderen?</value>
+  </data>
+  <data name="Confirm.Restore" xml:space="preserve">
+    <value>Weet je zeker dat je de {0}-versie wil herstellen?</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>Gemaakt door</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>Gemaakt op</value>
+  </data>
+  <data name="Delete.Header" xml:space="preserve">
+    <value>Versie verwijderen</value>
+  </data>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="Error.Content.Delete" xml:space="preserve">
+    <value>Fout bij verwijderen van versie</value>
   </data>
   <data name="Error.Content.Load" xml:space="preserve">
     <value>Er is een fout opgetreden bij het laden van inhoud</value>
+  </data>
+  <data name="Error.Content.Restore" xml:space="preserve">
+    <value>Fout bij herstellen van versie</value>
+  </data>
+  <data name="Error.Content.Save" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het opslaan van inhoud</value>
+  </data>
+  <data name="Error.Content.View" xml:space="preserve">
+    <value>Fout bij bekijken van versie</value>
+  </data>
+  <data name="Message.Content.Deleted" xml:space="preserve">
+    <value>Versie verwijderd</value>
+  </data>
+  <data name="Message.Content.Restored" xml:space="preserve">
+    <value>Versie hersteld</value>
+  </data>
+  <data name="Restore.Header" xml:space="preserve">
+    <value>Versie herstellen</value>
+  </data>
+  <data name="Restore.Text" xml:space="preserve">
+    <value>Herstellen</value>
+  </data>
+  <data name="View.Text" xml:space="preserve">
+    <value>Visie</value>
+  </data>
+  <data name="Edit Html/Text" xml:space="preserve">
+    <value>Bewerk HTML/tekst</value>
+  </data>
+  <data name="Edit.Heading" xml:space="preserve">
+    <value>Bewerking</value>
+  </data>
+  <data name="Versions.Heading" xml:space="preserve">
+    <value>Versies</value>
+  </data>
+  <data name="HtmlEditor.Heading" xml:space="preserve">
+    <value>Raw HTML-editor</value>
+  </data>
+  <data name="RichTextEditor.Heading" xml:space="preserve">
+    <value>Rich Text-editor</value>
   </data>
 </root>

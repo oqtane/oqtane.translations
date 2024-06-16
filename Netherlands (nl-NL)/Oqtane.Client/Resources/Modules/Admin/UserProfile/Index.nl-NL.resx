@@ -168,12 +168,6 @@
   <data name="Identity.Name" xml:space="preserve">
     <value>Identiteit</value>
   </data>
-  <data name="Confirm.HelpText" xml:space="preserve">
-    <value>Als je jou wachtwoord wijzigt, moet je het opnieuw invoeren om te bevestigen dat het overeenkomt</value>
-  </data>
-  <data name="Confirm.Text" xml:space="preserve">
-    <value>Bevestig wachtwoord:</value>
-  </data>
   <data name="DisplayName.HelpText" xml:space="preserve">
     <value>Jouw volledige naam</value>
   </data>
@@ -203,5 +197,50 @@
   </data>
   <data name="Username.Text" xml:space="preserve">
     <value>Gebruikersnaam:</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Als je jou wachtwoord wijzigt, moet je het opnieuw invoeren om te bevestigen dat het overeenkomt met de hierboven ingevoerde waarde</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Bevestiging:</value>
+  </data>
+  <data name="TwoFactor.HelpText" xml:space="preserve">
+    <value>Geeft aan of je tweefactorauthenticatie gebruikt. Twee-factor-authenticatie vereist dat je een verificatiecode invoert die via e-mail is verzonden nadat je zich hebt aangemeld.</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>Twee factoren?</value>
+  </data>
+  <data name="DeleteAllNotifications.Header" xml:space="preserve">
+    <value>Meldingen wissen</value>
+  </data>
+  <data name="DeleteAllNotifications.Message" xml:space="preserve">
+    <value>Weet je zeker dat je alle meldingen permanent wil verwijderen?</value>
+  </data>
+  <data name="DeleteAllNotifications.Text" xml:space="preserve">
+    <value>ALLE meldingen verwijderen</value>
+  </data>
+  <data name="Notifications.Heading" xml:space="preserve">
+    <value>Meldingen</value>
+  </data>
+  <data name="Profile.Heading" xml:space="preserve">
+    <value>Profiel</value>
+  </data>
+  <data name="Message.Password.Complexity" xml:space="preserve">
+    <value>Opgegeven wachtwoord voldoet niet aan het complexiteitsbeleid</value>
+  </data>
+  <data name="ViewNotification.Text" xml:space="preserve">
+    <value>Weergave</value>
+  </data>
+  <data name="DeleteNotification.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="NoNotificationsReceived.Text" xml:space="preserve">
+    <value>Er zijn geen meldingen ontvangen</value>
+  </data>
+  <data name="NoNotificationsSent.Text" xml:space="preserve">
+    <value>Er zijn geen meldingen verzonden</value>
+  </data>
+  <data name="Message.User.NoEmail" xml:space="preserve">
+    <value>U moet een e-mailadres opgeven voor uw gebruikersaccount</value>
   </data>
 </root>

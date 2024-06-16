@@ -153,17 +153,8 @@
   <data name="RunsEvery.HelpText" xml:space="preserve">
     <value>Selecteer hoe vaak je wil dat de taak wordt uitgevoerd</value>
   </data>
-  <data name="Starting.HelpText" xml:space="preserve">
-    <value>Hoe laat wil je dat de klus begint?</value>
-  </data>
-  <data name="Ending.HelpText" xml:space="preserve">
-    <value>Wanneer wil je dat de klus afloopt?</value>
-  </data>
   <data name="RetentionLog.HelpText" xml:space="preserve">
     <value>Aantal logboekvermeldingen dat voor deze taak moet worden bewaard</value>
-  </data>
-  <data name="NextExecution.HelpText" xml:space="preserve">
-    <value>Volgende uitvoering voor deze klus.</value>
   </data>
   <data name="Type.Text" xml:space="preserve">
     <value>Type:</value>
@@ -185,5 +176,23 @@
   </data>
   <data name="NextExecution.Text" xml:space="preserve">
     <value>Volgende uitvoering:</value>
+  </data>
+  <data name="Week(s)" xml:space="preserve">
+    <value>Weken)</value>
+  </data>
+  <data name="Once" xml:space="preserve">
+    <value>Eenmaal uitvoeren</value>
+  </data>
+  <data name="Ending.HelpText" xml:space="preserve">
+    <value>Voer optioneel de datum en tijd in waarop deze taak moet stoppen met uitvoeren</value>
+  </data>
+  <data name="NextExecution.HelpText" xml:space="preserve">
+    <value>Wijzig optioneel de datum en tijd waarop deze taak de volgende keer moet worden uitgevoerd</value>
+  </data>
+  <data name="Message.StartEndDateError" xml:space="preserve">
+    <value>De startdatum kan niet na de einddatum liggen.</value>
+  </data>
+  <data name="Starting.HelpText" xml:space="preserve">
+    <value>Voer eventueel de datum en tijd in waarop deze taak moet beginnen met uitvoeren</value>
   </data>
 </root>

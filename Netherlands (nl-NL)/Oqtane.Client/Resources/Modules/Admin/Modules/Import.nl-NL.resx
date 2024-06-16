@@ -138,4 +138,7 @@
   <data name="Message.Required.ImportContent" xml:space="preserve">
     <value>Je moet wat inhoud invoeren om te importeren</value>
   </data>
+  <data name="Import Content" xml:space="preserve">
+    <value>Inhoud importeren</value>
+  </data>
 </root>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -129,9 +129,6 @@
   <data name="Success.File.Upload" xml:space="preserve">
     <value>Bestandsupload geslaagd</value>
   </data>
-  <data name="Error.File.Upload" xml:space="preserve">
-    <value>Bestand uploaden mislukt</value>
-  </data>
   <data name="Message.File.NotSelected" xml:space="preserve">
     <value>Je heeft geen bestand geselecteerd om te uploaden</value>
   </data>
@@ -140,5 +137,11 @@
   </data>
   <data name="Error.File.Delete" xml:space="preserve">
     <value>Fout bij verwijderen van bestand</value>
+  </data>
+  <data name="Message.File.Restricted" xml:space="preserve">
+    <value>Bestanden met de extensie {0} mogen niet worden geüpload. Neem contact op met je beheerder voor meer informatie.</value>
+  </data>
+  <data name="Error.File.Upload" xml:space="preserve">
+    <value>Het uploaden van het bestand is mislukt of is nog bezig</value>
   </data>
 </root>

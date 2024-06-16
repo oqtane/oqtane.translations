@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="SynchronizeContent" xml:space="preserve">
-    <value>Inhoud synchroniseren</value>
-  </data>
   <data name="InsertImage" xml:space="preserve">
     <value>Voeg afbeelding in</value>
   </data>
@@ -128,5 +125,8 @@
   </data>
   <data name="Message.Require.Image" xml:space="preserve">
     <value>Je moet een afbeelding selecteren om in te voegen</value>
+  </data>
+  <data name="Placeholder" xml:space="preserve">
+    <value>Voer je inhoud in...</value>
   </data>
 </root>

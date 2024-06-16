@@ -117,49 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name.Text" xml:space="preserve">
-    <value>Naam:</value>
-  </data>
-  <data name="InternalName.HelpText" xml:space="preserve">
-    <value>De interne naam van de module</value>
-  </data>
-  <data name="InternalName.Text" xml:space="preserve">
-    <value>Interne naam:</value>
-  </data>
-  <data name="Version.Text" xml:space="preserve">
-    <value>Versie:</value>
-  </data>
-  <data name="Owner.Text" xml:space="preserve">
-    <value>Eigenaar:</value>
-  </data>
-  <data name="ReferenceUrl.Text" xml:space="preserve">
-    <value>Referentie-URL:</value>
-  </data>
-  <data name="Contact.Text" xml:space="preserve">
-    <value>Contact:</value>
-  </data>
-  <data name="License.Text" xml:space="preserve">
-    <value>Licentie:</value>
-  </data>
-  <data name="Error.Theme.Loading" xml:space="preserve">
-    <value>Fout bij laden van thema</value>
-  </data>
-  <data name="Name.HelpText" xml:space="preserve">
-    <value>De naam van het thema</value>
-  </data>
-  <data name="Version.HelpText" xml:space="preserve">
-    <value>De versie van het thema</value>
-  </data>
-  <data name="Owner.HelpText" xml:space="preserve">
-    <value>De eigenaar of maker van het thema</value>
-  </data>
-  <data name="ReferenceUrl.HelpText" xml:space="preserve">
-    <value>De referentie-URL van het thema</value>
-  </data>
-  <data name="Contact.HelpText" xml:space="preserve">
-    <value>Het aanspreekpunt voor het thema</value>
-  </data>
-  <data name="License.HelpText" xml:space="preserve">
-    <value>De licentie van het thema</value>
-  </data>
 </root>

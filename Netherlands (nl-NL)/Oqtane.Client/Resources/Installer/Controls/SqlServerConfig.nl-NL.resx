@@ -120,9 +120,6 @@
   <data name="Server.Text" xml:space="preserve">
     <value>Server:</value>
   </data>
-  <data name="Server.HelpText" xml:space="preserve">
-    <value>Voer de databaseserver in</value>
-  </data>
   <data name="Database.Text" xml:space="preserve">
     <value>Gegevensbestand:</value>
   </data>
@@ -153,22 +150,25 @@
   <data name="Integrated" xml:space="preserve">
     <value>Geïntegreerd</value>
   </data>
-  <data name="Encryption,Text" xml:space="preserve">
-    <value>Encryptie:</value>
-  </data>
   <data name="Encryption.HelpText" xml:space="preserve">
     <value>Geef aan of je een versleutelde databaseverbinding gebruikt. Het wordt sterk aanbevolen om encryptie te gebruiken in een productieomgeving.</value>
   </data>
   <data name="Self Signed" xml:space="preserve">
     <value>Zelf ondertekend</value>
   </data>
-  <data name="TrustServerCertificate.HelpText" xml:space="preserve">
-    <value>Specificeer het type certificaat dat je gebruikt voor codering</value>
-  </data>
   <data name="TrustServerCertificate.Text" xml:space="preserve">
     <value>Trust Server-certificaat:</value>
   </data>
   <data name="Verifiable" xml:space="preserve">
     <value>Verifieerbaar</value>
+  </data>
+  <data name="Server.HelpText" xml:space="preserve">
+    <value>Voer de naam van de databaseserver in. Dit kan ook een poortnummer bevatten als je een cloudservice gebruikt (bijv. servernaam.database.windows.net,1433)</value>
+  </data>
+  <data name="TrustServerCertificate.HelpText" xml:space="preserve">
+    <value>Geef het type certificaat op dat je gebruikt voor codering. Verifieerbaar is gelijk aan False. Zelfondertekend is gelijk aan True.</value>
+  </data>
+  <data name="Encryption.Text" xml:space="preserve">
+    <value>Encryptie:</value>
   </data>
 </root>

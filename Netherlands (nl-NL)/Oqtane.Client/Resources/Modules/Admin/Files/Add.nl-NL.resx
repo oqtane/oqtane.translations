@@ -162,4 +162,7 @@
   <data name="Name.Text" xml:space="preserve">
     <value>Naam:</value>
   </data>
+  <data name="DownloadFiles.Heading" xml:space="preserve">
+    <value>Bestanden downloaden</value>
+  </data>
 </root>

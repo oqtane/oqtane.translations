@@ -123,25 +123,25 @@
   <data name="Error.Package.Load" xml:space="preserve">
     <value>Fout bij het laden van pakketten</value>
   </data>
-  <data name="Success.Module.Install" xml:space="preserve">
-    <value>Module succesvol geïnstalleerd. Je moet jouw toepassing &lt;a href={0}&gt;Herstarten&lt;/a&gt; om deze wijzigingen toe te passen.</value>
-  </data>
-  <data name="Success.Module.Download" xml:space="preserve">
-    <value>Module succesvol gedownload. Klik op Installeren om de installatie te voltooien.</value>
-  </data>
   <data name="Error.Module.Download" xml:space="preserve">
     <value>Fout bij downloaden van module</value>
-  </data>
-  <data name="Module.HelpText" xml:space="preserve">
-    <value>Upload een of meerdere modulepakketten. Zodra ze zijn geüpload, klikt u op Installeren om de installatie te voltooien.</value>
   </data>
   <data name="Search.NoResults" xml:space="preserve">
     <value>Geen enkele module komt overeen met de opgegeven criteria of de pakketservice is uitgeschakeld</value>
   </data>
-  <data name="Download.Heading" xml:space="preserve">
-    <value>Downloaden</value>
-  </data>
   <data name="Upload.Heading" xml:space="preserve">
     <value>Uploaden</value>
+  </data>
+  <data name="Module.HelpText" xml:space="preserve">
+    <value>Upload één of meerdere modulepakketten.</value>
+  </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Marktplaats</value>
+  </data>
+  <data name="Product" xml:space="preserve">
+    <value>Product</value>
+  </data>
+  <data name="Success.Module.Download" xml:space="preserve">
+    <value>Modulepakket succesvol gedownload. Je moet je toepassing &lt;a href={0}&gt;opnieuw starten&lt;/a&gt; om de installatie te voltooien.</value>
   </data>
 </root>

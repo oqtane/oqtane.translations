@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -151,7 +151,7 @@
     <value>Fout bij opslaan van site</value>
   </data>
   <data name="Info.Smtp.SaveSettings" xml:space="preserve">
-    <value>SMTP-instellingen zijn opgeslagen en er is een bericht verzonden naar het e-mailadres dat aan uw gebruikersaccount is gekoppeld... Een paar minuten wachten op levering. Als u de e-mail niet ontvangt, controleer dan de meldingstaak in geplande taken voor eventuele logboekdetails.</value>
+    <value>SMTP-instellingen zijn opgeslagen en er is een bericht verzonden naar het e-mailadres dat aan jou gebruikersaccount is gekoppeld... Een paar minuten wachten op levering. Als je de e-mail niet ontvangt, controleer dan de meldingstaak in geplande taken voor eventuele logboekdetails.</value>
   </data>
   <data name="Error.Smtp.TestConfig" xml:space="preserve">
     <value>Fout bij testen van SMTP-configuratie</value>
@@ -171,9 +171,6 @@
   <data name="Logo.HelpText" xml:space="preserve">
     <value>Geef een logo voor de site op</value>
   </data>
-  <data name="FavoriteIcon.HelpText" xml:space="preserve">
-    <value>Specificeer een favicon</value>
-  </data>
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Selecteer het standaardthema van de site</value>
   </data>
@@ -187,37 +184,22 @@
     <value>Voer de hostnaam van de SMTP-server in</value>
   </data>
   <data name="Port.HelpText" xml:space="preserve">
-    <value>Voer het poortnummer voor de SMTP-server in. Let op: dit veld is verplicht als u een hostnaam opgeeft.</value>
+    <value>Voer het poortnummer voor de SMTP-server in. Let op: dit veld is verplicht als je een hostnaam opgeeft.</value>
   </data>
   <data name="UseSsl.HelpText" xml:space="preserve">
     <value>Specificeer of SSL vereist is voor jouw SMTP-server</value>
   </data>
-  <data name="SmptUsername.HelpText" xml:space="preserve">
-    <value>Voer de gebruikersnaam voor uw SMTP-account in</value>
-  </data>
   <data name="SmtpPassword.HelpText" xml:space="preserve">
     <value>Voer het wachtwoord voor jouw SMTP-account in</value>
-  </data>
-  <data name="SmptSender.HelpText" xml:space="preserve">
-    <value>Voer het e-mailadres in van waaruit e-mails worden verzonden. Houd er rekening mee dat dit e-mailadres mogelijk moet worden geautoriseerd met de SMTP-server.</value>
   </data>
   <data name="EnablePWA.HelpText" xml:space="preserve">
     <value>Selecteer of je deze site beschikbaar wil hebben als Progressive Web Application (PWA)</value>
   </data>
   <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
-    <value>Voeg een toepassingspictogram toe voor uw PWA. Het moet een PNG zijn met een afmeting van 192 x 192 pixels.</value>
+    <value>Voeg een toepassingspictogram toe voor je PWA. Het moet een PNG zijn met een afmeting van 192 x 192 pixels.</value>
   </data>
   <data name="PwaSplashIcon.HelpText" xml:space="preserve">
-    <value>Voeg een splash-pictogram toe voor uw PWA. Het moet een PNG zijn met een afmeting van 512 x 512 pixels.</value>
-  </data>
-  <data name="Tenant.Text" xml:space="preserve">
-    <value>Tenant :</value>
-  </data>
-  <data name="Aliases.Text" xml:space="preserve">
-    <value>aliassen:</value>
-  </data>
-  <data name="IsDeleted.Text" xml:space="preserve">
-    <value>Is verwijderd?</value>
+    <value>Voeg een splash-pictogram toe voor je PWA. Het moet een PNG zijn met een afmeting van 512 x 512 pixels.</value>
   </data>
   <data name="Logo.Text" xml:space="preserve">
     <value>Logo:</value>
@@ -240,14 +222,8 @@
   <data name="UseSsl.Text" xml:space="preserve">
     <value>SSL ingeschakeld:</value>
   </data>
-  <data name="SmptUsername.Text" xml:space="preserve">
-    <value>Gebruikersnaam:</value>
-  </data>
   <data name="SmtpPassword.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
-  </data>
-  <data name="SmptSender.Text" xml:space="preserve">
-    <value>E-mail afzender:</value>
   </data>
   <data name="EnablePWA.Text" xml:space="preserve">
     <value>Is ingeschakeld?</value>
@@ -270,12 +246,6 @@
   <data name="Theme.Select" xml:space="preserve">
     <value>Selecteer thema</value>
   </data>
-  <data name="Aliases.HelpText" xml:space="preserve">
-    <value>De aliassen voor de site. Een alias kan een domeinnaam (www.site.com) of een virtuele map (bijv. www.site.com/folder) zijn. Als een site meerdere aliassen heeft, moeten deze worden gescheiden door komma's.</value>
-  </data>
-  <data name="Prerender.HelpText" xml:space="preserve">
-    <value>Specificeert of de site vooraf moet worden weergegeven (voor zoekcrawlers, enz...)</value>
-  </data>
   <data name="Prerender.Text" xml:space="preserve">
     <value>Vooraf?</value>
   </data>
@@ -288,14 +258,8 @@
   <data name="Browse" xml:space="preserve">
     <value>Bladeren</value>
   </data>
-  <data name="Appearance.Heading" xml:space="preserve">
-    <value>Uiterlijk</value>
-  </data>
   <data name="Hosting.Heading" xml:space="preserve">
     <value>Hostingmodel</value>
-  </data>
-  <data name="TenantInformation.Heading" xml:space="preserve">
-    <value>Tenant Informatie</value>
   </data>
   <data name="PWASettings.Heading" xml:space="preserve">
     <value>PWA-instellingen</value>
@@ -306,16 +270,163 @@
   <data name="ConnectionString.Text" xml:space="preserve">
     <value>Verbinding:</value>
   </data>
-  <data name="Database.Text" xml:space="preserve">
-    <value>Gegevensbestand:</value>
-  </data>
   <data name="ConnectionString.HelpText" xml:space="preserve">
     <value>De verbindingsinformatie voor de database</value>
   </data>
-  <data name="Database.HelpText" xml:space="preserve">
-    <value>De database voor de tenant</value>
-  </data>
   <data name="DeleteSite.Text" xml:space="preserve">
     <value>Site verwijderen</value>
+  </data>
+  <data name="DefaultAlias.HelpText" xml:space="preserve">
+    <value>De standaardalias voor de site. Verzoeken voor niet-standaard aliassen worden doorgestuurd naar de standaard alias.</value>
+  </data>
+  <data name="DefaultAlias.Text" xml:space="preserve">
+    <value>Standaardalias:</value>
+  </data>
+  <data name="AliasName" xml:space="preserve">
+    <value>Naam</value>
+  </data>
+  <data name="AliasDefault" xml:space="preserve">
+    <value>Standaard?</value>
+  </data>
+  <data name="Confirm.Alias.Delete" xml:space="preserve">
+    <value>Weet je zeker dat je {0} wil verwijderen?</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>De aliassen voor de site. Een alias kan een domeinnaam (www.site.com) of een virtuele map (bijv. www.site.com/folder) zijn.</value>
+  </data>
+  <data name="HomePage.HelpText" xml:space="preserve">
+    <value>Selecteer de startpagina voor de site (te gebruiken als er geen pagina is met een pad van '/')</value>
+  </data>
+  <data name="HomePage.Text" xml:space="preserve">
+    <value>Startpagina:</value>
+  </data>
+  <data name="SmtpUsername.HelpText" xml:space="preserve">
+    <value>Voer de gebruikersnaam voor jouw SMTP-account in</value>
+  </data>
+  <data name="SmtpSender.HelpText" xml:space="preserve">
+    <value>Voer het e-mailadres in waarvandaan e-mails worden verzonden. Houd er rekening mee dat dit e-mailadres mogelijk moet worden geautoriseerd met de SMTP-server.</value>
+  </data>
+  <data name="SmtpUsername.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
+  </data>
+  <data name="SmtpSender.Text" xml:space="preserve">
+    <value>E-mail afzender:</value>
+  </data>
+  <data name="SmtpRelay.HelpText" xml:space="preserve">
+    <value>Geef deze optie alleen op als je een SMTP-relayservice correct hebt geconfigureerd om jouw uitgaande e-mail te routeren. Met deze optie worden meldingen verzonden vanaf de e-mail van de gebruiker in plaats van vanaf de hierboven opgegeven e-mailafzender.</value>
+  </data>
+  <data name="SmtpRelay.Text" xml:space="preserve">
+    <value>Relais geconfigureerd?</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>Databank</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Type:</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Het type database</value>
+  </data>
+  <data name="SiteMap.HelpText" xml:space="preserve">
+    <value>De sitemap-URL voor deze site die kan worden ingediend bij zoekmachines voor indexering</value>
+  </data>
+  <data name="SiteMap.Text" xml:space="preserve">
+    <value>Sitemap:</value>
+  </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Verschijning</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>Voer optioneel inhoud in die moet worden opgenomen in de paginakop (d.w.z. meta-, link- of scripttags)</value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Hoofd Inhoud:</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>Voer optioneel inhoud in die moet worden opgenomen in de hoofdtekst van de pagina (d.w.z. scripttags)</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Lichaamsinhoud:</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Pagina inhoud</value>
+  </data>
+  <data name="SMTPEnabled.HelpText" xml:space="preserve">
+    <value>Geef op of SMTP is ingeschakeld voor deze site</value>
+  </data>
+  <data name="SMTPEnabled.Text" xml:space="preserve">
+    <value>Ingeschakeld?</value>
+  </data>
+  <data name="Version.HelpText" xml:space="preserve">
+    <value>De siteversie (voor migraties van sitecontent)</value>
+  </data>
+  <data name="Version.Text" xml:space="preserve">
+    <value>Versie:</value>
+  </data>
+  <data name="DeleteSite.Header" xml:space="preserve">
+    <value>Site verwijderen</value>
+  </data>
+  <data name="DeleteAlias.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="DeleteAlias.Header" xml:space="preserve">
+    <value>Alias verwijderen</value>
+  </data>
+  <data name="SiteGuid.HelpText" xml:space="preserve">
+    <value>De unieke identificatie voor de site</value>
+  </data>
+  <data name="SiteGuid.Text" xml:space="preserve">
+    <value>ID KAART:</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>Aantal dagen dat meldingen moeten worden bewaard</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>Retentie (dagen):</value>
+  </data>
+  <data name="FileExtensions.Heading" xml:space="preserve">
+    <value>Bestandsextensies</value>
+  </data>
+  <data name="ImageExtensions.HelpText" xml:space="preserve">
+    <value>Voer een door komma's gescheiden lijst met afbeeldingsbestandsextensies in</value>
+  </data>
+  <data name="ImageExtensions.Text" xml:space="preserve">
+    <value>Afbeeldingsextensies:</value>
+  </data>
+  <data name="UploadableFileExtensions.HelpText" xml:space="preserve">
+    <value>Voer een door komma's gescheiden lijst met uploadbare bestandsextensies in</value>
+  </data>
+  <data name="UploadableFileExtensions.Text" xml:space="preserve">
+    <value>Uploadbare bestandsextensies:</value>
+  </data>
+  <data name="HybridEnabled.HelpText" xml:space="preserve">
+    <value>Geeft aan of de site kan worden geïntegreerd met een externe hybride .NET MAUI-toepassing</value>
+  </data>
+  <data name="HybridEnabled.Text" xml:space="preserve">
+    <value>Hybride ingeschakeld?</value>
+  </data>
+  <data name="FavoriteIcon.HelpText" xml:space="preserve">
+    <value>Geef een favicon op. Het formaat voor de afbeelding moet het formaat 16×16, 32×32, 48×48 of 64×64 pixels hebben en de kleurdiepte 8-bit, 24-bit of 32-bit. Het formaat van de afbeelding moet ICO, PNG of GIF zijn.</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Gegevensbestand:</value>
+  </data>
+  <data name="RenderMode.HelpText" xml:space="preserve">
+    <value>De standaardweergavemodus voor de site</value>
+  </data>
+  <data name="RenderMode.Text" xml:space="preserve">
+    <value>Rendermodus:</value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>URL's:</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Verwijderd?</value>
+  </data>
+  <data name="Aliases.Heading" xml:space="preserve">
+    <value>Site-URL's</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Specificeert of interactieve componenten hun uitvoer vooraf op de server moeten weergeven</value>
   </data>
 </root>

@@ -123,4 +123,7 @@
   <data name="Error.Content.Load" xml:space="preserve">
     <value>Er is een fout opgetreden bij het laden van inhoud</value>
   </data>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Bewerk</value>
+  </data>
 </root>

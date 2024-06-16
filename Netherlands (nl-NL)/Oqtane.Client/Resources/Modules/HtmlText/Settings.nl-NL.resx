@@ -123,4 +123,10 @@
   <data name="AllowFileManagement.Text" xml:space="preserve">
     <value>Bestandsbeheer toestaan:</value>
   </data>
+  <data name="AllowRawHtml.HelpText" xml:space="preserve">
+    <value>Opgeven of editors onbewerkte HTML kunnen invoeren</value>
+  </data>
+  <data name="AllowRawHtml.Text" xml:space="preserve">
+    <value>Sta onbewerkte HTML toe:</value>
+  </data>
 </root>

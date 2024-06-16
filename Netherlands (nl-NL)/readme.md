@@ -3,7 +3,8 @@
 | Spec                | Value                               | Comments
 | ------------------- | ----------------------------------- | ------------------- |
 | Language            | Netherlands (Nederlands)
-| Culture             | Nederland (Nederlands)
-| For Oqtane          | 3.0.1 release
-| Last Update         | 2021-Dec-13
-| Maintained by       | [Leigh Pointer](https://www.studio-elf.ga)
+| Culture             | nl-NL
+| For Oqtane          | 5.1.2 release
+| Files               | Oqtane.Client.resources.dll, Oqtane.Server.resources.dll
+| Last Update         | 2024-May-29
+| Maintained by       | [Leigh Pointer](https://www.studio-elf.net)

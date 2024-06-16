@@ -135,4 +135,10 @@
   <data name="Message.InfoRequired" xml:space="preserve">
     <value>Geef alle vereiste informatie op</value>
   </data>
+  <data name="Message.DuplicateUrlMapping" xml:space="preserve">
+    <value>De URL en Omleiding Naar kunnen niet hetzelfde zijn</value>
+  </data>
+  <data name="Message.SaveUrlMapping" xml:space="preserve">
+    <value>De URL moet bij de huidige site horen</value>
+  </data>
 </root>

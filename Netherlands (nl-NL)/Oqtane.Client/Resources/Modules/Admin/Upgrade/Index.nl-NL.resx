@@ -126,9 +126,6 @@
   <data name="Framework.HelpText" xml:space="preserve">
     <value>Upload een framework-pakket en selecteer Installeren om de installatie te voltooien</value>
   </data>
-  <data name="Framework.Text" xml:space="preserve">
-    <value>Kader:</value>
-  </data>
   <data name="Info.Upgrade.Wait" xml:space="preserve">
     <value>Wees geduldig terwijl de upgrade wordt uitgevoerd...</value>
   </data>
@@ -140,5 +137,17 @@
   </data>
   <data name="Upload.Heading" xml:space="preserve">
     <value>Uploaden</value>
+  </data>
+  <data name="Message.Text" xml:space="preserve">
+    <value>Framework is al up-to-date</value>
+  </data>
+  <data name="MessageUpgrade.Text" xml:space="preserve">
+    <value>Upload een raamwerkpakket (Oqtane.Framework.version.nupkg) en selecteer vervolgens Upgrade</value>
+  </data>
+  <data name="Localhost.Text" xml:space="preserve">
+    <value>Je kunt geen systeemupdate uitvoeren in een ontwikkelomgeving</value>
+  </data>
+  <data name="Framework.Text" xml:space="preserve">
+    <value>Kader:</value>
   </data>
 </root>

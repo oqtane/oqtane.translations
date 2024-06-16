@@ -165,22 +165,34 @@
   <data name="Error.Modules.Delete" xml:space="preserve">
     <value>Fout bij het permanent verwijderen van modules</value>
   </data>
-  <data name="DeleteAllPages.Header" xml:space="preserve">
-    <value>Alle pagina's verwijderen</value>
-  </data>
-  <data name="DeleteAllPages.Message" xml:space="preserve">
-    <value>Weet je zeker dat je alle pagina's permanent wil verwijderen?</value>
-  </data>
-  <data name="DeleteAllModules.Header" xml:space="preserve">
-    <value>Alle modules verwijderen</value>
-  </data>
-  <data name="DeleteAllModules.Message" xml:space="preserve">
-    <value>Weet j zeker dat je alle modules permanent wil verwijderen?</value>
-  </data>
   <data name="Pages.Heading" xml:space="preserve">
     <value>Pagina's</value>
   </data>
   <data name="Modules.Heading" xml:space="preserve">
     <value>Modules</value>
+  </data>
+  <data name="DeleteAllPages.Header" xml:space="preserve">
+    <value>Alle verwijderde pagina's verwijderen</value>
+  </data>
+  <data name="DeleteAllPages.Message" xml:space="preserve">
+    <value>Weet je zeker dat je alle verwijderde pagina's permanent wil verwijderen?</value>
+  </data>
+  <data name="DeleteAllPages.Text" xml:space="preserve">
+    <value>Alle verwijderde pagina's verwijderen</value>
+  </data>
+  <data name="DeleteAllModules.Header" xml:space="preserve">
+    <value>Alle verwijderde modules verwijderen</value>
+  </data>
+  <data name="DeleteAllModules.Text" xml:space="preserve">
+    <value>Alle verwijderde modules verwijderen</value>
+  </data>
+  <data name="DeleteAllModules.Message" xml:space="preserve">
+    <value>Weet je zeker dat je alle verwijderde modules permanent wilt verwijderen?</value>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="DeletePage.Text" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
 </root>

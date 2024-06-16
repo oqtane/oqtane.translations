@@ -145,9 +145,18 @@
     <value>Module verwijderen</value>
   </data>
   <data name="InUse" xml:space="preserve">
-    <value>In gebruik</value>
+    <value>In gebruik?</value>
   </data>
   <data name="EditModule.Text" xml:space="preserve">
     <value>Bewerk</value>
+  </data>
+  <data name="Modules" xml:space="preserve">
+    <value>Modules</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Ingeschakeld?</value>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
 </root>

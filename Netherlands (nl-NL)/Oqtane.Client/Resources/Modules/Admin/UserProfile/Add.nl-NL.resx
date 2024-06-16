@@ -120,9 +120,6 @@
   <data name="Message.Text" xml:space="preserve">
     <value>Bericht:</value>
   </data>
-  <data name="Message.User.Invalid" xml:space="preserve">
-    <value>Gebruiker bestaat niet. Controleer of de opgegeven gebruikersnaam correct is.</value>
-  </data>
   <data name="Error.Notification.Add" xml:space="preserve">
     <value>Fout bij toevoegen van melding</value>
   </data>
@@ -140,5 +137,17 @@
   </data>
   <data name="Subject.Text" xml:space="preserve">
     <value>Onderwerpen:</value>
+  </data>
+  <data name="Send Notification" xml:space="preserve">
+    <value>Melding verzenden</value>
+  </data>
+  <data name="Message.Required" xml:space="preserve">
+    <value>Je moet alle vereiste informatie invoeren</value>
+  </data>
+  <data name="Username.Enter" xml:space="preserve">
+    <value>Vul je gebruikersnaam in</value>
+  </data>
+  <data name="Message.User.Invalid" xml:space="preserve">
+    <value>De opgegeven gebruiker bestaat niet</value>
   </data>
 </root>

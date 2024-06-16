@@ -195,4 +195,55 @@
   <data name="Information.Text" xml:space="preserve">
     <value>Informatie</value>
   </data>
+  <data name="PackageName.Text" xml:space="preserve">
+    <value>Verpakkingsnaam:</value>
+  </data>
+  <data name="Error.Translation.Download" xml:space="preserve">
+    <value>Fout bij downloaden van vertaling</value>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>Er zijn geen vertalingen voor deze module of de pakketservice is uitgeschakeld</value>
+  </data>
+  <data name="Translations.Heading" xml:space="preserve">
+    <value>Vertalingen</value>
+  </data>
+  <data name="Search.PackageNameMissing" xml:space="preserve">
+    <value>Er is geen pakketnaam opgegeven voor de module</value>
+  </data>
+  <data name="Success.Translation.Download" xml:space="preserve">
+    <value>Vertaalpakket succesvol opgeslagen. Je moet uw toepassing &lt;a href={0}&gt;opnieuw starten&lt;/a&gt; om de installatie te voltooien.</value>
+  </data>
+  <data name="Message.DuplicateName" xml:space="preserve">
+    <value>Er bestaat al een module met de opgegeven naam</value>
+  </data>
+  <data name="IsEnabled.HelpText" xml:space="preserve">
+    <value>Is de module ingeschakeld voor deze site?</value>
+  </data>
+  <data name="IsEnabled.Text" xml:space="preserve">
+    <value>Ingeschakeld?</value>
+  </data>
+  <data name="View License" xml:space="preserve">
+    <value>Rijbewijs bekijken</value>
+  </data>
+  <data name="Error.Validate" xml:space="preserve">
+    <value>Fout bij valideren van pakket</value>
+  </data>
+  <data name="Message.Download" xml:space="preserve">
+    <value>Pakketversie is geverifieerd. Selecteer de downloadknop om het pakket te verkrijgen.</value>
+  </data>
+  <data name="Message.Validate" xml:space="preserve">
+    <value>Deze pakketversie is niet geregistreerd in de Oqtane-marktplaats of u heeft niet het recht om deze vanuit deze installatie te gebruiken</value>
+  </data>
+  <data name="Validate" xml:space="preserve">
+    <value>Valideer</value>
+  </data>
+  <data name="Pages.Heading" xml:space="preserve">
+    <value>Pagina's</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Bladeren</value>
+  </data>
+  <data name="PackageName.HelpText" xml:space="preserve">
+    <value>De unieke naam van het pakket waaruit deze module is geïnstalleerd. Deze waarde moet worden opgegeven binnen de IModule-interfacespecificatie van de module.</value>
+  </data>
 </root>

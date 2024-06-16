@@ -129,9 +129,6 @@
   <data name="Error.User.Load" xml:space="preserve">
     <value>Fout bij het laden van gebruikers</value>
   </data>
-  <data name="Error.User.LoadRole" xml:space="preserve">
-    <value>Fout bij laden van gebruikersrollen</value>
-  </data>
   <data name="Success.User.AssignedRole" xml:space="preserve">
     <value>Gebruiker toegewezen aan rol</value>
   </data>
@@ -149,9 +146,6 @@
   </data>
   <data name="Role.HelpText" xml:space="preserve">
     <value>De rol waaraan je gebruikers toewijst</value>
-  </data>
-  <data name="User.HelpText" xml:space="preserve">
-    <value>Selecteer een gebruiker</value>
   </data>
   <data name="EffectiveDate.HelpText" xml:space="preserve">
     <value>De datum waarop deze roltoewijzing actief is</value>
@@ -176,5 +170,8 @@
   </data>
   <data name="Expiry" xml:space="preserve">
     <value>Vervaldatum</value>
+  </data>
+  <data name="User.HelpText" xml:space="preserve">
+    <value>Voer de naam van een gebruiker in</value>
   </data>
 </root>

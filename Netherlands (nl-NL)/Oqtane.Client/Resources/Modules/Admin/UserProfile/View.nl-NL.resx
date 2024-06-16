@@ -126,22 +126,43 @@
   <data name="Error.Notification.Add" xml:space="preserve">
     <value>Fout bij toevoegen van melding</value>
   </data>
-  <data name="Title" xml:space="preserve">
-    <value>Titel:</value>
+  <data name="View Notification" xml:space="preserve">
+    <value>Bekijk melding</value>
   </data>
-  <data name="Subject" xml:space="preserve">
-    <value>Onderwerpen:</value>
+  <data name="Date.HelpText" xml:space="preserve">
+    <value>De datum waarop het bericht is verzonden</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Datum:</value>
+  <data name="Date.Text" xml:space="preserve">
+    <value>Verstuurd:</value>
   </data>
-  <data name="Message" xml:space="preserve">
+  <data name="From.HelpText" xml:space="preserve">
+    <value>De gebruiker die het bericht heeft verzonden</value>
+  </data>
+  <data name="From.Text" xml:space="preserve">
+    <value>Van:</value>
+  </data>
+  <data name="Message.HelpText" xml:space="preserve">
+    <value>De inhoud van het bericht</value>
+  </data>
+  <data name="Message.Text" xml:space="preserve">
     <value>Bericht:</value>
   </data>
-  <data name="Reply" xml:space="preserve">
-    <value>Antwoord</value>
+  <data name="RE" xml:space="preserve">
+    <value>MET BETREKKING TOT:</value>
   </data>
-  <data name="OriginalMessage" xml:space="preserve">
-    <value>Originele bericht</value>
+  <data name="Subject.HelpText" xml:space="preserve">
+    <value>Het onderwerp van het bericht</value>
+  </data>
+  <data name="Subject.Text" xml:space="preserve">
+    <value>Onderwerp:</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>Systeem</value>
+  </data>
+  <data name="To.HelpText" xml:space="preserve">
+    <value>De gebruiker die de ontvanger van het bericht zal zijn</value>
+  </data>
+  <data name="To.Text" xml:space="preserve">
+    <value>Naar:</value>
   </data>
 </root>

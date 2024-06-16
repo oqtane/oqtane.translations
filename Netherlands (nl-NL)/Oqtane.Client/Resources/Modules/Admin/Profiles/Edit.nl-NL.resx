@@ -183,4 +183,22 @@
   <data name="Private.Text" xml:space="preserve">
     <value>Privaat?</value>
   </data>
+  <data name="Validation.HelpText" xml:space="preserve">
+    <value>Geef optioneel een reguliere expressie (RegExp) op om de ingevoerde waarde te valideren</value>
+  </data>
+  <data name="Validation.Text" xml:space="preserve">
+    <value>Geldigmaking:</value>
+  </data>
+  <data name="Rows.HelpText" xml:space="preserve">
+    <value>Het aantal rijen voor tekstinvoer (één is de standaard)</value>
+  </data>
+  <data name="Rows.Text" xml:space="preserve">
+    <value>Rijen:</value>
+  </data>
+  <data name="Autocomplete.HelpText" xml:space="preserve">
+    <value>Met het HTML-autocomplete-attribuut kun je browsergedrag specificeren voor geautomatiseerde gebruikersondersteuning bij het invullen van formulierveldwaarden. Toegestane waarden zijn leeg (standaard), 'aan', 'uit' of een waarde uit de gestandaardiseerde taxonomie die voor dit kenmerk is gedefinieerd.</value>
+  </data>
+  <data name="Autocomplete.Text" xml:space="preserve">
+    <value>Automatisch aanvullen:</value>
+  </data>
 </root>
