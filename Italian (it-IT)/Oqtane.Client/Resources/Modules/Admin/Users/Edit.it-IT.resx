@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,52 +117,82 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>Email:</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Salva</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Sì</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
-  <data name="Confirm Password:" xml:space="preserve">
-    <value>Conferma Password:</value>
-  </data>
-  <data name="Full Name:" xml:space="preserve">
-    <value>Nome e cognome:</value>
-  </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+  <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>Le password inserite non corrispondono</value>
   </data>
-  <data name="Photo:" xml:space="preserve">
-    <value>Foto:</value>
+  <data name="Message.Password.Complexity" xml:space="preserve">
+    <value>La password fornita non rispetta la politica di complessità</value>
   </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>Identità</value>
   </data>
-  <data name="Is Deleted?" xml:space="preserve">
-    <value>Eliminato?</value>
+  <data name="Confirm.Delete" xml:space="preserve">
+    <value>E' eliminato?</value>
   </data>
-  <data name="Error Loading User" xml:space="preserve">
+  <data name="Error.User.Load" xml:space="preserve">
     <value>Errore durante il caricamento dell'utente</value>
   </data>
-  <data name="You Must Provide A Username, Password, Email Address, And All Required Profile Information" xml:space="preserve">
-    <value>Devi fornire un nome utente, una password, un indirizzo e-mail e tutte le informazioni richieste per il profilo</value>
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
+    <value>Devi fornire un Nome Utente, una Password, un indirizzo email e tutte le informazioni di profilo richieste</value>
   </data>
-  <data name="Error Saving User" xml:space="preserve">
+  <data name="Error.User.Save" xml:space="preserve">
     <value>Errore durante il salvataggio dell'utente</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Inserire la password nuovamente per confermare la corrispondenza con il valore sopra inserito</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Conferma Password:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Il nome completo dell'utente</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Nome completo:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>L'indirizzo email dove l'utente riceverà le notifiche</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>Indica se l'utente è attivo</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Eliminato?</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Password dell'utente. Scegli una password che sia sufficientemente sicura.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Nome utente univoco per l'utente. Attenzione che questo campo non può essere modificato.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nome Utente:</value>
+  </data>
+  <data name="Identity.Heading" xml:space="preserve">
+    <value>Identità</value>
+  </data>
+  <data name="Profile.Heading" xml:space="preserve">
+    <value>Profilo</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="LastIPAddress.HelpText" xml:space="preserve">
+    <value>L'indirizzo IP dell'utente registrato durante il suo ultimo login</value>
+  </data>
+  <data name="LastIPAddress.Text" xml:space="preserve">
+    <value>L'ultimo indirizzo IP: </value>
+  </data>
+  <data name="LastLogin.HelpText" xml:space="preserve">
+    <value>La data e l'ora quando l'utente ha eseguito l'accesso</value>
+  </data>
+  <data name="LastLogin.Text" xml:space="preserve">
+    <value>Ultimo Login:</value>
   </data>
 </root>

@@ -4,6 +4,6 @@
 | ------------------- | ----------------------------------- | ------------------- |
 | Language            | Italian (Italian)
 | Culture             | Italian (Italian)
-| For Oqtane          | 3.0.1 release
-| Last Update         | 2021-12-22
-| Maintained by       | [Artmedia](https://www.artmedia.it)
+| For Oqtane          | 5.1.2 release                       | .Net 8.0.5
+| Last Update         | 2024-06-16
+| Maintained by       | [Antonio Casiraro](https://github.com/acasiraro)

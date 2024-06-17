@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,37 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Download" xml:space="preserve">
-    <value>Download</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Name</value>
-  </data>
   <data name="Module.Text" xml:space="preserve">
-    <value>Module: </value>
+    <value>Moduli: </value>
   </data>
-  <data name="Version" xml:space="preserve">
-    <value>Version</value>
+  <data name="Error.Package.Load" xml:space="preserve">
+    <value>Errore durante il caricamento dei pacchetti</value>
   </data>
-  <data name="Install" xml:space="preserve">
-    <value>Install</value>
+  <data name="Success.Module.Download" xml:space="preserve">
+    <value>Modulo pacchetto scaricato con successo. Devi &lt;a href={0}&gt;Riavviare&lt;/a&gt; l'applicazione per completare l'installazione.</value>
+    <comment>Module Package Downloaded Successfully. You Must &lt;a href={0}&gt;Restart&lt;/a&gt; Your Application To Complete The Installation.</comment>
   </data>
-  <data name="Error Loading Packages" xml:space="preserve">
-    <value>Error Loading Packages</value>
-  </data>
-  <data name="Module Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
-    <value>Module Installed Successfully. You Must &lt;a href=\"{0}\"&gt;Restart&lt;/a&gt; Your Application To Apply These Changes.</value>
-  </data>
-  <data name="Modules Downloaded Successfully. Click Install To Complete Installation." xml:space="preserve">
-    <value>Modules Downloaded Successfully. Click Install To Complete Installation.</value>
-  </data>
-  <data name="Error Downloading Module" xml:space="preserve">
-    <value>Error Downloading Module</value>
+  <data name="Error.Module.Download" xml:space="preserve">
+    <value>Errore durante il download del modulo</value>
   </data>
   <data name="Module.HelpText" xml:space="preserve">
-    <value>Upload one or more module packages. Once they are uploaded click Install to complete the installation.</value>
+    <value>Carica uno o più di moduli pacchetti.</value>
+    <comment>Upload one or more module packages.</comment>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>Nessun Modulo corrisponde ai criteri forniti o il servizio del pacchetto è disabilitato</value>
+    <comment>No Modules Match The Criteria Provided Or Package Service Is Disabled</comment>
+  </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Marketplace</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Carica</value>
+  </data>
+  <data name="Product" xml:space="preserve">
+    <value>Prodotti</value>
   </data>
 </root>

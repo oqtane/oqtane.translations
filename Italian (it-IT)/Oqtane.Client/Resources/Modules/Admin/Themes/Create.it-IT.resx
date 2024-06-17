@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,55 +117,50 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
   <data name="Template.Text" xml:space="preserve">
-    <value>Modello di Template (Theme): </value>
+    <value>Modello: </value>
   </data>
-  <data name="Select Template" xml:space="preserve">
-    <value>Seleziona modello di Template (Theme)</value>
-  </data>
-  <data name="Local Version" xml:space="preserve">
-    <value>Versione locale</value>
+  <data name="Template.Select" xml:space="preserve">
+    <value>Seleziona Modello</value>
   </data>
   <data name="FrameworkReference.HelpText" xml:space="preserve">
-    <value>Seleziona una versione del framework</value>
+    <value>Seleziona una versione di riferimento del framework</value>
   </data>
   <data name="OwnerName.Text" xml:space="preserve">
-    <value>Nome organizzazione: </value>
+    <value>Nome Proprietario: </value>
   </data>
   <data name="FrameworkReference.Text" xml:space="preserve">
-    <value>Versione del framework: </value>
+    <value>Framework di riferimento: </value>
   </data>
   <data name="Location.Text" xml:space="preserve">
-    <value>Percorso: </value>
+    <value>Posizione: </value>
   </data>
-  <data name="Create Theme" xml:space="preserve">
+  <data name="Theme.Create" xml:space="preserve">
     <value>Crea tema</value>
   </data>
-  <data name="Please Note That The Theme Creator Is Only Intended To Be Used In A Development Environment" xml:space="preserve">
-    <value>Nota: il creatore del Template (Theme) è utilizzato solo in un ambiente di sviluppo</value>
+  <data name="Info.Theme.CreatorIntent" xml:space="preserve">
+    <value>Si prega di notare che il creatore di temi è destinato ad essere utilizzato solo in un ambiente di sviluppo</value>
   </data>
-  <data name="The Source Code For Your Theme Has Been Created At The Location Specified Below And Must Be Compiled In Order To Make It Functional. Once It Has Been Compiled You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Activate The Module." xml:space="preserve">
-    <value>Il codice sorgente per il tuo Template (Theme) è stato creato nella posizione specificata di seguito e deve essere compilato per renderlo funzionale. Una volta compilato, è necessario &lt;a href=\"{0}\"&gt;riavviare&lt;/a&gt; l'applicazione per attivare il modulo.</value>
+  <data name="Success.Theme.Create" xml:space="preserve">
+    <value>Il codice sorgente per il tema è stato creato nella posizione specificata sopra e deve essere compilato in ordine per farlo funzionare. Una volta compilato devi &lt;a href={0}&gt;Riavviare&lt;/a&gt; l'applicazione per attivare il modulo.</value>
   </data>
-  <data name="You Must Provide A Valid Owner Name And Theme Name ( ie. No Punctuation Or Spaces And The Values Cannot Be The Same ) And Choose A Template" xml:space="preserve">
-    <value>È necessario fornire un nome del proprietario e un nome del Template (Theme)(es. senza punteggiatura o spazi e i valori non possono essere gli stessi) e scegliere un modello di Template (Theme)</value>
+  <data name="Message.Required.ValidName" xml:space="preserve">
+    <value>Devi fornire un nome proprietario e un nome tema validi (cioè senza punteggiatura o spazi e i valori non possono essere gli stessi) e scegliere un modello</value>
   </data>
   <data name="OwnerName.HelpText" xml:space="preserve">
-    <value>Inserisci il nome dell'organizzazione che sta sviluppando questo Template (Theme). Non deve contenere spazi o punteggiatura.</value>
+    <value>Inserire il nome dell'organizzazione che sta sviluppando questo tema. Non deve contenere spazi o segni di punteggiatura.</value>
   </data>
   <data name="ThemeName.HelpText" xml:space="preserve">
-    <value>Inserisci un nome per questo Template (Theme). Non deve contenere spazi o punteggiatura.</value>
+    <value>Inserire un nome per questo tema. Non deve contenere spazi o segni di punteggiatura.</value>
+    <comment>Enter a name for this theme. It should not contain spaces or punctuation.</comment>
   </data>
   <data name="Template.HelpText" xml:space="preserve">
-    <value>Seleziona modello di Template (Theme). I modelli si trovano nella cartella wwwroot/Themes/Templates sul server.</value>
+    <value>Seleziona il modello di tema. I modelli sono posizionati nella cartella del server su wwwroot/Themes/Templates.</value>
   </data>
   <data name="Location.HelpText" xml:space="preserve">
-    <value>Percorso in cui verrà creato il Template (Theme)</value>
+    <value>Posizione dove il tema sarà creato</value>
   </data>
   <data name="ThemeName.Text" xml:space="preserve">
-    <value>Nome del Template (Theme): </value>
+    <value>Nome Tema: </value>
   </data>
 </root>

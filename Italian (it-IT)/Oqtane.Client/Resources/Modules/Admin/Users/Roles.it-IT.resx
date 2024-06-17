@@ -117,67 +117,67 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Delete" xml:space="preserve">
-    <value>Elimina</value>
+  <data name="Success.User.AssignRole" xml:space="preserve">
+    <value>User Assigned To Role</value>
   </data>
-  <data name="Save" xml:space="preserve">
-    <value>Salva</value>
+  <data name="Role.Text" xml:space="preserve">
+    <value>Role: </value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Effective Date: </value>
   </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Caricamento in corso...</value>
+  <data name="Roles" xml:space="preserve">
+    <value>Roles</value>
+  </data>
+  <data name="User.HelpText" xml:space="preserve">
+    <value>The user you are assigning roles to</value>
+  </data>
+  <data name="DeleteUserRole.Text" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Confirm.User.RemoveRole" xml:space="preserve">
+    <value>Sei sicuro di voler rimuovere questo utente dal ruolo {0}?</value>
   </data>
   <data name="User.Text" xml:space="preserve">
     <value>Utente: </value>
   </data>
-  <data name="Error Loading User Roles" xml:space="preserve">
-    <value>Errore durante il caricamento dei Ruoli utente</value>
+  <data name="Error.User.LoadRole" xml:space="preserve">
+    <value>Errore durante il caricamento dei ruoli utente</value>
   </data>
-  <data name="User Assigned To Role" xml:space="preserve">
-    <value>Utente assegnato al ruolo</value>
+  <data name="Error.User.SaveRole" xml:space="preserve">
+    <value>Errore durante il salvataggio dei Ruoli dell'utente</value>
   </data>
-  <data name="Error Saving User Roles" xml:space="preserve">
-    <value>Errore durante il salvataggio dei Ruoli utente</value>
+  <data name="Success.User.Remove" xml:space="preserve">
+    <value>Utente rimosso dal Ruolo</value>
   </data>
-  <data name="User Removed From Role" xml:space="preserve">
-    <value>Utente rimosso dal ruolo</value>
-  </data>
-  <data name="Error Removing User From Role" xml:space="preserve">
+  <data name="Error.User.RemoveRole" xml:space="preserve">
     <value>Errore durante la rimozione dell'utente dal Ruolo</value>
   </data>
   <data name="EffectiveDate.HelpText" xml:space="preserve">
-    <value>La data da cui questa assegnazione di ruolo è attiva</value>
+    <value>La data in cui questa assegnazione di ruolo è attiva</value>
   </data>
   <data name="ExpiryDate.HelpText" xml:space="preserve">
-    <value>La data di scadenza di questa assegnazione di ruolo</value>
-  </data>
-  <data name="Role.Text" xml:space="preserve">
-    <value>Ruolo: </value>
-  </data>
-  <data name="EffectiveDate.Text" xml:space="preserve">
-    <value>Data effettiva:</value>
+    <value>Data scadenza del ruolo assegnato</value>
   </data>
   <data name="ExpiryDate.Text" xml:space="preserve">
-    <value>Data di scadenza:</value>
+    <value>Data Scadenza: </value>
   </data>
-  <data name="Select Role" xml:space="preserve">
-    <value>Seleziona Ruolo</value>
+  <data name="Role.Select" xml:space="preserve">
+    <value>Seleziona ruolo</value>
   </data>
-  <data name="Roles" xml:space="preserve">
-    <value>Ruoli</value>
+  <data name="Error.LoadRole" xml:space="preserve">
+    <value>Errore durante il caricamento dei ruoli</value>
   </data>
-  <data name="Error Loading Roles" xml:space="preserve">
-    <value>Errore durante il caricamento dei Ruoli</value>
-  </data>
-  <data name="You Must Select A Role" xml:space="preserve">
-    <value>Devi selezionare un Ruolo</value>
-  </data>
-  <data name="User.HelpText" xml:space="preserve">
-    <value>L'utente a cui stai assegnando i ruoli</value>
+  <data name="Message.Required.Role" xml:space="preserve">
+    <value>È necessario selezionare un ruolo</value>
   </data>
   <data name="Role.HelpText" xml:space="preserve">
-    <value>Seleziona un Ruolo</value>
+    <value>Selezionare un ruolo</value>
+  </data>
+  <data name="Effective" xml:space="preserve">
+    <value>Effettivo</value>
+  </data>
+  <data name="Expiry" xml:space="preserve">
+    <value>Scadenza</value>
   </data>
 </root>

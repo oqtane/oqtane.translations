@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,28 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
   <data name="Content.HelpText" xml:space="preserve">
-    <value>Enter the module content</value>
+    <value>Inserisci il contenuto del modulo da importare</value>
+    <comment>Enter The Module Content To Import</comment>
   </data>
   <data name="Content.Text" xml:space="preserve">
-    <value>Content: </value>
+    <value>Contenuto: </value>
   </data>
   <data name="Import" xml:space="preserve">
-    <value>Import</value>
+    <value>Importa</value>
   </data>
-  <data name="Content Imported Successfully" xml:space="preserve">
-    <value>Content Imported Successfully</value>
+  <data name="Success.Content.Import" xml:space="preserve">
+    <value>Contenuto importato con successo</value>
   </data>
-  <data name="A Problem Was Encountered Importing Content. Please Ensure The Content Is Formatted Correctly For The Module." xml:space="preserve">
-    <value>A Problem Was Encountered Importing Content. Please Ensure The Content Is Formatted Correctly For The Module.</value>
+  <data name="Message.Content.ImportProblem" xml:space="preserve">
+    <value>Si è verificato un problema durante l'importazione del contenuto. Assicurarsi che il contenuto è stato formattato correttamente per il modulo.</value>
   </data>
-  <data name="Error Importing Module" xml:space="preserve">
-    <value>Error Importing Module</value>
+  <data name="Error.Module.Import" xml:space="preserve">
+    <value>Errore durante l'importazione del modulo contenuto</value>
+    <comment>Error Importing Module Content</comment>
   </data>
-  <data name="You Must Enter Some Content To Import" xml:space="preserve">
-    <value>You Must Enter Some Content To Import</value>
+  <data name="Message.Required.ImportContent" xml:space="preserve">
+    <value>Inserire qualche contenuto da importare</value>
+    <comment>You Must Enter Some Content To Import</comment>
+  </data>
+  <data name="Import Content" xml:space="preserve">
+    <value>Importa Contenuto</value>
   </data>
 </root>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,37 +117,72 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Version:" xml:space="preserve">
-    <value>Versione:</value>
+  <data name="DatabaseConfig" xml:space="preserve">
+    <value>Configurazione Database</value>
   </data>
-  <data name="Database Configuration" xml:space="preserve">
-    <value>Configurazione del Database</value>
+  <data name="DatabaseType.Text" xml:space="preserve">
+    <value>Database:</value>
   </data>
-  <data name="Database Type:" xml:space="preserve">
-    <value>Tipo di Database:</value>
+  <data name="ApplicationAdmin" xml:space="preserve">
+    <value>Amministrazione dell'Applicazione</value>
   </data>
-  <data name="Application Administrator" xml:space="preserve">
-    <value>Amministratore dell'Applicazione</value>
+  <data name="InstallNow" xml:space="preserve">
+    <value>Installa Adesso</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Error.DbConfig.Load" xml:space="preserve">
+    <value>Errore durante il caricamento del controllo di configurazione del Database</value>
+    <comment>Error Loading Database Configuration Control</comment>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
+  <data name="Message.Require.DbInfo" xml:space="preserve">
+    <value>Inserisci tutti i campi obbligatori. Assicurati che le password corrispondano e che l'indirizzo email fornito sia valido.</value>
   </data>
-  <data name="Confirm:" xml:space="preserve">
+  <data name="Message.Password.Invalid" xml:space="preserve">
+    <value>La password fornita non rispetta la policy di complessità. La password deve essere lunga almeno 6 caratteri e contenere caratteri maiuscoli, minuscoli, numerici e di punteggiatura.</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registrarmi per gli aggiornamenti principali del prodotto e i bollettini di sicurezza</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Conferma la password inserita sopra inserendola nuovamente</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
     <value>Conferma:</value>
   </data>
-  <data name="Email:" xml:space="preserve">
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>Seleziona il tipo di database che tu vuoi usare</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Fornire l'indirizzo email per l'account utente host</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
     <value>Email:</value>
   </data>
-  <data name="Install Now" xml:space="preserve">
-    <value>Installa ora</value>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Fornire una password per l'account utente principale</value>
   </data>
-  <data name="Error loading Database Configuration Control" xml:space="preserve">
-    <value>Errore durante il caricamento del controllo di configurazione del database</value>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Password:</value>
   </data>
-  <data name="Please Enter All Fields And Ensure Passwords Match And Are Greater Than 5 Characters In Length" xml:space="preserve">
-    <value>Inserisci tutti i campi e assicurati che le password corrispondano e siano più lunghe di 5 caratteri</value>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Fornisci il nome utente per l'account utente principale</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Username:</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>Inserisci la stringa di connessione completa includendo tutti i parametri e delimitatori</value>
+    <comment>Enter a complete connection string including all parameters and delimiters</comment>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Impostazioni:</value>
+  </data>
+  <data name="EnterConnectionParameters" xml:space="preserve">
+    <value>Inserisci i Parametri di Connessione</value>
+  </data>
+  <data name="EnterConnectionString" xml:space="preserve">
+    <value>Inserisci la Stringa di Connessione</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>Seleziona un sito modello</value>
   </data>
 </root>

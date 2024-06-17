@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,106 +117,68 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>Email:</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="You Are Already Registered" xml:space="preserve">
-    <value>Sei già registrato</value>
-  </data>
-  <data name="Please Note That Registration Requires A Valid Email Address In Order To Verify Your Identity" xml:space="preserve">
-    <value>Nota: la registrazione richiede un indirizzo e-mail valido per verificare la propria identità</value>
-  </data>
-  <data name="Confirm Password:" xml:space="preserve">
-    <value>Conferma Password:</value>
-  </data>
-  <data name="Full Name:" xml:space="preserve">
-    <value>Nome e cognome:</value>
-  </data>
-  <data name="Register" xml:space="preserve">
-    <value>Registrati</value>
-  </data>
-  <data name="Registration is Disabled For This Site" xml:space="preserve">
-    <value>La registrazione è disabilitata per questo sito</value>
-  </data>
-  <data name="User Account Created. Please Check Your Email For Verification Instructions." xml:space="preserve">
-    <value>Account utente creato. Controlla la tua email per le istruzioni di verifica.</value>
-  </data>
-  <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
-    <value>Errore durante la creazione dell'utente. Assicurati che la password soddisfi i requisiti di complessità e che il nome utente non sia già in uso.</value>
-  </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Le password inserite non corrispondono</value>
-  </data>
-  <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
-    <value>Devi inserire un nome utente, una password e un indirizzo e-mail</value>
-  </data>
-  <data name="Error Adding User" xml:space="preserve">
-    <value>Errore durante la creazione dell'utente</value>
-  </data>
-  <data name="Confirm.HelpText" xml:space="preserve">
-    <value>Devi inserire nuovamente la password per verificare che corrispondano.</value>
-  </data>
-  <data name="Confirm.Text" xml:space="preserve">
-    <value>Conferma Password:</value>
-  </data>
-  <data name="DisplayName.HelpText" xml:space="preserve">
-    <value>Nome e cognome.</value>
-  </data>
-  <data name="DisplayName.Text" xml:space="preserve">
-    <value>Nome e cognome:</value>
-  </data>
-  <data name="Email.HelpText" xml:space="preserve">
-    <value>La tua email dove vuoi ricevere le notifiche</value>
-  </data>
-  <data name="Email.Text" xml:space="preserve">
-    <value>Email:</value>
-  </data>
-  <data name="Error.User.Add" xml:space="preserve">
-    <value>Errore durante la creazione dell'utente</value>
-  </data>
-  <data name="Error.User.AddInfo" xml:space="preserve">
-    <value>Errore durante la creazione dell'utente. Assicurati che la password soddisfi i requisiti di complessità e che il nome utente non sia già in uso.</value>
-  </data>
-  <data name="Info.Registration.Disabled" xml:space="preserve">
-    <value>La registrazione è disabilitata per questo sito</value>
-  </data>
   <data name="Info.Registration.Exists" xml:space="preserve">
     <value>Sei già registrato</value>
   </data>
   <data name="Info.Registration.InvalidEmail" xml:space="preserve">
-    <value>Nota: la registrazione richiede un indirizzo e-mail valido per verificare la propria identità</value>
+    <value>Fai attenzione che la registrazione richiede un indirizzo email valido per verificare la tua identità</value>
+  </data>
+  <data name="Password.Confirm" xml:space="preserve">
+    <value>Conferma Password:</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registrati</value>
+  </data>
+  <data name="Info.Registration.Disabled" xml:space="preserve">
+    <value>La registrazione è disabilitata per questo sito</value>
   </data>
   <data name="Info.User.AccountCreate" xml:space="preserve">
     <value>Account utente creato. Controlla la tua email per le istruzioni di verifica.</value>
+  </data>
+  <data name="Error.User.AddInfo" xml:space="preserve">
+    <value>Errore durante l'aggiunta dell'utente. Assicurati che la password soddisfi i requisiti di complessità e che lo username e l'email non siano già in uso.</value>
   </data>
   <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>Le password inserite non corrispondono</value>
   </data>
   <data name="Message.Required.UserInfo" xml:space="preserve">
-    <value>Devi inserire un nome utente, una password e un indirizzo e-mail</value>
+    <value>Devi fornire il nome utente, la  password e l'indiizzo email</value>
   </data>
-  <data name="Password.Confirm" xml:space="preserve">
+  <data name="Error.User.Add" xml:space="preserve">
+    <value>Errore durante l'aggiunta dell'Utente</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Inserisci nuovamente la tua Password per poter confrontare il valore con quello sopra inserito</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
     <value>Conferma Password:</value>
   </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Il tuo Nome Completo</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Nome Completo:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Il tuo indirizzo email dove vuoi ricevere le notifiche</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>Email:</value>
+  </data>
   <data name="Password.HelpText" xml:space="preserve">
-    <value>Se vuoi cambiare la tua password, puoi inserirla qui. Assicurati che sia sufficientemente sicura.</value>
+    <value>Per favore inserisci una password sufficientemente sicura che soddisfi i requisiti di complessità della password</value>
   </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Password:</value>
   </data>
   <data name="Username.HelpText" xml:space="preserve">
-    <value>Nome utente univoco. Nota che questo campo non può essere modificato una volta salvato.</value>
+    <value>Il tuo nome utente. Nota che questo campo non può esere modificato un volta che questa è salvata.</value>
+    <comment>Your username. Note that this field can not be modified once it is saved.</comment>
   </data>
   <data name="Username.Text" xml:space="preserve">
-    <value>Username:</value>
+    <value>Nome Utente:</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Possiedi già un account?. Accedi ora.</value>
   </data>
 </root>

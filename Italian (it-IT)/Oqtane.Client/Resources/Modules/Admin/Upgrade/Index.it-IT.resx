@@ -117,25 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Download" xml:space="preserve">
-    <value>Download</value>
+  <data name="Error.Upgrade.Execute" xml:space="preserve">
+    <value>Errore durante l'aggiornamento</value>
   </data>
-  <data name="Install" xml:space="preserve">
-    <value>Installa</value>
-  </data>
-  <data name="Upgrade To" xml:space="preserve">
-    <value>Aggiorna a</value>
-  </data>
-  <data name="Error Executing Upgrade" xml:space="preserve">
-    <value>Errore durante l'esecuzione dell'aggiornamento</value>
-  </data>
-  <data name="Error Downloading Framework" xml:space="preserve">
-    <value>Errore durante il download del framework</value>
+  <data name="Error.Framework.Download" xml:space="preserve">
+    <value>Errore durante il Download del pacchetto del Framework</value>
   </data>
   <data name="Framework.HelpText" xml:space="preserve">
-    <value>Carica un pacchetto (package) contenente il framework e seleziona Installa per completare l'installazione</value>
+    <value>Carica un pacchetto framework e seleziona installa per completare l'installazione</value>
   </data>
   <data name="Framework.Text" xml:space="preserve">
     <value>Framework: </value>
+  </data>
+  <data name="Info.Upgrade.Wait" xml:space="preserve">
+    <value>Attendere l'aggiornamento in corso...</value>
+  </data>
+  <data name="Success.Framework.Download" xml:space="preserve">
+    <value>Framework scaricato con successo. Seleziona aggiorna per completare il processo</value>
+  </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Carica</value>
+  </data>
+  <data name="Message.Text" xml:space="preserve">
+    <value>Il Framework è già aggiornato</value>
+  </data>
+  <data name="MessageUpgrade.Text" xml:space="preserve">
+    <value>Carica un pacchetto (Oqtane.Framework.version.nupkg) e seleziona aggiorna</value>
+  </data>
+  <data name="Localhost.Text" xml:space="preserve">
+    <value>Non puoi eseguire un aggiornamento di sistema in un ambiente di sviluppo</value>
   </data>
 </root>

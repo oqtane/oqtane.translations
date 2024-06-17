@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,23 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Salva</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Sì</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nome: </value>
   </data>
   <data name="Minute(s)" xml:space="preserve">
-    <value>Minuti</value>
+    <value>Minuto/i</value>
   </data>
   <data name="Hour(s)" xml:space="preserve">
     <value>Ore</value>
@@ -142,60 +130,79 @@
     <value>Giorno/i</value>
   </data>
   <data name="Month(s)" xml:space="preserve">
-    <value>Mesi</value>
+    <value>Mese/i</value>
   </data>
-  <data name="Error Loading Job" xml:space="preserve">
-    <value>Errore durante il caricamento del Job</value>
+  <data name="Error.Job.Load" xml:space="preserve">
+    <value>Errore caricameneto Job</value>
   </data>
-  <data name="Error Updating Job" xml:space="preserve">
-    <value>Errore durante l'aggiornamento del Job</value>
+  <data name="Error.Job.Update" xml:space="preserve">
+    <value>Errore aggiornamento Job</value>
   </data>
-  <data name="You Must Provide The Job Name, Type, Frequency, and Retention" xml:space="preserve">
-    <value>È necessario fornire il nome, il tipo, la frequenza e la conservazione del Job</value>
+  <data name="Message.Required.JobInfo" xml:space="preserve">
+    <value>Devi fornire il nome del Job, il Tipo, la frequenza e il mantenimento prima che venga eliminato</value>
+    <comment>You Must Provide The Job Name, Type, Frequency, and Retention</comment>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Inserisci il nome del Job</value>
   </data>
   <data name="Type.HelpText" xml:space="preserve">
-    <value>Il nome completo del tipo di Job</value>
+    <value>Il nome del tipo di Job completamente qualificato</value>
+    <comment>The fully qualified job type name</comment>
   </data>
   <data name="Enabled.HelpText" xml:space="preserve">
-    <value>Seleziona se vuoi che il Job sia abilitato o meno</value>
+    <value>Seleziona se desideri abilitare o meno il Job</value>
+    <comment>Select whether you want the job enabled or not</comment>
   </data>
   <data name="RunsEvery.HelpText" xml:space="preserve">
-    <value>Seleziona la frequenza con cui desideri che il Job venga eseguito</value>
+    <value>Seleziona con quale frequenza desideri che il Job venga eseguito</value>
+    <comment>Select how often you want the job to run</comment>
   </data>
   <data name="Starting.HelpText" xml:space="preserve">
-    <value>A che ora vuoi che inizi il Job</value>
+    <value>Opzionalmente inserisci la data e l'orario in cui questo lavoro dovrebbe iniziare ad eseguire</value>
+    <comment>Optionally enter the date and time when this job should start executing</comment>
   </data>
   <data name="Ending.HelpText" xml:space="preserve">
-    <value>Quando vuoi che finisca il Job</value>
+    <value>Opzionalmente inserisci la data e l'ora di quando il Job deve essere arrestato</value>
+    <comment>Optionally enter the date and time when this job should stop executing</comment>
   </data>
   <data name="RetentionLog.HelpText" xml:space="preserve">
-    <value>Numero di voci di registro da conservare per questo Job</value>
+    <value>Numero di Log da mantenere per questo Job</value>
+    <comment>Number of log entries to retain for this job</comment>
   </data>
   <data name="NextExecution.HelpText" xml:space="preserve">
-    <value>Prossima esecuzione per questo Job</value>
+    <value>Opzionalmente modificare la data e l'orario in cui questo lavoro dovrebbe essere eseguito successivamente</value>
+    <comment>Optionally modify the date and time when this job should execute next</comment>
   </data>
   <data name="Type.Text" xml:space="preserve">
     <value>Tipo: </value>
   </data>
   <data name="Enabled.Text" xml:space="preserve">
-    <value>Abilitato?</value>
+    <value>Abilitarlo? </value>
   </data>
   <data name="RunsEvery.Text" xml:space="preserve">
-    <value>Viene eseguito ogni:</value>
+    <value>Esegui ogni: </value>
   </data>
   <data name="Starting.Text" xml:space="preserve">
     <value>Inizio: </value>
   </data>
   <data name="Ending.Text" xml:space="preserve">
-    <value>Fine: </value>
+    <value>Termina: </value>
+    <comment>Ending:</comment>
   </data>
   <data name="RetentionLog.Text" xml:space="preserve">
-    <value>Log di registro di conservazione (elementi): </value>
+    <value>Numero Log da mantenere: </value>
+    <comment>Retention Log (Items):</comment>
   </data>
   <data name="NextExecution.Text" xml:space="preserve">
     <value>Prossima esecuzione: </value>
+  </data>
+  <data name="Week(s)" xml:space="preserve">
+    <value>Settimana/e</value>
+  </data>
+  <data name="Once" xml:space="preserve">
+    <value>Esegui una volta</value>
+  </data>
+  <data name="Message.StartEndDateError" xml:space="preserve">
+    <value>La data di inizio non può essere successiva alla data fine.</value>
   </data>
 </root>

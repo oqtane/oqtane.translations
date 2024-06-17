@@ -117,22 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>Nome</value>
+  <data name="Confirm.DeleteUser" xml:space="preserve">
+    <value>Sicuro di voler eliminare il ruolo {0}?</value>
   </data>
-  <data name="Loading..." xml:space="preserve">
-    <value>Caricamento in corso...</value>
-  </data>
-  <data name="Are You Sure You Wish To Delete The {0} Role?" xml:space="preserve">
-    <value>Sei sicuro di voler eliminare il ruolo {0} ?</value>
-  </data>
-  <data name="Error Deleting Role" xml:space="preserve">
-    <value>Errore durante l'eliminazione del ruolo</value>
+  <data name="Error.DeleteRole" xml:space="preserve">
+    <value>Errore durante la cancellazione del Ruolo</value>
   </data>
   <data name="AddRole.Text" xml:space="preserve">
-    <value>Aggiungi ruolo</value>
+    <value>Aggiungi Ruolo</value>
   </data>
   <data name="DeleteRole.Header" xml:space="preserve">
-    <value>Elimina ruolo</value>
+    <value>Elimina Ruolo</value>
+  </data>
+  <data name="DeleteRole.Text" xml:space="preserve">
+    <value>Elimina</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Modifica</value>
+  </data>
+  <data name="Users.Text" xml:space="preserve">
+    <value>Utenti</value>
   </data>
 </root>

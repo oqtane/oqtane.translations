@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,37 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Download" xml:space="preserve">
-    <value>Download</value>
-  </data>
-  <data name="Name" xml:space="preserve">
-    <value>Nome</value>
-  </data>
-  <data name="Version" xml:space="preserve">
-    <value>Versione</value>
-  </data>
-  <data name="Install" xml:space="preserve">
-    <value>Installa</value>
-  </data>
-  <data name="Error Loading Packages" xml:space="preserve">
-    <value>Errore durante il caricamento dei pacchetti (Packages)</value>
+  <data name="Error.Package.Load" xml:space="preserve">
+    <value>Errore durante il caricamento dei Pacchetti</value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
-    <value>Template (Theme): </value>
+    <value>Tema: </value>
   </data>
-  <data name="Theme Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
-    <value>Template (Theme) installato con successo. Devi &lt;a href=\"{0}\"&gt;riavviare&lt;/a&gt; la tua applicazione per applicare queste modifiche.</value>
+  <data name="Success.Theme.Download" xml:space="preserve">
+    <value>Pacchetto del tema scaricato con successo. Devi &lt;a href={0}&gt;Riavviare&lt;/a&gt; l'applicazione per completare l'installazione.</value>
   </data>
-  <data name="Themes Downloaded Successfully. Click Install To Complete Installation." xml:space="preserve">
-    <value>Template (Theme) scaricati con successo. Fare clic su Installa per completare l'installazione.</value>
-  </data>
-  <data name="Error Downloading Theme" xml:space="preserve">
-    <value>Errore durante il download del Template (Theme)</value>
+  <data name="Error.Theme.Download" xml:space="preserve">
+    <value>Errore durante il download del tema</value>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
-    <value>Carica uno o più pacchetti contenenti il Template (Theme). Una volta caricati, fare clic su Installa per completare l'installazione.</value>
+    <value>Carica uno o più pacchetti di temi.</value>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>Nessun tema corrisponde al criterio fornito o il pacchetto del servizio è disabilitato</value>
+  </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Marketplace</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Carica</value>
+  </data>
+  <data name="Product" xml:space="preserve">
+    <value>Prodotto</value>
   </data>
 </root>

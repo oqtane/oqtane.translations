@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,18 +118,36 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Role" xml:space="preserve">
-    <value>Ruolo</value>
+    <value>Role</value>
   </data>
   <data name="User" xml:space="preserve">
-    <value>Utente</value>
+    <value>User</value>
   </data>
-  <data name="Enter Username" xml:space="preserve">
-    <value>Inserisci lo username</value>
+  <data name="Username.Enter" xml:space="preserve">
+    <value>Enter User's Name</value>
   </data>
-  <data name="Add" xml:space="preserve">
-    <value>Aggiungi</value>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="Username Does Not Exist" xml:space="preserve">
-    <value>Lo username non esiste</value>
+  <data name="Page" xml:space="preserve">
+    <value>Pagina</value>
+  </data>
+  <data name="Folder" xml:space="preserve">
+    <value>Folder</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>View</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Browse</value>
+  </data>
+  <data name="Message.Username.DontExist" xml:space="preserve">
+    <value>L'utente non esiste con il nome specificato</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Modifica</value>
+  </data>
+  <data name="Utilize" xml:space="preserve">
+    <value>Utilizza</value>
   </data>
 </root>

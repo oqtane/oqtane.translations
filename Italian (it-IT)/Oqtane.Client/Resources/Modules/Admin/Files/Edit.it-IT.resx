@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,41 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Salva</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nome: </value>
   </data>
-  <data name="No Parent" xml:space="preserve">
+  <data name="NoParent" xml:space="preserve">
     <value>Nessuna cartella padre</value>
+    <comment>No Parent</comment>
   </data>
-  <data name="Error Loading Folder" xml:space="preserve">
-    <value>Errore durante il caricamento della cartella</value>
+  <data name="Error.Folder.Load" xml:space="preserve">
+    <value>Errore Caricando la Cartella</value>
   </data>
-  <data name="Folders Must Have A Parent And A Name" xml:space="preserve">
-    <value>Le cartelle devono avere una cartella padre e un nome</value>
+  <data name="Message.Required.FolderParent" xml:space="preserve">
+    <value>Le cartelle devono avere una cartella padre ed un nome</value>
+    <comment>Folders Must Have A Parent And A Name</comment>
   </data>
-  <data name="Folder Name Not Valid." xml:space="preserve">
-    <value>Nome cartella non valido</value>
+  <data name="Message.Folder.InvalidName" xml:space="preserve">
+    <value>Nome cartella non valida.</value>
   </data>
-  <data name="An Error Was Encountered Saving The Folder" xml:space="preserve">
-    <value>Si è verificato un errore durante il salvataggio della cartella</value>
+  <data name="Error.Folder.Save" xml:space="preserve">
+    <value>Errore Salvando la Cartella</value>
   </data>
-  <data name="Error Saving Folder" xml:space="preserve">
-    <value>Errore durante il salvataggio della cartella</value>
+  <data name="Message.Folder.Files.InvalidDelete" xml:space="preserve">
+    <value>La cartella contiene file che non possono essere eliminati</value>
   </data>
-  <data name="Folder Has Files And Cannot Be Deleted" xml:space="preserve">
-    <value>La cartella contiene file e non può essere eliminata</value>
+  <data name="Message.Folder.Subfolders.InvalidDelete" xml:space="preserve">
+    <value>La cartella ha sotto cartelle e non può essere eliminata</value>
   </data>
-  <data name="Folder Has Subfolders And Cannot Be Deleted" xml:space="preserve">
-    <value>La cartella ha sottocartelle e non può essere eliminata</value>
-  </data>
-  <data name="Error Deleting Folder" xml:space="preserve">
-    <value>Errore durante l'eliminazione della cartella</value>
+  <data name="Error.Folder.Delete" xml:space="preserve">
+    <value>Errore Cancellando la Cartella</value>
   </data>
   <data name="Parent.HelpText" xml:space="preserve">
     <value>Seleziona la cartella padre</value>
@@ -160,18 +153,53 @@
     <value>Inserisci il nome della cartella</value>
   </data>
   <data name="Permissions.HelpText" xml:space="preserve">
-    <value>Seleziona i permessi che desideri per la cartella</value>
+    <value>Seleziona i permessi che vuoi per la cartella</value>
+    <comment>Select the permissions you want for the folder</comment>
   </data>
   <data name="Parent.Text" xml:space="preserve">
-    <value>Cartella padre: </value>
+    <value>Cartella Padre: </value>
   </data>
   <data name="Permissions.Text" xml:space="preserve">
     <value>Permessi: </value>
   </data>
   <data name="DeleteFolder.Header" xml:space="preserve">
-    <value>Elimina cartella</value>
+    <value>Elimina Cartella</value>
   </data>
   <data name="DeleteFolder.Message" xml:space="preserve">
-    <value>Sei sicuro di voler eliminare questa cartella?</value>
+    <value>Sicuro di voler eliminare questa cartella?</value>
+  </data>
+  <data name="Type.HelpText" xml:space="preserve">
+    <value>Seleziona il tipo cartella. Le cartelle private sono solo accessibili da utenti autorizzati. Le cartelle pubbliche possono essere accedute da tutti gli utenti</value>
+  </data>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Tipo:</value>
+  </data>
+  <data name="Capacity.HelpText" xml:space="preserve">
+    <value>Inserire le dimensioni massime della cartella (in megabyte). Specifica Zero per dimensione illimitata.</value>
+  </data>
+  <data name="Capacity.Text" xml:space="preserve">
+    <value>Dimensioni:</value>
+  </data>
+  <data name="ImageSizes.HelpText" xml:space="preserve">
+    <value>Inserisci una elenco di dimensioni dell'immagine che può essere generata dinamicamente dal caricamento immagini (per es. 200x200, 400x400). Usa * per indicare che la cartella supporta immagini di qualsiasi dimensione.</value>
+  </data>
+  <data name="ImageSizes.Text" xml:space="preserve">
+    <value>Dimensioni Immagine:</value>
+  </data>
+  <data name="FolderManagement.Title" xml:space="preserve">
+    <value>Gestione Cartella!</value>
+  </data>
+  <data name="Private" xml:space="preserve">
+    <value>Privato</value>
+  </data>
+  <data name="Public" xml:space="preserve">
+    <value>Pubblico</value>
+  </data>
+  <data name="Folder Management" xml:space="preserve">
+    <value>Gestione Cartella</value>
+  </data>
+  <data name="Message.Folder.Duplicate" xml:space="preserve">
+    <value>Nome Cartella già utilizzato</value>
+    <comment>Folder Name Specified Already Exists In Parent</comment>
   </data>
 </root>

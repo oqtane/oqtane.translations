@@ -117,31 +117,39 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Message.Password.NoMatch" xml:space="preserve">
+    <value>Le Password inserite non corrispondono</value>
   </data>
-  <data name="Password:" xml:space="preserve">
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Devi fornire la Password e confermarla</value>
+    <comment>You Must Provide The Password And Confirmation</comment>
+  </data>
+  <data name="Password.Reset" xml:space="preserve">
+    <value>Reimposta Password</value>
+  </data>
+  <data name="Error.Password.ResetInfo" xml:space="preserve">
+    <value>Errore durante la reimpostazione della Password. Assicurati che la richiesta di reimpostazione della password sia stata effettuata nelle ultime 24 ore e che la nuova password soddisfi i requisiti di complessità.</value>
+    <comment>Error Resetting User Password. Please Ensure The Request To Reset Your Password Was Made Within The Past 24 Hours And The New Password Meets The Complexity Requirements.</comment>
+  </data>
+  <data name="Error.Password.Reset" xml:space="preserve">
+    <value>Errore durante la reimpostazione della Password</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Conferma:</value>
+  </data>
+  <data name="Conform.HelpText" xml:space="preserve">
+    <value>Inserisci nuovamente la Password. Deve corrispondere esattamente con la Password inserita sopra.</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>La nuova Password deve soddifare le regole di complessità del sito.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
     <value>Password:</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Il tuo nome utente verrà popolato dal link che hai ricevuto nella notifica di reimpostazione della password</value>
   </data>
-  <data name="Confirm Password:" xml:space="preserve">
-    <value>Conferma password:</value>
-  </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
-    <value>Le password inserite non corrispondono</value>
-  </data>
-  <data name="You Must Provide A Username, Password, and Email Address" xml:space="preserve">
-    <value>Devi inserire un nome utente, una password e un indirizzo e-mail</value>
-  </data>
-  <data name="Reset Password" xml:space="preserve">
-    <value>Reimposta la password</value>
-  </data>
-  <data name="Error Resetting User Password. Please Ensure Password Meets Complexity Requirements." xml:space="preserve">
-    <value>Errore durante la reimpostazione della password utente. Assicurati che la password soddisfi i requisiti di complessità.</value>
-  </data>
-  <data name="Error Resetting User Password" xml:space="preserve">
-    <value>Errore durante la reimpostazione della password utente</value>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nome Utente:</value>
   </data>
 </root>

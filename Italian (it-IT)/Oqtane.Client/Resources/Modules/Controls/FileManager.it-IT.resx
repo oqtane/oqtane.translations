@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,34 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Select Folder" xml:space="preserve">
-    <value>Seleziona cartella</value>
+  <data name="Folder.Select" xml:space="preserve">
+    <value>Select Folder</value>
   </data>
-  <data name="Select File" xml:space="preserve">
-    <value>Seleziona il file</value>
-  </data>
-  <data name="Upload" xml:space="preserve">
-    <value>Upload</value>
-  </data>
-  <data name="Delete" xml:space="preserve">
-    <value>Elimina</value>
-  </data>
-  <data name="Error Loading Files" xml:space="preserve">
-    <value>Errore durante il caricamento dei file</value>
-  </data>
-  <data name="File Upload Succeeded" xml:space="preserve">
-    <value>Caricamento file riuscito</value>
-  </data>
-  <data name="File Upload Failed" xml:space="preserve">
-    <value>Caricamento file non riuscito</value>
-  </data>
-  <data name="You Have Not Selected A File To Upload" xml:space="preserve">
+  <data name="Message.File.NotSelected" xml:space="preserve">
     <value>Non hai selezionato un file da caricare</value>
   </data>
-  <data name="File Deleted" xml:space="preserve">
-    <value>File eliminato</value>
+  <data name="File.Select" xml:space="preserve">
+    <value>Seleziona file</value>
   </data>
-  <data name="Error Deleting File" xml:space="preserve">
-    <value>Errore durante l'eliminazione del file</value>
+  <data name="Error.File.Load" xml:space="preserve">
+    <value>Errore caricando i file</value>
+  </data>
+  <data name="Error.File.Upload" xml:space="preserve">
+    <value>Caricamento file non riuscito o ancora in corso</value>
+  </data>
+  <data name="Success.File.Delete" xml:space="preserve">
+    <value>File cancellato</value>
+  </data>
+  <data name="Error.File.Delete" xml:space="preserve">
+    <value>Errore durante l’eliminazione del file</value>
+  </data>
+  <data name="Success.File.Upload" xml:space="preserve">
+    <value>Caricamento file riuscito</value>
+  </data>
+  <data name="Message.File.Restricted" xml:space="preserve">
+    <value>I file con estensione di {0} sono limitati dal caricamento. Contatta il tuo amministratore per ulteriori informazioni.</value>
   </data>
 </root>

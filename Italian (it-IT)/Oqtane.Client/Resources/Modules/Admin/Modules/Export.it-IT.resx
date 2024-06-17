@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,16 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
   <data name="Export" xml:space="preserve">
-    <value>Export</value>
+    <value>Esporta</value>
   </data>
   <data name="Content.HelpText" xml:space="preserve">
-    <value>Enter the module content</value>
+    <value>Contenuto del modulo esportato</value>
+    <comment>The Exported Module Content</comment>
   </data>
   <data name="Content.Text" xml:space="preserve">
-    <value>Content: </value>
+    <value>Contenuto: </value>
+  </data>
+  <data name="Error.Module.Export" xml:space="preserve">
+    <value>Errore durante l'esportazione del contenuto del modulo</value>
+    <comment>Error Exporting Module Content</comment>
+  </data>
+  <data name="Success.Content.Export" xml:space="preserve">
+    <value>Contenuto esportato con successo</value>
+  </data>
+  <data name="Export Content" xml:space="preserve">
+    <value>Esporta Contenuto</value>
   </data>
 </root>

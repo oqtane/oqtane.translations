@@ -117,10 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Permission Granted" xml:space="preserve">
+  <data name="PermissionGranted" xml:space="preserve">
     <value>Permesso accordato</value>
   </data>
-  <data name="Permission Denied" xml:space="preserve">
+  <data name="PermissionDenied" xml:space="preserve">
     <value>Permesso negato</value>
   </data>
 </root>

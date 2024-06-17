@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,71 +117,61 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Salva</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Sì</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nome voce del profilo: </value>
+    <value>Nome: </value>
   </data>
   <data name="Category.Text" xml:space="preserve">
     <value>Categoria: </value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Testo visualizzato: </value>
+    <value>Descrizione: </value>
   </data>
   <data name="Title.Text" xml:space="preserve">
     <value>Titolo: </value>
   </data>
-  <data name="Error Loading Profile" xml:space="preserve">
+  <data name="Error.Profile.Load" xml:space="preserve">
     <value>Errore durante il caricamento del profilo</value>
   </data>
-  <data name="Error Saving Profile" xml:space="preserve">
+  <data name="Error.Profile.Save" xml:space="preserve">
     <value>Errore durante il salvataggio del profilo</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>Il nome di questa voce del profilo</value>
+    <value>Il nome di questo elemento del profilo</value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
-    <value>Il titolo della voce del profilo da mostrare all'utente</value>
+    <value>Il titolo dell'elemento del profilo da visualizzare all'utente</value>
+    <comment>The title of the profile item to display to the user</comment>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
-    <value>Il testo visualizzato all'utente per questa voce del profilo</value>
+    <value>Il testo di aiuto visualizzato dall'utente per questo elemento del profilo</value>
   </data>
   <data name="Category.HelpText" xml:space="preserve">
-    <value>La categoria di questa voce del profilo (per il raggruppamento)</value>
+    <value>La categoria di questo elemento del profilo (per raggruppamento)</value>
   </data>
   <data name="Order.HelpText" xml:space="preserve">
-    <value>Posizione (Indice) in cui deve essere visualizzata questa voce del profilo</value>
+    <value>L'ordinamento in cui questo elemento del profilo dovrebbe essere visualizzato</value>
+    <comment>The index order of where this profile item should be displayed</comment>
   </data>
   <data name="Length.HelpText" xml:space="preserve">
-    <value>Il numero massimo di caratteri che questa voce del profilo dovrebbe accettare (inserisci zero per illimitato)</value>
+    <value>Il numero massimo di caratteri che questo elemento del profilo potrebbe accettare (indica zero per illimitati)</value>
   </data>
   <data name="DefaultValue.HelpText" xml:space="preserve">
-    <value>Il valore predefinito per questa voce del profilo</value>
+    <value>Il valore predefinito per questo elemento del profilo</value>
   </data>
   <data name="Options.HelpText" xml:space="preserve">
-    <value>Un elenco delimitato da virgole (comma delimited) di opzioni tra cui l'utente può selezionare</value>
+    <value>Una lista di opzioni separate da virgola tra cui l'utente può selezionare</value>
   </data>
   <data name="Required.HelpText" xml:space="preserve">
-    <value>L'utente deve fornire un valore perquesta voce del profilo?</value>
+    <value>L'utente deve fornire un valore per questo elemento del profilo?</value>
   </data>
   <data name="Private.HelpText" xml:space="preserve">
-    <value>Questa voce del profilo è visibile a tutti gli utenti?</value>
+    <value>Questo elemento del profilo sarà visibile da tutti gli utenti?</value>
   </data>
   <data name="Order.Text" xml:space="preserve">
-    <value>Posizione: </value>
+    <value>Ordine: </value>
   </data>
   <data name="Length.Text" xml:space="preserve">
-    <value>Numero massimo di caratteri: </value>
+    <value>Lunghezza: </value>
   </data>
   <data name="DefaultValue.Text" xml:space="preserve">
     <value>Valore predefinito: </value>
@@ -190,9 +180,28 @@
     <value>Opzioni: </value>
   </data>
   <data name="Required.Text" xml:space="preserve">
-    <value>Inserimento obbligatorio? </value>
+    <value>Richiesto? </value>
   </data>
   <data name="Private.Text" xml:space="preserve">
-    <value>Privata? </value>
+    <value>Privato? </value>
+  </data>
+  <data name="Validation.HelpText" xml:space="preserve">
+    <value>Opzionalmente fornire un'espressione regolare (RegExp) per la validazione del valore inserito</value>
+    <comment>Optionally provide a regular expression (RegExp) for validating the value entered</comment>
+  </data>
+  <data name="Validation.Text" xml:space="preserve">
+    <value>Validazione: </value>
+  </data>
+  <data name="Rows.HelpText" xml:space="preserve">
+    <value>Numero di righe per l'inserimento del testo (1 è il numero predefinito)</value>
+  </data>
+  <data name="Rows.Text" xml:space="preserve">
+    <value>Righe: </value>
+  </data>
+  <data name="Autocomplete.HelpText" xml:space="preserve">
+    <value>L'attributo HTML di autocompletamento consente di specificare il comportamento del browser per l'assistenza automatizzata dell'utente nel compilare i valori dei campi del modulo. I valori ammissibili sono vuoti (predefinito), 'on', 'off', o qualsiasi valore dalla tassonomia standardizzata definita per questo attributo.</value>
+  </data>
+  <data name="Autocomplete.Text" xml:space="preserve">
+    <value>Autocompleta: </value>
   </data>
 </root>

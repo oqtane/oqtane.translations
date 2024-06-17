@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,50 +117,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
   <data name="Url.Text" xml:space="preserve">
     <value>Url: </value>
   </data>
   <data name="Error Loading Log" xml:space="preserve">
-    <value>Errore durante il caricamento del registro</value>
+    <value>Errore caricamento Log</value>
   </data>
   <data name="DateTime.HelpText" xml:space="preserve">
-    <value>La data e l'ora di questo registro</value>
+    <value>Data e ora del log</value>
   </data>
   <data name="Level.HelpText" xml:space="preserve">
-    <value>Il livello di questo Log</value>
+    <value>Livello del Log</value>
   </data>
   <data name="Feature.HelpText" xml:space="preserve">
-    <value>La Feature che è stata colpita</value>
+    <value>La funzionalità che è stata interessata</value>
   </data>
   <data name="Function.HelpText" xml:space="preserve">
     <value>La funzione che è stata eseguita</value>
   </data>
   <data name="Category.HelpText" xml:space="preserve">
-    <value>Le categorie che sono state influenzate</value>
+    <value>Il tipo di tipo completamente qualificato che è stato interessato</value>
+    <comment>The fully qualified type type that was affected</comment>
   </data>
   <data name="Page.HelpText" xml:space="preserve">
     <value>La pagina che è stata interessata</value>
   </data>
   <data name="Module.HelpText" xml:space="preserve">
-    <value>Il modulo interessato</value>
+    <value>Il Modulo che è stato interessato</value>
   </data>
   <data name="User.HelpText" xml:space="preserve">
-    <value>L'utente che ha causato questo Log</value>
+    <value>L'utente che ha causato questo log</value>
+    <comment>The user that caused this log</comment>
   </data>
   <data name="Url.HelpText" xml:space="preserve">
-    <value>L'URL da cui proviene il Log</value>
+    <value>L'URL da cui proviene il log</value>
   </data>
   <data name="Template.HelpText" xml:space="preserve">
-    <value>Di cosa tratta il Log</value>
+    <value>Di cosa tratta il log</value>
   </data>
   <data name="Message.HelpText" xml:space="preserve">
     <value>Il messaggio che il sistema ha generato</value>
   </data>
   <data name="Exception.HelpText" xml:space="preserve">
-    <value>Le eccezioni generate dal sistema</value>
+    <value>Eccezioni generate dal sistema</value>
   </data>
   <data name="Properties.HelpText" xml:space="preserve">
     <value>Le proprietà che sono state interessate</value>
@@ -169,19 +168,19 @@
     <value>Il server che è stato interessato</value>
   </data>
   <data name="DateTime.Text" xml:space="preserve">
-    <value>Data/Ora: </value>
+    <value>Data e ora: </value>
   </data>
   <data name="Level.Text" xml:space="preserve">
     <value>Livello: </value>
   </data>
   <data name="Feature.Text" xml:space="preserve">
-    <value>Feature: </value>
+    <value>Funzionalità: </value>
   </data>
   <data name="Function.Text" xml:space="preserve">
     <value>Funzione: </value>
   </data>
   <data name="Category.Text" xml:space="preserve">
-    <value>Categorie: </value>
+    <value>Tipo Nome: </value>
   </data>
   <data name="Page.Text" xml:space="preserve">
     <value>Pagina: </value>
@@ -193,7 +192,7 @@
     <value>Utente: </value>
   </data>
   <data name="Template.Text" xml:space="preserve">
-    <value>Template: </value>
+    <value>Modello: </value>
   </data>
   <data name="Message.Text" xml:space="preserve">
     <value>Messaggio: </value>
@@ -206,5 +205,8 @@
   </data>
   <data name="Server.Text" xml:space="preserve">
     <value>Server: </value>
+  </data>
+  <data name="Error.Log.Load" xml:space="preserve">
+    <value>Errore caricamento Log</value>
   </data>
 </root>

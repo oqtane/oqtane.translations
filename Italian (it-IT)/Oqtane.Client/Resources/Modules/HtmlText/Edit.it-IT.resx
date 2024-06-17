@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,13 +117,67 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Salva</value>
+  <data name="Confirm.Delete" xml:space="preserve">
+    <value>Sei sicuro di voler eliminare la versione {0}?</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
+  <data name="Confirm.Restore" xml:space="preserve">
+    <value>Sei sicuro di voler ripristinare la versione {0}?</value>
   </data>
-  <data name="Error Saving Content" xml:space="preserve">
-    <value>Errore durante il salvataggio del contenuto</value>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>Creato da</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>Creato il</value>
+  </data>
+  <data name="Delete.Header" xml:space="preserve">
+    <value>Elimina la versione</value>
+  </data>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Elimina</value>
+  </data>
+  <data name="Error.Content.Delete" xml:space="preserve">
+    <value>Errore eliminazione della versione</value>
+  </data>
+  <data name="Error.Content.Restore" xml:space="preserve">
+    <value>Errore di ripristino della versione</value>
+  </data>
+  <data name="Error.Content.Save" xml:space="preserve">
+    <value>Si è verificato un errore salvando il contenuto</value>
+  </data>
+  <data name="Error.Content.View" xml:space="preserve">
+    <value>Errore di visualizzazione della versione</value>
+  </data>
+  <data name="Message.Content.Deleted" xml:space="preserve">
+    <value>Versione cancellata</value>
+  </data>
+  <data name="Message.Content.Restored" xml:space="preserve">
+    <value>Versione ripristinata</value>
+  </data>
+  <data name="Edit Html/Text" xml:space="preserve">
+    <value>Modifica html/testo</value>
+  </data>
+  <data name="Restore.Header" xml:space="preserve">
+    <value>Ripristina la versione</value>
+  </data>
+  <data name="Restore.Text" xml:space="preserve">
+    <value>Ripristina</value>
+  </data>
+  <data name="View.Text" xml:space="preserve">
+    <value>Vista</value>
+  </data>
+  <data name="Edit.Heading" xml:space="preserve">
+    <value>Modifica</value>
+  </data>
+  <data name="Versions.Heading" xml:space="preserve">
+    <value>Versioni</value>
+  </data>
+  <data name="HtmlEditor.Heading" xml:space="preserve">
+    <value>Editor HTML RAW</value>
+  </data>
+  <data name="RichTextEditor.Heading" xml:space="preserve">
+    <value>Editor di testo ricco</value>
+  </data>
+  <data name="Error.Content.Load" xml:space="preserve">
+    <value>Si è verificato un errore di caricamento del contenuto</value>
   </data>
 </root>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,37 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name" xml:space="preserve">
-    <value>Nome</value>
+  <data name="Success.Theme.Install" xml:space="preserve">
+    <value>Tema installato con successo. Devi &lt;a href={0}&gt;Riavviare&lt;/a&gt; l'applicazione per applicare queste modifiche.</value>
   </data>
-  <data name="Version" xml:space="preserve">
-    <value>Versione</value>
+  <data name="Error.Theme.Download" xml:space="preserve">
+    <value>Errore durante il Download del tema</value>
   </data>
-  <data name="Upgrade" xml:space="preserve">
-    <value>Aggiorna</value>
+  <data name="Confirm.Theme.Delete" xml:space="preserve">
+    <value>Sei sicuro di voler disinstallare il tema {0}?</value>
   </data>
-  <data name="Theme Installed Successfully. You Must &lt;a href=\&quot;{0}\&quot;&gt;Restart&lt;/a&gt; Your Application To Apply These Changes." xml:space="preserve">
-    <value>Template (Theme) installato con successo. Devi &lt;a href=\"{0}\"&gt;riavviare&lt;/a&gt; la tua applicazione per applicare queste modifiche.</value>
+  <data name="Error.Theme.Load" xml:space="preserve">
+    <value>Errore durante il caricamento del tema</value>
   </data>
-  <data name="Error Downloading Theme" xml:space="preserve">
-    <value>Errore durante il download del Template (Theme)</value>
+  <data name="Success.Theme.Delete" xml:space="preserve">
+    <value>Tema eliminato con successo</value>
   </data>
-  <data name="Create Theme" xml:space="preserve">
-    <value>Crea Template (Theme)</value>
-  </data>
-  <data name="Are You Sure You Wish To Delete The {0} Theme?" xml:space="preserve">
-    <value>Sei sicuro di voler eliminare il Template (Theme) {0} ?</value>
-  </data>
-  <data name="Error Loading Themes" xml:space="preserve">
-    <value>Errore durante il caricamento dei Template (Theme)</value>
-  </data>
-  <data name="Theme Deleted Successfully" xml:space="preserve">
-    <value>Template (Theme) eliminato con successo</value>
-  </data>
-  <data name="Error Deleting Theme" xml:space="preserve">
-    <value>Errore durante l'eliminazione del Template (Theme)</value>
+  <data name="Error.Theme.Delete" xml:space="preserve">
+    <value>Errore durante l'eliminazione del tema</value>
   </data>
   <data name="DeleteTheme.Header" xml:space="preserve">
-    <value>Elimina Template (Theme)</value>
+    <value>Disinstalla tema</value>
+  </data>
+  <data name="DeleteTheme.Text" xml:space="preserve">
+    <value>Disinstalla</value>
+  </data>
+  <data name="CreateTheme.Text" xml:space="preserve">
+    <value>Tema creato</value>
+  </data>
+  <data name="InstallTheme.Text" xml:space="preserve">
+    <value>Installa il tema</value>
+  </data>
+  <data name="ViewTheme.Text" xml:space="preserve">
+    <value>Visualizza</value>
+  </data>
+  <data name="EditTheme.Text" xml:space="preserve">
+    <value>Modifica</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Abilitato?</value>
   </data>
 </root>

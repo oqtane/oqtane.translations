@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,34 +117,24 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Salva</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Sì</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nome: </value>
   </data>
   <data name="Parent.Text" xml:space="preserve">
     <value>Pagina padre: </value>
+    <comment>Parent:</comment>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Titolo della pagina: </value>
+    <value>Titolo: </value>
   </data>
   <data name="Settings.Heading" xml:space="preserve">
     <value>Impostazioni</value>
   </data>
-  <data name="Site Root" xml:space="preserve">
-    <value>Root del sito</value>
+  <data name="SiteRoot" xml:space="preserve">
+    <value>Site Root</value>
+    <comment>Site Root</comment>
   </data>
-  <data name="At Beginning" xml:space="preserve">
+  <data name="AtBeginning" xml:space="preserve">
     <value>All'inizio</value>
   </data>
   <data name="Before" xml:space="preserve">
@@ -153,91 +143,139 @@
   <data name="After" xml:space="preserve">
     <value>Dopo</value>
   </data>
-  <data name="At End" xml:space="preserve">
+  <data name="AtEnd" xml:space="preserve">
     <value>Alla fine</value>
   </data>
-  <data name="Select Page" xml:space="preserve">
-    <value>Seleziona la Pagina</value>
+  <data name="Page.Select" xml:space="preserve">
+    <value>Seleziona Pagina</value>
   </data>
-  <data name="Select Container" xml:space="preserve">
-    <value>Seleziona il Container</value>
+  <data name="Container.Select" xml:space="preserve">
+    <value>Seleziona Contenitore</value>
   </data>
-  <data name="Error Initializing Page" xml:space="preserve">
-    <value>Errore durante l'inizializzazione della pagina</value>
+  <data name="Error.Page.Load" xml:space="preserve">
+    <value>Errore durante il caricamento della pagina</value>
   </data>
-  <data name="Error Loading Child Pages For Parent" xml:space="preserve">
-    <value>Errore durante il caricamento delle pagine figlie della pagina padre selezionata</value>
+  <data name="Error.ChildPage.Load" xml:space="preserve">
+    <value>Errore nel caricamento delle pagine figlio per il genitore</value>
   </data>
-  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
-    <value>Errore durante il caricamento dei Pane Layouts per il Tema</value>
+  <data name="Error.Pane.Load" xml:space="preserve">
+    <value>Errore nel caricamente del riquadro di layout per il tema</value>
+    <comment>Error Loading Pane Layouts For Theme</comment>
   </data>
-  <data name="A page with path {0} already exists for the selected parent page. The page path needs to be unique for the selected parent." xml:space="preserve">
-    <value>Esiste già una pagina con percorso {0} per la pagina padre selezionata. Il percorso della pagina deve essere univoco rispetto alla pagina padre selezionata.</value>
+  <data name="Message.Page.Exists" xml:space="preserve">
+    <value>Una pagina con il percorso '{0}' esiste già per questo sito. I percorsi delle pagine devono essere univoci. Potresti dover verificare se esiste una pagina con questo percorso nel Cestino.</value>
   </data>
-  <data name="You Must Provide Page Name, Theme, and Container" xml:space="preserve">
-    <value>Devi fornire il nome della pagina, il template (theme) e il Container</value>
+  <data name="Message.Required.PageInfo" xml:space="preserve">
+    <value>E' necessario fornire il Nome Pagina, il Tema ed il Contenitore</value>
   </data>
-  <data name="Error Saving Page" xml:space="preserve">
+  <data name="Error.Page.Save" xml:space="preserve">
     <value>Errore durante il salvataggio della pagina</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>Inserisci il nome della pagina</value>
+    <value>Inseire il nome pagina</value>
   </data>
   <data name="Parent.HelpText" xml:space="preserve">
-    <value>Seleziona la pagina padre</value>
+    <value>Seleziona la pagina padre nella gerarchia del sito</value>
+    <comment>Select the parent for the page in the site hierarchy</comment>
   </data>
   <data name="Insert.HelpText" xml:space="preserve">
-    <value>Seleziona la posizione in cui desideri che la pagina venga inserita rispetto ad altre pagine</value>
+    <value>Selezionare la posizione in cui desideri che la pagina venga inserita in relazione alle altre pagine</value>
+    <comment>Select the location where you would like the page to be inserted in relation to other pages</comment>
   </data>
   <data name="Navigation.HelpText" xml:space="preserve">
-    <value>Seleziona se la pagina fa parte della navigazione del sito o nascosta</value>
+    <value>Seleziona se la pagina fa parte della navigazione del sito o se è nascosta</value>
   </data>
   <data name="UrlPath.HelpText" xml:space="preserve">
-    <value>Opzionalmente, inserisci un percorso URL per questa pagina (es. home ). Se non fornisci un percorso URL, verrà utilizzato il nome della pagina.</value>
+    <value>Opzionalmente inserire un indirizzo Url per questa pagina (per es. home). Se non fornirai un indirizzo Url, sarà usato il nome pagina. Se la pagina è intesa per essere l'indirizzo principale, specificare '/'.</value>
+    <comment>Optionally enter a url path for this page (ie. home ). If you do not provide a url path, the page name will be used.  If the page is intended to be the root path specify '/'.</comment>
   </data>
   <data name="Redirect.HelpText" xml:space="preserve">
-    <value>Opzionalmente, inserisci un URL a cui questa pagina dovrebbe reindirizzare quando un utente vi naviga</value>
+    <value>Opzionalmente inserire un Url che potrebbe reindirizzare da questa pagina quando un utente naviga su di essa</value>
+    <comment>Optionally enter a url which this page should redirect to when a user navigates to it</comment>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
-    <value>Opzionalmente, inserisci il titolo della pagina. Se non fornisci un titolo di pagina, verrà utilizzato il nome della pagina.</value>
+    <value>Opzionalmente inserire il titolo della pagina. Se non fornirai il titolo di pagina, sarà usato il nome della pagina.</value>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
-    <value>Seleziona il template (theme) per questa pagina</value>
+    <value>Seleziona il tema per questa pagina</value>
   </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
-    <value>Seleziona il Container predefinito per la pagina</value>
+    <value>Selezione il contenitore predefinito per la pagina</value>
   </data>
   <data name="Icon.HelpText" xml:space="preserve">
-    <value>Opzionalmente, fornire un nome di classe css per l'icona per questa pagina che verrà visualizzato nel menu di navigazione del sito</value>
+    <value>Opzionalmente fornire un nome di classe all'icona per questa pagina che verrà visualizzato nella navigazione del sito</value>
+    <comment>Optionally provide an icon class name for this page which will be displayed in the site navigation</comment>
   </data>
   <data name="Personalizable.HelpText" xml:space="preserve">
-    <value>Seleziona se desideri che gli utenti siano in grado di personalizzare questa pagina con i propri contenuti</value>
+    <value>Seleziona se desideri che gli utenti possano personalizzare questa pagina con i propri contenuti</value>
   </data>
   <data name="Insert.Text" xml:space="preserve">
-    <value>Inserimento: </value>
+    <value>Inserisci: </value>
+    <comment>Insert:</comment>
   </data>
   <data name="Navigation.Text" xml:space="preserve">
-    <value>Navigabile? </value>
+    <value>Navigazione? </value>
   </data>
   <data name="UrlPath.Text" xml:space="preserve">
-    <value>Percorso URL: </value>
+    <value>Indirizzo Url: </value>
   </data>
   <data name="Redirect.Text" xml:space="preserve">
-    <value>Reindirizzamento: </value>
+    <value>Redirect: </value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
-    <value>Template (theme): </value>
+    <value>Tema: </value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
-    <value>Container predefinito: </value>
+    <value>Contenitore predefinito: </value>
   </data>
   <data name="Icon.Text" xml:space="preserve">
-    <value>Classe css per l'icona: </value>
+    <value>Icona: </value>
   </data>
   <data name="Personalizable.Text" xml:space="preserve">
     <value>Personalizzabile? </value>
   </data>
   <data name="Appearance.Name" xml:space="preserve">
-    <value>Aspetto esteriore</value>
+    <value>Aspetto</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>Opzionalmente inserire contenuto da includere nell'intestazione della pagina (per es. meta, link, o script tags)</value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Contenuto Head:</value>
+  </data>
+  <data name="Message.Page.Reserved" xml:space="preserve">
+    <value>Il nome di pagina {0} è riservato. Inserire un nome diverso per la pagina.</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>Opzionalmente inserire il contenuto da includere nel corpo della pagina (per es. script tags)</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Contenuto del Body:</value>
+    <comment>Body Content:</comment>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Contenuto Pagina</value>
+  </data>
+  <data name="ThemeChanged.Message" xml:space="preserve">
+    <value>Fai attenzione che sovascrivendo il tema predefinito del sito uno non relativo al tema della pagina potrebbe verificarsi un problema di incompatibilità per il Sito</value>
+    <comment>Please Note That Overriding The Default Site Theme With An Unrelated Page Theme May Result In Compatibility Issues For Your Site</comment>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permessi</value>
+  </data>
+  <data name="Theme.Heading" xml:space="preserve">
+    <value>Impostazioni tema</value>
+  </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>Data in cui questa pagina è attiva</value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Data Effettiva: </value>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>Data scadenza della pagina</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Data Scadenza: </value>
   </data>
 </root>

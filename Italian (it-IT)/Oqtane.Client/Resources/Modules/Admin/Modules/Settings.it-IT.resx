@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,43 +117,78 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Save</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
   <data name="Page.Text" xml:space="preserve">
-    <value>Page: </value>
+    <value>Pagina: </value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
-    <value>Enter the title of the module</value>
+    <value>Inserisci il titolo del Modulo</value>
   </data>
   <data name="Container.HelpText" xml:space="preserve">
-    <value>Select the module's container</value>
+    <value>Seleziona il contenitore del modulo</value>
   </data>
   <data name="DisplayOnAllPages.HelpText" xml:space="preserve">
-    <value>Indicate if this module should be displayed on all pages</value>
+    <value>Indica se questo modulo dovrà essere visualizzato in tutte le pagine</value>
   </data>
   <data name="Page.HelpText" xml:space="preserve">
-    <value>The page that the module is located on</value>
+    <value>La pagina in cui si trova questo Modulo</value>
+    <comment>The page that the module is located on</comment>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Title: </value>
+    <value>Titolo: </value>
   </data>
   <data name="Container.Text" xml:space="preserve">
-    <value>Container: </value>
+    <value>Contenitore: </value>
   </data>
   <data name="DisplayOnAllPages.Text" xml:space="preserve">
-    <value>Display On All Pages? </value>
+    <value>Visualizzare in tutte le pagine? </value>
   </data>
   <data name="Settings.Heading" xml:space="preserve">
-    <value>Settings</value>
+    <value>Impostazioni</value>
+  </data>
+  <data name="Message.Required.Title" xml:space="preserve">
+    <value>E' necessario fornire un titolo per il Modulo</value>
+  </data>
+  <data name="Error.Module.Load" xml:space="preserve">
+    <value>Si è verificato un problema durante il caricamento del modulo {0}. Il modulo non è valido o non esiste.</value>
+  </data>
+  <data name="Module.HelpText" xml:space="preserve">
+    <value>Nome del Modulo</value>
+  </data>
+  <data name="Module.Text" xml:space="preserve">
+    <value>Modulo:</value>
+  </data>
+  <data name="ModuleSettings.Heading" xml:space="preserve">
+    <value>Impostazioni Modulo</value>
+  </data>
+  <data name="Pane.HelpText" xml:space="preserve">
+    <value>Il riquadro in cui verrà visualizzato il modulo</value>
+    <comment>The pane where the module will be displayed</comment>
+  </data>
+  <data name="Pane.Text" xml:space="preserve">
+    <value>Riquadro:</value>
+  </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>La data in cui questo modulo è attivo</value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Data Effettiva: </value>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>La data in cui questo modulo è scaduto</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Data Scadenza: </value>
+  </data>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Permessi</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permessi</value>
+  </data>
+  <data name="ContainerSettings.Heading" xml:space="preserve">
+    <value>Impostazioni Contenitore</value>
+  </data>
+  <data name="ModuleSettings.Title" xml:space="preserve">
+    <value>Impostazioni Modulo</value>
   </data>
 </root>

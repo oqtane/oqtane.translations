@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,55 +117,122 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>Nome utente:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Remember Me?" xml:space="preserve">
-    <value>Ricordami?</value>
-  </data>
-  <data name="Login" xml:space="preserve">
-    <value>Login</value>
-  </data>
-  <data name="Forgot Password" xml:space="preserve">
-    <value>Password dimenticata</value>
-  </data>
-  <data name="User Account Verified Successfully. You Can Now Login With Your Username And Password Below." xml:space="preserve">
-    <value>Account utente verificato con successo. Ora puoi accedere con il tuo nome utente e password qui sotto.</value>
-  </data>
-  <data name="User Account Could Not Be Verified. Please Contact Your Administrator For Further Instructions." xml:space="preserve">
-    <value>Impossibile verificare l'account utente. Si prega di contattare i responsabili del sito per ulteriori informazioni.</value>
-  </data>
-  <data name="Login Failed. Please Remember That Passwords Are Case Sensitive And User Accounts Require Verification When They Are Initially Created So You May Wish To Check Your Email." xml:space="preserve">
-    <value>Accesso non riuscito. Ricorda che le password fanno distinzione tra maiuscole e minuscole e gli account utente richiedono la verifica quando vengono creati inizialmente, quindi potresti aver ricevuto un messaggio nella tua posta elettronica.</value>
-  </data>
-  <data name="Please Provide Your Username And Password" xml:space="preserve">
-    <value>Si prega di fornire il nome utente e la password</value>
-  </data>
-  <data name="Error.Login.Fail" xml:space="preserve">
-    <value>Autenticazione non riuscita. Ricorda che la password fa distinzione tra maiuscole e minuscole e che l'account utente deve essere verificato appena creato, quindi dovresti controllare le tue e-mail.</value>
-  </data>
   <data name="ForgotPassword" xml:space="preserve">
     <value>Password dimenticata</value>
   </data>
-  <data name="Info.SignedIn" xml:space="preserve">
-    <value>Sei già loggato</value>
+  <data name="Success.Account.Verified" xml:space="preserve">
+    <value>Account utente verificato con successo. Ora puoi accedere con il tuo nome utente e la tua password qui sotto.</value>
   </data>
-  <data name="Message.Account.NotVerfied" xml:space="preserve">
-    <value>Impossibile verificare l'account utente. Si prega di contattare i responsabili del sito per ulteriori informazioni.</value>
+  <data name="Message.Account.NotVerified" xml:space="preserve">
+    <value>Non è stato possibile verificare l'account utente. Si prega di contattare l'amministratore per ulteriori istruzioni.</value>
+  </data>
+  <data name="Success.Account.Linked" xml:space="preserve">
+    <value>Account utente collegato con successo. Ora puoi eseguire l'accesso con il tuo login esterno qui sotto.</value>
+  </data>
+  <data name="Message.Account.NotLinked" xml:space="preserve">
+    <value>Non è stato possibile collegare l'accesso esterno. Si prega di contattare l'amministratore per ulteriori istruzioni.</value>
+  </data>
+  <data name="Error.Login.Fail" xml:space="preserve">
+    <value>Errore durante l'accesso. Ricorda che le password sono sensibili alle maiuscole e minuscole. Se hai provato a accedere più volte senza successo, il tuo account verrà bloccato per un certo periodo di tempo. Nota che gli account utente richiedono una verifica quando vengono creati inizialmente, quindi se sei un nuovo utente controlla la tua email.</value>
   </data>
   <data name="Message.Required.UserInfo" xml:space="preserve">
-    <value>Si prega di fornire un nome utente e una password</value>
+    <value>Per favore, compilare tutti i campi obbligatori</value>
+    <comment>Please Provide All Required Fields</comment>
   </data>
-  <data name="RememberMe" xml:space="preserve">
+  <data name="Info.SignedIn" xml:space="preserve">
+    <value>Sei già connesso</value>
+  </data>
+  <data name="Message.ForgotPassword" xml:space="preserve">
+    <value>Per favore, inserisci il Nome Utente relativo al tuo account e seleziona nuovamente l'opzione Password dimenticata</value>
+  </data>
+  <data name="Message.ForgotUser" xml:space="preserve">
+    <value>Per favore, controlla l'indirizzo email associato al tuo account utente per una notifica di reimpostazione della password</value>
+  </data>
+  <data name="Message.UserDoesNotExist" xml:space="preserve">
+    <value>L'utente non esiste</value>
+  </data>
+  <data name="Code.HelpText" xml:space="preserve">
+    <value>Inserisci il Codice di Sicurezza che ti è stato inviato per email.</value>
+  </data>
+  <data name="Code.Placeholder" xml:space="preserve">
+    <value>Codice di Sicurezza</value>
+    <comment>Verification Code</comment>
+  </data>
+  <data name="Code.Text" xml:space="preserve">
+    <value>Codice di Sicurezza:</value>
+  </data>
+  <data name="Error.TwoFactor.Fail" xml:space="preserve">
+    <value>Verifica non riuscita. Assicurati di aver inserito il codice esattamente come è fornito nella tua email. Se desideri richiedere un nuovo codice di verifica, seleziona l'opzione Annulla e accedi nuovamente. </value>
+  </data>
+  <data name="Message.TwoFactor" xml:space="preserve">
+    <value>Un codice di verifica sicuro è stato inviato al tuo indirizzo email. Inserisci il codice che hai ricevuto. Se non ricevi il codice o hai perso l'accesso alla tua email, contatta il tuo amministratore.</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Per favore, inserisci la password relativa al tuo account. Ricorda che le password sono sensibili alle maiuscole e minuscole. Se tenti più volte di accedere senza successo al tuo account, verrai bloccato per un certo periodo di tempo.</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="Remember.HelpText" xml:space="preserve">
+    <value>Specificare se si desidera essere automaticamente riloggiato la prossima volta che si visita questo sito</value>
+  </data>
+  <data name="Remember.Text" xml:space="preserve">
     <value>Ricordami?</value>
   </data>
-  <data name="Success.Account.Verified" xml:space="preserve">
-    <value>Il tuo account è stato verificato. Ora puoi accedere con il tuo nome utente e password qui sotto.</value>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Inserisci il Nome Utente relativo al tuo account</value>
+    <comment>Please Enter The Username Related To Your Account</comment>
+  </data>
+  <data name="Username.Placeholder" xml:space="preserve">
+    <value>Nome Utente</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nome Utente:</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Usa</value>
+  </data>
+  <data name="Error.LoadLogin" xml:space="preserve">
+    <value>Errore Caricamento Login</value>
+  </data>
+  <data name="Error.Login" xml:space="preserve">
+    <value>Errore durante l'accesso</value>
+  </data>
+  <data name="Error.ResetPassword" xml:space="preserve">
+    <value>Errore reimpostando la Password</value>
+  </data>
+  <data name="ExternalLoginStatus.DuplicateEmail" xml:space="preserve">
+    <value>Esistono già più account utente con l'indirizzo email del tuo accesso esterno. Si prega di contattare il tuo amministratore per ulteriori istruzioni.</value>
+  </data>
+  <data name="ExternalLoginStatus.MissingClaims" xml:space="preserve">
+    <value>Il provider di accesso esterno non ha fornito tutte le informazioni richieste. Si prega di contattare il proprio amministratore per ulteriori istruzioni.</value>
+  </data>
+  <data name="ExternalLoginStatus.ProviderKeyMismatch" xml:space="preserve">
+    <value>Si è verificato un errore durante la verifica del tuo accesso esterno. Si prega di contattare il tuo amministratore per ulteriori istruzioni.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserDoesNotExist" xml:space="preserve">
+    <value>Non esiste un account utente corrispondente all'indirizzo email del tuo accesso esterno. Si prega di contattare il proprio amministratore per ulteriori istruzioni.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserNotCreated" xml:space="preserve">
+    <value>Non è stato possibile creare un account utente per il tuo accesso esterno. Si prega di contattare il proprio amministratore per ulteriori istruzioni.</value>
+  </data>
+  <data name="ExternalLoginStatus.VerificationRequired" xml:space="preserve">
+    <value>Per collegare il tuo accesso esterno al tuo account utente, devi verificare la tua identità. Controlla la tua email per ulteriori istruzioni.</value>
+  </data>
+  <data name="ExternalLoginStatus.AccessDenied" xml:space="preserve">
+    <value>Il tuo accesso esterno è stato negato. Contatta il tuo amministratore per ulteriori istruzioni.</value>
+  </data>
+  <data name="ExternalLoginStatus.RemoteFailure" xml:space="preserve">
+    <value>Il tuo accesso esterno non è riuscito. Si prega di contattare il proprio amministratore per ulteriori istruzioni.</value>
+  </data>
+  <data name="ExternalLoginStatus.ReviewClaims" xml:space="preserve">
+    <value>L'opzione di revisione delle richieste è stata abilitata nelle impostazioni di accesso esterno. Si prega di visitare il registro eventi per visualizzare le richieste restituite dal provider.</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registrarsi come un nuovo utente?</value>
+    <comment>Register as new user?</comment>
   </data>
 </root>

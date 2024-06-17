@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,130 +117,207 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>Save</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>Yes</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Name: </value>
+    <value>Nome: </value>
   </data>
   <data name="Parent.Text" xml:space="preserve">
-    <value>Parent: </value>
+    <value>Pagina padre: </value>
+    <comment>Parent</comment>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Title: </value>
+    <value>Titolo: </value>
   </data>
   <data name="Settings.Heading" xml:space="preserve">
-    <value>Settings</value>
+    <value>Impostazioni</value>
   </data>
-  <data name="Site Root" xml:space="preserve">
-    <value>Site Root</value>
+  <data name="SiteRoot" xml:space="preserve">
+    <value>Sito principale</value>
+    <comment>Site Root</comment>
   </data>
   <data name="Before" xml:space="preserve">
-    <value>Before</value>
+    <value>Prima</value>
   </data>
   <data name="After" xml:space="preserve">
-    <value>After</value>
+    <value>Dopo</value>
   </data>
-  <data name="Select Page" xml:space="preserve">
-    <value>Select Page</value>
+  <data name="Page.Select" xml:space="preserve">
+    <value>Seleziona pagina</value>
   </data>
-  <data name="Select Container" xml:space="preserve">
-    <value>Select Container</value>
+  <data name="Container.Select" xml:space="preserve">
+    <value>Seleziona Contenitore</value>
   </data>
-  <data name="Error Loading Child Pages For Parent" xml:space="preserve">
-    <value>Error Loading Child Pages For Parent</value>
+  <data name="Error.ChildPage.Load" xml:space="preserve">
+    <value>Errore durante il caricamento delle pagine figli</value>
+    <comment>Error Loading Child Pages For Parent</comment>
   </data>
-  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
-    <value>Error Loading Pane Layouts For Theme</value>
+  <data name="Error.Pane.Load" xml:space="preserve">
+    <value>Errore durante il caricamento del tema per il riquadro Layouts</value>
+    <comment>Error Loading Pane Layouts For Theme</comment>
   </data>
-  <data name="A page with path {0} already exists for the selected parent page. The page path needs to be unique for the selected parent." xml:space="preserve">
-    <value>A page with path {0} already exists for the selected parent page. The page path needs to be unique for the selected parent.</value>
+  <data name="Mesage.Page.PathExists" xml:space="preserve">
+    <value>Una pagina con l'indirizzo '{0}' già esiste per questo sito. L'indirizzo della pagina deve essere univoco. Potresti controllare se una pagina con questo indirizzo esisten nel cestino.</value>
+    <comment>A page with path '{0}' already exists for this site. Page paths must be unique. You may need to check if a page with this path exists in the Recycle Bin.</comment>
   </data>
-  <data name="You Must Provide Page Name, Theme, and Container" xml:space="preserve">
-    <value>You Must Provide Page Name, Theme, and Container</value>
+  <data name="Message.Required.PageInfo" xml:space="preserve">
+    <value>Devi fornire Nome Pagina, Tema e Contenitore</value>
   </data>
-  <data name="Error Saving Page" xml:space="preserve">
-    <value>Error Saving Page</value>
+  <data name="Error.Page.Save" xml:space="preserve">
+    <value>Errore salvando la pagina</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>Enter the page name</value>
+    <value>Inserisci il nome ppagina</value>
   </data>
   <data name="Parent.HelpText" xml:space="preserve">
-    <value>Select the parent for the page in the site hierarchy</value>
+    <value>Selezione la pagina padre nella gerarchia del sito</value>
+    <comment>Select the parent for the page in the site hierarchy</comment>
   </data>
   <data name="Navigation.HelpText" xml:space="preserve">
-    <value>Select whether the page is part of the site navigation or hidden</value>
+    <value>Selezionare se la pagina è parte del sito di navigazione o è nascosta</value>
+    <comment>Select whether the page is part of the site navigation or hidden</comment>
   </data>
   <data name="UrlPath.HelpText" xml:space="preserve">
-    <value>Optionally enter a url path for this page (ie. home ). If you do not provide a url path, the page name will be used.</value>
+    <value>Opzionalmente inserire un percorso Url per questa pagina (per es. home). Se non fornisci un percorso URL, verrà utilizzato il nome della pagina. Se la pagina è destinata a essere il percorso principale, specifica '/'.</value>
+    <comment>Optionally enter a url path for this page (ie. home ). If you do not provide a url path, the page name will be used. If the page is intended to be the root path specify '/'.</comment>
   </data>
   <data name="Redirect.HelpText" xml:space="preserve">
-    <value>Optionally enter a url which this page should redirect to when a user navigates to it</value>
+    <value>Opzionalmente inserisci un Url a cui questa pagina dovrebbe reindirizzare quando un utente vi naviga</value>
+    <comment>Optionally enter a url which this page should redirect to when a user navigates to it</comment>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
-    <value>Optionally enter the page title. If you do not provide a page title, the page name will be used.</value>
+    <value>Opzionalmente inserisci il titolo di pagina. Se non fornisci il titolo della pagina, sarà usato il nome pagina.</value>
+    <comment>Optionally enter the page title. If you do not provide a page title, the page name will be used.</comment>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
-    <value>Select the theme for this page</value>
+    <value>Seleziona il tema per questa pagina</value>
+    <comment>Select the theme for this page</comment>
   </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
-    <value>Select the default container for the page</value>
+    <value>Selezione il contenitore predefinito per la pagina</value>
+    <comment>Select the default container for the page</comment>
   </data>
   <data name="Icon.HelpText" xml:space="preserve">
-    <value>Optionally provide an icon class name for this page which will be displayed in the site navigation</value>
+    <value>Opzionalmente fornire il nome della classe dell'icona per questa pagina che potrebbe essere visualizzata nella navigazione del sito</value>
+    <comment>Optionally provide an icon class name for this page which will be displayed in the site navigation</comment>
   </data>
   <data name="Personalizable.HelpText" xml:space="preserve">
-    <value>Select whether you would like users to be able to personalize this page with their own content</value>
+    <value>Seleziona se vorresti abilitare gli utenti a personalizzare questa pagina con i propri contenuti</value>
+    <comment>Select whether you would like users to be able to personalize this page with their own content</comment>
   </data>
   <data name="Navigation.Text" xml:space="preserve">
-    <value>Navigation? </value>
+    <value>Navigazione? </value>
   </data>
   <data name="UrlPath.Text" xml:space="preserve">
-    <value>Url Path: </value>
+    <value>Indirizzo Url: </value>
   </data>
   <data name="Redirect.Text" xml:space="preserve">
-    <value>Redirect: </value>
+    <value>Redirect Url: </value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
-    <value>Theme: </value>
+    <value>Tema: </value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
-    <value>Default Container: </value>
+    <value>Contenitore predefinito: </value>
   </data>
   <data name="Icon.Text" xml:space="preserve">
-    <value>Icon: </value>
+    <value>Icona: </value>
   </data>
   <data name="Personalizable.Text" xml:space="preserve">
-    <value>Personalizable? </value>
+    <value>Personalizzabile? </value>
   </data>
-  <data name="Appearance.Name" xml:space="preserve">
-    <value>Appearance</value>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Aspetto</value>
   </data>
-  <data name="Maintain Current Location" xml:space="preserve">
-    <value>Maintain Current Location</value>
+  <data name="ThisLocation.Keep" xml:space="preserve">
+    <value>Mantieni la posizione corrente</value>
   </data>
-  <data name="To Beginning" xml:space="preserve">
-    <value>To Beginning</value>
+  <data name="ToBeginning" xml:space="preserve">
+    <value>All'inizio</value>
   </data>
-  <data name="To End" xml:space="preserve">
-    <value>To End</value>
+  <data name="ToEnd" xml:space="preserve">
+    <value>Alla fine</value>
   </data>
-  <data name="Error Loading Page" xml:space="preserve">
-    <value>Error Loading Page</value>
+  <data name="Error.Page.Load" xml:space="preserve">
+    <value>Errore durante il caricamento della Pagina</value>
   </data>
   <data name="Move.HelpText" xml:space="preserve">
-    <value>Select the location where you would like the page to be moved in relation to other pages</value>
+    <value>Seleziona la posizione dove vorresti spostare la pagina in relazione alle altre pagine</value>
+  </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>Modulo</value>
+  </data>
+  <data name="ModuleTitle" xml:space="preserve">
+    <value>Titolo</value>
+  </data>
+  <data name="PageModules.Heading" xml:space="preserve">
+    <value>Moduli</value>
+  </data>
+  <data name="ModuleSettings.Text" xml:space="preserve">
+    <value>Modifica</value>
+  </data>
+  <data name="DeleteModule.Header" xml:space="preserve">
+    <value>Cancella Modulo</value>
+  </data>
+  <data name="DeleteModule.Message" xml:space="preserve">
+    <value>Sei sicuro di voler eliminare questo Modulo?</value>
+    <comment>Are You Sure You Wish To Delete This Module?</comment>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>Elimina</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permessi</value>
+  </data>
+  <data name="ThemeSettings.Heading" xml:space="preserve">
+    <value>Impostazioni tema</value>
+  </data>
+  <data name="Clickable.HelpText" xml:space="preserve">
+    <value>Seleziona se il link nella navigazione del sito è abilitato o disabilitato</value>
+    <comment>Select whether the link in the site navigation is enabled or disabled</comment>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>Opzionalmente inserisci il contenuto da includere nella head della pagina (per es. meta, link, o script tags)</value>
+    <comment>Optionally enter content to be included in the page head (ie. meta, link, or script tags)</comment>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Contenuto Head:</value>
+    <comment>Head Content:</comment>
+  </data>
+  <data name="Message.Page.Reserved" xml:space="preserve">
+    <value>Il nome pagina {0} è riservato. Inserisci un nome differente per la tua pagina.</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>Opzionalmente inserire contenuto da includere nel Body della pagina (per es. script tags)</value>
+    <comment>Optionally enter content to be included in the page body (ie. script tags)</comment>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Contenuto del Body:</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Contenuto pagina</value>
+  </data>
+  <data name="ThemeChanged.Message" xml:space="preserve">
+    <value>Nota che sovrascrivere il tema predefinito del sito con un tema di pagina non correlato potrebbe causare problemi di compatibilità per il tuo sito</value>
+    <comment>Please Note That Overriding The Default Site Theme With An Unrelated Page Theme May Result In Compatibility Issues For Your Site</comment>
+  </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>La data in cui questa pagina è attiva</value>
+    <comment>The date that this page is active</comment>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Data Attivazione: </value>
+    <comment>Effective Date:</comment>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>La data in cui questa pagina è scaduta</value>
+    <comment>The date that this page expires</comment>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Data Scadenza: </value>
+  </data>
+  <data name="Clickable.Text" xml:space="preserve">
+    <value>Cliccabile?</value>
   </data>
   <data name="Move.Text" xml:space="preserve">
-    <value>Move: </value>
+    <value>Sposta: </value>
   </data>
 </root>

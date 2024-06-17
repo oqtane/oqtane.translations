@@ -117,52 +117,54 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Select Folder" xml:space="preserve">
-    <value>Seleziona la cartella</value>
+  <data name="Folder.Select" xml:space="preserve">
+    <value>Seleziona la Cartella</value>
   </data>
-  <data name="Upload" xml:space="preserve">
-    <value>Upload</value>
+  <data name="Message.Required.UrlFolder" xml:space="preserve">
+    <value>Devi inserire un Url e selezionare una cartella</value>
   </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
+  <data name="Message.Download.InvalidExtension" xml:space="preserve">
+    <value>Il file non può essere scaricato dall'Url perché l'estensione non è ammessa</value>
+    <comment>File Could Not Be Downloaded From Url Due To Its File Extension</comment>
   </data>
-  <data name="Download" xml:space="preserve">
-    <value>Download</value>
+  <data name="Message.Required.UrlName" xml:space="preserve">
+    <value>Devi inserire un Url con un nome file valido</value>
   </data>
-  <data name="You Must Enter A Url And Select A Folder" xml:space="preserve">
-    <value>Devi inserire un URL e selezionare una cartella</value>
+  <data name="Success.Download.File" xml:space="preserve">
+    <value>File scaricato con successo dall'Url</value>
+    <comment>File Downloaded Successfully From Url</comment>
   </data>
-  <data name="File Could Not Be Downloaded From Url Due To Its File Extension" xml:space="preserve">
-    <value>Impossibile scaricare il file dall'URL a causa dell'estensione del file</value>
-  </data>
-  <data name="You Must Enter A Url With A Valid File Name" xml:space="preserve">
-    <value>Devi inserire un URL con un nome file valido</value>
-  </data>
-  <data name="File Downloaded Successfully From Url" xml:space="preserve">
-    <value>File scaricato con successo dall'URL</value>
-  </data>
-  <data name="Error Downloading File From Url. Please Verify That The Url Is Valid." xml:space="preserve">
-    <value>Errore durante il download del file dall'URL. Verifica che l'URL sia valido.</value>
+  <data name="Error.Download.InvalidUrl" xml:space="preserve">
+    <value>Errore scaricando i file dall'Url. Verifica che l'Url sia valido.</value>
   </data>
   <data name="Upload.HelpText" xml:space="preserve">
-    <value>Carica il file che desideri</value>
+    <value>Carica il file che vuoi</value>
   </data>
   <data name="Url.HelpText" xml:space="preserve">
-    <value>Inserisci l'URL del file che desideri scaricare</value>
+    <value>Inserisci l'Url del file che vuoi scaricare</value>
   </data>
   <data name="Folder.HelpText" xml:space="preserve">
-    <value>Seleziona la cartella in cui salvare il file</value>
+    <value>Seleziona la cartella dove salvare i file</value>
   </data>
   <data name="Upload.Text" xml:space="preserve">
-    <value>Upload: </value>
+    <value>Carica: </value>
   </data>
   <data name="Url.Text" xml:space="preserve">
     <value>Url: </value>
   </data>
   <data name="Folder.Text" xml:space="preserve">
-    <value>Cartella:</value>
+    <value>Cartella: </value>
   </data>
   <data name="UploadFiles.Heading" xml:space="preserve">
-    <value>Carica i files</value>
+    <value>Carica i File</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Inserisci il nome del file che stai scaricando</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nome:</value>
+  </data>
+  <data name="DownloadFiles.Heading" xml:space="preserve">
+    <value>Download Files</value>
   </data>
 </root>

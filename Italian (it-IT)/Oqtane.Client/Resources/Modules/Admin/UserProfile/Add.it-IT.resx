@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,34 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
   <data name="Message.Text" xml:space="preserve">
     <value>Messaggio: </value>
   </data>
-  <data name="Send" xml:space="preserve">
-    <value>Invia</value>
+  <data name="Message.User.Invalid" xml:space="preserve">
+    <value>L'utente specificato non esiste</value>
   </data>
-  <data name="User Does Not Exist. Please Verify That The Username Provided Is Correct." xml:space="preserve">
-    <value>L'utente non esiste. Verifica che il nome utente fornito sia corretto.</value>
-  </data>
-  <data name="Error Adding Notification" xml:space="preserve">
+  <data name="Error.Notification.Add" xml:space="preserve">
     <value>Errore durante l'aggiunta della notifica</value>
   </data>
   <data name="To.HelpText" xml:space="preserve">
-    <value>Inserisci il nome utente a cui vuoi inviare un messaggio</value>
+    <value>Inserire il nome utente a cui vuoi inviare il messaggio</value>
   </data>
   <data name="Subject.HelpText" xml:space="preserve">
-    <value>Inserisci l'oggetto del messaggio</value>
+    <value>Inserisci il soggetto del messaggio</value>
   </data>
   <data name="Message.HelpText" xml:space="preserve">
-    <value>Inserisci il messaggio</value>
+    <value>Inserire il messaggio contenuto</value>
   </data>
   <data name="To.Text" xml:space="preserve">
     <value>A: </value>
   </data>
   <data name="Subject.Text" xml:space="preserve">
     <value>Oggetto: </value>
+  </data>
+  <data name="Send Notification" xml:space="preserve">
+    <value>Invia notifica</value>
+  </data>
+  <data name="Message.Required" xml:space="preserve">
+    <value>Devi inserire tutte le informazioni richieste</value>
+  </data>
+  <data name="Username.Enter" xml:space="preserve">
+    <value>Inserire nome utente</value>
   </data>
 </root>

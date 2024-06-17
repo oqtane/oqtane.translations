@@ -121,12 +121,13 @@
     <value>Server:</value>
   </data>
   <data name="Server.HelpText" xml:space="preserve">
-    <value>Inserisci il server del database </value>
+    <value>Inserisci l'indirizzo del server del Database</value>
+    <comment>Enter the database server</comment>
   </data>
   <data name="Database.Text" xml:space="preserve">
     <value>Database:</value>
   </data>
   <data name="Database.HelpText" xml:space="preserve">
-    <value>Inserisci il nome del database</value>
+    <value>Inserisci il nome del Database</value>
   </data>
 </root>

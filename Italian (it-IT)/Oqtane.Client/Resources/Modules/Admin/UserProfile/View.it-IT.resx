@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,37 +117,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Error Loading Users" xml:space="preserve">
+  <data name="Error.User.Load" xml:space="preserve">
     <value>Errore durante il caricamento degli utenti</value>
   </data>
-  <data name="Send" xml:space="preserve">
-    <value>Invia</value>
-  </data>
-  <data name="User Does Not Exist. Please Verify That The Username Provided Is Correct." xml:space="preserve">
+  <data name="Message.User.Invalid" xml:space="preserve">
     <value>L'utente non esiste. Verifica che il nome utente fornito sia corretto.</value>
   </data>
-  <data name="Error Adding Notification" xml:space="preserve">
+  <data name="Error.Notification.Add" xml:space="preserve">
     <value>Errore durante l'aggiunta della notifica</value>
   </data>
-  <data name="Title:" xml:space="preserve">
-    <value>Titolo:</value>
+  <data name="View Notification" xml:space="preserve">
+    <value>Vedi notifiche</value>
   </data>
-  <data name="Subject:" xml:space="preserve">
-    <value>Oggetto:</value>
+  <data name="Date.HelpText" xml:space="preserve">
+    <value>La data in cui il messaggio è stato inviato</value>
   </data>
-  <data name="Date:" xml:space="preserve">
-    <value>Data:</value>
+  <data name="Date.Text" xml:space="preserve">
+    <value>Invia:</value>
   </data>
-  <data name="Message:" xml:space="preserve">
+  <data name="From.HelpText" xml:space="preserve">
+    <value>L'utente che invia il messaggio</value>
+  </data>
+  <data name="From.Text" xml:space="preserve">
+    <value>Da:</value>
+  </data>
+  <data name="Message.HelpText" xml:space="preserve">
+    <value>Il contenuto del messaggio</value>
+  </data>
+  <data name="Message.Text" xml:space="preserve">
     <value>Messaggio:</value>
   </data>
-  <data name="Reply" xml:space="preserve">
-    <value>Rispondi</value>
+  <data name="RE" xml:space="preserve">
+    <value>RE:</value>
   </data>
-  <data name="Original Message" xml:space="preserve">
-    <value>Messaggio originale</value>
+  <data name="Subject.HelpText" xml:space="preserve">
+    <value>Oggetto del messaggio</value>
+  </data>
+  <data name="Subject.Text" xml:space="preserve">
+    <value>Oggetto:</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>Sistema</value>
+  </data>
+  <data name="To.HelpText" xml:space="preserve">
+    <value>L'utente che sarà il reciiente del messaggio</value>
+  </data>
+  <data name="To.Text" xml:space="preserve">
+    <value>A:</value>
   </data>
 </root>

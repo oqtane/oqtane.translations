@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,43 +117,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Username:" xml:space="preserve">
-    <value>Username:</value>
+  <data name="Error.User.AddCheckPass" xml:space="preserve">
+    <value>Errore durante l'aggiunta dell'utente. Assicurati che la password rispetti i requisiti di complessità e che il Nome Utente e l'email non siano già in uso.</value>
   </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>Email:</value>
-  </data>
-  <data name="Save" xml:space="preserve">
-    <value>Salva</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>Annulla</value>
-  </data>
-  <data name="Confirm Password:" xml:space="preserve">
-    <value>Conferma password:</value>
-  </data>
-  <data name="Full Name:" xml:space="preserve">
-    <value>Nome e cognome:</value>
-  </data>
-  <data name="Error Adding User. Please Ensure Password Meets Complexity Requirements And Username Is Not Already In Use." xml:space="preserve">
-    <value>Errore durante il salvataggio dell'utente. Assicurati che la password soddisfi i requisiti di complessità e che il nome utente non sia già in uso.</value>
-  </data>
-  <data name="Passwords Entered Do Not Match" xml:space="preserve">
+  <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>Le password inserite non corrispondono</value>
   </data>
-  <data name="Error Adding User" xml:space="preserve">
-    <value>Errore durante il salvataggio dell'utente</value>
+  <data name="Error.User.Add" xml:space="preserve">
+    <value>Errore durante l'aggiunta dell'utente</value>
   </data>
-  <data name="Error Loading User Profile" xml:space="preserve">
+  <data name="Error.Profile.Load" xml:space="preserve">
     <value>Errore durante il caricamento del profilo utente</value>
   </data>
   <data name="Identity.Name" xml:space="preserve">
     <value>Identità</value>
   </data>
-  <data name="You Must Provide A Username, Password, Email Address And All Required Profile Information" xml:space="preserve">
-    <value>Devi fornire un nome utente, una password, un indirizzo e-mail e tutte le informazioni richieste per il profilo</value>
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
+    <value>Devi fornire un Nome Utente, la Password, l'indirizzo email e tutte le informazioni di profilo richieste</value>
+  </data>
+  <data name="Message.Username.Exists" xml:space="preserve">
+    <value>Il nome utente esiste già</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Inserire la password nuovamente per confermare la corrispondenza con il valore sopra</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Conferma Password:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Nome completo dell'utente</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Nome Completo:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>L'indirizzo email dove l'utente riceverà le notifiche</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Password dell'utente. Scegli una password che sia sufficientemente sicura.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Un nome utente univoco per l'utente. Attenzione che questo campo non potrà più essere modificato una volta salvato.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nome Utente:</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="Notify.HelpText" xml:space="preserve">
+    <value>Indica se i nuovi utenti riceveranno un email di notifica</value>
+  </data>
+  <data name="Notify.Text" xml:space="preserve">
+    <value>Notificare?</value>
   </data>
 </root>

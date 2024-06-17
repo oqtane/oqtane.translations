@@ -117,16 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Yes" xml:space="preserve">
-    <value>Sì</value>
+  <data name="AllowFileManagement.HelpText" xml:space="preserve">
+    <value>Specificare se gli editori possono caricare e selezionare i file</value>
   </data>
-  <data name="No" xml:space="preserve">
-    <value>No</value>
+  <data name="AllowFileManagement.Text" xml:space="preserve">
+    <value>Consenti la gestione dei file: </value>
   </data>
-  <data name="Allow File Management.HelpText" xml:space="preserve">
-    <value>Specifica se gli editori (hanno il permesso di scrittura) possono caricare e selezionare i file</value>
+  <data name="AllowRawHtml.HelpText" xml:space="preserve">
+    <value>Specificare se gli editori possono inserire HTML RAW</value>
   </data>
-  <data name="Allow File Management.Text" xml:space="preserve">
-    <value>Acconsenti la gestione dei file:</value>
+  <data name="AllowRawHtml.Text" xml:space="preserve">
+    <value>Consenti HTML grezzo:</value>
   </data>
 </root>

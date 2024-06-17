@@ -121,42 +121,47 @@
     <value>Server:</value>
   </data>
   <data name="Server.HelpText" xml:space="preserve">
-    <value>Inserisci il server del database</value>
+    <value>Inserisci l'indirizzo del server Database</value>
+    <comment>Enter the database server</comment>
   </data>
   <data name="Port.Text" xml:space="preserve">
-    <value>Porta:</value>
+    <value>Port:</value>
   </data>
   <data name="Port.HelpText" xml:space="preserve">
-    <value>Inserisci la porta utilizzata per connetterti al server</value>
+    <value>Inserisci la porta di connessione al server</value>
   </data>
   <data name="Database.Text" xml:space="preserve">
     <value>Database:</value>
   </data>
   <data name="Database.HelpText" xml:space="preserve">
-    <value>Inserisci il nome del database</value>
-  </data>
-  <data name="IntegratedSecurity.Text" xml:space="preserve">
-    <value>Sicurezza integrata:</value>
+    <value>Inserisci il nome del Database</value>
+    <comment>Enter the name of the database</comment>
   </data>
   <data name="IntegratedSecurity.HelpText" xml:space="preserve">
-    <value>Seleziona se vuoi o meno la sicurezza integrata</value>
+    <value>Scegliere tra Sicurezza Integrata, quindi l'utente sarà garantito dal sistema operativo, oppure si dovranno fornire specifiche credenziali</value>
+    <comment>Select if you want integrated security or not</comment>
   </data>
   <data name="Uid.Text" xml:space="preserve">
     <value>User Id:</value>
   </data>
   <data name="Uid.HelpText" xml:space="preserve">
-    <value>Inserisci il nome utente da utilizzare per il database</value>
+    <value>Inserisci il Nome Utente usato per il Database</value>
+    <comment>Enter the username to use for the database</comment>
   </data>
   <data name="Pwd.Text" xml:space="preserve">
     <value>Password:</value>
   </data>
   <data name="Pwd.HelpText" xml:space="preserve">
-    <value>Inserisci la password da utilizzare per il database</value>
+    <value>Inserisci la Password di accesso al Database</value>
   </data>
-  <data name="True" xml:space="preserve">
-    <value>Vero</value>
+  <data name="Custom" xml:space="preserve">
+    <value>Personalizzato</value>
+    <comment>Custom</comment>
   </data>
-  <data name="False" xml:space="preserve">
-    <value>Falso</value>
+  <data name="Integrated" xml:space="preserve">
+    <value>Integrato</value>
+  </data>
+  <data name="IntegratedSecurity.Text" xml:space="preserve">
+    <value>Sicurezza integrata:</value>
   </data>
 </root>
