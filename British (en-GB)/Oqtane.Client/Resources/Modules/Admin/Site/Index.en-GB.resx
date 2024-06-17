@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Name: </value>
+  </data>
+  <data name="Container.Select" xml:space="preserve">
+    <value>Select Container</value>
+  </data>
+  <data name="Error.Theme.LoadPane" xml:space="preserve">
+    <value>Error Loading Pane Layouts For Theme</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>Default Container: </value>
+  </data>
+  <data name="DefaultAdminContainer" xml:space="preserve">
+    <value>Default Admin Container</value>
+  </data>
+  <data name="Smtp.Required.EnableNotificationJob" xml:space="preserve">
+    <value>** Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs</value>
+  </data>
+  <data name="Smtp.TestConfig" xml:space="preserve">
+    <value>Test SMTP Configuration</value>
+  </data>
+  <data name="Success.Settings.SaveSite" xml:space="preserve">
+    <value>Site Settings Saved</value>
+  </data>
+  <data name="Message.Aliases.Taken" xml:space="preserve">
+    <value>An Alias Was Specified That Has Already Been Used For Another Site</value>
+  </data>
+  <data name="Message.Required.SiteName" xml:space="preserve">
+    <value>You Must Provide A Site Name, Alias, And Default Theme/Container</value>
+  </data>
+  <data name="Error.SaveSite" xml:space="preserve">
+    <value>Error Saving Site</value>
+  </data>
+  <data name="Info.Smtp.SaveSettings" xml:space="preserve">
+    <value>SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details.</value>
+  </data>
+  <data name="Error.Smtp.TestConfig" xml:space="preserve">
+    <value>Error Testing SMTP Configuration</value>
+  </data>
+  <data name="Message.Required.Smtp" xml:space="preserve">
+    <value>You Must Specify The SMTP Host, Port, And Sender</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Enter the site name</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>The name of the database used for the site</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>The urls for the site. This can include domain names (ie. domain.com), subdomains (ie. sub.domain.com) or virtual folders (ie. domain.com/folder).</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>Is this site deleted?</value>
+  </data>
+  <data name="Logo.HelpText" xml:space="preserve">
+    <value>Specify a logo for the site</value>
+  </data>
+  <data name="FavoriteIcon.HelpText" xml:space="preserve">
+    <value>Specify a Favicon. The format for the image must be 16×16, 32×32, 48×48, or 64×64 pixels in size, and 8-bit, 24-bit, or 32-bit in color depth. The format of the image must be ICO, PNG, or GIF.</value>
+  </data>
+  <data name="DefaultTheme.HelpText" xml:space="preserve">
+    <value>Select the sites default theme</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>Select the default container for the site</value>
+  </data>
+  <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
+    <value>Select the default admin container for the site</value>
+  </data>
+  <data name="Host.HelpText" xml:space="preserve">
+    <value>Enter the host name of the SMTP server</value>
+  </data>
+  <data name="Port.HelpText" xml:space="preserve">
+    <value>Enter the port number for the SMTP server. Please note this field is required if you provide a host name.</value>
+  </data>
+  <data name="UseSsl.HelpText" xml:space="preserve">
+    <value>Specify if SSL is required for your SMTP server</value>
+  </data>
+  <data name="SmtpUsername.HelpText" xml:space="preserve">
+    <value>Enter the username for your SMTP account</value>
+  </data>
+  <data name="SmtpPassword.HelpText" xml:space="preserve">
+    <value>Enter the password for your SMTP account</value>
+  </data>
+  <data name="SmtpSender.HelpText" xml:space="preserve">
+    <value>Enter the email which emails will be sent from. Please note that this email address may need to be authorized with the SMTP server.</value>
+  </data>
+  <data name="EnablePWA.HelpText" xml:space="preserve">
+    <value>Select whether you would like this site to be available as a Progressive Web Application (PWA)</value>
+  </data>
+  <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
+    <value>Include an application icon for your PWA. It should be a PNG which is 192 X 192 pixels in dimension.</value>
+  </data>
+  <data name="PwaSplashIcon.HelpText" xml:space="preserve">
+    <value>Include a splash icon for your PWA. It should be a PNG which is 512 X 512 pixels in dimension.</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Database: </value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>Urls:</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Deleted? </value>
+  </data>
+  <data name="Logo.Text" xml:space="preserve">
+    <value>Logo: </value>
+  </data>
+  <data name="FavoriteIcon.Text" xml:space="preserve">
+    <value>Favicon: </value>
+  </data>
+  <data name="DefaultTheme.Text" xml:space="preserve">
+    <value>Default Theme: </value>
+  </data>
+  <data name="DefaultAdminContainer.Text" xml:space="preserve">
+    <value>Default Admin Container: </value>
+  </data>
+  <data name="Host.Text" xml:space="preserve">
+    <value>Host: </value>
+  </data>
+  <data name="Port.Text" xml:space="preserve">
+    <value>Port: </value>
+  </data>
+  <data name="UseSsl.Text" xml:space="preserve">
+    <value>SSL Enabled: </value>
+  </data>
+  <data name="SmtpUsername.Text" xml:space="preserve">
+    <value>Username: </value>
+  </data>
+  <data name="SmtpPassword.Text" xml:space="preserve">
+    <value>Password: </value>
+  </data>
+  <data name="SmtpSender.Text" xml:space="preserve">
+    <value>Email Sender: </value>
+  </data>
+  <data name="EnablePWA.Text" xml:space="preserve">
+    <value>Is Enabled? </value>
+  </data>
+  <data name="PwaApplicationIcon.Text" xml:space="preserve">
+    <value>App Icon: </value>
+  </data>
+  <data name="PwaSplashIcon.Text" xml:space="preserve">
+    <value>Splash Icon: </value>
+  </data>
+  <data name="Confirm.DeleteSite" xml:space="preserve">
+    <value>Are You Sure You Wish To Delete This Site?</value>
+  </data>
+  <data name="Error.DeleteSite" xml:space="preserve">
+    <value>Error Deleting Site</value>
+  </data>
+  <data name="Message.FailAuth.DeleteSite" xml:space="preserve">
+    <value>You Are Not Authorized To Delete The Site</value>
+  </data>
+  <data name="Theme.Select" xml:space="preserve">
+    <value>Select Theme</value>
+  </data>
+  <data name="Hosting.Heading" xml:space="preserve">
+    <value>Hosting Model</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Specifies if interactive components should prerender their output on the server</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>Prerender? </value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>The Blazor runtime hosting model</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Runtime: </value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Browse</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>Database</value>
+  </data>
+  <data name="PWASettings.Heading" xml:space="preserve">
+    <value>PWA Settings</value>
+  </data>
+  <data name="SMTPSettings.Heading" xml:space="preserve">
+    <value>SMTP Settings</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Connection:</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Type:</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>The connection information for the database</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>The type of database</value>
+  </data>
+  <data name="DeleteSite.Header" xml:space="preserve">
+    <value>Delete Site</value>
+  </data>
+  <data name="DeleteSite.Text" xml:space="preserve">
+    <value>Delete Site</value>
+  </data>
+  <data name="DefaultAlias.HelpText" xml:space="preserve">
+    <value>The default alias for the site. Requests for non-default aliases will be redirected to the default alias.</value>
+  </data>
+  <data name="DefaultAlias.Text" xml:space="preserve">
+    <value>Default Alias: </value>
+  </data>
+  <data name="Aliases.Heading" xml:space="preserve">
+    <value>Urls</value>
+  </data>
+  <data name="AliasName" xml:space="preserve">
+    <value>Url</value>
+  </data>
+  <data name="AliasDefault" xml:space="preserve">
+    <value>Default?</value>
+  </data>
+  <data name="Confirm.Alias.Delete" xml:space="preserve">
+    <value>Are You Sure You Wish To Delete {0}?</value>
+  </data>
+  <data name="HomePage.HelpText" xml:space="preserve">
+    <value>Select the home page for the site (to be used if there is no page with a path of '/')</value>
+  </data>
+  <data name="HomePage.Text" xml:space="preserve">
+    <value>Home Page:</value>
+  </data>
+  <data name="SmtpRelay.HelpText" xml:space="preserve">
+    <value>Only specify this option if you have properly configured an SMTP Relay Service to route your outgoing mail. This option will send notifications from the user's email rather than from the Email Sender specified above.</value>
+  </data>
+  <data name="SmtpRelay.Text" xml:space="preserve">
+    <value>Relay Configured?</value>
+  </data>
+  <data name="SiteMap.HelpText" xml:space="preserve">
+    <value>The site map url for this site which can be submitted to search engines for indexing</value>
+  </data>
+  <data name="SiteMap.Text" xml:space="preserve">
+    <value>Site Map:</value>
+  </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Appearance</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>Optionally enter content to be included in the page head (ie. meta, link, or script tags)</value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Head Content:</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>Optionally enter content to be included in the page body (ie. script tags)</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Body Content:</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Page Content</value>
+  </data>
+  <data name="SMTPEnabled.HelpText" xml:space="preserve">
+    <value>Specify if SMTP is enabled for this site</value>
+  </data>
+  <data name="SMTPEnabled.Text" xml:space="preserve">
+    <value>Enabled?</value>
+  </data>
+  <data name="Version.HelpText" xml:space="preserve">
+    <value>The site version (for site content migrations)</value>
+  </data>
+  <data name="Version.Text" xml:space="preserve">
+    <value>Version:</value>
+  </data>
+  <data name="DeleteAlias.Text" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="DeleteAlias.Header" xml:space="preserve">
+    <value>Delete Alias</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>Retention (Days):</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>Number of days of notifications to retain</value>
+  </data>
+  <data name="SiteGuid.Text" xml:space="preserve">
+    <value>ID:</value>
+  </data>
+  <data name="SiteGuid.HelpText" xml:space="preserve">
+    <value>The Unique Identifier For The Site</value>
+  </data>
+  <data name="FileExtensions.Heading" xml:space="preserve">
+    <value>File Extensions</value>
+  </data>
+  <data name="ImageExtensions.HelpText" xml:space="preserve">
+    <value>Enter a comma separated list of image file extensions</value>
+  </data>
+  <data name="ImageExtensions.Text" xml:space="preserve">
+    <value>Image Extensions:</value>
+  </data>
+  <data name="UploadableFileExtensions.HelpText" xml:space="preserve">
+    <value>Enter a comma separated list of uploadable file extensions</value>
+  </data>
+  <data name="UploadableFileExtensions.Text" xml:space="preserve">
+    <value>Uploadable File Extensions:</value>
+  </data>
+  <data name="HybridEnabled.Text" xml:space="preserve">
+    <value>Hybrid Enabled?</value>
+  </data>
+  <data name="HybridEnabled.HelpText" xml:space="preserve">
+    <value>Specifies if the site can be integrated with an external .NET MAUI hybrid application</value>
+  </data>
+  <data name="RenderMode.Text" xml:space="preserve">
+    <value>Render Mode:</value>
+  </data>
+  <data name="RenderMode.HelpText" xml:space="preserve">
+    <value>The default render mode for the site</value>
+  </data>
+</root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Oqtane.Framework.en-GB</id>
+    <version>5.1.0</version>
+    <authors>Leigh Pointer</authors>
+    <owners>.NET Foundation</owners>
+    <title>Oqtane Framework en-GB Translation</title>
+    <description>Oqtane Framework en-GB Translation</description>
+    <copyright>.NET Foundation</copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/oqtane/oqtane.translations</projectUrl>
+    <icon>icon-en-gb.png</icon>
+    <tags>oqtane translation</tags>
+    <releaseNotes></releaseNotes>
+    <summary></summary>
+    <dependencies>
+      <dependency id="Oqtane.Framework" version="5.1.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\Oqtane.Server\bin\Release\net8.0\en-GB\Oqtane.Client.resources.dll" target="lib\net8.0\en-GB" />
+    <file src="..\Oqtane.Server\bin\Release\net8.0\en-GB\Oqtane.Server.resources.dll" target="lib\net8.0\en-GB" />
+    <file src="..\Oqtane.Client\icon-en-gb.png" target="" />
+  </files>
+</package>
