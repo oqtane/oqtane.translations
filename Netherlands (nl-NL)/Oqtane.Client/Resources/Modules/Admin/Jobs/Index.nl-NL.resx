@@ -144,9 +144,6 @@
   <data name="Month" xml:space="preserve">
     <value>Maand</value>
   </data>
-  <data name="ViewJobs.Text" xml:space="preserve">
-    <value>Logboeken bekijken</value>
-  </data>
   <data name="Frequency" xml:space="preserve">
     <value>Frequentie</value>
   </data>
@@ -185,5 +182,8 @@
   </data>
   <data name="Refresh.Text" xml:space="preserve">
     <value>Vernieuwen</value>
+  </data>
+  <data name="ViewLogs.Text" xml:space="preserve">
+    <value>Bekijk alle logboeken</value>
   </data>
 </root>

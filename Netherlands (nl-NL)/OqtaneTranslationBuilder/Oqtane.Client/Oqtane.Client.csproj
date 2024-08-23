@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <RootNamespace>Oqtane</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\..\Oqtane.Framework\Oqtane.Client\Resources\IconResources.resx" Link="Resources\IconResources.resx" />
+    <EmbeddedResource Include="..\..\..\Oqtane.Framework\Oqtane.Client\Resources\SharedResources.resx" Link="Resources\SharedResources.resx" />
+  </ItemGroup>
+
+</Project>

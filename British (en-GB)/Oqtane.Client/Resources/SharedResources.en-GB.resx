@@ -459,4 +459,19 @@
   <data name="Disabled" xml:space="preserve">
     <value>Disabled</value>
   </data>
+  <data name="Module" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Page</value>
+  </data>
+  <data name="Site" xml:space="preserve">
+    <value>Site</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="Search Settings" xml:space="preserve">
+    <value>Search Settings</value>
+  </data>
 </root>

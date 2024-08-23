@@ -384,9 +384,6 @@
   <data name="Retention.Text" xml:space="preserve">
     <value>Retentie (dagen):</value>
   </data>
-  <data name="FileExtensions.Heading" xml:space="preserve">
-    <value>Bestandsextensies</value>
-  </data>
   <data name="ImageExtensions.HelpText" xml:space="preserve">
     <value>Voer een door komma's gescheiden lijst met afbeeldingsbestandsextensies in</value>
   </data>
@@ -428,5 +425,14 @@
   </data>
   <data name="Prerender.HelpText" xml:space="preserve">
     <value>Specificeert of interactieve componenten hun uitvoer vooraf op de server moeten weergeven</value>
+  </data>
+  <data name="TextEditor.HelpText" xml:space="preserve">
+    <value>Selecteer de teksteditor voor de site</value>
+  </data>
+  <data name="TextEditor.Text" xml:space="preserve">
+    <value>Teksteditor:</value>
+  </data>
+  <data name="Functionality" xml:space="preserve">
+    <value>Functionaliteit</value>
   </data>
 </root>

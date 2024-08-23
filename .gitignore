@@ -10,3 +10,4 @@ msbuild.binlog
 *.zip
 
 *.idea
+oqtane.framework/

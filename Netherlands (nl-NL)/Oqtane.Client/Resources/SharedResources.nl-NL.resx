@@ -459,4 +459,16 @@
   <data name="Enabled" xml:space="preserve">
     <value>Ingeschakeld</value>
   </data>
+  <data name="Module" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Bladzijde</value>
+  </data>
+  <data name="Site" xml:space="preserve">
+    <value>Locatie</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Gebruiker</value>
+  </data>
 </root>

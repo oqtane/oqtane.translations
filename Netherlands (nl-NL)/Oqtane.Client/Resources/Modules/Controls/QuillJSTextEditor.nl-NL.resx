@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,85 +117,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Name.Text" xml:space="preserve">
-    <value>Naam:</value>
+  <data name="AllowFileManagement.HelpText" xml:space="preserve">
+    <value>Geef op of editors afbeeldingen kunnen uploaden en invoegen</value>
   </data>
-  <data name="NoParent" xml:space="preserve">
-    <value>Geen ouder</value>
+  <data name="AllowFileManagement.Text" xml:space="preserve">
+    <value>Afbeeldingen invoegen?</value>
   </data>
-  <data name="Error.Folder.Load" xml:space="preserve">
-    <value>Fout bij laden van map</value>
+  <data name="AllowRawHtml.HelpText" xml:space="preserve">
+    <value>Geef op of editors de Raw HTML-editor kunnen gebruiken</value>
   </data>
-  <data name="Message.Required.FolderParent" xml:space="preserve">
-    <value>Mappen moeten een ouder en een naam hebben</value>
+  <data name="AllowRawHtml.Text" xml:space="preserve">
+    <value>Raw HTML-editor?</value>
   </data>
-  <data name="Message.Folder.InvalidName" xml:space="preserve">
-    <value>Mapnaam niet geldig.</value>
+  <data name="AllowRichText.HelpText" xml:space="preserve">
+    <value>Geef op of editors de Rich Text Editor kunnen gebruiken</value>
   </data>
-  <data name="Error.Folder.Save" xml:space="preserve">
-    <value>Fout bij opslaan map</value>
+  <data name="AllowRichText.Text" xml:space="preserve">
+    <value>Rich Text-editor?</value>
   </data>
-  <data name="Message.Folder.Files.InvalidDelete" xml:space="preserve">
-    <value>Map bevat bestanden en kan niet worden verwijderd</value>
+  <data name="Close" xml:space="preserve">
+    <value>Dicht</value>
   </data>
-  <data name="Message.Folder.Subfolders.InvalidDelete" xml:space="preserve">
-    <value>Map heeft submappen en kan niet worden verwijderd</value>
+  <data name="DebugLevel.HelpText" xml:space="preserve">
+    <value>Geef het foutopsporingsniveau op</value>
   </data>
-  <data name="Error.Folder.Delete" xml:space="preserve">
-    <value>Fout bij verwijderen van map Fold</value>
+  <data name="DebugLevel.Text" xml:space="preserve">
+    <value>Foutopsporingsniveau:</value>
   </data>
-  <data name="Parent.HelpText" xml:space="preserve">
-    <value>Selecteer de bovenliggende map</value>
+  <data name="InsertImage" xml:space="preserve">
+    <value>Voeg afbeelding in</value>
   </data>
-  <data name="Name.HelpText" xml:space="preserve">
-    <value>Voer de mapnaam in</value>
+  <data name="Message.Require.Image" xml:space="preserve">
+    <value>Je moet een afbeelding selecteren om in te voegen</value>
   </data>
-  <data name="Parent.Text" xml:space="preserve">
-    <value>Ouder:</value>
+  <data name="Placeholder" xml:space="preserve">
+    <value>Voer je inhoud in...</value>
   </data>
-  <data name="DeleteFolder.Header" xml:space="preserve">
-    <value>Verwijder map</value>
+  <data name="SaveSettings" xml:space="preserve">
+    <value>Instellingen opslaan</value>
   </data>
-  <data name="DeleteFolder.Message" xml:space="preserve">
-    <value>Weet je zeker dat je deze map wil verwijderen?</value>
-  </data>
-  <data name="Type.HelpText" xml:space="preserve">
-    <value>Selecteer het maptype. Privémappen zijn alleen toegankelijk voor geautoriseerde gebruikers. Openbare mappen zijn toegankelijk voor alle gebruikers</value>
-  </data>
-  <data name="Type.Text" xml:space="preserve">
-    <value>Type:</value>
-  </data>
-  <data name="Capacity.HelpText" xml:space="preserve">
-    <value>Voer de maximale mapcapaciteit in (in megabytes). Geef nul op als de capaciteit onbeperkt is.</value>
-  </data>
-  <data name="Capacity.Text" xml:space="preserve">
-    <value>Capaciteit:</value>
-  </data>
-  <data name="ImageSizes.Text" xml:space="preserve">
-    <value>Afbeeldingsformaten:</value>
-  </data>
-  <data name="FolderManagement.Title" xml:space="preserve">
-    <value>Mappenbeheer!</value>
-  </data>
-  <data name="Private" xml:space="preserve">
-    <value>Privaat</value>
-  </data>
-  <data name="Public" xml:space="preserve">
-    <value>Openbaar</value>
-  </data>
-  <data name="ImageSizes.HelpText" xml:space="preserve">
-    <value>Voer een lijst met afbeeldingsformaten in die dynamisch kunnen worden gegenereerd op basis van geüploade afbeeldingen (bijv. 200x200,400x400). Gebruik * om aan te geven dat de map alle afbeeldingsformaten ondersteunt.</value>
-  </data>
-  <data name="Folder Management" xml:space="preserve">
-    <value>Mapbeheer</value>
-  </data>
-  <data name="Message.Folder.Duplicate" xml:space="preserve">
-    <value>Opgegeven mapnaam bestaat al in bovenliggende map</value>
-  </data>
-  <data name="Permissions.Heading" xml:space="preserve">
-    <value>Machtigingen</value>
-  </data>
-  <data name="Settings.Heading" xml:space="preserve">
+  <data name="Settings" xml:space="preserve">
     <value>Instellingen</value>
+  </data>
+  <data name="Theme.HelpText" xml:space="preserve">
+    <value>Geef het thema van de Rich Text Editor op</value>
+  </data>
+  <data name="Theme.Text" xml:space="preserve">
+    <value>Thema:</value>
+  </data>
+  <data name="ToolbarContent.HelpText" xml:space="preserve">
+    <value>Geef eventuele werkbalkinhoud op om de Rich Text Editor aan te passen</value>
+  </data>
+  <data name="ToolbarContent.Text" xml:space="preserve">
+    <value>Inhoud werkbalk:</value>
   </data>
 </root>
