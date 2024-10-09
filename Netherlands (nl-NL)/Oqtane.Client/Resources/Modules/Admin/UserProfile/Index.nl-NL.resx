@@ -243,4 +243,7 @@
   <data name="Message.User.NoEmail" xml:space="preserve">
     <value>U moet een e-mailadres opgeven voor uw gebruikersaccount</value>
   </data>
+  <data name="Logout Everywhere" xml:space="preserve">
+    <value>Overal uitloggen</value>
+  </data>
 </root>

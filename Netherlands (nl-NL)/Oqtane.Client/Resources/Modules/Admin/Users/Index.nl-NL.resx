@@ -378,9 +378,6 @@
   <data name="Scopes.HelpText" xml:space="preserve">
     <value>Een lijst met bereiken die moeten worden aangevraagd bij de identiteitsprovider (gescheiden door komma's). Als er geen zijn opgegeven, worden standaard standaardbereiken gebruikt.</value>
   </data>
-  <data name="RoleClaimType.HelpText" xml:space="preserve">
-    <value>Geef optioneel de naam op van de rolclaim die is opgegeven door de identiteitsprovider. Deze rollen worden gebruikt naast eventuele interne gebruikersrollen die binnen de site zijn toegewezen.</value>
-  </data>
   <data name="RoleClaimType.Text" xml:space="preserve">
     <value>Rolclaim:</value>
   </data>
@@ -467,5 +464,20 @@
   </data>
   <data name="AuthFlow.Token" xml:space="preserve">
     <value>Toegangstoken</value>
+  </data>
+  <data name="RoleClaimType.HelpText" xml:space="preserve">
+    <value>Geef optioneel de typenaam op van de rollenclaim die door de identiteitsprovider is verstrekt (de standaardinstelling is 'rollen'). Als de rolnamen van de identiteitsprovider niet exact overeenkomen met de rolnamen van jou site, gebruikt je de Role Claim Mappings.</value>
+  </data>
+  <data name="RoleClaimMappings.HelpText" xml:space="preserve">
+    <value>Geef optioneel een door komma's gescheiden lijst met rolnamen die door de identiteitsprovider zijn verstrekt, evenals toewijzingen aan jou siterollen. Als de identiteitsprovider bijvoorbeeld een 'Admin'-rolnaam bevat en je wilt dat deze wordt toegewezen aan de siterol 'Administrators', moet je 'Admin:Administrators' opgeven.</value>
+  </data>
+  <data name="RoleClaimMappings.Text" xml:space="preserve">
+    <value>Rolclaimtoewijzingen:</value>
+  </data>
+  <data name="SynchronizeRoles.HelpText" xml:space="preserve">
+    <value>Met deze optie worden roltoewijzingen toegevoegd of verwijderd, zodat de siterollen exact overeenkomen met de rollen die door de identiteitsprovider voor een gebruiker zijn opgegeven.</value>
+  </data>
+  <data name="SynchronizeRoles.Text" xml:space="preserve">
+    <value>Rollen synchroniseren?</value>
   </data>
 </root>

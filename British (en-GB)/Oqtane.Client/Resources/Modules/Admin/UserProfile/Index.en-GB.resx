@@ -243,4 +243,7 @@
   <data name="Message.User.NoEmail" xml:space="preserve">
     <value>You Must Provide An Email Address For Your User Account</value>
   </data>
+  <data name="Logout Everywhere" xml:space="preserve">
+    <value>Logout Everywhere</value>
+  </data>
 </root>
