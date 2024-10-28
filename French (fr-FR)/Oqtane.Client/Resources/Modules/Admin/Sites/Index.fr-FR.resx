@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Confirm.DeleteSite" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer le site {0} ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer le site {0} ?</value>
   </data>
   <data name="Error.FailAuth.DeleteSite" xml:space="preserve">
     <value>Vous ne pouvez pas supprimer le site en cours</value>
@@ -133,6 +133,9 @@
     <value>Supprimer un site</value>
   </data>
   <data name="Browse" xml:space="preserve">
-    <value>Parcourrir</value>
+    <value>Parcourir</value>
+  </data>
+  <data name="AliasName" xml:space="preserve">
+    <value>URL</value>
   </data>
 </root>

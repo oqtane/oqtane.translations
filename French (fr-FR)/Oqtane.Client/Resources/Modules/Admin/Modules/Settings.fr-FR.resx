@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Page.Text" xml:space="preserve">
-    <value>Page: </value>
+    <value>Page : </value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
     <value>Entrez le titre du module</value>
@@ -133,18 +133,60 @@
     <value>La page où se module est placé</value>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Titre :</value>
+    <value>Titre : </value>
   </data>
   <data name="Container.Text" xml:space="preserve">
-    <value>Conteneur :</value>
+    <value>Conteneur : </value>
   </data>
   <data name="DisplayOnAllPages.Text" xml:space="preserve">
-    <value>Afficher sur toutes les pages ?</value>
+    <value>Afficher sur toutes les pages ? </value>
   </data>
   <data name="Settings.Heading" xml:space="preserve">
     <value>Paramètres</value>
   </data>
   <data name="Message.Required.Title" xml:space="preserve">
-    <value>Vous devez fournir un titre pour c emodule</value>
+    <value>Vous devez fournir un titre pour ce module</value>
+  </data>
+  <data name="Module.HelpText" xml:space="preserve">
+    <value>Le nom de ce module</value>
+  </data>
+  <data name="Module.Text" xml:space="preserve">
+    <value>Module :</value>
+  </data>
+  <data name="ModuleSettings.Heading" xml:space="preserve">
+    <value>Paramètres du module</value>
+  </data>
+  <data name="ModuleSettings.Title" xml:space="preserve">
+    <value>Paramètres du module</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permissions</value>
+  </data>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Permissions</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Date d'expiration : </value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Date effective : </value>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>Date à laquelle ce module expire</value>
+  </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>Date à laquelle ce module est actif</value>
+  </data>
+  <data name="Error.Module.Load" xml:space="preserve">
+    <value>Un problème s'est produit lors du chargement du module {0}. Le module est soit invalide ou n'existe pas.</value>
+  </data>
+  <data name="Pane.HelpText" xml:space="preserve">
+    <value>Le panneau où sera affiché le module</value>
+  </data>
+  <data name="Pane.Text" xml:space="preserve">
+    <value>Panneau :</value>
+  </data>
+  <data name="ContainerSettings.Heading" xml:space="preserve">
+    <value>Paramètres du conteneur</value>
   </data>
 </root>

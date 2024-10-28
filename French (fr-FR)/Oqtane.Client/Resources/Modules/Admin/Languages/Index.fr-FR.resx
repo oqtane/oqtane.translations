@@ -121,13 +121,13 @@
     <value>Code</value>
   </data>
   <data name="Confirm.Language.Delete" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer la langue {0} ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer la langue {0} ?</value>
   </data>
   <data name="Error.Language.Delete" xml:space="preserve">
     <value>Erreur en voulant supprimer la langue</value>
   </data>
   <data name="AddLanguage.Text" xml:space="preserve">
-    <value>Ajouter un langage</value>
+    <value>Ajouter une langue</value>
   </data>
   <data name="DeleteLanguage.Header" xml:space="preserve">
     <value>Supprimer la langue</value>
@@ -135,10 +135,16 @@
   <data name="Error.Language.Download" xml:space="preserve">
     <value>Echec de téléchargement de la traduction</value>
   </data>
-  <data name="Success.Language.Install" xml:space="preserve">
-    <value>Traduction installée avec succès. Vous devez &lt;a href={0}&gt;Redémarrer&lt;/a&gt; votre Application pour appliquer les changements.</value>
-  </data>
   <data name="Default" xml:space="preserve">
-    <value>Defaut</value>
+    <value>Par défaut</value>
+  </data>
+  <data name="Success.Language.Download" xml:space="preserve">
+    <value>Traduction installée avec succès. Vous devez &lt;a href={0}&gt;redémarrer&lt;/a&gt; votre application pour appliquer les changements.</value>
+  </data>
+  <data name="DeleteLanguage.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="Translation" xml:space="preserve">
+    <value>Traduction</value>
   </data>
 </root>

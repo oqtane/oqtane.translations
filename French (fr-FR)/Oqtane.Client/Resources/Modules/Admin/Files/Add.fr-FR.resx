@@ -121,39 +121,48 @@
     <value>Selectionner le dossier</value>
   </data>
   <data name="Message.Required.UrlFolder" xml:space="preserve">
-    <value>Vous devez entrer une Url et sélectionner un dossier</value>
+    <value>Vous devez entrer une URL et sélectionner un dossier</value>
   </data>
   <data name="Message.Download.InvalidExtension" xml:space="preserve">
-    <value>Le fichier n'a pas pu être téléchargé depuis l'Url à cause de son extension de fichier</value>
+    <value>Le fichier n'a pas pu être téléchargé depuis l'URL à cause de son extension de fichier</value>
   </data>
   <data name="Message.Required.UrlName" xml:space="preserve">
-    <value>Vous devez entrer une Url avec un nom de fichier valide</value>
+    <value>Vous devez entrer une URL avec un nom de fichier valide</value>
   </data>
   <data name="Success.Download.File" xml:space="preserve">
-    <value>Le fichier a été téléchargé avec succès depuis l'Url</value>
+    <value>Le fichier a été téléchargé avec succès depuis l'URL</value>
   </data>
   <data name="Error.Download.InvalidUrl" xml:space="preserve">
-    <value>Erreur en voulant télécharger le fichier depuis l'Url. Merci de vérifier que cette Url est valide.</value>
+    <value>Erreur en voulant télécharger le fichier depuis l'URL. Merci de vérifier que cette URL est valide.</value>
   </data>
   <data name="Upload.HelpText" xml:space="preserve">
-    <value>Chargez le fichier que vous voulez</value>
+    <value>Charger le fichier que vous voulez</value>
   </data>
   <data name="Url.HelpText" xml:space="preserve">
-    <value>Entrez l'Url du fichier que vous souhaitez télécharger</value>
+    <value>Entrez l'URL du fichier que vous souhaitez télécharger</value>
   </data>
   <data name="Folder.HelpText" xml:space="preserve">
     <value>Sélectionnez le dossier ou sauvegarder le fichier</value>
   </data>
   <data name="Upload.Text" xml:space="preserve">
-    <value>Charger :</value>
+    <value>Charger : </value>
   </data>
   <data name="Url.Text" xml:space="preserve">
-    <value>Url: </value>
+    <value>URL : </value>
   </data>
   <data name="Folder.Text" xml:space="preserve">
-    <value>Dossier :</value>
+    <value>Dossier : </value>
   </data>
   <data name="UploadFiles.Heading" xml:space="preserve">
     <value>Fichiers chargés</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nom :</value>
+  </data>
+  <data name="DownloadFiles.Heading" xml:space="preserve">
+    <value>Télécharger les fichiers</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Entrer le nom du fichier à télécharger</value>
   </data>
 </root>

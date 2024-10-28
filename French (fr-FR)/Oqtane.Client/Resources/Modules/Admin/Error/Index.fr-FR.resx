@@ -118,6 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Error.Module.Load" xml:space="preserve">
-    <value>Un problème est survenue en voulant charger le module {0}</value>
+    <value>Un problème est survenue en voulant charger le module {0}. Le module est soit invalide ou n'existe pas.</value>
   </data>
 </root>

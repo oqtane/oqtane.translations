@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Error.Upgrade.Execute" xml:space="preserve">
-    <value>Erreur en exécutant la montée en version</value>
+    <value>Erreur en exécutant la mise à jour</value>
   </data>
   <data name="Error.Framework.Download" xml:space="preserve">
     <value>Erreur en téléchargeant le package du Framework</value>
@@ -127,12 +127,30 @@
     <value>Chargez un package de Framework et sélectionnez 'installer' pour terminer l'installation</value>
   </data>
   <data name="Framework.Text" xml:space="preserve">
-    <value>Framework: </value>
+    <value>Framework : </value>
   </data>
   <data name="Info.Upgrade.Wait" xml:space="preserve">
-    <value>Merci de patienter pendant la montée en version...</value>
+    <value>Merci de patienter pendant la mise à jour...</value>
   </data>
   <data name="Success.Framework.Download" xml:space="preserve">
-    <value>Le framework a été téléchargé avec succès... Merci de sélectionner Upgrade pour continuer</value>
+    <value>Le framework a été téléchargé avec succès... Merci de sélectionner 'Mise à jour' pour continuer</value>
+  </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Télécharger</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Charger</value>
+  </data>
+  <data name="Message.Text" xml:space="preserve">
+    <value>Le Framework est déjà à jour</value>
+  </data>
+  <data name="MessageUpgrade.Text" xml:space="preserve">
+    <value>Charger un package de Framework (Oqtane.Framework.version.nupkg) puis cliquez sur 'Mettre à jour'</value>
+  </data>
+  <data name="Localhost.Text" xml:space="preserve">
+    <value>Vous ne pouvez pas effectuer une mise à jour système dans un environnement de développement</value>
+  </data>
+  <data name="Disclaimer.Text" xml:space="preserve">
+    <value>Veuillez noter que le système de mise à jour est un processus simplifié prévu pour les petites et moyennes installations. Pour des installations plus complexes, vous devrez effectuer la mise à jour manuellement. Veuillez également noter que ce système de mise à jour n'est pas recommandé lors de l'utilisation de Microsoft Azure dû aux limitations de cet environnement. </value>
   </data>
 </root>

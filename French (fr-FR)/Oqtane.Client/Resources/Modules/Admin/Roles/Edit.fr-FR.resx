@@ -142,6 +142,6 @@
     <value>Erreur en sauvegardant le rôle</value>
   </data>
   <data name="Message.InfoRequired" xml:space="preserve">
-    <value>Merci de fournir toutes les informations recquise</value>
+    <value>Merci de fournir toutes les informations requises</value>
   </data>
 </root>

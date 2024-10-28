@@ -130,13 +130,13 @@
     <value>Erreur en chargeant un utilisateur</value>
   </data>
   <data name="Message.Required.ProfileInfo" xml:space="preserve">
-    <value>Vous devez fournir un nom d'utilisateur, un mot de passe, une adresse email et toutes les informations recquise par le profil</value>
+    <value>Vous devez fournir un nom d'utilisateur, un mot de passe, une adresse email et toutes les informations requises par le profil</value>
   </data>
   <data name="Error.User.Save" xml:space="preserve">
     <value>Erreur en sauvegardant un utilisateur</value>
   </data>
   <data name="Confirm.HelpText" xml:space="preserve">
-    <value>Merci de rentrer le mot de passe à nouveau pour vérifier qu'ils correspond à la valeur ci-dessus.</value>
+    <value>Merci de rentrer le mot de passe à nouveau pour vérifier qu'ils correspond à la valeur ci-dessus</value>
   </data>
   <data name="Confirm.Text" xml:space="preserve">
     <value>Confirmer le mot de passe :</value>
@@ -148,10 +148,10 @@
     <value>Nom complet :</value>
   </data>
   <data name="Email.HelpText" xml:space="preserve">
-    <value>L'adresse email où l'utilisateur recevra des notifications</value>
+    <value>L'adresse email où l'utilisateur recevra les notifications</value>
   </data>
   <data name="Email.Text" xml:space="preserve">
-    <value>Email:</value>
+    <value>Email :</value>
   </data>
   <data name="IsDeleted.HelpText" xml:space="preserve">
     <value>Indique si l'utilisateur est actif</value>
@@ -160,21 +160,39 @@
     <value>Supprimé ?</value>
   </data>
   <data name="Password.HelpText" xml:space="preserve">
-    <value>Le mot de passe utilisateur. Merci d'en définir un plus sécurisé</value>
+    <value>Le mot de passe de l'utilisateur. Merci d'en définir un suffisamment sécurisé.</value>
   </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Mot de passe :</value>
-  </data>
-  <data name="Photo.HelpText" xml:space="preserve">
-    <value>Une photo de l'utilisateur</value>
-  </data>
-  <data name="Photo.Text" xml:space="preserve">
-    <value>Photo :</value>
   </data>
   <data name="Username.HelpText" xml:space="preserve">
     <value>Un identifiant unique pour un utilisateur. Notez que ce champs ne pourra plus être modifié une fois sauvé.</value>
   </data>
   <data name="Username.Text" xml:space="preserve">
     <value>Nom d'utilisateur :</value>
+  </data>
+  <data name="Identity.Heading" xml:space="preserve">
+    <value>Identité</value>
+  </data>
+  <data name="Profile.Heading" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Mot de passe</value>
+  </data>
+  <data name="LastIPAddress.Text" xml:space="preserve">
+    <value>Dernière adresse IP : </value>
+  </data>
+  <data name="LastLogin.Text" xml:space="preserve">
+    <value>Dernière authentification :</value>
+  </data>
+  <data name="LastLogin.HelpText" xml:space="preserve">
+    <value>La dernière fois où l'utilisateur s'est authentifié</value>
+  </data>
+  <data name="LastIPAddress.HelpText" xml:space="preserve">
+    <value>L'adresse IP depuis laquelle l'utilisateur s'est authentifié pour la dernière fois</value>
+  </data>
+  <data name="Message.Password.Complexity" xml:space="preserve">
+    <value>Le mot de passe fourni ne respecte pas les critères de complexité</value>
   </data>
 </root>

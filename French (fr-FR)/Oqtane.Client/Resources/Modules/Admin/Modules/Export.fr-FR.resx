@@ -121,9 +121,18 @@
     <value>Exporter</value>
   </data>
   <data name="Content.HelpText" xml:space="preserve">
-    <value>Entrez le contenu de ce module</value>
+    <value>Le contenu de ce module</value>
   </data>
   <data name="Content.Text" xml:space="preserve">
-    <value>Contenu :</value>
+    <value>Contenu : </value>
+  </data>
+  <data name="Export Content" xml:space="preserve">
+    <value>Exporter le contenu</value>
+  </data>
+  <data name="Success.Content.Export" xml:space="preserve">
+    <value>Contenu exporté avec succès</value>
+  </data>
+  <data name="Error.Module.Export" xml:space="preserve">
+    <value>Echec lors de l'exportation du contenu du module</value>
   </data>
 </root>

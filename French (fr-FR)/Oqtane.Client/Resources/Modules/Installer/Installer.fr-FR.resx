@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DatabaseConfig" xml:space="preserve">
-    <value>Configuration de la base de donnée</value>
+    <value>Configuration de la base de données</value>
   </data>
   <data name="DatabaseType" xml:space="preserve">
-    <value>Type de base de donnée :</value>
+    <value>Type de base de données :</value>
   </data>
   <data name="ApplicationAdmin" xml:space="preserve">
     <value>Administrateur de l'application</value>
@@ -130,9 +130,9 @@
     <value>Installer maintenant</value>
   </data>
   <data name="Error.DbConfig.Load" xml:space="preserve">
-    <value>Erreur lors du chargement du contrôle de la configuration de base de donnée</value>
+    <value>Erreur lors du chargement du contrôle de la configuration de base de données</value>
   </data>
   <data name="Message.Require.DbInfo" xml:space="preserve">
-    <value>Merci de renseigner tous les champs et de vous assurer que les mots de passes correspondent et et font plus de 5 caractères de long</value>
+    <value>Merci de renseigner tous les champs et de vous assurer que les mots de passe correspondent et font plus de 5 caractères de long</value>
   </data>
 </root>

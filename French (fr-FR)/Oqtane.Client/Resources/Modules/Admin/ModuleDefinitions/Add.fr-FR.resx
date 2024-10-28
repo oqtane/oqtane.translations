@@ -123,19 +123,25 @@
   <data name="Error.Package.Load" xml:space="preserve">
     <value>Erreur en voulant télécharger le package</value>
   </data>
-  <data name="Success.Module.Install" xml:space="preserve">
-    <value>Module installé avec succès. Vous devez &lt;a href=\"{0}\"&gt;Redémarrer&lt;/a&gt; votre application pour appliquer ces changements.</value>
-  </data>
   <data name="Success.Module.Download" xml:space="preserve">
-    <value>Module téléchargé avec succès.  Cliquez sur installer pour terminer l'installation.</value>
+    <value>Module téléchargé avec succès.  Vous devez &lt;a href={0}&gt;redémarrer&lt;/a&gt; votre application pour terminer l'installation.</value>
   </data>
   <data name="Error.Module.Download" xml:space="preserve">
     <value>Erreur en voulant télécharger le module</value>
   </data>
   <data name="Module.HelpText" xml:space="preserve">
-    <value>Charger un ou plusieurs package de modules. Une fois chargé, cliquez sur installer pour terminer l'installation.</value>
+    <value>Charger un ou plusieurs package de modules.</value>
   </data>
   <data name="Search.NoResults" xml:space="preserve">
     <value>Aucun module ne correspond aux critères fournis ou le service de package est désactivé</value>
+  </data>
+  <data name="Download.Heading" xml:space="preserve">
+    <value>Marketplace</value>
+  </data>
+  <data name="Upload.Heading" xml:space="preserve">
+    <value>Charger</value>
+  </data>
+  <data name="Product" xml:space="preserve">
+    <value>Produit</value>
   </data>
 </root>

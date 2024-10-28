@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nom :</value>
+    <value>Nom : </value>
   </data>
   <data name="Minute(s)" xml:space="preserve">
     <value>Minute(s)</value>
@@ -166,24 +166,33 @@
     <value>Prochaine exécution de cette tâche</value>
   </data>
   <data name="Type.Text" xml:space="preserve">
-    <value>Type: </value>
+    <value>Type : </value>
   </data>
   <data name="Enabled.Text" xml:space="preserve">
-    <value>Actif ?</value>
+    <value>Actif ? </value>
   </data>
   <data name="RunsEvery.Text" xml:space="preserve">
-    <value>Exécute toutes les :</value>
+    <value>Exécute toutes les : </value>
   </data>
   <data name="Starting.Text" xml:space="preserve">
-    <value>Démarrage :</value>
+    <value>Démarrage : </value>
   </data>
   <data name="Ending.Text" xml:space="preserve">
-    <value>Fin :</value>
+    <value>Fin : </value>
   </data>
   <data name="RetentionLog.Text" xml:space="preserve">
-    <value>Retention de Log (éléments):</value>
+    <value>Retention de Log (éléments) : </value>
   </data>
   <data name="NextExecution.Text" xml:space="preserve">
-    <value>Prochaine exécution :</value>
+    <value>Prochaine exécution : </value>
+  </data>
+  <data name="Week(s)" xml:space="preserve">
+    <value>Semaine(s)</value>
+  </data>
+  <data name="Once" xml:space="preserve">
+    <value>Exécuter une fois seulement</value>
+  </data>
+  <data name="Message.StartEndDateError" xml:space="preserve">
+    <value>La date de début ne peut être après la date de fin.</value>
   </data>
 </root>

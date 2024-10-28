@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nom :</value>
+    <value>Nom : </value>
   </data>
   <data name="Parent.Text" xml:space="preserve">
-    <value>Parent: </value>
+    <value>Parent : </value>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Titre :</value>
+    <value>Titre : </value>
   </data>
   <data name="Settings.Heading" xml:space="preserve">
     <value>Paramètres</value>
@@ -163,19 +163,19 @@
     <value>Entrez le nom de la page</value>
   </data>
   <data name="Parent.HelpText" xml:space="preserve">
-    <value>Sélectionnez le parent de la page dans la hierarchie du site</value>
+    <value>Sélectionnez le parent de la page dans la hiérarchie du site</value>
   </data>
   <data name="Navigation.HelpText" xml:space="preserve">
     <value>Indiquez si la page fait partie de la navigation du site ou si elle est cachée</value>
   </data>
   <data name="UrlPath.HelpText" xml:space="preserve">
-    <value>Entrez le chemin url de cette page (facultatif) (ex: home ). Si vous ne fournissez pas un chemin url, le nom de la page sera utilisé.</value>
+    <value>(Facultatif) Entrez le chemin url de cette page (ex: home). Si vous ne fournissez pas un chemin URL, le nom de la page sera utilisé.</value>
   </data>
   <data name="Redirect.HelpText" xml:space="preserve">
-    <value>Entrez l'Url vers laquelle cette page devrait rediriger l'utilisateur qui navigue dessus (facultatif)</value>
+    <value>(Facultatif) Entrez l'URL vers laquelle cette page devrait rediriger l'utilisateur qui navigue dessus</value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
-    <value>Entrez le titre de la page (facultatif). Si vous n'entrez pas de titre, le nom de la page sera utilisé.</value>
+    <value>(Facultatif) Entrez le titre de la page. Si vous n'entrez pas de titre, le nom de la page sera utilisé.</value>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
     <value>Sélectionnez le thème pour cette page</value>
@@ -184,34 +184,31 @@
     <value>Sélectionnez le conteneur par defaut de la page</value>
   </data>
   <data name="Icon.HelpText" xml:space="preserve">
-    <value>Fournissez un nom de classe d'icône pour cette page qui sera affiché dans la navigation du site (facultatif)</value>
+    <value>(Facultatif) Fournissez un nom de classe d'icône pour cette page qui sera affiché dans la navigation du site</value>
   </data>
   <data name="Personalizable.HelpText" xml:space="preserve">
     <value>Indiquez si vous voulez autoriser les utilisateurs à personnaliser cette page avec leur propre contenu</value>
   </data>
   <data name="Navigation.Text" xml:space="preserve">
-    <value>Navigation ?</value>
+    <value>Navigation ? </value>
   </data>
   <data name="UrlPath.Text" xml:space="preserve">
-    <value>Chemin Url :</value>
+    <value>Chemin URL : </value>
   </data>
   <data name="Redirect.Text" xml:space="preserve">
-    <value>Redirection :</value>
+    <value>Redirection : </value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
-    <value>Thème :</value>
+    <value>Thème : </value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
-    <value>Conteneur par défaut :</value>
+    <value>Conteneur par défaut : </value>
   </data>
   <data name="Icon.Text" xml:space="preserve">
-    <value>Icône:</value>
+    <value>Icône : </value>
   </data>
   <data name="Personalizable.Text" xml:space="preserve">
-    <value>Personalisable ?</value>
-  </data>
-  <data name="Appearance.Name" xml:space="preserve">
-    <value>Apparence</value>
+    <value>Personalisable ? </value>
   </data>
   <data name="ThisLocation.Keep" xml:space="preserve">
     <value>Maintenir la localisation actuelle</value>
@@ -229,6 +226,75 @@
     <value>Sélectionnez l'endroit où vous souhaitez que la page soit déplacée par rapport aux autres pages</value>
   </data>
   <data name="Move.Text" xml:space="preserve">
-    <value>Déplacer :</value>
+    <value>Déplacer : </value>
+  </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="ModuleTitle" xml:space="preserve">
+    <value>Titre</value>
+  </data>
+  <data name="PageModules.Heading" xml:space="preserve">
+    <value>Modules</value>
+  </data>
+  <data name="ModuleSettings.Text" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="DeleteModule.Header" xml:space="preserve">
+    <value>Supprimer le module</value>
+  </data>
+  <data name="DeleteModule.Message" xml:space="preserve">
+    <value>Etes-vous sûr(e) de vouloir supprimer ce module ?</value>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permissions</value>
+  </data>
+  <data name="ThemeSettings.Heading" xml:space="preserve">
+    <value>Paramètres du thème</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Date d'expiration : </value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Date effective : </value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Contenu de l'entête :</value>
+  </data>
+  <data name="Message.Page.Reserved" xml:space="preserve">
+    <value>Le nom de page {0} est réservé. Merci de fournir un autre nom pour cette page.</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>(Facultatif) Entrer le contenu à inclure dans le corps de la page (i.e. tags de scripts)</value>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>La date à laquelle la page expire</value>
+  </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Apparence</value>
+  </data>
+  <data name="Clickable.Text" xml:space="preserve">
+    <value>Cliquable ?</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>(Facultatif) Entrez le contenu à inclure dans l'entête de la page (i.e. meta, lien, ou tags de scripts)</value>
+  </data>
+  <data name="Clickable.HelpText" xml:space="preserve">
+    <value>Sélectionne si oui ou non le lien dans le site de navigation est activé ou désactivé</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Contenu :</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Contenu de la page</value>
+  </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>La date à laquelle la page devient active</value>
+  </data>
+  <data name="ThemeChanged.Message" xml:space="preserve">
+    <value>Veuillez noter que remplacer le theme par défaut du site avec une page du thème qui n'a rien à voir peut résulter à des problèmes de compatibilité</value>
   </data>
 </root>

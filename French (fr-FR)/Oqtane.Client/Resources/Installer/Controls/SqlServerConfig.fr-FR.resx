@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Server.Text" xml:space="preserve">
-    <value>Serveur:</value>
+    <value>Serveur :</value>
   </data>
   <data name="Server.HelpText" xml:space="preserve">
-    <value>Entrez l'adresse du serveur de base de donnée</value>
+    <value>Entrez l'adresse du serveur de base de données. Cela peut également inclure un numéro de port si vous utilisez un service cloud (par exemple nomserveur.database.windows.net,1433) </value>
   </data>
   <data name="Database.Text" xml:space="preserve">
-    <value>Base de donnée :</value>
+    <value>Base de données :</value>
   </data>
   <data name="Database.HelpText" xml:space="preserve">
-    <value>Entrez le nom de la base de donnée</value>
+    <value>Entrez le nom de la base de données</value>
   </data>
   <data name="IntegratedSecurity.Text" xml:space="preserve">
-    <value>Sécurité intégrée</value>
+    <value>Sécurité intégrée :</value>
   </data>
   <data name="IntegratedSecurity.HelpText" xml:space="preserve">
     <value>Indiquez si vous souhaitez la sécurité intégrée ou non</value>
@@ -139,18 +139,36 @@
     <value>identifiant utilisateur :</value>
   </data>
   <data name="Uid.HelpText" xml:space="preserve">
-    <value>Entrez l'identifiant de l'utilisateur pour se connecter à la base de donnée</value>
+    <value>Entrez l'identifiant de l'utilisateur pour se connecter à la base de données</value>
   </data>
   <data name="Pwd.Text" xml:space="preserve">
     <value>Mot de passe :</value>
   </data>
   <data name="Pwd.HelpText" xml:space="preserve">
-    <value>Entrez le mot de passe utilisé pour se connecter à la base de donnée</value>
+    <value>Entrez le mot de passe utilisé pour se connecter à la base de données</value>
   </data>
-  <data name="True" xml:space="preserve">
-    <value>Vrai</value>
+  <data name="Encryption.Text" xml:space="preserve">
+    <value>Cryptage :</value>
   </data>
-  <data name="False" xml:space="preserve">
-    <value>Faux</value>
+  <data name="Self Signed" xml:space="preserve">
+    <value>Auto-Signé</value>
+  </data>
+  <data name="TrustServerCertificate.Text" xml:space="preserve">
+    <value>Serveur de Certificats :</value>
+  </data>
+  <data name="Verifiable" xml:space="preserve">
+    <value>Vérifiable</value>
+  </data>
+  <data name="TrustServerCertificate.HelpText" xml:space="preserve">
+    <value>Spécifier le type de certificat utilisé pour le cryptage. Vérifiable est équivalent à Faux. Auto-Signé est équivalent à Vrai.</value>
+  </data>
+  <data name="Encryption.HelpText" xml:space="preserve">
+    <value>Spécifier si vous utiliser une connexion de base de données cryptée. Il est hautement recommendé d'utiliser le cryptage dans un environnement de production.</value>
+  </data>
+  <data name="Custom" xml:space="preserve">
+    <value>Personnalisé</value>
+  </data>
+  <data name="Integrated" xml:space="preserve">
+    <value>Intégré</value>
   </data>
 </root>

@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Message.Text" xml:space="preserve">
-    <value>Message: </value>
+    <value>Message : </value>
   </data>
   <data name="Message.User.Invalid" xml:space="preserve">
-    <value>L'utilisateur n'existe pas. Veuillez vérifier que le nom d'utilisateur fournie est correct</value>
+    <value>L'utilisateur n'existe pas. Veuillez vérifier que le nom d'utilisateur fourni est correct</value>
   </data>
   <data name="Error.Notification.Add" xml:space="preserve">
     <value>Erreur en ajoutant une notification</value>
   </data>
   <data name="To.HelpText" xml:space="preserve">
-    <value>Entrez le nom d'utilisateur a qui vous voulez envoyer le message</value>
+    <value>Entrez le nom d'utilisateur à qui vous souhaitez envoyer un message</value>
   </data>
   <data name="Subject.HelpText" xml:space="preserve">
     <value>Entrez le sujet du message</value>
@@ -136,9 +136,18 @@
     <value>Entrez le message</value>
   </data>
   <data name="To.Text" xml:space="preserve">
-    <value>A :</value>
+    <value>A : </value>
   </data>
   <data name="Subject.Text" xml:space="preserve">
-    <value>Objet :</value>
+    <value>Objet : </value>
+  </data>
+  <data name="Send Notification" xml:space="preserve">
+    <value>Envoyer la notification</value>
+  </data>
+  <data name="Username.Enter" xml:space="preserve">
+    <value>Entrer le nom d'utilisateur</value>
+  </data>
+  <data name="Message.Required" xml:space="preserve">
+    <value>Vous devez fournir toutes les informations requises</value>
   </data>
 </root>

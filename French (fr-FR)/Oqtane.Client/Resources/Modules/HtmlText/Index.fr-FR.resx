@@ -118,6 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Edit.Action" xml:space="preserve">
-    <value>Editer</value>
+    <value>Editer le contenu</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Editer le contenu</value>
+  </data>
+  <data name="Error.Content.Load" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du contenu</value>
   </data>
 </root>

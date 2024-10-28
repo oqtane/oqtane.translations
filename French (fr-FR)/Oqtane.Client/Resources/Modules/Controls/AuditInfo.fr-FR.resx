@@ -120,16 +120,16 @@
   <data name="Created" xml:space="preserve">
     <value>Créé</value>
   </data>
-  <data name="by" xml:space="preserve">
-    <value>par</value>
-  </data>
-  <data name="on" xml:space="preserve">
-    <value>sur</value>
-  </data>
-  <data name="Last modified" xml:space="preserve">
-    <value>Dernière modification</value>
-  </data>
   <data name="Deleted" xml:space="preserve">
     <value>Supprimé</value>
+  </data>
+  <data name="By" xml:space="preserve">
+    <value>par</value>
+  </data>
+  <data name="On" xml:space="preserve">
+    <value>le</value>
+  </data>
+  <data name="LastModified" xml:space="preserve">
+    <value>Dernière modification</value>
   </data>
 </root>

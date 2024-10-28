@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nom :</value>
+    <value>Nom : </value>
   </data>
   <data name="Parent.Text" xml:space="preserve">
-    <value>Parent :</value>
+    <value>Parent : </value>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Titre :</value>
+    <value>Titre : </value>
   </data>
   <data name="Settings.Heading" xml:space="preserve">
     <value>Paramètres</value>
@@ -148,10 +148,7 @@
     <value>Sélectionnez une page</value>
   </data>
   <data name="Container.Select" xml:space="preserve">
-    <value>Select Container</value>
-  </data>
-  <data name="Error.Page.Initialize" xml:space="preserve">
-    <value>Erreur en initialisant la page</value>
+    <value>Sélectionnez un conteneur</value>
   </data>
   <data name="Error.ChildPage.Load" xml:space="preserve">
     <value>Erreur lors du chargement des pages enfants de cette page parent</value>
@@ -160,10 +157,10 @@
     <value>Erreur lors du chargement des dispositions de volet pour le thème</value>
   </data>
   <data name="Message.Page.Exists" xml:space="preserve">
-    <value>Une page avec le chemin {0} existe déjà pour la page parente sélectionnée. Le chemin de page doit être unique pour le parent sélectionné.</value>
+    <value>Une page avec le chemin '{0}' existe déjà pour ce site. Le chemin de la page doit être unique. Prière de vérifier si une page avec le même chemin n'existe pas dans la Corbeille.</value>
   </data>
   <data name="Message.Required.PageInfo" xml:space="preserve">
-    <value>Vous devez fournir un nom de page, un Theme, et un Conteneur</value>
+    <value>Vous devez fournir un nom de page, un Thème, et un Conteneur</value>
   </data>
   <data name="Error.Page.Save" xml:space="preserve">
     <value>Erreur en sauvegardant la page</value>
@@ -172,7 +169,7 @@
     <value>Entrez le nom de la page</value>
   </data>
   <data name="Parent.HelpText" xml:space="preserve">
-    <value>Sélectionnez le parent de la page dans la hierarchie du site</value>
+    <value>Sélectionnez le parent de la page dans la hiérarchie du site</value>
   </data>
   <data name="Insert.HelpText" xml:space="preserve">
     <value>Sélectionnez l'endroit où vous souhaitez que la page soit insérée en relation avec les autres pages</value>
@@ -181,51 +178,93 @@
     <value>Indiquez si la page fait partie de la navigation du site ou si elle est cachée</value>
   </data>
   <data name="UrlPath.HelpText" xml:space="preserve">
-    <value>Entrez le chemin url de cette page (facultatif) (ex: home ). Si vous ne fournissez pas un chemin url, le nom de la page sera utilisé.</value>
+    <value>(Facultatif) Entrez l'adresse url de cette page (ex: home). Si vous ne fournissez pas un chemin url, le nom de la page sera utilisé. Si la page est le chemin racine, indiquer '/'.</value>
   </data>
   <data name="Redirect.HelpText" xml:space="preserve">
-    <value>Entrez l'Url vers laquelle cette page devrait rediriger l'utilisateur qui navigue dessus (facultatif)</value>
+    <value>(Facultatif) Entrez l'Url vers laquelle cette page devrait rediriger l'utilisateur qui navigue dessus</value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
-    <value>Entrez le titre de la page (facultatif). Si vous n'entrez pas de titre, le nom de la page sera utilisé.</value>
+    <value>(Facultatif) Entrez le titre de la page. Si vous n'entrez pas de titre, le nom de la page sera utilisé.</value>
   </data>
   <data name="Theme.HelpText" xml:space="preserve">
     <value>Sélectionnez le thème pour cette page</value>
   </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
-    <value>Sélectionnez le conteneur par defaut de la page</value>
+    <value>Sélectionnez le conteneur par défaut de la page</value>
   </data>
   <data name="Icon.HelpText" xml:space="preserve">
-    <value>Fournissez un nom de classe d'icône pour cette page qui sera affiché dans la navigation du site (facultatif)</value>
+    <value>(Facultatif) Fournissez un nom de classe d'icône pour cette page qui sera affiché dans la navigation du site</value>
   </data>
   <data name="Personalizable.HelpText" xml:space="preserve">
     <value>Indiquez si vous voulez autoriser les utilisateurs à personnaliser cette page avec leur propre contenu</value>
   </data>
   <data name="Insert.Text" xml:space="preserve">
-    <value>Insertion :</value>
+    <value>Insertion : </value>
   </data>
   <data name="Navigation.Text" xml:space="preserve">
-    <value>Navigation ?</value>
+    <value>Navigation ? </value>
   </data>
   <data name="UrlPath.Text" xml:space="preserve">
-    <value>Chemin Url :</value>
+    <value>Chemin URL : </value>
   </data>
   <data name="Redirect.Text" xml:space="preserve">
-    <value>Redirection :</value>
+    <value>Redirection : </value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
-    <value>Thème :</value>
+    <value>Thème : </value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
-    <value>Conteneur par défaut :</value>
+    <value>Conteneur par défaut : </value>
   </data>
   <data name="Icon.Text" xml:space="preserve">
-    <value>Icône:</value>
+    <value>Icône : </value>
   </data>
   <data name="Personalizable.Text" xml:space="preserve">
-    <value>Personalisable ?</value>
+    <value>Personalisable ? </value>
   </data>
   <data name="Appearance.Name" xml:space="preserve">
     <value>Apparence</value>
+  </data>
+  <data name="Error.Page.Load" xml:space="preserve">
+    <value>Erreur du chargement de la page</value>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>Date à laquelle la page expire</value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Date effective : </value>
+  </data>
+  <data name="Theme.Heading" xml:space="preserve">
+    <value>Paramètres du thème</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permissions</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Contenu de la page</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Contenu :</value>
+  </data>
+  <data name="Message.Page.Reserved" xml:space="preserve">
+    <value>Le nom de page {0} est réservé. Veuillez utiliser un nom différent pour cette page.</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>(Facultatif) Entrer le contenu à inclure dans l'entête de la page (i.e. meta, liens, ou tags de scripts)</value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Contenu de l'entête :</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>(Facultatif) Entrer le contenu à inclure dans le corps de la page (i.e. tags de scripts)</value>
+  </data>
+  <data name="ThemeChanged.Message" xml:space="preserve">
+    <value>Veuillez noter que remplacer le theme par défaut du site avec une page du thème qui n'a rien à voir peut résulter à des problèmes de compatibilité</value>
+  </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>La date lorsque cette page devient active</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Date d'expiration : </value>
   </data>
 </root>

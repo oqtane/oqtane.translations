@@ -118,67 +118,61 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LocalDatabase" xml:space="preserve">
-    <value>Base de donnée locale</value>
+    <value>Base de données locale</value>
   </data>
   <data name="SqlServer" xml:space="preserve">
     <value>Serveur SQL</value>
   </data>
-  <data name="Server.Text" xml:space="preserve">
-    <value>Serveur :</value>
-  </data>
   <data name="Container.Select" xml:space="preserve">
-    <value>Sélectionner un container</value>
+    <value>Sélectionner un conteneur</value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
-    <value>Conteneur par défaut :</value>
+    <value>Conteneur par défaut : </value>
   </data>
   <data name="Theme.Select" xml:space="preserve">
     <value>Selectionner le thème</value>
   </data>
-  <data name="DefaultContainer.Admin" xml:space="preserve">
-    <value>Conteneur Admin par défaut</value>
-  </data>
   <data name="Aliases.HelpText" xml:space="preserve">
-    <value>Entrez les alias pour ce serveur</value>
+    <value>Les URLs pour le site (séparé par des virgules). Elles peuvent inclure les nom de domaines (e.g. sub.domaine.fr) ou un répertoire virtuel (e.g. domaine.fr/dossier).</value>
   </data>
   <data name="DefaultContainer.HelpText" xml:space="preserve">
     <value>Sélectionnez le conteneur par defaut du site</value>
   </data>
   <data name="Tenant.Text" xml:space="preserve">
-    <value>Tenant: </value>
+    <value>Base de données : </value>
   </data>
   <data name="Aliases.Text" xml:space="preserve">
-    <value>Alias : </value>
+    <value>URLs : </value>
   </data>
   <data name="DefaultTheme.Text" xml:space="preserve">
-    <value>Thème par défaut :</value>
+    <value>Thème par défaut : </value>
   </data>
   <data name="SiteTemplate.Select" xml:space="preserve">
     <value>Sélectionnez un template pour le site</value>
   </data>
   <data name="Tenant.Select" xml:space="preserve">
-    <value>Sélectionnez le Tenant</value>
+    <value>Sélectionnez la base de données</value>
   </data>
   <data name="Tenant.Add" xml:space="preserve">
-    <value>Créer un nouveau Tenant</value>
+    <value>Créer une nouvelle base de données</value>
   </data>
   <data name="Error.Theme.LoadContainers" xml:space="preserve">
-    <value>Erreur en chargeant les conteneur pour le thème</value>
+    <value>Erreur en chargeant les conteneurs pour le thème</value>
   </data>
   <data name="Error.Required.ServerDatabase" xml:space="preserve">
-    <value>Vous devez indiquer un serveur et une base de donnée</value>
+    <value>Vous devez indiquer un serveur et une base de données</value>
   </data>
   <data name="Error.InvalidPassword" xml:space="preserve">
     <value>Mot de passe hôte non valide</value>
   </data>
   <data name="Error.TenantName.Exists" xml:space="preserve">
-    <value>Le nom de Tenant est manquant ou existe déjà</value>
+    <value>Le nom de de la base de données est manquante ou existe déjà</value>
   </data>
   <data name="Message.SiteName.InUse" xml:space="preserve">
     <value>{0} est déjà utilisé par un autre site</value>
   </data>
   <data name="Message.Required.Tenant" xml:space="preserve">
-    <value>Vous devez fournir un Tenant, un nom de site, des Alias, un conteneur et un thême par défaut et un template de site</value>
+    <value>Vous devez fournir une base de données, un nom de site, des Alias, un conteneur et un thême par défaut et un template de site</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Entrez le nom du site</value>
@@ -186,35 +180,17 @@
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Sélectionnez le thême par défaut pour ce site web</value>
   </data>
-  <data name="AdminContainer.HelpText" xml:space="preserve">
-    <value>Sélectionnez le conteneur admin pour ce site</value>
-  </data>
   <data name="SiteTemplate.HelpText" xml:space="preserve">
     <value>Sélectionnez un template pour le site</value>
   </data>
   <data name="Tenant.HelpText" xml:space="preserve">
-    <value>Sélectionnez le Tenant pour ce site</value>
+    <value>Sélectionner la base de données pour ce site</value>
   </data>
   <data name="TenantName.HelpText" xml:space="preserve">
-    <value>Entrer un nom pour le Tenant</value>
+    <value>Entrer un nom pour la base de données. Veuillez noter que ce sera le nom du locataire qui est utilisé dans le framework pour identifier la base de données.</value>
   </data>
   <data name="DatabaseType.HelpText" xml:space="preserve">
-    <value>Sélectionnez le type de base de donnée pour ce Tenant</value>
-  </data>
-  <data name="DatabaseServer.HelpText" xml:space="preserve">
-    <value>Entrez le serveur pour ce Tenant</value>
-  </data>
-  <data name="Database.HelpText" xml:space="preserve">
-    <value>Entrez la base de donnée pour ce Tenant</value>
-  </data>
-  <data name="IntegratedSecurity.HelpText" xml:space="preserve">
-    <value>Indiquez si vous voulez la sécuité intégrée ou pas</value>
-  </data>
-  <data name="DatabaseUsername.HelpText" xml:space="preserve">
-    <value>Entrez le nom d'utilisateur pour la sécurité intégrée</value>
-  </data>
-  <data name="DatabasePassword.HelpText" xml:space="preserve">
-    <value>Entrez le mot de passe pour la sécurité intégrée</value>
+    <value>Sélectionnez le type de base de donnée</value>
   </data>
   <data name="HostUsername.HelpText" xml:space="preserve">
     <value>Entrez le nom d'utilisateur pour l'hôte du site</value>
@@ -223,31 +199,19 @@
     <value>Entrez le mot de passe de l'hôte du site</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nom du site :</value>
-  </data>
-  <data name="AdminContainer.Text" xml:space="preserve">
-    <value>Conteneur admin :</value>
+    <value>Nom du site : </value>
   </data>
   <data name="SiteTemplate.Text" xml:space="preserve">
-    <value>Template de site :</value>
+    <value>Template de site : </value>
   </data>
   <data name="TenantName.Text" xml:space="preserve">
-    <value>Nom du Tenant :</value>
+    <value>Nom : </value>
   </data>
   <data name="DatabaseType.Text" xml:space="preserve">
-    <value>Type de base de donnée :</value>
+    <value>Type : </value>
   </data>
   <data name="Database.Text" xml:space="preserve">
-    <value>Base de donnée :</value>
-  </data>
-  <data name="IntegratedSecurity.Text" xml:space="preserve">
-    <value>Sécurité intégrée :</value>
-  </data>
-  <data name="DatabaseUsername.Text" xml:space="preserve">
-    <value>Nom d'utilisateur de la base de donnée :</value>
-  </data>
-  <data name="DatabasePassword.Text" xml:space="preserve">
-    <value>Mot de passe base de donnée :</value>
+    <value>Base de données : </value>
   </data>
   <data name="HostUsername.Text" xml:space="preserve">
     <value>Nom utilisateur hôte :</value>
@@ -256,6 +220,30 @@
     <value>Mot de passe hôte :</value>
   </data>
   <data name="Error.Database.LoadConfig" xml:space="preserve">
-    <value>Erreur de chargement de  la configuration des controls de configuration de la base de donnée</value>
+    <value>Erreur de chargement de  la configuration des contrôles de configuration de la base de données</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Paramètres :</value>
+  </data>
+  <data name="EnterConnectionString" xml:space="preserve">
+    <value>Entrer la "Connection String"</value>
+  </data>
+  <data name="RenderMode.Text" xml:space="preserve">
+    <value>Mode de rendu : </value>
+  </data>
+  <data name="EnterConnectionParameters" xml:space="preserve">
+    <value>Entrer les paramètres de connexion</value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>Le mode de rendu pour les composants UI qui nécessitent une interactivité</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Interactivité :</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>Entrer la "connection string" complète avec tous les paramètres et délimiteurs</value>
+  </data>
+  <data name="RenderMode.HelpText" xml:space="preserve">
+    <value>Le mode de rendu par défaut pour le site</value>
   </data>
 </root>

@@ -117,17 +117,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="RememberMe" xml:space="preserve">
-    <value>Se souvenir de moi ?</value>
-  </data>
   <data name="ForgotPassword" xml:space="preserve">
     <value>Mot de passe oublié</value>
   </data>
   <data name="Success.Account.Verified" xml:space="preserve">
-    <value>Le compte utilisateur a pu être vérifié avec succès. Vous pouvez maintenant vous connecter avec l'identifiant et le mot de passe ci-dessous.</value>
-  </data>
-  <data name="Message.Account.NotVerfied" xml:space="preserve">
-    <value>Le compte utilisateur n'a pas pu être vérifié. Veuillez contacter votre Administrateur pour plus d'infos.</value>
+    <value>Le compte utilisateur a été vérifié avec succès. Vous pouvez maintenant vous connecter avec l'identifiant et le mot de passe ci-dessous.</value>
   </data>
   <data name="Error.Login.Fail" xml:space="preserve">
     <value>L'identification a échouée. Merci de vous souvenir que le mot de passe est sensible à la casse et que le compte utilisateur doit être vérifié lorsqu'il viens d'être créé, vous devriez donc vérifier vos emails.</value>
@@ -137,5 +131,104 @@
   </data>
   <data name="Info.SignedIn" xml:space="preserve">
     <value>Vous êtes déjà connecté</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Mot de passe</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Mot de passe :</value>
+  </data>
+  <data name="Remember.Text" xml:space="preserve">
+    <value>Se souvenir de moi ?</value>
+  </data>
+  <data name="Message.UserDoesNotExist" xml:space="preserve">
+    <value>L'utilisateur n'existe pas</value>
+  </data>
+  <data name="Code.Placeholder" xml:space="preserve">
+    <value>Code de vérification</value>
+  </data>
+  <data name="Code.Text" xml:space="preserve">
+    <value>Code de vérification :</value>
+  </data>
+  <data name="Username.Placeholder" xml:space="preserve">
+    <value>Nom d'utilisateur</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nom d'utilisateur :</value>
+  </data>
+  <data name="Error.Login" xml:space="preserve">
+    <value>Echec de connexion</value>
+  </data>
+  <data name="Error.ResetPassword" xml:space="preserve">
+    <value>Echec de réinitialisation du mot de passe</value>
+  </data>
+  <data name="Code.HelpText" xml:space="preserve">
+    <value>Merci de rentrer le code de vérification qui vous a été envoyé par email.</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>S'enregistrer en tant que nouvel utilisateur ?</value>
+  </data>
+  <data name="Message.Account.NotVerified" xml:space="preserve">
+    <value>Le compte utilisateur n'a pas pu être vérifié. Merci de contacter votre administrateur pour de plus amples instructions.</value>
+  </data>
+  <data name="Success.Account.Linked" xml:space="preserve">
+    <value>Le compte utilisateur a été lié avec succès. Vous pouvez maintenant vous connecter ci-dessous avec votre identifiant externe.</value>
+  </data>
+  <data name="Message.Account.NotLinked" xml:space="preserve">
+    <value>L'identifiant externe n'a pas pu être lié. Merci de contacter votre administrateur pour de plus amples instructions.</value>
+  </data>
+  <data name="Message.ForgotPassword" xml:space="preserve">
+    <value>Merci d'entrer le nom d'utilisateur de votre compte puis sélectionnez "Mot de passe oublié" à nouveau</value>
+  </data>
+  <data name="Message.ForgotUser" xml:space="preserve">
+    <value>Merci de vérifier votre compte email associée à votre compte utilisateur afin de gérer la notification de réinitialisation du mot de passe</value>
+  </data>
+  <data name="Remember.HelpText" xml:space="preserve">
+    <value>Spécifier si vous souhaitez vous connecter automatiquement au site lors de votre prochaine visite</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Merci d'entrer le nom d'utilisateur de votre compte</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Utiliser</value>
+  </data>
+  <data name="Error.LoadLogin" xml:space="preserve">
+    <value>Erreur de chargement de la connexion</value>
+  </data>
+  <data name="Error.TwoFactor.Fail" xml:space="preserve">
+    <value>La vérification a échoué. Merci de vous assurer que le code correspond bien à celui fourni dans l'email. Si vous souhaitez effectuer une nouvelle demande de code de vérification, cliquez sur 'Annuler' et connectez vous à nouveau. </value>
+  </data>
+  <data name="Message.TwoFactor" xml:space="preserve">
+    <value>Un code de verification sécurisé a été envoyé à votre adresse email. Merci d'entrer le code que vous avez reçu. Si vous ne recevez pas le code ou avez perdu l'accès a votre email, merci de contacter votre administrateur.</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Merci d'entrer le mot de passe correspondant à votre compte. N'oubliez pas que les mots de passe sont sensibles à la casse. Après plusieurs tentatives de connexion, vous serez bloqué pendant un certain temps.</value>
+  </data>
+  <data name="ExternalLoginStatus.DuplicateEmail" xml:space="preserve">
+    <value>Plusieurs comptes utilisateurs existent déjà avec l'adresse email d'authentification externe. Merci de contacter votre administrateur pour de plus amples informations.</value>
+  </data>
+  <data name="ExternalLoginStatus.MissingClaims" xml:space="preserve">
+    <value>Le fournisseur d'authentification externe n'a pas fourni toutes les informations requises. Merci de contacter votre administrateur pour de plus amples informations.</value>
+  </data>
+  <data name="ExternalLoginStatus.ProviderKeyMismatch" xml:space="preserve">
+    <value>Une erreur s'es produite lors de la verification de votre authentification externe. Merci de contacter votre administrateur pour de plus amples informations.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserDoesNotExist" xml:space="preserve">
+    <value>Un compte utilisateur correspondant à l'adresse email de votre authentification externe n'existe pas. Merci de contacter votre administrateur pour de plus amples informations.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserNotCreated" xml:space="preserve">
+    <value>Un compte utilisateur n'a pas pû être créé pour votre authentification externe. Merci de contacter votre administrateur pour de plus amples informations.</value>
+  </data>
+  <data name="ExternalLoginStatus.VerificationRequired" xml:space="preserve">
+    <value>Afin de lier votre authentification externe avec votre compte utilisateur, vous devez verifier votre identité. Merci de verifier votre compte email pour plus d'informations.</value>
+  </data>
+  <data name="ExternalLoginStatus.AccessDenied" xml:space="preserve">
+    <value>Votre authentification externe n'a pas reçu le droit de se connecter. Merci de contacter votre administrateur pour de plus amples informations.</value>
+  </data>
+  <data name="ExternalLoginStatus.RemoteFailure" xml:space="preserve">
+    <value>Votre authentification externe a échoué. Merci de contacter votre administrateur pour de plus amples informations.</value>
+  </data>
+  <data name="ExternalLoginStatus.ReviewClaims" xml:space="preserve">
+    <value>L'option 'Review Claims' est active dans les paramètres d'authentification externe. Merci de visiter les évènements log pour voir les Claims renvoyés par le fournisseur.</value>
   </data>
 </root>

@@ -118,22 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Template.Text" xml:space="preserve">
-    <value>Template: </value>
+    <value>Modèle : </value>
   </data>
   <data name="Template.Select" xml:space="preserve">
-    <value>Sélectionnez un Template</value>
+    <value>Sélectionnez un Modèle</value>
   </data>
   <data name="FrameworkReference.HelpText" xml:space="preserve">
     <value>Séelectionnez une version de référence du framework</value>
   </data>
   <data name="OwnerName.Text" xml:space="preserve">
-    <value>Nom du propriétaire :</value>
+    <value>Nom du propriétaire : </value>
   </data>
   <data name="FrameworkReference.Text" xml:space="preserve">
-    <value>Référence du framework :</value>
+    <value>Référence du framework : </value>
   </data>
   <data name="Location.Text" xml:space="preserve">
-    <value>Localisation :</value>
+    <value>Localisation : </value>
   </data>
   <data name="Theme.Create" xml:space="preserve">
     <value>Créer un thème</value>
@@ -142,24 +142,24 @@
     <value>Notez que le créateur de thème doit juste être utilisé en environnement de développement</value>
   </data>
   <data name="Success.Theme.Create" xml:space="preserve">
-    <value>Le code source de votre thème a été créé avec sucès à l'endroit spécifié ci-dessous et doit être compilé pour devenir fonctionnel. Une fois qu'il a été compilé, vous devrez &lt;a href=\"{0}\"&gt;Redémarrer&lt;/a&gt; votre appliation pour activer le module.</value>
+    <value>Le code source de votre thème a été créé avec sucès à l'endroit spécifié ci-dessous et doit être compilé pour devenir fonctionnel. Une fois qu'il a été compilé, vous devrez &lt;a href={0}&gt;Redémarrer&lt;/a&gt; votre appliation pour activer le module.</value>
   </data>
   <data name="Message.Required.ValidName" xml:space="preserve">
-    <value>Vous devez fournir un nom de propriétaire valide ainsi qu'un nom de thème ( ie. sans ponctuation ni espace et les valeurs doivent être différentes ) et choisir un Template</value>
+    <value>Vous devez fournir un nom de propriétaire valide ainsi qu'un nom de thème ( ie. sans ponctuation ni espace et les valeurs doivent être différentes) et choisir un Modèle</value>
   </data>
   <data name="OwnerName.HelpText" xml:space="preserve">
-    <value>Entrez le nom de l'organisation qui développe le thème. Il ne doit pas contenir d'espâce ou de ponctuation.</value>
+    <value>Entrez le nom de l'organisation qui développe le thème. Il ne doit pas contenir d'espace ou de ponctuation.</value>
   </data>
   <data name="ThemeName.HelpText" xml:space="preserve">
     <value>Entrez le nom de ce thème. Il ne doit pas contenir d'espace ou de ponctuation.</value>
   </data>
   <data name="Template.HelpText" xml:space="preserve">
-    <value>Sélectionner un template de Thème. Les Templates sont situés dans le dossier wwwroot/Themes/Templates sur le serveur.</value>
+    <value>Sélectionner un modèle de Thème. Les Templates sont situés dans le dossier 'wwwroot/Themes/Templates' sur le serveur.</value>
   </data>
   <data name="Location.HelpText" xml:space="preserve">
     <value>Localisation où sera créé le thème</value>
   </data>
   <data name="ThemeName.Text" xml:space="preserve">
-    <value>Nom du thème :</value>
+    <value>Nom du thème : </value>
   </data>
 </root>

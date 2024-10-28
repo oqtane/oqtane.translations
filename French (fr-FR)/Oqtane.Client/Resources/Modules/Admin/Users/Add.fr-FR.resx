@@ -117,12 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Error.User.AddCheckPass" xml:space="preserve">
-    <value>Erreur en ajoutant l'utilisateur. Veuillez vérifier que le mot de passe répond aux exigences de complexité et que le nom d'utilisateur n'est pas déjà utilisé</value>
-  </data>
-  <data name="Message.Password.NoMatch" xml:space="preserve">
-    <value>Les mots de passe ne correspondent pas</value>
-  </data>
   <data name="Error.User.Add" xml:space="preserve">
     <value>Erreur en ajoutant l'utilisateur</value>
   </data>
@@ -133,16 +127,10 @@
     <value>Identité</value>
   </data>
   <data name="Message.Required.ProfileInfo" xml:space="preserve">
-    <value>Vous devez fournir un nom d'utilisateur, un mot de passe, une adresse email et toutes les informations recquise par le profil</value>
+    <value>Vous devez fournir un nom d'utilisateur, une adresse email et toutes les informations recquise par le profil</value>
   </data>
   <data name="Message.Username.Exists" xml:space="preserve">
     <value>Le nom d'utilisateur existe déjà</value>
-  </data>
-  <data name="Confirm.HelpText" xml:space="preserve">
-    <value>PlMerci de rentrer le mot de passe à nouveau pour vérifier qu'ils correspond à la valeur ci-dessus.</value>
-  </data>
-  <data name="Confirm.Text" xml:space="preserve">
-    <value>Confirmer le mot de passe :</value>
   </data>
   <data name="DisplayName.HelpText" xml:space="preserve">
     <value>Le nom complet de l'utilisateur</value>
@@ -151,21 +139,21 @@
     <value>Nom complet :</value>
   </data>
   <data name="Email.HelpText" xml:space="preserve">
-    <value>L'adresse email où l'utilisateur recevra des notifications</value>
+    <value>L'adresse email où l'utilisateur recevra les notifications</value>
   </data>
   <data name="Email.Text" xml:space="preserve">
     <value>Email :</value>
   </data>
-  <data name="Password.HelpText" xml:space="preserve">
-    <value>Le mot de passe utilisateur. Merci d'en choisir un suffisamment sécurisé.</value>
-  </data>
-  <data name="Password.Text" xml:space="preserve">
-    <value>Mot de passe :</value>
-  </data>
   <data name="Username.HelpText" xml:space="preserve">
-    <value>Un identifian tunique pour un utilisateur. Notez que ce champs ne pourra plus être modifié une fois sauvé.</value>
+    <value>Un identifiant unique pour un utilisateur. Notez que ce champs ne pourra plus être modifié une fois sauvegardé.</value>
   </data>
   <data name="Username.Text" xml:space="preserve">
     <value>Nom d'utilisateur :</value>
+  </data>
+  <data name="Notify.Text" xml:space="preserve">
+    <value>Notifie ?</value>
+  </data>
+  <data name="Notify.HelpText" xml:space="preserve">
+    <value>Indique si les nouveaux utilisateurs doivent recevoir une notification par email</value>
   </data>
 </root>

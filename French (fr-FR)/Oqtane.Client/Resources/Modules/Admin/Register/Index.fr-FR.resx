@@ -133,10 +133,10 @@
     <value>L'enregistrement est désactivé pour ce site</value>
   </data>
   <data name="Info.User.AccountCreate" xml:space="preserve">
-    <value>Compte utilisateur enregistré. Veuillez vérifier votre adresse email pour suivre les instructions de vérification</value>
+    <value>Compte utilisateur créé. Veuillez vérifier votre adresse email pour suivre les instructions de vérification.</value>
   </data>
   <data name="Error.User.AddInfo" xml:space="preserve">
-    <value>Erreur en ajoutant un utilisateur. Veuillez vérificer que le mot de passe répond aux exigencece de complexité et que le nom d'utilisateur n'est pas déjà employé.</value>
+    <value>Erreur en ajoutant un utilisateur. Veuillez vérifier que le mot de passe répond aux exigences de complexité et que l'adresse email n'est pas déjà utilisée.</value>
   </data>
   <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>Les mots de passe ne correspondent pas</value>
@@ -148,13 +148,13 @@
     <value>Erreur en ajoutant un utilisateur</value>
   </data>
   <data name="Confirm.HelpText" xml:space="preserve">
-    <value>Si vous changez votre mot de passe vous devez le rentrer à nouveau pour vérifier qu'ils correspondent</value>
+    <value>Entrez votre mot de passe à nouveau pour vérifier qu'il correspond à la valeur fournie précédemment</value>
   </data>
   <data name="Confirm.Text" xml:space="preserve">
     <value>Confirmez le mot de passe :</value>
   </data>
   <data name="DisplayName.HelpText" xml:space="preserve">
-    <value>Votre Nom complet </value>
+    <value>Votre nom complet</value>
   </data>
   <data name="DisplayName.Text" xml:space="preserve">
     <value>Nom complet :</value>
@@ -166,15 +166,18 @@
     <value>Email :</value>
   </data>
   <data name="Password.HelpText" xml:space="preserve">
-    <value>Si vous souhaitez changer de mot de passe, vous pouvez l'entrer ici. Veillez à ce qu'il soit suffisamment sécurisé.</value>
+    <value>Veuillez entrer un mot de passe suffisamment sécurisé qui répond aux critères de complexité</value>
   </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Mot de passe :</value>
   </data>
   <data name="Username.HelpText" xml:space="preserve">
-    <value>Votre nom d'utilisateur. Notez que ce champs ne peux pu être modifié une fois sauvegardé</value>
+    <value>Votre nom d'utilisateur. Notez que ce champs ne peux plus être modifié une fois sauvegardé.</value>
   </data>
   <data name="Username.Text" xml:space="preserve">
-    <value>Nom d'utilsiateur :</value>
+    <value>Nom d'utilisateur :</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Compte existant ? Vous connecter maintenant.</value>
   </data>
 </root>

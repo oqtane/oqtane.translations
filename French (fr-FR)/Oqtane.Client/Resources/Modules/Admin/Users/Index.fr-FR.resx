@@ -126,4 +126,265 @@
   <data name="DeleteUser.Header" xml:space="preserve">
     <value>Supprimer un utilisateur</value>
   </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="Users.Heading" xml:space="preserve">
+    <value>Utilisateurs</value>
+  </data>
+  <data name="DeleteUser.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="EditUser.Text" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="Roles.Text" xml:space="preserve">
+    <value>Rôles</value>
+  </data>
+  <data name="AuthFlow.None" xml:space="preserve">
+    <value>Aucun</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Nom d'utilisateur</value>
+  </data>
+  <data name="Optional" xml:space="preserve">
+    <value>Optionnel</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>Requis</value>
+  </data>
+  <data name="LastLoginOn" xml:space="preserve">
+    <value>Dernière authentification</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="Secret.Text" xml:space="preserve">
+    <value>Secret :</value>
+  </data>
+  <data name="Token.Text" xml:space="preserve">
+    <value>Token :</value>
+  </data>
+  <data name="TokenSettings.Heading" xml:space="preserve">
+    <value>Paramètres du Token</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>Deux facteurs ?</value>
+  </data>
+  <data name="PKCE.Text" xml:space="preserve">
+    <value>Utiliser PKCE ?</value>
+  </data>
+  <data name="ProviderName.Text" xml:space="preserve">
+    <value>Nom du fournisseur :</value>
+  </data>
+  <data name="ProviderType.Text" xml:space="preserve">
+    <value>Type de fournisseur :</value>
+  </data>
+  <data name="RedirectUrl.Text" xml:space="preserve">
+    <value>URL de redirection :</value>
+  </data>
+  <data name="AllowSiteLogin.Text" xml:space="preserve">
+    <value>Autoriser l'authentification ?</value>
+  </data>
+  <data name="UniqueCharacters.HelpText" xml:space="preserve">
+    <value>Le nombre minimum de caractères uniques que le mot de passe doit contenir</value>
+  </data>
+  <data name="RequiredLength.Text" xml:space="preserve">
+    <value>Longueur minimum :</value>
+  </data>
+  <data name="MaximumFailures.Text" xml:space="preserve">
+    <value>Nombres d'échecs maximum :</value>
+  </data>
+  <data name="LockoutDuration.Text" xml:space="preserve">
+    <value>Durée du blocage :</value>
+  </data>
+  <data name="LockoutDuration.HelpText" xml:space="preserve">
+    <value>Le nombre de minutes qu'un utilisateur reste vérouillé</value>
+  </data>
+  <data name="MaximumFailures.HelpText" xml:space="preserve">
+    <value>Le nombre maximum de tentatives de connexions avant que l'utilisateur soit vérouillé</value>
+  </data>
+  <data name="RequireDigit.HelpText" xml:space="preserve">
+    <value>Indique si les mots de passe doivent contenir un chiffre</value>
+  </data>
+  <data name="RequireDigit.Text" xml:space="preserve">
+    <value>Chiffre requis ?</value>
+  </data>
+  <data name="RequiredLength.HelpText" xml:space="preserve">
+    <value>La longueur minimum d'un mot de passe</value>
+  </data>
+  <data name="OAuth2" xml:space="preserve">
+    <value>OAuth 2.0</value>
+  </data>
+  <data name="OIDC" xml:space="preserve">
+    <value>OpenID Connect (OIDC)</value>
+  </data>
+  <data name="Provider.Text" xml:space="preserve">
+    <value>Fournisseur :</value>
+  </data>
+  <data name="ImportUsers.Text" xml:space="preserve">
+    <value>Importer les utilisateurs</value>
+  </data>
+  <data name="AuthFlow.IdToken" xml:space="preserve">
+    <value>ID Token</value>
+  </data>
+  <data name="AuthFlow.IdTokenToken" xml:space="preserve">
+    <value>ID Token + Access Token</value>
+  </data>
+  <data name="AuthFlow.Token" xml:space="preserve">
+    <value>Access Token</value>
+  </data>
+  <data name="AllowRegistration.HelpText" xml:space="preserve">
+    <value>Souhaitez vous que les visiteurs anonymes puissent créer un compte sur le site</value>
+  </data>
+  <data name="AllowRegistration.Text" xml:space="preserve">
+    <value>Autoriser l'enregistrement ? </value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Erreur lors de la sauvegarde des paramètres</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Paramètres sauvés avec succès</value>
+  </data>
+  <data name="RequireLower.HelpText" xml:space="preserve">
+    <value>Indique si les mots de passe doivent contenir un caractère minuscule</value>
+  </data>
+  <data name="RequireUpper.HelpText" xml:space="preserve">
+    <value>Indique si les mots de passe doivent contenir un caractère majuscule</value>
+  </data>
+  <data name="RequireUpper.Text" xml:space="preserve">
+    <value>Nécessite une majuscule ?</value>
+  </data>
+  <data name="RequireLower.Text" xml:space="preserve">
+    <value>Nécessite une minuscule ?</value>
+  </data>
+  <data name="RequirePunctuation.HelpText" xml:space="preserve">
+    <value>Indique si les mots de passe doivent contenir un caractère non alphanumérique (i.e. ponctuation)</value>
+  </data>
+  <data name="RequirePunctuation.Text" xml:space="preserve">
+    <value>Nécessite une ponctuation ?</value>
+  </data>
+  <data name="Success.UpdateConfig.Restart" xml:space="preserve">
+    <value>Configuration mise à jour. Merci de cliquer sur 'Redémarrer Application' pour que les changements prennent effet.</value>
+  </data>
+  <data name="UniqueCharacters.Text" xml:space="preserve">
+    <value>Caractères uniques :</value>
+  </data>
+  <data name="AllowSiteLogin.HelpText" xml:space="preserve">
+    <value>Souhaitez vous autoriser les utilisateurs à se connecter en utilisant un nom d'utilisateur/mot de passe géré localement ? Veuillez noter que cette option ne devrait être désactivée que si vous avez déjà configuré un fournisseur d'authentification externe ou vous risquez de retrouver votre propre accès bloqué.</value>
+  </data>
+  <data name="Authority.Text" xml:space="preserve">
+    <value>Autorité :</value>
+  </data>
+  <data name="AuthorizationUrl.Text" xml:space="preserve">
+    <value>URL d'autorisation :</value>
+  </data>
+  <data name="ClientID.Text" xml:space="preserve">
+    <value>ID client :</value>
+  </data>
+  <data name="ClientSecret.Text" xml:space="preserve">
+    <value>Secret client :</value>
+  </data>
+  <data name="CreateUsers.Text" xml:space="preserve">
+    <value>Créer de nouveaux utilisateurs ?</value>
+  </data>
+  <data name="DomainFilter.Text" xml:space="preserve">
+    <value>Filtre de domaine :</value>
+  </data>
+  <data name="Authority.HelpText" xml:space="preserve">
+    <value>L'URL de l'autorité ou URL de l'émetteur associé avec votre fournisseur d'identité</value>
+  </data>
+  <data name="AuthorizationUrl.HelpText" xml:space="preserve">
+    <value>L'URL utilisée pour obtenir un code d'autorisation</value>
+  </data>
+  <data name="ClientID.HelpText" xml:space="preserve">
+    <value>L'ID client pour le fournisseur d'identité</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="Provider.HelpText" xml:space="preserve">
+    <value>Sélectionnez un fournisseur d'authentification externe</value>
+  </data>
+  <data name="NameClaimType.Text" xml:space="preserve">
+    <value>Nom du claim :</value>
+  </data>
+  <data name="SynchronizeRoles.Text" xml:space="preserve">
+    <value>Synchroniser les rôles ?</value>
+  </data>
+  <data name="Parameters.Text" xml:space="preserve">
+    <value>Paramètres :</value>
+  </data>
+  <data name="ClientSecret.HelpText" xml:space="preserve">
+    <value>Le secret client pour le fournisseur d'authentification</value>
+  </data>
+  <data name="CreateUsers.HelpText" xml:space="preserve">
+    <value>Souhaitez vous que les nouveaux utilisateurs soit créés automatiquement ? Si vous désactivez cette option, les utilisateurs doivent déjà être enregistrés sur le site afin de pouvoir se connecter avec leur authentification externe.</value>
+  </data>
+  <data name="DomainFilter.HelpText" xml:space="preserve">
+    <value>Fournir les filtres de domaines email (séparé par des virgules). Les domaines à exclure doivent être préfixés par un point d'exclamation (!). Par exemple, 'microsoft.com,!hotmail.com' inclue les adresses email 'microsoft.com' et exclue les adresses email 'Hotmail.com'.</value>
+  </data>
+  <data name="EmailClaimType.HelpText" xml:space="preserve">
+    <value>(Facultatif) Spécifie le nom du type du claim fourni par le fournisseur d'authentification. La valeur typique est 'email'.</value>
+  </data>
+  <data name="EmailClaimType.Text" xml:space="preserve">
+    <value>Claim email :</value>
+  </data>
+  <data name="ExternalLoginSettings.Heading" xml:space="preserve">
+    <value>Paramètres d'authentification externe</value>
+  </data>
+  <data name="LockoutSettings.Heading" xml:space="preserve">
+    <value>Paramètres de verouillage</value>
+  </data>
+  <data name="MetadataUrl.Text" xml:space="preserve">
+    <value>URL des métadonnées :</value>
+  </data>
+  <data name="PasswordSettings.Heading" xml:space="preserve">
+    <value>Paramètres des mots de passe</value>
+  </data>
+  <data name="PKCE.HelpText" xml:space="preserve">
+    <value>Indique si le fournisseur d'identité supporte PKCE (Proof Key for Code Exchange)</value>
+  </data>
+  <data name="MetadataUrl.HelpText" xml:space="preserve">
+    <value>L'URL de découverte pour obtenir les métadonnées pour ce fournisseur d'identité. A specifier que si le fournisseur n'utilise pas une approche standard (i.e. /.well-known/openid-configuration)</value>
+  </data>
+  <data name="ProviderName.HelpText" xml:space="preserve">
+    <value>Spécifie un nom convivial (Friendly Name) pour le fournisseur d'authentification externe qui sera affiché sur la page d'authentification</value>
+  </data>
+  <data name="ProviderType.HelpText" xml:space="preserve">
+    <value>Sélectionner le type de fournisseur externe</value>
+  </data>
+  <data name="RedirectUrl.HelpText" xml:space="preserve">
+    <value>L'URL de redirection (callback URL) qui généralement nécessite d'être enregistrée avec le fournisseur d'identité</value>
+  </data>
+  <data name="TokenUrl.Text" xml:space="preserve">
+    <value>URL de Token :</value>
+  </data>
+  <data name="UserInfoUrl.Text" xml:space="preserve">
+    <value>URL d'information utilisateur :</value>
+  </data>
+  <data name="Audience.Text" xml:space="preserve">
+    <value>Audience :</value>
+  </data>
+  <data name="CookieName.Text" xml:space="preserve">
+    <value>Nom du cookie :</value>
+  </data>
+  <data name="CreateToken" xml:space="preserve">
+    <value>Créer le token</value>
+  </data>
+  <data name="Lifetime.Text" xml:space="preserve">
+    <value>Durée de vie :</value>
+  </data>
+  <data name="Lifetime.HelpText" xml:space="preserve">
+    <value>La durée de validité d'un token (en minutes)</value>
+  </data>
+  <data name="AlwaysRemember.Text" xml:space="preserve">
+    <value>Toujours se souvenir de l'utilisateur ?</value>
+  </data>
 </root>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Confirm.Page.Delete" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer la page {0} ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer la page {0} ?</value>
   </data>
   <data name="Error.Page.Delete" xml:space="preserve">
     <value>Erreur en voulant supprimer la page</value>
@@ -128,5 +128,17 @@
   </data>
   <data name="DeletePage.Header" xml:space="preserve">
     <value>Supprimer la page</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Naviguer</value>
+  </data>
+  <data name="DeletePage.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="EditPage.Text" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="Error.Page.Load" xml:space="preserve">
+    <value>Erreur lors du chargement des pages</value>
   </data>
 </root>

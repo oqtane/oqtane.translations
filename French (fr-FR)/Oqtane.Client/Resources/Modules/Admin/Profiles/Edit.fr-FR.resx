@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nom :</value>
+    <value>Nom : </value>
   </data>
   <data name="Category.Text" xml:space="preserve">
-    <value>Catégorie :</value>
+    <value>Catégorie : </value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description: </value>
+    <value>Description : </value>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Titre :</value>
+    <value>Titre : </value>
   </data>
   <data name="Error.Profile.Load" xml:space="preserve">
     <value>Erreur en chargeant le profil</value>
@@ -166,21 +166,39 @@
     <value>Cet élément doit il être visible pour tous les utilisateurs ?</value>
   </data>
   <data name="Order.Text" xml:space="preserve">
-    <value>Position :</value>
+    <value>Position : </value>
   </data>
   <data name="Length.Text" xml:space="preserve">
-    <value>Longueur :</value>
+    <value>Longueur : </value>
   </data>
   <data name="DefaultValue.Text" xml:space="preserve">
-    <value>Valeur par défaut :</value>
+    <value>Valeur par défaut : </value>
   </data>
   <data name="Options.Text" xml:space="preserve">
-    <value>Options :</value>
+    <value>Options : </value>
   </data>
   <data name="Required.Text" xml:space="preserve">
-    <value>Recquis ?</value>
+    <value>Obligatoire ? </value>
   </data>
   <data name="Private.Text" xml:space="preserve">
-    <value>Privé ?</value>
+    <value>Privé ? </value>
+  </data>
+  <data name="Validation.Text" xml:space="preserve">
+    <value>Validation : </value>
+  </data>
+  <data name="Rows.Text" xml:space="preserve">
+    <value>Lignes : </value>
+  </data>
+  <data name="Autocomplete.Text" xml:space="preserve">
+    <value>Auto-complétion : </value>
+  </data>
+  <data name="Validation.HelpText" xml:space="preserve">
+    <value>(Optionnel) Fournir une expression régulière (RegEx) pour valider la valeur entrée</value>
+  </data>
+  <data name="Rows.HelpText" xml:space="preserve">
+    <value>Le nombre de lignes pour le texte (1 par défaut)</value>
+  </data>
+  <data name="Autocomplete.HelpText" xml:space="preserve">
+    <value>L'attribut HTML autocomplete permet de spécifier le comportement du navigateur pour compléter automatiquement les valeurs des champs d'un formulaire. Les valeurs acceptées sont vide (par défaut), 'on', 'off',  ou toute autre valeur standardisée pour cet attribut.</value>
   </data>
 </root>

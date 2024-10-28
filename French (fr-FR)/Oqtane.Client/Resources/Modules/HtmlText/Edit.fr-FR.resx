@@ -117,7 +117,67 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Error Saving Content" xml:space="preserve">
+  <data name="Error.Content.Save" xml:space="preserve">
     <value>Erreur en voulant sauver le contenu</value>
+  </data>
+  <data name="View.Text" xml:space="preserve">
+    <value>Voir</value>
+  </data>
+  <data name="Edit.Heading" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="Versions.Heading" xml:space="preserve">
+    <value>Versions</value>
+  </data>
+  <data name="HtmlEditor.Heading" xml:space="preserve">
+    <value>Editeur HTML brut</value>
+  </data>
+  <data name="RichTextEditor.Heading" xml:space="preserve">
+    <value>Editeur de texte enrichi</value>
+  </data>
+  <data name="Restore.Text" xml:space="preserve">
+    <value>Restaurer</value>
+  </data>
+  <data name="Restore.Header" xml:space="preserve">
+    <value>Restaurer la version</value>
+  </data>
+  <data name="Edit Html/Text" xml:space="preserve">
+    <value>Editer HTML/Texte</value>
+  </data>
+  <data name="Message.Content.Restored" xml:space="preserve">
+    <value>Version restaurée</value>
+  </data>
+  <data name="Message.Content.Deleted" xml:space="preserve">
+    <value>Version supprimée</value>
+  </data>
+  <data name="Error.Content.View" xml:space="preserve">
+    <value>Erreur de visionnage de la version</value>
+  </data>
+  <data name="Error.Content.Restore" xml:space="preserve">
+    <value>Erreur de restauration de la version</value>
+  </data>
+  <data name="Error.Content.Delete" xml:space="preserve">
+    <value>Erreur de suppression de la version</value>
+  </data>
+  <data name="Error.Content.Load" xml:space="preserve">
+    <value>Une erreur s'est produite lors du chargement du contenu</value>
+  </data>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="Delete.Header" xml:space="preserve">
+    <value>Supprimer la version</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>Créé le</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>Créé par</value>
+  </data>
+  <data name="Confirm.Delete" xml:space="preserve">
+    <value>Etes-vous sûr(e) de vouloir supprimer la version {0} ?</value>
+  </data>
+  <data name="Confirm.Restore" xml:space="preserve">
+    <value>Etes-vous sûr(e) de vouloir restaurer la version {0} ?</value>
   </data>
 </root>

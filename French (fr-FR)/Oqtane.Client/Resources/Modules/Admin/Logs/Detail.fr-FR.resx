@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Url.Text" xml:space="preserve">
-    <value>Url: </value>
+    <value>URL : </value>
   </data>
   <data name="Error Loading Log" xml:space="preserve">
     <value>Erreur de chargement de log</value>
@@ -166,43 +166,43 @@
     <value>Le serveur qui était affecté</value>
   </data>
   <data name="DateTime.Text" xml:space="preserve">
-    <value>Date/Heure :</value>
+    <value>Date/Heure : </value>
   </data>
   <data name="Level.Text" xml:space="preserve">
-    <value>Niveau :</value>
+    <value>Niveau : </value>
   </data>
   <data name="Feature.Text" xml:space="preserve">
-    <value>Fonctionalité :</value>
+    <value>Fonctionalité : </value>
   </data>
   <data name="Function.Text" xml:space="preserve">
-    <value>Fonction :</value>
+    <value>Fonction : </value>
   </data>
   <data name="Category.Text" xml:space="preserve">
-    <value>Catégorie :</value>
+    <value>Catégorie : </value>
   </data>
   <data name="Page.Text" xml:space="preserve">
-    <value>Page: </value>
+    <value>Page : </value>
   </data>
   <data name="Module.Text" xml:space="preserve">
-    <value>Module: </value>
+    <value>Module : </value>
   </data>
   <data name="User.Text" xml:space="preserve">
-    <value>Utilisateur :</value>
+    <value>Utilisateur : </value>
   </data>
   <data name="Template.Text" xml:space="preserve">
-    <value>Template: </value>
+    <value>Modèle : </value>
   </data>
   <data name="Message.Text" xml:space="preserve">
-    <value>Message: </value>
+    <value>Message : </value>
   </data>
   <data name="Exception.Text" xml:space="preserve">
-    <value>Exception :</value>
+    <value>Exception : </value>
   </data>
   <data name="Properties.Text" xml:space="preserve">
-    <value>Propriétés :</value>
+    <value>Propriétés : </value>
   </data>
   <data name="Server.Text" xml:space="preserve">
-    <value>Serveur :</value>
+    <value>Serveur : </value>
   </data>
   <data name="Error.Log.Load" xml:space="preserve">
     <value>Erreur de chargement de log</value>
