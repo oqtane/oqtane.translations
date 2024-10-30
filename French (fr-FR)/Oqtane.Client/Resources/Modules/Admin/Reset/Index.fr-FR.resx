@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Password.Confirm" xml:space="preserve">
-    <value>Confirmer le mot de passe :</value>
-  </data>
   <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>Les mots de passe ne correspondent pas</value>
   </data>
@@ -130,9 +127,27 @@
     <value>Réinitialiser le mot de passe</value>
   </data>
   <data name="Error.Password.ResetInfo" xml:space="preserve">
-    <value>Erreur en voulant reinitialiser le mot de passe utilisateur. Veuillez vérifier que le  mot de passe réponde aux exigences de complexité.</value>
+    <value>Erreur en voulant réinitialiser le mot de passe utilisateur. Assurez vous que la demande de changement date de moins de 24 heures et que le  nouveau mot de passe répond aux exigences de complexité.</value>
   </data>
   <data name="Error.Password.Reset" xml:space="preserve">
-    <value>Erreur en voulant reinitialiser le mot de passe</value>
+    <value>Erreur en voulant réinitialiser le mot de passe</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Confirmer :</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Mot de passe :</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nom d'utilisateur :</value>
+  </data>
+  <data name="Conform.HelpText" xml:space="preserve">
+    <value>Entrer le mot de passe à nouveau. Il doit correspondre exactement au mot de passe entré ci-dessus.</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Le nouveau mot de passe. Il doit satisfaire aux règles de complexité pour le site.</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Votre nom d'utilisateur sera pré-rempli à partir du lien reçu dans la notification de réinitialisation du mot de passe</value>
   </data>
 </root>

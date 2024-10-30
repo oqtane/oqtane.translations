@@ -117,10 +117,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Module Does Not Have A Component Named {0}.razor" xml:space="preserve">
+  <data name="Error.Module.InvalidName" xml:space="preserve">
     <value>Le module n'a pas de composant nommé {0}.razor</value>
   </data>
-  <data name="Module Type Is Invalid For {0}" xml:space="preserve">
+  <data name="Error.Module.InvalidType" xml:space="preserve">
     <value>Le type de module est invalide pour {0}</value>
+  </data>
+  <data name="Error.Module.Exception" xml:space="preserve">
+    <value>Une erreur inattendue s'est produite</value>
   </data>
 </root>

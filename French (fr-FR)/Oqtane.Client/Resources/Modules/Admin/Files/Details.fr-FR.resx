@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Folder.Text" xml:space="preserve">
-    <value>Dossier :</value>
+    <value>Dossier : </value>
   </data>
   <data name="Error.File.Load" xml:space="preserve">
     <value>Erreur en chargeant le fichier</value>
@@ -136,12 +136,21 @@
     <value>Le dossier où se situe le fichier</value>
   </data>
   <data name="Size.HelpText" xml:space="preserve">
-    <value>La taille du fichier (en bytes)</value>
+    <value>La taille du fichier (en octets)</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nom :</value>
+    <value>Nom : </value>
   </data>
   <data name="Size.Text" xml:space="preserve">
-    <value>Taille :</value>
+    <value>Taille : </value>
+  </data>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Description :</value>
+  </data>
+  <data name="File Management" xml:space="preserve">
+    <value>Gestion des fichiers</value>
+  </data>
+  <data name="Description.HelpText" xml:space="preserve">
+    <value>La description du fichier.  Cela peut être utilisé pour la légende des images.</value>
   </data>
 </root>

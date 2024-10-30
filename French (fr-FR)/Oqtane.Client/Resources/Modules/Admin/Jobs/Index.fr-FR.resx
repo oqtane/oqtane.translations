@@ -133,39 +133,54 @@
     <value>Toutes les</value>
   </data>
   <data name="Minute" xml:space="preserve">
-    <value>Minute</value>
+    <value>Minute(s)</value>
   </data>
   <data name="Hour" xml:space="preserve">
-    <value>Heure</value>
+    <value>Heure(s)</value>
   </data>
   <data name="Day" xml:space="preserve">
-    <value>Jour</value>
+    <value>Jour(s)</value>
   </data>
   <data name="Month" xml:space="preserve">
     <value>Mois</value>
   </data>
-  <data name="s" xml:space="preserve">
-    <value>s</value>
-  </data>
-  <data name="Error.Job.Delete" xml:space="preserve">
-    <value>Erreur de suppression de tâche</value>
-  </data>
-  <data name="ViewJobs.Text" xml:space="preserve">
-    <value>Voir les logs</value>
-  </data>
-  <data name="DeleteJob.Header" xml:space="preserve">
-    <value>Supprimer la tâche</value>
-  </data>
-  <data name="DeleteJob.Message" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer cette tâche ?</value>
-  </data>
   <data name="Frequency" xml:space="preserve">
-    <value>Frequence</value>
+    <value>Fréquence</value>
   </data>
   <data name="Start" xml:space="preserve">
     <value>Début</value>
   </data>
   <data name="Stop" xml:space="preserve">
     <value>Arrêt</value>
+  </data>
+  <data name="ViewLogs.Text" xml:space="preserve">
+    <value>Voir tous les logs</value>
+  </data>
+  <data name="Once" xml:space="preserve">
+    <value>Exécuter une seule fois</value>
+  </data>
+  <data name="EditJob.Text" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="JobLog.Text" xml:space="preserve">
+    <value>Log</value>
+  </data>
+  <data name="Error.Job.Start" xml:space="preserve">
+    <value>Une erreur s'est produite lors du démarrage de la tâche</value>
+  </data>
+  <data name="Error.Job.Stop" xml:space="preserve">
+    <value>Une erreur s'est produite lors de l'arrêt de la tâche</value>
+  </data>
+  <data name="Message.Job.Start" xml:space="preserve">
+    <value>Le processus responsable de l'exécution de cette tâche a démarré. La prochaine exécution sera basé sur les criteres d'exécution de la tâche.</value>
+  </data>
+  <data name="Message.Job.Stop" xml:space="preserve">
+    <value>Le processus responsable de l'exécution de cette tâche a été arrêtée. Pour redémarrer le processus, vous devez utiliser le bouton Démarrer ou redémarrer l'application.</value>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>Semaine(s)</value>
+  </data>
+  <data name="Message.NoJobs" xml:space="preserve">
+    <value>Veuillez noter qu'après l'installation initiale, vous devez &lt;a href={0}&gt;redémarrer&lt;/a&gt; l'application afin d'activer les tâches programmées par défaut.</value>
   </data>
 </root>

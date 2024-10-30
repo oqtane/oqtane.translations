@@ -141,4 +141,7 @@
   <data name="Error.File.Delete" xml:space="preserve">
     <value>Erreur en supprimant le fichier</value>
   </data>
+  <data name="Message.File.Restricted" xml:space="preserve">
+    <value>Les fichiers avec l'extension {0} ne sont pas chargeables. Merci de contacter votre administrateur pour de plus amples informations.</value>
+  </data>
 </root>

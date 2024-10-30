@@ -123,38 +123,26 @@
   <data name="FrameworkVersion.HelpText" xml:space="preserve">
     <value>Version du Framework</value>
   </data>
-  <data name="BlazorRuntime.HelpText" xml:space="preserve">
-    <value>Runtime Blazor (Serveur ou WebAssembly)</value>
-  </data>
   <data name="CLRVersion.HelpText" xml:space="preserve">
     <value>Version du Common Language Runtime</value>
   </data>
   <data name="OSVersion.HelpText" xml:space="preserve">
     <value>Version du système d'exploitation</value>
   </data>
-  <data name="ServerPath.HelpText" xml:space="preserve">
-    <value>Chemin du serveur</value>
-  </data>
   <data name="ServerTime.HelpText" xml:space="preserve">
     <value>Temps du serveur</value>
   </data>
   <data name="FrameworkVersion.Text" xml:space="preserve">
-    <value>Version du Framework :</value>
-  </data>
-  <data name="BlazorRuntime.Text" xml:space="preserve">
-    <value>Runtime Blazor :</value>
+    <value>Version du Framework : </value>
   </data>
   <data name="CLRVersion.Text" xml:space="preserve">
-    <value>CLR Version: </value>
+    <value>CLR Version : </value>
   </data>
   <data name="OSVersion.Text" xml:space="preserve">
-    <value>Version de l'OS :</value>
-  </data>
-  <data name="ServerPath.Text" xml:space="preserve">
-    <value>Chemin du serveur :</value>
+    <value>Version de l'OS : </value>
   </data>
   <data name="ServerTime.Text" xml:space="preserve">
-    <value>Temps du serveur :</value>
+    <value>Date/Heure sur le serveur : </value>
   </data>
   <data name="RestartApplication.Header" xml:space="preserve">
     <value>Redémarrer l'appliation</value>
@@ -165,20 +153,11 @@
   <data name="Error.UpdateConfig" xml:space="preserve">
     <value>Une erreur est survenue en mettant à jour la configuration</value>
   </data>
-  <data name="Server" xml:space="preserve">
-    <value>Serveur :</value>
-  </data>
-  <data name="ServerPrerendered" xml:space="preserve">
-    <value>ServerPrerendered</value>
-  </data>
   <data name="Success.UpdateConfig.Restart" xml:space="preserve">
-    <value>Configuration mise à jour. Merci de redémarrer l'appliation pour valider les changements</value>
-  </data>
-  <data name="WebAssembly" xml:space="preserve">
-    <value>WebAssembly</value>
+    <value>Configuration mise à jour. Merci de redémarrer l'appliation pour valider les changements.</value>
   </data>
   <data name="InstallationId.Text" xml:space="preserve">
-    <value>ID d'Installation :</value>
+    <value>ID d'Installation : </value>
   </data>
   <data name="InstallationId.HelpText" xml:space="preserve">
     <value>L'identifiant unique de votre installation</value>
@@ -196,10 +175,10 @@
     <value>Faux</value>
   </data>
   <data name="LoggingLevel.Text" xml:space="preserve">
-    <value>Niveau de log :</value>
+    <value>Niveau de log : </value>
   </data>
   <data name="LoggingLevel.HelpText" xml:space="preserve">
-    <value>Le niveau minimum de log pour le log d'évènements. Cette option peux être utilisée pour contrôler le volume d'éléments concervés dasn votre journal d'évènement.</value>
+    <value>Le niveau minimum de log pour le log d'évènements. Cette option peux être utilisée pour contrôler le volume d'éléments conservés dans votre journal d'évènement.</value>
   </data>
   <data name="Trace" xml:space="preserve">
     <value>Trace</value>
@@ -217,30 +196,102 @@
     <value>Erreur</value>
   </data>
   <data name="Critical" xml:space="preserve">
-    <value>Crtitique</value>
-  </data>
-  <data name="Info" xml:space="preserve">
-    <value>Info</value>
-  </data>
-  <data name="Options" xml:space="preserve">
-    <value>Options</value>
+    <value>Critique</value>
   </data>
   <data name="Register" xml:space="preserve">
-    <value>Merci de m'enregistrer pour des bulletins sur les mises à jours majeur et la sécurité</value>
+    <value>Merci de m'enregistrer pour des bulletins sur les mises à jours majeures et la sécurité</value>
   </data>
   <data name="Success.Register" xml:space="preserve">
     <value>Vous avez correctement été enregistré pour les mises à jour</value>
-  </data>
-  <data name="PackageService.HelpText" xml:space="preserve">
-    <value>Indique si le service de package est actif pour installer des Modules, Thèmes, et des traductions</value>
-  </data>
-  <data name="PackageService.Text" xml:space="preserve">
-    <value>Service de package actif ?</value>
   </data>
   <data name="Swagger.HelpText" xml:space="preserve">
     <value>Indiquez si Swagger est actif sur votre serveur API</value>
   </data>
   <data name="Swagger.Text" xml:space="preserve">
     <value>Swagger actif ?</value>
+  </data>
+  <data name="IPAddress.Text" xml:space="preserve">
+    <value>Adresse IP :</value>
+  </data>
+  <data name="MachineName.HelpText" xml:space="preserve">
+    <value>Le nom du serveur</value>
+  </data>
+  <data name="MachineName.Text" xml:space="preserve">
+    <value>Nom du serveur :</value>
+  </data>
+  <data name="WorkingSet.Text" xml:space="preserve">
+    <value>Allocation mémoire :</value>
+  </data>
+  <data name="Environment.HelpText" xml:space="preserve">
+    <value>Nom de l'environnement</value>
+  </data>
+  <data name="Environment.Text" xml:space="preserve">
+    <value>Environnement :</value>
+  </data>
+  <data name="Log.Text" xml:space="preserve">
+    <value>Log :</value>
+  </data>
+  <data name="Process.Text" xml:space="preserve">
+    <value>Processus : </value>
+  </data>
+  <data name="Process.HelpText" xml:space="preserve">
+    <value>Indique si le processus actuel est en 32 ou 64 bits</value>
+  </data>
+  <data name="Error.ClearLog" xml:space="preserve">
+    <value>Une erreur s'est produite lors du nettoyage du log système</value>
+  </data>
+  <data name="RestartApplication.Text" xml:space="preserve">
+    <value>Redémarrer l'application</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Aucun</value>
+  </data>
+  <data name="NotificationLevel.Text" xml:space="preserve">
+    <value>Niveau de notification :</value>
+  </data>
+  <data name="IPAddress.HelpText" xml:space="preserve">
+    <value>L'adresse IP du serveur</value>
+  </data>
+  <data name="WorkingSet.HelpText" xml:space="preserve">
+    <value>La quantité de mémoire allouée pour le service (en mégaoctets)</value>
+  </data>
+  <data name="Info.Heading" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="Options.Heading" xml:space="preserve">
+    <value>Options</value>
+  </data>
+  <data name="Log.Heading" xml:space="preserve">
+    <value>Log</value>
+  </data>
+  <data name="ContentRootPath.HelpText" xml:space="preserve">
+    <value>Chemin racine du serveur</value>
+  </data>
+  <data name="ContentRootPath.Text" xml:space="preserve">
+    <value>Chemin racine : </value>
+  </data>
+  <data name="PackageManager.Text" xml:space="preserve">
+    <value>Gestionnaire de package :</value>
+  </data>
+  <data name="WebRootPath.Text" xml:space="preserve">
+    <value>Chemin web :</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Effacer</value>
+  </data>
+  <data name="PackageManager.HelpText" xml:space="preserve">
+    <value>Spécifie le service de gestion de packages pour installer des modules, des thèmes, et des traductions. Si ce champs est vide, cela signifie que le service de gestion de packages est désactivé pour cette installation.</value>
+  </data>
+  <data name="NotificationLevel.HelpText" xml:space="preserve">
+    <value>Le niveau de journalisation minimum à partir duquel des notifications sont envoyées aux utilisateurs hôtes.</value>
+  </data>
+  <data name="WebRootPath.HelpText" xml:space="preserve">
+    <value>Chemin racine du serveur Web</value>
+  </data>
+  <data name="Log.HelpText" xml:space="preserve">
+    <value>Information du journal système du jour actuel</value>
+  </data>
+  <data name="Success.ClearLog" xml:space="preserve">
+    <value>Le journal système  a été supprimé avec succès</value>
   </data>
 </root>

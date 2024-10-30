@@ -130,13 +130,13 @@
     <value>Supprimé par</value>
   </data>
   <data name="DeletedOn" xml:space="preserve">
-    <value>Supprimé sur</value>
+    <value>Supprimé le</value>
   </data>
   <data name="Confirm.Page.Delete" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer définitivement la page {0} ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer définitivement la page {0} ?</value>
   </data>
   <data name="NoModule.Deleted" xml:space="preserve">
-    <value>Aucun Modules supprimé</value>
+    <value>Aucun module supprimé</value>
   </data>
   <data name="Page" xml:space="preserve">
     <value>Page</value>
@@ -148,7 +148,7 @@
     <value>Restaurer</value>
   </data>
   <data name="Confirm.Module.Delete" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer définitivement le module {0} ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer définitivement le module {0} ?</value>
   </data>
   <data name="Error.DeletedModulePage.Load" xml:space="preserve">
     <value>Erreur en chargeant les pages ou modules supprimés</value>
@@ -169,15 +169,30 @@
     <value>Supprimer toutes les pages</value>
   </data>
   <data name="DeleteAllPages.Message" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer définitivement toutes les pages ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer définitivement toutes les pages ?</value>
   </data>
   <data name="DeleteAllModules.Header" xml:space="preserve">
-    <value>Supprimer tous les modules</value>
+    <value>Enlever tous les modules supprimés</value>
   </data>
   <data name="DeleteAllModules.Message" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer définitivement tous les  modules ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer définitivement tous les  modules ?</value>
   </data>
-  <data name="Pages.Name" xml:space="preserve">
+  <data name="Pages.Heading" xml:space="preserve">
     <value>Pages</value>
+  </data>
+  <data name="Modules.Heading" xml:space="preserve">
+    <value>Modules</value>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="DeletePage.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="DeleteAllPages.Text" xml:space="preserve">
+    <value>Enlever toutes les pages supprimées</value>
+  </data>
+  <data name="DeleteAllModules.Text" xml:space="preserve">
+    <value>Enlever tous les modules supprimés</value>
   </data>
 </root>

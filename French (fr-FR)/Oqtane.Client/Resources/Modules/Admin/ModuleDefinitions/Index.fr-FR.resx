@@ -121,13 +121,13 @@
     <value>Créer un module</value>
   </data>
   <data name="Success.Module.Install" xml:space="preserve">
-    <value>Le module a été installé avec succès. Vous devez &lt;a href=\"{0}\"&gt;Redémarrer&lt;/a&gt; votre application pour appliquer ces changements.</value>
+    <value>Le module a été installé avec succès. Vous devez &lt;a href={0}&gt;redémarrer&lt;/a&gt; votre application pour appliquer ces changements.</value>
   </data>
   <data name="Error.Module.Download" xml:space="preserve">
     <value>Erreur en voulant télécharger un module</value>
   </data>
   <data name="Confirm.Module.Delete" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer le module {0} ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer le module {0} ?</value>
   </data>
   <data name="Error.Module.Load" xml:space="preserve">
     <value>Erreur en voulant charger un module</value>
@@ -143,5 +143,20 @@
   </data>
   <data name="DeleteModule.Header" xml:space="preserve">
     <value>Supprimer un module</value>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="InUse" xml:space="preserve">
+    <value>Utilisé ?</value>
+  </data>
+  <data name="EditModule.Text" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="Modules" xml:space="preserve">
+    <value>Modules</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Activé ?</value>
   </data>
 </root>

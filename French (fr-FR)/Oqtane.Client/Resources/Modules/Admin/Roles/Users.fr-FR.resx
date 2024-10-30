@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="User.Text" xml:space="preserve">
-    <value>Utilisateur :</value>
+    <value>Utilisateur : </value>
   </data>
   <data name="User.Select" xml:space="preserve">
     <value>Sélectionnez un utilisateur</value>
@@ -128,9 +128,6 @@
   </data>
   <data name="Error.User.Load" xml:space="preserve">
     <value>Erreur en chargeant les utilisateurs</value>
-  </data>
-  <data name="Error.User.LoadRole" xml:space="preserve">
-    <value>Erreur en chargeant les rôles de l'utilisateur</value>
   </data>
   <data name="Success.User.AssignedRole" xml:space="preserve">
     <value>Utilisateur a été assigné au rôle</value>
@@ -160,21 +157,21 @@
     <value>La date d'expiration de cette assignation de rôle</value>
   </data>
   <data name="Role.Text" xml:space="preserve">
-    <value>Rôle :</value>
+    <value>Rôle : </value>
   </data>
   <data name="EffectiveDate.Text" xml:space="preserve">
-    <value>Date effective :</value>
+    <value>Date effective : </value>
   </data>
   <data name="ExpiryDate.Text" xml:space="preserve">
-    <value>Date d'expiration :</value>
+    <value>Date d'expiration : </value>
   </data>
   <data name="Confirm.User.DeleteRole" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer {0} de ce rôle ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer {0} de ce rôle ?</value>
   </data>
   <data name="Effective" xml:space="preserve">
     <value>Effective</value>
   </data>
   <data name="Expiry" xml:space="preserve">
-    <value>Expiré</value>
+    <value>Expiration</value>
   </data>
 </root>

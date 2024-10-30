@@ -118,13 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Tenant.Text" xml:space="preserve">
-    <value>Tenant: </value>
-  </data>
-  <data name="Tenant.Select" xml:space="preserve">
-    <value>Sélectionnez le Tenant</value>
+    <value>Base de données : </value>
   </data>
   <data name="Execute" xml:space="preserve">
-    <value>Executer</value>
+    <value>Exécuter</value>
   </data>
   <data name="Message.Required.Tenant" xml:space="preserve">
     <value>Vous devez sélectioner un Tenant et fournir une requête SQL valide</value>
@@ -139,9 +136,57 @@
     <value>Entrez la requête pour ce serveur SQL</value>
   </data>
   <data name="SqlQuery.Text" xml:space="preserve">
-    <value>Requête SQL :</value>
+    <value>Requête SQL : </value>
   </data>
   <data name="Success.QueryExecuted" xml:space="preserve">
     <value>La requête SQL a été exécutée</value>
+  </data>
+  <data name="Connection.Text" xml:space="preserve">
+    <value>Connexion : </value>
+  </data>
+  <data name="Connection.Add" xml:space="preserve">
+    <value>Ajouter une connexion</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nom : </value>
+  </data>
+  <data name="DatabaseType.Text" xml:space="preserve">
+    <value>Type : </value>
+  </data>
+  <data name="Type.Select" xml:space="preserve">
+    <value>Sélectionner le type</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Paramètres : </value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+  <data name="Message.Connection.Added" xml:space="preserve">
+    <value>Connexion ajoutée avec succès</value>
+  </data>
+  <data name="Connection.HelpText" xml:space="preserve">
+    <value>Sélectionner la connexion de base de données (depuis appsettings.json)</value>
+  </data>
+  <data name="Connection.Select" xml:space="preserve">
+    <value>Sélectionner une connexion</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Entrer le nom de la connexion</value>
+  </data>
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>Sélectionner le type de base de données</value>
+  </data>
+  <data name="EnterConnectionParameters" xml:space="preserve">
+    <value>Entrer les paramètres de connexion</value>
+  </data>
+  <data name="EnterConnectionString" xml:space="preserve">
+    <value>Entrer la "connection string"</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>Une "connection string" complète incluant tous les paramètres et délimiteurs</value>
+  </data>
+  <data name="Message.Required.Connection" xml:space="preserve">
+    <value>Vous devez fournir un nom de connexion et les paramètres</value>
   </data>
 </root>

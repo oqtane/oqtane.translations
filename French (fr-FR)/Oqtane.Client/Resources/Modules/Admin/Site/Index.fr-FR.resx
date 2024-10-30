@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nom :</value>
+    <value>Nom : </value>
   </data>
   <data name="Container.Select" xml:space="preserve">
     <value>Selection du  Conteneur</value>
@@ -127,16 +127,13 @@
     <value>Erreur lors du chargement du volet de dispositions pour le thème</value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
-    <value>Conteneur par défaut :</value>
-  </data>
-  <data name="Appearance.Name" xml:space="preserve">
-    <value>Apparence</value>
+    <value>Conteneur par défaut : </value>
   </data>
   <data name="DefaultAdminContainer" xml:space="preserve">
     <value>Conteneur admin par défaut</value>
   </data>
   <data name="Smtp.Required.EnableNotificationJob" xml:space="preserve">
-    <value>** Veuillez noter que le serveur SMTP que la tâche de Notification soit active dna sle planificateur de tâches</value>
+    <value>** Veuillez noter que le serveur SMTP nécessite que la tâche de Notification soit active dans le planificateur de tâches</value>
   </data>
   <data name="Smtp.TestConfig" xml:space="preserve">
     <value>Tester la configuration SMTP</value>
@@ -160,19 +157,16 @@
     <value>Erreur en testant la configuration SMTP</value>
   </data>
   <data name="Message.Required.Smtp" xml:space="preserve">
-    <value>Vous devez spécifier les hôte, Port, et expéditeur SMTP</value>
+    <value>Vous devez spécifier l'hôte, le port, et l'expéditeur SMTP</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>Entrez le nom du site</value>
   </data>
   <data name="Tenant.HelpText" xml:space="preserve">
-    <value>Entrez le Tenant pour ce site</value>
+    <value>Le nom de la base de données utilisé pour ce site. Veuillez noter que ceci n'est pas le nom de la base de données physique mais le nom du locataire utilisé par le framework pour identifier une base de données.</value>
   </data>
   <data name="Aliases.HelpText" xml:space="preserve">
-    <value>Entrez les alias pour ce serveur</value>
-  </data>
-  <data name="AllowRegistration.HelpText" xml:space="preserve">
-    <value>Voulez vous permette aux utilisateurs de créer un compte sur ce site</value>
+    <value>Les URLs pour le site. Cette valeur peut inclure les noms de domaine (e.g. sub.domaine.fr) ou les répertoires virtuels (e.g. domaine.fr/dossier).</value>
   </data>
   <data name="IsDeleted.HelpText" xml:space="preserve">
     <value>Ce site est-il supprimé ?</value>
@@ -181,7 +175,7 @@
     <value>Indiquez un logo pour ce site</value>
   </data>
   <data name="FavoriteIcon.HelpText" xml:space="preserve">
-    <value>Indiquez une favicon</value>
+    <value>Indiquez une favicon. L'image doit être au format de taille 16×16, 32×32, 48×48, ou 64×64 pixels, et une profondeur de couleurs de 8, 24, ou 32 bit. Le format de l'image doit être ICO, PNG, ou GIF.</value>
   </data>
   <data name="DefaultTheme.HelpText" xml:space="preserve">
     <value>Sélectionnez le thême par defaut pour ce site</value>
@@ -196,79 +190,64 @@
     <value>Entrez le nom d'hôte du serveur SMTP</value>
   </data>
   <data name="Port.HelpText" xml:space="preserve">
-    <value>Entrez le numéro de port pour le serveur SMTP. Veuillez noter que ce champs est recquis si vous mettez un nom d'hôte</value>
+    <value>Entrez le numéro de port pour le serveur SMTP. Veuillez noter que ce champs est requis si vous fournissez un nom d'hôte.</value>
   </data>
   <data name="UseSsl.HelpText" xml:space="preserve">
-    <value>Indiquez si le SSL est recquis par votre serveur</value>
-  </data>
-  <data name="SmptUsername.HelpText" xml:space="preserve">
-    <value>Entrer le nom d'utilisateur pour le compte SMTP</value>
+    <value>Indiquez si le SSL est requis par votre serveur</value>
   </data>
   <data name="SmtpPassword.HelpText" xml:space="preserve">
-    <value>Entrez le mot de passe de votre compte SMTP</value>
-  </data>
-  <data name="SmptSender.HelpText" xml:space="preserve">
-    <value>Entrez l'email qui servira d'expéditeur. Notez que cette adresse email doit être autorisé par le serveur SMTP.</value>
+    <value>Entrer le mot de passe de votre compte SMTP</value>
   </data>
   <data name="EnablePWA.HelpText" xml:space="preserve">
     <value>Sélectionnez si vous souhaitez que ce site soit disponible en tant que Progressive Web Application (PWA)</value>
   </data>
   <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
-    <value>Inclure une icone d'application pour votre PWA. Ce devrait être un PNG de dimensions 192 X 192 pixels.</value>
+    <value>Inclure une icone d'application pour votre PWA. Ce doit être un PNG de dimensions 192 X 192 pixels.</value>
   </data>
   <data name="PwaSplashIcon.HelpText" xml:space="preserve">
-    <value>Inclure une splash icon pour vôtre PWA.  Ce devrait être un PNG de dimensions 512 X 512 pixels.</value>
+    <value>Inclure une splash icon pour vôtre PWA.  Ce doit être un PNG de dimensions 512 X 512 pixels.</value>
   </data>
   <data name="Tenant.Text" xml:space="preserve">
-    <value>Tenant: </value>
+    <value>Base de données : </value>
   </data>
   <data name="Aliases.Text" xml:space="preserve">
-    <value>Alias: </value>
-  </data>
-  <data name="AllowRegistration.Text" xml:space="preserve">
-    <value>Permettre l'enregistrement d'utilisateurs ?</value>
+    <value>URLs :</value>
   </data>
   <data name="IsDeleted.Text" xml:space="preserve">
-    <value>Est supprimé ?</value>
+    <value>Est supprimé ? </value>
   </data>
   <data name="Logo.Text" xml:space="preserve">
-    <value>Logo: </value>
+    <value>Logo : </value>
   </data>
   <data name="FavoriteIcon.Text" xml:space="preserve">
-    <value>Favicon: </value>
+    <value>Favicon : </value>
   </data>
   <data name="DefaultTheme.Text" xml:space="preserve">
-    <value>Thème par défaut</value>
+    <value>Thème par défaut : </value>
   </data>
   <data name="DefaultAdminContainer.Text" xml:space="preserve">
-    <value>Conteneur  admin par défaut :</value>
+    <value>Conteneur admin par défaut : </value>
   </data>
   <data name="Host.Text" xml:space="preserve">
-    <value>Hôte :</value>
+    <value>Hôte : </value>
   </data>
   <data name="Port.Text" xml:space="preserve">
-    <value>Port: </value>
+    <value>Port : </value>
   </data>
   <data name="UseSsl.Text" xml:space="preserve">
-    <value>SSL actif ?</value>
-  </data>
-  <data name="SmptUsername.Text" xml:space="preserve">
-    <value>Nom d'utilisateur :</value>
+    <value>SSL actif : </value>
   </data>
   <data name="SmtpPassword.Text" xml:space="preserve">
-    <value>Mot de passe :</value>
-  </data>
-  <data name="SmptSender.Text" xml:space="preserve">
-    <value>Email expéditeur :</value>
+    <value>Mot de passe : </value>
   </data>
   <data name="EnablePWA.Text" xml:space="preserve">
-    <value>Est actif ?</value>
+    <value>Est actif ? </value>
   </data>
   <data name="PwaApplicationIcon.Text" xml:space="preserve">
-    <value>Icône d'application :</value>
+    <value>Icône d'application : </value>
   </data>
   <data name="PwaSplashIcon.Text" xml:space="preserve">
-    <value>Splash Icon: </value>
+    <value>Splash Icon : </value>
   </data>
   <data name="Confirm.DeleteSite" xml:space="preserve">
     <value>Etes vous sûre de vouloir supprimer ce site ?</value>
@@ -281,5 +260,179 @@
   </data>
   <data name="Theme.Select" xml:space="preserve">
     <value>Sélectionnez un thème</value>
+  </data>
+  <data name="SmtpUsername.HelpText" xml:space="preserve">
+    <value>Entrer le nom d'utilisateur de votre compte SMTP</value>
+  </data>
+  <data name="SmtpSender.HelpText" xml:space="preserve">
+    <value>Entrer l'adresse email utilisé pour le champs expéditeur&gt; Veuillez noter que cette adresse email doit être autorisée par le serveur SMTP.</value>
+  </data>
+  <data name="SmtpUsername.Text" xml:space="preserve">
+    <value>Nom d'utilisateur : </value>
+  </data>
+  <data name="SmtpSender.Text" xml:space="preserve">
+    <value>Expéditeur : </value>
+  </data>
+  <data name="PWASettings.Heading" xml:space="preserve">
+    <value>Paramètres PWA</value>
+  </data>
+  <data name="SMTPSettings.Heading" xml:space="preserve">
+    <value>Paramètres SMTP</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Connexion :</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Type :</value>
+  </data>
+  <data name="DeleteSite.Header" xml:space="preserve">
+    <value>Supprimer site</value>
+  </data>
+  <data name="DeleteSite.Text" xml:space="preserve">
+    <value>Supprimer site</value>
+  </data>
+  <data name="AliasName" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="AliasDefault" xml:space="preserve">
+    <value>Par défaut ?</value>
+  </data>
+  <data name="HomePage.Text" xml:space="preserve">
+    <value>Page d'accueil :</value>
+  </data>
+  <data name="RenderMode.Text" xml:space="preserve">
+    <value>Mode de rendu :</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Naviguer</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>Base de données</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Le type de base de données</value>
+  </data>
+  <data name="DefaultAlias.Text" xml:space="preserve">
+    <value>Alias par défaut : </value>
+  </data>
+  <data name="Aliases.Heading" xml:space="preserve">
+    <value>URLs du site</value>
+  </data>
+  <data name="Confirm.Alias.Delete" xml:space="preserve">
+    <value>Etes-vous sûr(e) de vouloir supprimer {0} ?</value>
+  </data>
+  <data name="SmtpRelay.Text" xml:space="preserve">
+    <value>Relai configuré ?</value>
+  </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>Apparence</value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Contenu de l'entête :</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Contenu du corps :</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>Contenu de la page</value>
+  </data>
+  <data name="SMTPEnabled.HelpText" xml:space="preserve">
+    <value>Spécifie si SMTP est activé pour ce site</value>
+  </data>
+  <data name="SMTPEnabled.Text" xml:space="preserve">
+    <value>Activé ?</value>
+  </data>
+  <data name="Version.HelpText" xml:space="preserve">
+    <value>La version du site (pour les migrations de contenu)</value>
+  </data>
+  <data name="Version.Text" xml:space="preserve">
+    <value>Version :</value>
+  </data>
+  <data name="DeleteAlias.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="DeleteAlias.Header" xml:space="preserve">
+    <value>Supprimer l'alias</value>
+  </data>
+  <data name="SiteGuid.HelpText" xml:space="preserve">
+    <value>L'identifiant unique pour le site</value>
+  </data>
+  <data name="SiteGuid.Text" xml:space="preserve">
+    <value>ID :</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>Nombre de jours de notifications à conserver</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>Rétention (Jours) :</value>
+  </data>
+  <data name="ImageExtensions.Text" xml:space="preserve">
+    <value>Extensions d'images :</value>
+  </data>
+  <data name="HybridEnabled.Text" xml:space="preserve">
+    <value>Hybride activé ?</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Interactivité :</value>
+  </data>
+  <data name="TextEditor.Text" xml:space="preserve">
+    <value>Editeur de texte :</value>
+  </data>
+  <data name="Functionality" xml:space="preserve">
+    <value>Fonctionalité</value>
+  </data>
+  <data name="Hosting.Heading" xml:space="preserve">
+    <value>Paramètres des composants UI</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>Pré-rendu : </value>
+  </data>
+  <data name="RenderMode.HelpText" xml:space="preserve">
+    <value>Le mode de rendu par défaut pour le site</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>Le nom de la "connection string" défini dans "appsettings.json" et qui sera utilisé pour se connecter à la base de données</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>(Facultatif) Entrer le contenu à inclure dans le corps de la page (i.e. tags de scripts)</value>
+  </data>
+  <data name="ImageExtensions.HelpText" xml:space="preserve">
+    <value>Entrer une liste séparée par des virgules d'extensions de fichiers image</value>
+  </data>
+  <data name="UploadableFileExtensions.HelpText" xml:space="preserve">
+    <value>Entrer une liste séparée par des virgules d'extensions de fichiers chargeables</value>
+  </data>
+  <data name="UploadableFileExtensions.Text" xml:space="preserve">
+    <value>Extensions de fichiers chargeables :</value>
+  </data>
+  <data name="TextEditor.HelpText" xml:space="preserve">
+    <value>Sélectionner l'éditeur de texte pour le site</value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>Le mode de rendu pour les composants UI qui nécessitent une interactivité</value>
+  </data>
+  <data name="HybridEnabled.HelpText" xml:space="preserve">
+    <value>Spécifie si le site peut être intégré avec une application externe .NET MAUI hybride</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>(Facultatif) Entrer le contenu à inclure dans l'entête de la page (i.e. meta, lien, ou tags de scripts)</value>
+  </data>
+  <data name="SiteMap.Text" xml:space="preserve">
+    <value>Site Map :</value>
+  </data>
+  <data name="SiteMap.HelpText" xml:space="preserve">
+    <value>L'URL du "site map" pour ce site qui peut être soumis aux moteurs de recherche pour indexation</value>
+  </data>
+  <data name="HomePage.HelpText" xml:space="preserve">
+    <value>Sélectionner la page d'accueil pour le site (à utiliser si aucune page n'est définie avec le chemin '/')</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>Indique si les composants interactifs doivent faire un pré-rendu sur le serveur de leur sortie</value>
+  </data>
+  <data name="DefaultAlias.HelpText" xml:space="preserve">
+    <value>L'alias par défaut pour le site. Les requêtes pour les alias qui ne sont pas par défaut seront redirigés vers l'alias par défaut.</value>
+  </data>
+  <data name="SmtpRelay.HelpText" xml:space="preserve">
+    <value>Spécifier cette option seulement si vous avez correctement configuré un service relais SMTP afin de router vos emails sortants. Cette option génère les notifications en utilisant l'adresse email de l'utilisateur plutôt que l'adresse expéditeur spécifiée ci-dessus.</value>
   </data>
 </root>

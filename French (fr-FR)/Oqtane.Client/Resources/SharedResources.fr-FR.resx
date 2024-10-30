@@ -142,37 +142,37 @@
     <value>Annuler</value>
   </data>
   <data name="Admin Dashboard" xml:space="preserve">
-    <value>Tableau de bord Admin</value>
+    <value>Tableau de bord Administrateur</value>
   </data>
   <data name="User Login" xml:space="preserve">
     <value>Identifiant utilisateur</value>
   </data>
   <data name="User Registration" xml:space="preserve">
-    <value>Enregistrement d'utilsiateur</value>
+    <value>Enregistrement d'utilisateur</value>
   </data>
   <data name="Password Reset" xml:space="preserve">
-    <value>Password Reset</value>
+    <value>Réinitialisation du mot de passe</value>
   </data>
   <data name="User Profile" xml:space="preserve">
     <value>Profil utilisateur</value>
   </data>
   <data name="Site Settings" xml:space="preserve">
-    <value>Paramètres de site</value>
+    <value>Paramètres&#160;de site</value>
   </data>
   <data name="Page Management" xml:space="preserve">
-    <value>Gestion de pages</value>
+    <value>Gestion&#160;des pages</value>
   </data>
   <data name="User Management" xml:space="preserve">
-    <value>Gestion d'utilisateurs</value>
+    <value>Gestion&#160;des utilisateurs</value>
   </data>
   <data name="Profile Management" xml:space="preserve">
-    <value>Gestion de profils</value>
+    <value>Gestion&#160;des profils</value>
   </data>
   <data name="Role Management" xml:space="preserve">
-    <value>Gestion de rôles</value>
+    <value>Gestion&#160;des rôles</value>
   </data>
   <data name="File Management" xml:space="preserve">
-    <value>Gestion de fichiers</value>
+    <value>Gestion&#160;des fichiers</value>
   </data>
   <data name="Recycle Bin" xml:space="preserve">
     <value>Poubelle</value>
@@ -181,16 +181,16 @@
     <value>Log d'évènement</value>
   </data>
   <data name="Site Management" xml:space="preserve">
-    <value>Gestion de sites</value>
+    <value>Gestion&#160;des sites</value>
   </data>
   <data name="Module Management" xml:space="preserve">
-    <value>Gestion de modules</value>
+    <value>Gestion&#160;des modules</value>
   </data>
   <data name="Theme Management" xml:space="preserve">
-    <value>Gestion de thème</value>
+    <value>Gestion&#160;des thèmes</value>
   </data>
   <data name="Language Management" xml:space="preserve">
-    <value>Gestion de langue</value>
+    <value>Gestion&#160;des langues</value>
   </data>
   <data name="Scheduled Jobs" xml:space="preserve">
     <value>Tâches planifiées</value>
@@ -202,22 +202,25 @@
     <value>Informations système</value>
   </data>
   <data name="System Update" xml:space="preserve">
-    <value>Mise à jour système</value>
+    <value>Mise&#160;à&#160;jour système</value>
   </data>
   <data name="Download" xml:space="preserve">
-    <value>Télécharger</value>
+    <value>Téléchargement</value>
   </data>
   <data name="Upload" xml:space="preserve">
-    <value>Charger</value>
+    <value>Chargement</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>Réinitialiser</value>
+  </data>
+  <data name="Search Settings" xml:space="preserve">
+    <value>Paramètres&#160;de recherche</value>
   </data>
   <data name="Search" xml:space="preserve">
     <value>Rechercher</value>
   </data>
   <data name="Search.Hint" xml:space="preserve">
-    <value>Entrer le terme à chercher</value>
+    <value>Entrer les termes à rechercher</value>
   </data>
   <data name="Search.By" xml:space="preserve">
     <value>par</value>
@@ -226,10 +229,10 @@
     <value>Téléchargements</value>
   </data>
   <data name="Search.Released" xml:space="preserve">
-    <value>Publié</value>
+    <value>Released</value>
   </data>
   <data name="Search.Version" xml:space="preserve">
-    <value>version</value>
+    <value>Version</value>
   </data>
   <data name="Edit" xml:space="preserve">
     <value>Editer</value>
@@ -241,7 +244,7 @@
     <value>Chargement...</value>
   </data>
   <data name="Login" xml:space="preserve">
-    <value>Identifiant</value>
+    <value>Connexion</value>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Nom</value>
@@ -253,13 +256,13 @@
     <value>Envoyer</value>
   </data>
   <data name="Status" xml:space="preserve">
-    <value>Status</value>
+    <value>Etat</value>
   </data>
   <data name="Upgrade" xml:space="preserve">
-    <value>Upgrade</value>
+    <value>Mettre à jour</value>
   </data>
   <data name="Username" xml:space="preserve">
-    <value>Bom d'utilisateur :</value>
+    <value>Nom d'utilisateur</value>
   </data>
   <data name="Version" xml:space="preserve">
     <value>Version</value>
@@ -274,9 +277,201 @@
     <value>Nom complet :</value>
   </data>
   <data name="LocalVersion" xml:space="preserve">
-    <value>Version locale</value>
+    <value>Version Installée</value>
   </data>
   <data name="Search.Source" xml:space="preserve">
-    <value>source</value>
+    <value>Source</value>
+  </data>
+  <data name="Message.InfoRequired" xml:space="preserve">
+    <value>Merci de fournir les informations requises</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Open Source</value>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>Commercial</value>
+  </data>
+  <data name="Search.Price" xml:space="preserve">
+    <value>Prix</value>
+  </data>
+  <data name="Accept" xml:space="preserve">
+    <value>Accepter</value>
+  </data>
+  <data name="License Not Specified" xml:space="preserve">
+    <value>Licence non spécifiée</value>
+  </data>
+  <data name="Review License Terms" xml:space="preserve">
+    <value>Voir les termes de la licence</value>
+  </data>
+  <data name="Trial" xml:space="preserve">
+    <value>Jours d'essai</value>
+  </data>
+  <data name="Expires" xml:space="preserve">
+    <value>Expire</value>
+  </data>
+  <data name="Extend" xml:space="preserve">
+    <value>Extend</value>
+  </data>
+  <data name="Not Specified" xml:space="preserve">
+    <value>Non spécifié</value>
+  </data>
+  <data name="RuntimeServer" xml:space="preserve">
+    <value>Serveur (SignalR)</value>
+  </data>
+  <data name="RuntimeWebAssembly" xml:space="preserve">
+    <value>Client (WebAssembly)</value>
+  </data>
+  <data name="StaticServer" xml:space="preserve">
+    <value>Static Server Rendering</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="HidePassword" xml:space="preserve">
+    <value>Cacher</value>
+  </data>
+  <data name="ShowPassword" xml:space="preserve">
+    <value>Voir</value>
+  </data>
+  <data name="PageOfPages" xml:space="preserve">
+    <value>Page {0} de {1}</value>
+  </data>
+  <data name="Url Mappings" xml:space="preserve">
+    <value>Mapping&#160;des URLs</value>
+  </data>
+  <data name="Visitor Management" xml:space="preserve">
+    <value>Gestion&#160;des visiteurs</value>
+  </data>
+  <data name="Oqtane.Marketplace" xml:space="preserve">
+    <value>Veuillez noter que les extensions tierces sont enregistrées dans le &lt;a href="https://www.oqtane.net" target="_new"&gt;Marketplace Oqtane&lt;/a&gt; ce qui permet de les télécharger et les installer dans le framework de manière transparente.</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Accueil</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Fermer</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>Appliquer</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Sélectionner</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Suivant</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Précédant</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Soumettre</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Rafraîchir</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Retour</value>
+  </data>
+  <data name="Return" xml:space="preserve">
+    <value>Retour</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>Nouveau</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>Voir</value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value>Confirmer</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>Aide</value>
+  </data>
+  <data name="Support" xml:space="preserve">
+    <value>Support</value>
+  </data>
+  <data name="Search.Alphabetical" xml:space="preserve">
+    <value>Alphabétique</value>
+  </data>
+  <data name="Buy" xml:space="preserve">
+    <value>Achat immédiat</value>
+  </data>
+  <data name="Search.Popularity" xml:space="preserve">
+    <value>Popularité</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>Résultats</value>
+  </data>
+  <data name="Search.RecentlyReleased" xml:space="preserve">
+    <value>Recently Released</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>De</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>A</value>
+  </data>
+  <data name="Password.DigitRequirement" xml:space="preserve">
+    <value>Au moins 1 chiffre</value>
+  </data>
+  <data name="Password.LowercaseRequirement" xml:space="preserve">
+    <value>Au moins 1 lettre minuscule</value>
+  </data>
+  <data name="Password.PunctuationRequirement" xml:space="preserve">
+    <value>Au moins 1 caractère de ponctuation</value>
+  </data>
+  <data name="Password.UppercaseRequirement" xml:space="preserve">
+    <value>Au moins 1 lettre majuscule</value>
+  </data>
+  <data name="Password.ValidationCriteria" xml:space="preserve">
+    <value>Les mots de passe doivent avoir une longueur minimale de {0} caractères, avec au moins {1} caractère(s) unique, {2}{3}{4}{5} afin de satisfaire au besoin de complexité défini pour ce site.</value>
+  </data>
+  <data name="ProfileInvalid" xml:space="preserve">
+    <value>{0} n'est pas valide</value>
+  </data>
+  <data name="ProfileRequired" xml:space="preserve">
+    <value>{0} est requis</value>
+  </data>
+  <data name="Uninstall" xml:space="preserve">
+    <value>Désinstaller</value>		   
+  </data>
+  <data name="Test" xml:space="preserve">
+    <value>Test</value>
+  </data>
+  <data name="Message.EffectiveExpiryDateError" xml:space="preserve">
+    <value>La date effective ne peut être après la date d'expiration.</value>
+  </data>
+  <data name="RuntimeAuto" xml:space="preserve">
+    <value>Auto</value>
+  </data>
+  <data name="RenderModeHeadless" xml:space="preserve">
+    <value>Headless (API Only)</value>
+  </data>
+  <data name="RenderModeInteractive" xml:space="preserve">
+    <value>Interactive</value>
+  </data>
+  <data name="RenderModeStatic" xml:space="preserve">
+    <value>Statique</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Désactivé</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Activé</value>
+  </data>
+  <data name="Module" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Page</value>
+  </data>
+  <data name="Site" xml:space="preserve">
+    <value>Site</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Utilisateur</value>
   </data>
 </root>

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nom :</value>
+    <value>Nom : </value>
   </data>
   <data name="NoParent" xml:space="preserve">
     <value>Pas de parent</value>
@@ -130,7 +130,7 @@
     <value>Le dossier doit avoir un parent et un nom valide</value>
   </data>
   <data name="Message.Folder.InvalidName" xml:space="preserve">
-    <value>Le nom du dossier est invalide</value>
+    <value>Le nom du dossier est invalide.</value>
   </data>
   <data name="Error.Folder.Save" xml:space="preserve">
     <value>Erreur en sauvegardant le dossier</value>
@@ -150,19 +150,52 @@
   <data name="Name.HelpText" xml:space="preserve">
     <value>Entrez le nom du dossier</value>
   </data>
-  <data name="Permissions.HelpText" xml:space="preserve">
-    <value>Sélectionnez la permission que vous souhaitez sur ce dossier</value>
-  </data>
   <data name="Parent.Text" xml:space="preserve">
-    <value>Parent: </value>
-  </data>
-  <data name="Permissions.Text" xml:space="preserve">
-    <value>Permissions:</value>
+    <value>Parent : </value>
   </data>
   <data name="DeleteFolder.Header" xml:space="preserve">
     <value>Suppression de dossier</value>
   </data>
   <data name="DeleteFolder.Message" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprimer ce dossier ?</value>
+    <value>Etes vous sûr(e) de vouloir supprimer ce dossier ?</value>
+  </data>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Type :</value>
+  </data>
+  <data name="Capacity.Text" xml:space="preserve">
+    <value>Capacité :</value>
+  </data>
+  <data name="ImageSizes.Text" xml:space="preserve">
+    <value>Tailles d'image :</value>
+  </data>
+  <data name="FolderManagement.Title" xml:space="preserve">
+    <value>Gestion des dossiers !</value>
+  </data>
+  <data name="Private" xml:space="preserve">
+    <value>Privé</value>
+  </data>
+  <data name="Public" xml:space="preserve">
+    <value>Publique</value>
+  </data>
+  <data name="Folder Management" xml:space="preserve">
+    <value>Gestion des dossiers</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="Message.Folder.Duplicate" xml:space="preserve">
+    <value>Le nom de dossier fourni existe déjà dans le dossier parent</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permissions</value>
+  </data>
+  <data name="Type.HelpText" xml:space="preserve">
+    <value>Sélectionner le type de dossier. Les dossiers privés ne sont accessibles que par les utilisateurs autorisés. Les dossiers publiques sont accessibles par tous les utilisateurs</value>
+  </data>
+  <data name="Capacity.HelpText" xml:space="preserve">
+    <value>Entrer la capacité maximum du dossier (en mégaoctets). Spécifier 0 si la capacité est illimitée.</value>
+  </data>
+  <data name="ImageSizes.HelpText" xml:space="preserve">
+    <value>Entrer une liste de tailles d'images qui peuvent être générées dynamiquement lors du chargement des images (par ex., 200x200,400x400). Mettre * pour indiquer que le dossier supporte toutes les tailles d'images.</value>
   </data>
 </root>

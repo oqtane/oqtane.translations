@@ -121,7 +121,7 @@
     <value>Entrez le contenu du module</value>
   </data>
   <data name="Content.Text" xml:space="preserve">
-    <value>Contenu :</value>
+    <value>Contenu : </value>
   </data>
   <data name="Import" xml:space="preserve">
     <value>Importer</value>
@@ -133,9 +133,12 @@
     <value>Un problème a été rencontré en important le contenu. Veuillez vous assurer que le contenu et correctement formaté pour ce module.</value>
   </data>
   <data name="Error.Module.Import" xml:space="preserve">
-    <value>Erreur en vouant importer le module</value>
+    <value>Erreur lors de l'importation de ce module</value>
   </data>
   <data name="Message.Required.ImportContent" xml:space="preserve">
-    <value>Pour devez indiquer du contenu à importer</value>
+    <value>Vous devez indiquer du contenu à importer</value>
+  </data>
+  <data name="Import Content" xml:space="preserve">
+    <value>Importer le contenu</value>
   </data>
 </root>

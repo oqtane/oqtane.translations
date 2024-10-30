@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Template.Text" xml:space="preserve">
-    <value>Template : </value>
+    <value>Modèle : </value>
   </data>
   <data name="Template.Select" xml:space="preserve">
-    <value>Sélectionnez un Template</value>
+    <value>Sélectionnez un modèle</value>
   </data>
   <data name="CreateModule" xml:space="preserve">
     <value>Créer un module</value>
@@ -130,10 +130,10 @@
     <value>Veuillez noter que le créateur de module ne sera utilisé que dans un environnement de développement</value>
   </data>
   <data name="Message.Require.ValidName" xml:space="preserve">
-    <value>Vous devez fournir un nom de propriétaire valide ainsi qu'un nom de module ( ie. Sans ponctuation ni espace et les valeurs ne peuvent pas être les mêmess )puis choisissez un Template</value>
+    <value>Vous devez fournir un nom de propriétaire valide ainsi qu'un nom de module ( i.e. sans ponctuation ni espace et les valeurs ne peuvent pas être les mêmess )puis choisissez un Template</value>
   </data>
   <data name="OwnerName.HelpText" xml:space="preserve">
-    <value>Entrez le nom de l'organisation qui développe ce module. Il ne doit pas contenir d'espace ou de ponctuation</value>
+    <value>Entrez le nom de l'organisation qui développe ce module. Il ne doit pas contenir d'espace, de ponctuation, ou contenir le mot "oqtane".</value>
   </data>
   <data name="ModuleName.HelpText" xml:space="preserve">
     <value>Entrez un nom pour ce module. Il ne doit contenir ni espace ni ponctuation.</value>
@@ -151,21 +151,24 @@
     <value>Chemin où le module sera créé</value>
   </data>
   <data name="OwnerName.Text" xml:space="preserve">
-    <value>Nom du propriétaire :</value>
+    <value>Nom du propriétaire : </value>
   </data>
   <data name="ModuleName.Text" xml:space="preserve">
-    <value>Nom du module :</value>
+    <value>Nom du module : </value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description: </value>
+    <value>Description : </value>
   </data>
   <data name="FrameworkReference.Text" xml:space="preserve">
-    <value>Version du Framework :</value>
+    <value>Version du Framework : </value>
   </data>
   <data name="Location.Text" xml:space="preserve">
-    <value>Localisation :</value>
+    <value>Localisation : </value>
   </data>
   <data name="Success.Module.Create" xml:space="preserve">
-    <value>Le code source de votre module a été créé à la localisation spécifiée ci-dessous et doit être compilé afin de le rendre fonctionnel. Une fois qu'il aura été compilé vous devrez &lt;a href=\"{0}\"&gt;Redémarrer&lt;/a&gt; votre application pour appliquer ces changements.</value>
+    <value>Le code source de votre module a été créé à la localisation spécifiée ci-dessous et doit être compilé afin de le rendre fonctionnel. Une fois qu'il aura été compilé vous devrez &lt;a href={0}&gt;redémarrer&lt;/a&gt; votre application pour appliquer ces changements.</value>
+  </data>
+  <data name="Message.Require.ValidDescription" xml:space="preserve">
+    <value>Vous devez fournir une description valide (par ex., sans ponctuation)</value>
   </data>
 </root>

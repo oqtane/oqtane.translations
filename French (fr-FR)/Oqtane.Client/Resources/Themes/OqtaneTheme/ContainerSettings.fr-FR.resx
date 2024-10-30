@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,16 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="SynchronizeContent" xml:space="preserve">
-    <value>Synchroniser le contenu</value>
+  <data name="Text.Text" xml:space="preserve">
+    <value>Couleur du texte :</value>
   </data>
-  <data name="InsertImage" xml:space="preserve">
-    <value>Insérer une image</value>
+  <data name="Border.Text" xml:space="preserve">
+    <value>Couleur du bord :</value>
   </data>
-  <data name="Close" xml:space="preserve">
-    <value>Fermer</value>
+  <data name="Background.Text" xml:space="preserve">
+    <value>Couleur de fond :</value>
   </data>
-  <data name="Message.Require.Image" xml:space="preserve">
-    <value>Vous devez sélectionner une image à insérer</value>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Afficher titre ?</value>
+  </data>
+  <data name="Title.HelpText" xml:space="preserve">
+    <value>Spécifie si le titre du module doit  être affiché</value>
+  </data>
+  <data name="Background.HelpText" xml:space="preserve">
+    <value>(Facultatif) Spécifie une couleur d'arrière plan pour le conteneur</value>
+  </data>
+  <data name="Text.HelpText" xml:space="preserve">
+    <value>(Facultatif) Spécifie une couleur de texte pour le conteneur</value>
+  </data>
+  <data name="Border.HelpText" xml:space="preserve">
+    <value>(Facultatif) Spécifie une bordure pour le conteneur</value>
   </data>
 </root>

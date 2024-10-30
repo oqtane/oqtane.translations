@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Name.Text" xml:space="preserve">
-    <value>Nom :</value>
+    <value>Nom : </value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description: </value>
+    <value>Description : </value>
   </data>
   <data name="Error.Module.Load" xml:space="preserve">
     <value>Erreur en voulant charger le module</value>
@@ -133,13 +133,13 @@
     <value>Le nom de ce module</value>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
-    <value>La description de c emodule</value>
+    <value>La description de ce module</value>
   </data>
   <data name="Categories.HelpText" xml:space="preserve">
     <value>Liste séparé par des virgule de catégories de module</value>
   </data>
   <data name="InternalName.HelpText" xml:space="preserve">
-    <value>The internal name of the module</value>
+    <value>Le nom interne du module</value>
   </data>
   <data name="Version.HelpText" xml:space="preserve">
     <value>La version de ce module</value>
@@ -148,7 +148,7 @@
     <value>Le propriétaire ou créateur du module</value>
   </data>
   <data name="ReferenceUrl.HelpText" xml:space="preserve">
-    <value>L'url de référence de ce module</value>
+    <value>L'URL de référence de ce module</value>
   </data>
   <data name="Contact.HelpText" xml:space="preserve">
     <value>Le contact pour ce module</value>
@@ -160,30 +160,90 @@
     <value>Les versions du runtime Blazor que ce module supporte</value>
   </data>
   <data name="Categories.Text" xml:space="preserve">
-    <value>Categories:</value>
+    <value>Catégories : </value>
   </data>
   <data name="InternalName.Text" xml:space="preserve">
-    <value>Le nom interne du module</value>
+    <value>Le nom interne du module : </value>
   </data>
   <data name="Version.Text" xml:space="preserve">
-    <value>Version: </value>
+    <value>Version : </value>
   </data>
   <data name="Owner.Text" xml:space="preserve">
-    <value>Propriétaire :</value>
+    <value>Propriétaire : </value>
   </data>
   <data name="ReferenceUrl.Text" xml:space="preserve">
-    <value>Url de référence :</value>
+    <value>URL de référence : </value>
   </data>
   <data name="Contact.Text" xml:space="preserve">
-    <value>Contact: </value>
+    <value>Contact : </value>
   </data>
   <data name="License.Text" xml:space="preserve">
-    <value>Licence :</value>
+    <value>Licence : </value>
   </data>
   <data name="Runtimes.Text" xml:space="preserve">
-    <value>Runtimes: </value>
+    <value>Runtimes : </value>
   </data>
-  <data name="Definition.Name" xml:space="preserve">
+  <data name="Definition.Heading" xml:space="preserve">
     <value>Définition</value>
+  </data>
+  <data name="Information.Heading" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permissions</value>
+  </data>
+  <data name="Information.Text" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="PackageName.Text" xml:space="preserve">
+    <value>Nom du package :</value>
+  </data>
+  <data name="Validate" xml:space="preserve">
+    <value>Valider</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Explorer</value>
+  </data>
+  <data name="Pages.Heading" xml:space="preserve">
+    <value>Pages</value>
+  </data>
+  <data name="View License" xml:space="preserve">
+    <value>Voir licence</value>
+  </data>
+  <data name="IsEnabled.Text" xml:space="preserve">
+    <value>Activé ?</value>
+  </data>
+  <data name="Translations.Heading" xml:space="preserve">
+    <value>Traductions</value>
+  </data>
+  <data name="Message.DuplicateName" xml:space="preserve">
+    <value>Un module avec ce nom existe déjà</value>
+  </data>
+  <data name="IsEnabled.HelpText" xml:space="preserve">
+    <value>Le module est-il activé pour ce site ?</value>
+  </data>
+  <data name="Error.Translation.Download" xml:space="preserve">
+    <value>Echec du téléchargement de la traduction</value>
+  </data>
+  <data name="Search.PackageNameMissing" xml:space="preserve">
+    <value>Un nom de package n'a pas été fourni pour le module</value>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>Aucune traduction n'existe pour ce module ou le service de package est désactivé</value>
+  </data>
+  <data name="Success.Translation.Download" xml:space="preserve">
+    <value>Le package de traduction a été sauvé avec succès. Vous devez &lt;a href={0}&gt;redémarrer&lt;/a&gt; votre application pour terminer l'installation.</value>
+  </data>
+  <data name="Error.Validate" xml:space="preserve">
+    <value>Erreur lors de la validation du package</value>
+  </data>
+  <data name="Message.Download" xml:space="preserve">
+    <value>La version du package a été vérifiée. Cliquez sur le bouton "Télécharger" pour obtenir le package.</value>
+  </data>
+  <data name="Message.Validate" xml:space="preserve">
+    <value>La version de ce package n'est pas enregistrée dans le Marketplace Oqtane ou vous n'avez pas les droits pour l'utiliser dans cette installation</value>
+  </data>
+  <data name="PackageName.HelpText" xml:space="preserve">
+    <value>Le nom unique du package dont ce module appartient. Cette Valeur doit être spécifiée dans la spécification de l'interface IModule du module.</value>
   </data>
 </root>

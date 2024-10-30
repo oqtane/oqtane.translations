@@ -118,15 +118,24 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Confirm.DeleteUser" xml:space="preserve">
-    <value>Etes vous sûre de vouloir supprime le rôle {0} ?</value>
+    <value>Etes vous sûr(e) de vouloir supprime le rôle {0} ?</value>
   </data>
   <data name="Error.DeleteRole" xml:space="preserve">
-    <value>Erreur en supprimant un rôle</value>
+    <value>Erreur en supprimant le rôle</value>
   </data>
   <data name="AddRole.Text" xml:space="preserve">
     <value>Ajouter un rôle</value>
   </data>
   <data name="DeleteRole.Header" xml:space="preserve">
     <value>Supprimer un rôle</value>
+  </data>
+  <data name="DeleteRole.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="Users.Text" xml:space="preserve">
+    <value>Utilisateurs</value>
   </data>
 </root>

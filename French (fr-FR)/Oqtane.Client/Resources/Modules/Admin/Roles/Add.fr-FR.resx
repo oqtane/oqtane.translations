@@ -133,12 +133,12 @@
     <value>Indique si les nouveaux utilisateurs sont automatiquement assigné à ce rôle ou pas</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description:</value>
+    <value>Description :</value>
   </data>
   <data name="AutoAssigned.Text" xml:space="preserve">
     <value>Assignation automatique ?</value>
   </data>
   <data name="Message.InfoRequired" xml:space="preserve">
-    <value>Merci de founrir toutes les informations recquise</value>
+    <value>Merci de fournir toutes les informations requises</value>
   </data>
 </root>

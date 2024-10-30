@@ -117,28 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Title.HelpText" xml:space="preserve">
-    <value>Indiquez si le titre du module doit être affiché</value>
-  </data>
-  <data name="Background.HelpText" xml:space="preserve">
-    <value>Indiquez une couleur d'arrière plan pour le container (Facultatif)</value>
-  </data>
-  <data name="Text.HelpText" xml:space="preserve">
-    <value>Indiquer une couleur de texte pour ce container (Facultatif)</value>
-  </data>
-  <data name="Border.HelpText" xml:space="preserve">
-    <value>Indiquez une bordure pour ce container (Facultatif)</value>
-  </data>
-  <data name="Title.Text" xml:space="preserve">
-    <value>Afficher le titre ?</value>
-  </data>
-  <data name="Background.Text" xml:space="preserve">
-    <value>Couleur d'arrière plan :</value>
-  </data>
-  <data name="Text.Text" xml:space="preserve">
-    <value>Couleur de texte:</value>
-  </data>
-  <data name="Border.Text" xml:space="preserve">
-    <value>Couleur de bordure:</value>
-  </data>
 </root>

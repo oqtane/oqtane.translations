@@ -121,6 +121,6 @@
     <value>Nom du fichier :</value>
   </data>
   <data name="Server.HelpText" xml:space="preserve">
-    <value>Entrez le nom du fichier à utiliser comme base de donnée</value>
+    <value>Entrez le nom du fichier à utiliser comme base de données</value>
   </data>
 </root>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,64 +117,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlPanel" xml:space="preserve">
-    <value>Panneau de contrôle</value>
+  <data name="ForgotPasswordEmailBody" xml:space="preserve">
+    <value>Cher [UserDisplayName]&lt;br&gt;&lt;br&gt;Vous avez récemment demandé à réinitialiser votre mot de passe. Merci d'utiliser le lien suivant pour terminer le processus : &lt;b&gt;&lt;a href="[URL]"&gt;&lt;br&gt;&lt;br&gt;Cliquer ici pour réinitialiser le mot de passe&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Veuillez noter que ce lien n'est valide que pendant 24 heures et que si vous n'avez pas terminé la réinitialisation durant cette période, vous devrez recommencer la procédure depuis le site internet.&lt;br&gt;&lt;br&gt;Si vous n'avez pas fait une demande de réinitialisation de votre mot de passe, vous pouvez ignorer ce message.&lt;br&gt;&lt;br&gt;Merci!&lt;br&gt;L'équite [SiteName]</value>
   </data>
-  <data name="AdminDash" xml:space="preserve">
-    <value>Tableau de bord admin</value>
+  <data name="ForgotPasswordEmailSubject" xml:space="preserve">
+    <value>Notification de réinitialisation de mot de passe envoyée pour [SiteName]</value>
   </data>
-  <data name="Page.Unpublish" xml:space="preserve">
-    <value>Dépubliez la page</value>
+  <data name="VerificationEmailSubject" xml:space="preserve">
+    <value>Email de vérification pour [SiteName]</value>
   </data>
-  <data name="Page.Publish" xml:space="preserve">
-    <value>Publier la page</value>
+  <data name="VerificationEmailBody" xml:space="preserve">
+    <value>Cher [UserDisplayName],&lt;br&gt;&lt;br&gt;Afin de vérifier l'adresse email associée à votre compte utilisateur, merci de cliquer si le lien ci-dessous :&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;a href="[URL]"&gt;Cliquer ici pour vérifier&lt;/a&gt;&lt;/b&gt; &lt;br&gt;&lt;br&gt;Si le lien ne s'afficher pas, merci de le copier/coller dans votre navigateur&lt;br&gt;&lt;br&gt;  [URL] &lt;br&gt;&lt;br&gt;Merci !&lt;br&gt;L'équipe [SiteName]</value>
   </data>
-  <data name="Page.Delete" xml:space="preserve">
-    <value>Supprimer une page</value>
+  <data name="UserLockoutEmailBody" xml:space="preserve">
+    <value>Cher [UserDisplayName], &lt;br&gt;&lt;br&gt;Vous avez tenté à plusieurs reprises de vous connecter à votre compte qui est dorénavent bloqué. Merci d'attendre quelques minutes avant de réessayer... ou utilisez le lien ci-dessous pour réinitialiser votre mot de passe :&lt;br&gt;&lt;br&gt; &lt;b&gt;&lt;a href=[URL]&gt;Réinitialisation du mot de passe&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Veuillez noter que ce lien n'est valide que pendant 24 heures. Vous devrez initier une nouvelle demande de changement de mot de passe sur le site &lt;a href="[SiteURL]"&gt;[SiteName]&lt;/a&gt; si vous n'effectuez pas la réinitialisation dans les temps impartis.&lt;br&gt;&lt;br&gt;Merci !&lt;br&gt;L'équipe [SiteName]</value>
   </data>
-  <data name="Module.AddNew" xml:space="preserve">
-    <value>Ajouter un nouveau module</value>
+  <data name="NoVerificationEmailBody" xml:space="preserve">
+    <value>Cher [UserDisplayName],&lt;br&gt;&lt;br&gt;Un compte a été créé avec succès pour le nom d'utilisateur &lt;b&gt;[Username]&lt;/b&gt;. Merci de &lt;b&gt;&lt;a href="[URL]"&gt;cliquer ici pour vous authentifier&lt;/a&gt;&lt;/b&gt;. Si vous ne connaissez pas votre mot de passe, utilisez l'option "mot de passe oublié" sur la page d'authentification afin de réinitialisation votre compte.&lt;br&gt;&lt;br&gt;Merci !&lt;br&gt;L'équipe [SiteName]</value>
   </data>
-  <data name="Module.AddExisting" xml:space="preserve">
-    <value>Ajouter un module existant</value>
+  <data name="TwoFactorEmailBody" xml:space="preserve">
+    <value>Cher [UserDisplayName] + ",&lt;br&gt;&lt;br&gt;Vous avez demandé un code de vérification afin de vous connecter à votre compte. Merci d'entrer ce code de verification sur le site:&lt;br&gt;&lt;br&gt;&lt;b&gt;[Token] &lt;/b&gt;&lt;br&gt;&lt;br&gt;Veuillez noter que ce code n'est valable que pendant 10 minutes. Si vous ne l'utilisez pas Durant cette période, vous devrez générer une nouvelle requête sur le [Alias].&lt;br&gt;&lt;br&gt;Merci !&lt;br&gt;L'équipe [SiteName]"</value>
   </data>
-  <data name="Modules" xml:space="preserve">
-    <value>Modules</value>
+  <data name="NoVerificationEmailSubject" xml:space="preserve">
+    <value>Notification de compte utilisateur pour [SiteName]</value>
   </data>
-  <data name="Page.Select" xml:space="preserve">
-    <value>Séelectionez la page</value>
+  <data name="TwoFactorEmailSubject" xml:space="preserve">
+    <value>Code de vérification utilisateur pour [SiteName]</value>
   </data>
-  <data name="Page.Module.Add" xml:space="preserve">
-    <value>Ajouter un module à la page</value>
-  </data>
-  <data name="Container" xml:space="preserve">
-    <value>Conteneur :</value>
-  </data>
-  <data name="Error.Authorize.No" xml:space="preserve">
-    <value>Non authorisé</value>
-  </data>
-  <data name="Message.Require.ModuleSelect" xml:space="preserve">
-    <value>Vous devez sélectionner un module</value>
-  </data>
-  <data name="Module.Manage" xml:space="preserve">
-    <value>Gestion de modules :</value>
-  </data>
-  <data name="Module.Select" xml:space="preserve">
-    <value>Sélectionnez un module</value>
-  </data>
-  <data name="Page.Manage" xml:space="preserve">
-    <value>Gestion de pages</value>
-  </data>
-  <data name="Pane" xml:space="preserve">
-    <value>Panneau :</value>
-  </data>
-  <data name="Success.Page.ModuleAdd" xml:space="preserve">
-    <value>Module ajouté à la page</value>
-  </data>
-  <data name="Title" xml:space="preserve">
-    <value>Titre :</value>
-  </data>
-  <data name="System.Update" xml:space="preserve">
-    <value>Vérifier les mises à jour système</value>
+  <data name="UserLockoutEmailSubject" xml:space="preserve">
+    <value>Notification d'utilisateur bloqué pour [SiteName]</value>
   </data>
 </root>

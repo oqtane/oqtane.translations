@@ -117,37 +117,70 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Version:" xml:space="preserve">
-    <value>Version:</value>
-  </data>
-  <data name="Database Configuration" xml:space="preserve">
+  <data name="DatabaseConfig" xml:space="preserve">
     <value>Configuration de la base de donnée</value>
   </data>
-  <data name="Database Type:" xml:space="preserve">
+  <data name="DatabaseType.Text" xml:space="preserve">
     <value>Type de base de donnée :</value>
   </data>
-  <data name="Application Administrator" xml:space="preserve">
+  <data name="ApplicationAdmin" xml:space="preserve">
     <value>Administrateur de l'application</value>
   </data>
-  <data name="Username:" xml:space="preserve">
-    <value>Nom d'utilisateur:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>Mot de passe :</value>
-  </data>
-  <data name="Confirm:" xml:space="preserve">
-    <value>Confirmez :</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>Email:</value>
-  </data>
-  <data name="Install Now" xml:space="preserve">
+  <data name="InstallNow" xml:space="preserve">
     <value>Installer maintenant</value>
   </data>
-  <data name="Error loading Database Configuration Control" xml:space="preserve">
+  <data name="Email.Text" xml:space="preserve">
+    <value>Email :</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Mot de passe :</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Paramètres :</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>Sélectionnez un modèle de site</value>
+  </data>
+  <data name="Error.DbConfig.Load" xml:space="preserve">
     <value>Erreur lors du chargement du contrôle de la configuration de base de donnée</value>
   </data>
-  <data name="Please Enter All Fields And Ensure Passwords Match And Are Greater Than 5 Characters In Length" xml:space="preserve">
-    <value>Merci de renseigner tous les champs et de vous assurer que les mots de passes correspondent et et font plus de 5 caractères de long</value>
+  <data name="Message.Require.DbInfo" xml:space="preserve">
+    <value>Merci de renseigner tous les champs. Assurez vous que les mots de passes correspondent et que l'adresse email fournie est valide.</value>
+  </data>
+  <data name="Message.Password.Invalid" xml:space="preserve">
+    <value>Le mot de passe fourni ne répond pas à la complexité demandée. Les mots de passes doivent faire au moins 6 charactères.</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Confirmer :</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nom d'utilisateur :</value>
+  </data>
+  <data name="EnterConnectionString" xml:space="preserve">
+    <value>Entrer la "Connection String"</value>
+  </data>
+  <data name="EnterConnectionParameters" xml:space="preserve">
+    <value>Entrer les paramètres de connexion</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>Entrer une "Connection String" complète incluant tous les paramètres et délimiteurs</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Fournir un nom d'utilisateur pour le compte utilisateur primaire</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Fournir un mot de passe pour le compte utilisateur primaire</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Fournir l'adresse email for le compte utilisateur hôte</value>
+  </data>
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>Sélectionner le type de base de données que vous souhaitez utiliser</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Merci de confirmer le mot de passe fourni ci-dessus</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Merci de m'enregistrer pour rester au courant des mises à jour importantes ainsi que les bulletins de sécurité</value>
   </data>
 </root>

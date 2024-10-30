@@ -127,6 +127,27 @@
     <value>Entrez un nom d'utilisateur</value>
   </data>
   <data name="Message.Username.DontExist" xml:space="preserve">
-    <value>Le nom d'utilisateur n'existe pas</value>
+    <value>Ce nom d'utilisateur n'existe pas</value>
+  </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>Module</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Page</value>
+  </data>
+  <data name="Folder" xml:space="preserve">
+    <value>Dossier</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>Voir</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Editer</value>
+  </data>
+  <data name="Utilize" xml:space="preserve">
+    <value>Utiliser</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>Naviguer</value>
   </data>
 </root>

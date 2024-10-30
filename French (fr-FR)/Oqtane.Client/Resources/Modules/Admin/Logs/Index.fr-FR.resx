@@ -118,10 +118,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Level.Text" xml:space="preserve">
-    <value>Niveau :</value>
+    <value>Niveau : </value>
   </data>
   <data name="Function.Text" xml:space="preserve">
-    <value>Fonction :</value>
+    <value>Fonction : </value>
   </data>
   <data name="AllLevels" xml:space="preserve">
     <value>Tous les niveaux</value>
@@ -184,9 +184,42 @@
     <value>Sélectionnez le nombre de log d'évènement à afficher. Veuillez prendre en compte que si vous mettez plus de 10 éléments les informations peuvent être divisées en pages.</value>
   </data>
   <data name="Rows.Text" xml:space="preserve">
-    <value>Nombre d'élément max :</value>
+    <value>Nombre d'éléments max : </value>
   </data>
   <data name="Create" xml:space="preserve">
     <value>Créer</value>
+  </data>
+  <data name="LogDetails.Text" xml:space="preserve">
+    <value>Détails</value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Echec de sauvegarde des paramètres</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>Rétention (jours) :</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Paramètres</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Paramètres sauvés avec succès</value>
+  </data>
+  <data name="DeleteLogs.Message" xml:space="preserve">
+    <value>Etes-vous sûr(e) de vouloir supprimer tous les évènements du log ?</value>
+  </data>
+  <data name="Events.Heading" xml:space="preserve">
+    <value>Evènements</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>Nombre de jours d'évènements à retenir</value>
+  </data>
+  <data name="DeleteLogs.Header" xml:space="preserve">
+    <value>Supprimer les évènements</value>
+  </data>
+  <data name="DeleteLogs.Text" xml:space="preserve">
+    <value>Supprimer les évènements</value>
+  </data>
+  <data name="Error.DeleteLogs" xml:space="preserve">
+    <value>Erreur lors de suppression des évènements du log</value>
   </data>
 </root>

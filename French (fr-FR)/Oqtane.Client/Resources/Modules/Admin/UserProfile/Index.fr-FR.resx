@@ -151,10 +151,10 @@
     <value>Le profil utilisateur a correctement été mis à jour</value>
   </data>
   <data name="Message.Required.ProfileInfo" xml:space="preserve">
-    <value>Vous devez fournir un nom d'utilisateur et une adresse Email ainsi que toutes les informations de profils recquis</value>
+    <value>Vous devez fournir un nom d'utilisateur et une adresse Email ainsi que toutes les informations de profils requises</value>
   </data>
   <data name="Error.Profile.Save" xml:space="preserve">
-    <value>Erreur en sauvant le profil utilisateur</value>
+    <value>Erreur en sauvegardant le profil utilisateur</value>
   </data>
   <data name="SendNotification.Text" xml:space="preserve">
     <value>Envoyer une notification</value>
@@ -184,10 +184,10 @@
     <value>L'adresse email où vous souhaitez recevoir la notification</value>
   </data>
   <data name="Email.Text" xml:space="preserve">
-    <value>Email:</value>
+    <value>Email :</value>
   </data>
   <data name="Password.HelpText" xml:space="preserve">
-    <value>Si vous voulez changer votre mot de passe vous pouvez l'entrr ici. Merci de choisir un mot de passe suffisament sécure.</value>
+    <value>Si vous voulez changer votre mot de passe vous pouvez l'entrer ici. Merci de choisir un mot de passe suffisament sécurisé.</value>
   </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Mot de passe :</value>
@@ -199,9 +199,51 @@
     <value>Photo :</value>
   </data>
   <data name="Username.HelpText" xml:space="preserve">
-    <value>Votre nom d'utilisateur. Notez que ce champs ne peux pas être modifié</value>
+    <value>Votre nom d'utilisateur. Notez que ce champs ne peux pas être modifié.</value>
   </data>
   <data name="Username.Text" xml:space="preserve">
     <value>Nom d'utilisateur :</value>
+  </data>
+  <data name="Message.Password.Complexity" xml:space="preserve">
+    <value>Le mot de passe fourni ne remplit pas les critères de complexité</value>
+  </data>
+  <data name="Message.User.NoEmail" xml:space="preserve">
+    <value>Vous devez fournir une adresse email pour votre compte utilisateur</value>
+  </data>
+  <data name="Profile.Heading" xml:space="preserve">
+    <value>Profil</value>
+  </data>
+  <data name="ViewNotification.Text" xml:space="preserve">
+    <value>Voir</value>
+  </data>
+  <data name="DeleteNotification.Text" xml:space="preserve">
+    <value>Supprimer</value>
+  </data>
+  <data name="Logout Everywhere" xml:space="preserve">
+    <value>Se déconnecter de partout</value>
+  </data>
+  <data name="NoNotificationsSent.Text" xml:space="preserve">
+    <value>Aucune notification n'a été envoyée</value>
+  </data>
+  <data name="NoNotificationsReceived.Text" xml:space="preserve">
+    <value>Aucune notification n'a été reçue</value>
+  </data>
+  <data name="Notifications.Heading" xml:space="preserve">
+    <value>Notifications</value>
+  </data>
+  <data name="DeleteAllNotifications.Text" xml:space="preserve">
+    <value>Supprimer TOUTES les notifications</value>
+  </data>
+  <data name="TwoFactor.HelpText" xml:space="preserve">
+    <value>Indique si vous utilisez l'authentifiation à 2 facteurs. L'authentification à 2 facteurs requiert que vous entriez un code de vérification envoyé par email après vous être enregistré.</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>Deux facteurs ?</value>
+  </data>
+  <data name="DeleteAllNotifications.Message" xml:space="preserve">
+    <value>Etes-vous sûr(e) de bien vouloir supprimer de manière définitive toutes les notifications ?</value>
+  </data>
+  <data name="DeleteAllNotifications.Header" xml:space="preserve">
+    <value>Effacer les notifications</value>
   </data>
 </root>
