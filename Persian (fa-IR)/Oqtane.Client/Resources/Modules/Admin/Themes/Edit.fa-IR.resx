@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,56 +117,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="View Notification" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="Name.Text" xml:space="preserve">
+    <value>نام:</value>
   </data>
-  <data name="Date.Text" xml:space="preserve">
-    <value>ارسال شد:</value>
+  <data name="InternalName.HelpText" xml:space="preserve">
+    <value>نام داخلی ماژول</value>
   </data>
-  <data name="Error.User.Load" xml:space="preserve">
-    <value>خطا در دریافت کاربران</value>
+  <data name="InternalName.Text" xml:space="preserve">
+    <value>نام داخلی:</value>
   </data>
-  <data name="Message.User.Invalid" xml:space="preserve">
-    <value>کاربر وجود ندارد. لطفاً بررسی کنید که نام کاربری ارائه شده صحیح است.</value>
+  <data name="Version.Text" xml:space="preserve">
+    <value>نسخه:</value>
   </data>
-  <data name="Error.Notification.Add" xml:space="preserve">
-    <value>خطا در اضافه کردن اعلان</value>
+  <data name="Owner.Text" xml:space="preserve">
+    <value>مالک:</value>
   </data>
-  <data name="View Notification" xml:space="preserve">
-    <value>مشاهده اعلان</value>
+  <data name="ReferenceUrl.Text" xml:space="preserve">
+    <value>URL مرجع:</value>
   </data>
-  <data name="Date.HelpText" xml:space="preserve">
-    <value>تاریخی که پیام ارسال شد</value>
+  <data name="Contact.Text" xml:space="preserve">
+    <value>تماس:</value>
   </data>
-  <data name="From.HelpText" xml:space="preserve">
-    <value>کاربری که پیام را ارسال کرده است</value>
+  <data name="License.Text" xml:space="preserve">
+    <value>مجوز:</value>
   </data>
-  <data name="From.Text" xml:space="preserve">
-    <value>از:</value>
+  <data name="Error.Theme.Loading" xml:space="preserve">
+    <value>خطا در بارگیری تم</value>
   </data>
-  <data name="Message.HelpText" xml:space="preserve">
-    <value>محتوای پیام</value>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>نام تم</value>
   </data>
-  <data name="Message.Text" xml:space="preserve">
-    <value>پیام:</value>
+  <data name="Version.HelpText" xml:space="preserve">
+    <value>نسخه تم</value>
   </data>
-  <data name="RE" xml:space="preserve">
-    <value>RE:</value>
+  <data name="Owner.HelpText" xml:space="preserve">
+    <value>مالک یا خالق تم</value>
   </data>
-  <data name="Subject.HelpText" xml:space="preserve">
-    <value>موضوع پیام</value>
+  <data name="ReferenceUrl.HelpText" xml:space="preserve">
+    <value>URL مرجع تم</value>
   </data>
-  <data name="Subject.Text" xml:space="preserve">
-    <value>موضوع:</value>
+  <data name="Contact.HelpText" xml:space="preserve">
+    <value>اطلاعات تماس برای تم</value>
   </data>
-  <data name="System" xml:space="preserve">
-    <value>سیستم</value>
+  <data name="License.HelpText" xml:space="preserve">
+    <value>مجوز تم</value>
   </data>
-  <data name="To.HelpText" xml:space="preserve">
-    <value>کاربری که دریافت کننده پیام خواهد بود</value>
+  <data name="PackageName.HelpText" xml:space="preserve">
+    <value>نام منحصر به فرد بسته ای که این تم از آن نصب شده است. این مقدار باید در اینترفیس IT Theme themee مشخص شود.</value>
   </data>
-  <data name="To.Text" xml:space="preserve">
-    <value>به:</value>
+  <data name="PackageName.Text" xml:space="preserve">
+    <value>نام بسته:</value>
+  </data>
+  <data name="Information.Heading" xml:space="preserve">
+    <value>اطلاعات</value>
+  </data>
+  <data name="IsEnabled.HelpText" xml:space="preserve">
+    <value>آیا تم برای این سایت فعال است؟</value>
+  </data>
+  <data name="IsEnabled.Text" xml:space="preserve">
+    <value>فعال ؟</value>
+  </data>
+  <data name="View License" xml:space="preserve">
+    <value>مشاهده مجوز</value>
+  </data>
+  <data name="Error.Validate" xml:space="preserve">
+    <value>خطا در اعتبارسنجی بسته</value>
+  </data>
+  <data name="Message.Download" xml:space="preserve">
+    <value>نسخه بسته تایید شده است. لطفا دکمه دانلود را برای دریافت بسته انتخاب کنید.</value>
+  </data>
+  <data name="Message.Validate" xml:space="preserve">
+    <value>این نسخه بسته در فروشگاه Oqtane ثبت نشده است یا شما حق استفاده از آن را در این نصب ندارید</value>
+  </data>
+  <data name="Validate" xml:space="preserve">
+    <value>اعتبارسنجی</value>
   </data>
 </root>
