@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -117,18 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>ذخیره</value>
-  </data>
-  <data name="Cancel" xml:space="preserve">
-    <value>لغو</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>بله</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>خیر</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>نام: </value>
   </data>
@@ -141,7 +129,7 @@
   <data name="Settings.Heading" xml:space="preserve">
     <value>تنظیمات</value>
   </data>
-  <data name="Site Root" xml:space="preserve">
+  <data name="SiteRoot" xml:space="preserve">
     <value>Site Root</value>
   </data>
   <data name="Before" xml:space="preserve">
@@ -150,25 +138,22 @@
   <data name="After" xml:space="preserve">
     <value>بعد</value>
   </data>
-  <data name="Select Page" xml:space="preserve">
-    <value>Page را انتخاب کنید</value>
+  <data name="Page.Select" xml:space="preserve">
+    <value>صفحه را انتخاب کنید</value>
   </data>
-  <data name="Select Container" xml:space="preserve">
-    <value>Container را انتخاب کنید</value>
+  <data name="Container.Select" xml:space="preserve">
+    <value>کانتینر را انتخاب کنید</value>
   </data>
-  <data name="Error Loading Child Pages For Parent" xml:space="preserve">
+  <data name="Error.ChildPage.Load" xml:space="preserve">
     <value>خطا در بارگیری صفحات فرزند برای والدین</value>
   </data>
-  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+  <data name="Error.Pane.Load" xml:space="preserve">
     <value>خطا در بارگیری Pane Layouts صفحه برای تم</value>
   </data>
-  <data name="A page with path {0} already exists for the selected parent page. The page path needs to be unique for the selected parent." xml:space="preserve">
-    <value>صفحه ای با مسیر {0} از قبل برای صفحه اصلی انتخاب شده وجود دارد. مسیر صفحه باید برای والد انتخاب شده منحصر به فرد باشد.</value>
+  <data name="Message.Required.PageInfo" xml:space="preserve">
+    <value>شما باید نام صفحه، موضوع و کانتینر را ارائه دهید</value>
   </data>
-  <data name="You Must Provide Page Name, Theme, and Container" xml:space="preserve">
-    <value>شما باید نام صفحه، تم و کانتینر را ارائه دهید</value>
-  </data>
-  <data name="Error Saving Page" xml:space="preserve">
+  <data name="Error.Page.Save" xml:space="preserve">
     <value>خطا در ذخیره صفحه</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
@@ -178,13 +163,13 @@
     <value>صفحه والد این صفحه را انتخاب کنید</value>
   </data>
   <data name="Navigation.HelpText" xml:space="preserve">
-    <value>Select whether the page is part of the site navigation or hidden</value>
+    <value>انتخاب کنید که آیا صفحه بخشی از  navigation سایت باشد یا پنهان</value>
   </data>
   <data name="UrlPath.HelpText" xml:space="preserve">
-    <value>Optionally enter a url path for this page (ie. home ). If you do not provide a url path, the page name will be used.</value>
+    <value>به صورت اختیاری یک مسیر url برای این صفحه وارد کنید (خانه). اگر مسیر url را ارائه نکنید، از نام صفحه استفاده خواهد شد. لطفا توجه داشته باشید که فاصله ها و علائم نگارشی با یک خط تیره جایگزین می شوند. اگر صفحه قرار است مسیر اصلی باشد '/' را مشخص کنید.</value>
   </data>
   <data name="Redirect.HelpText" xml:space="preserve">
-    <value>Optionally enter a url which this page should redirect to when a user navigates to it</value>
+    <value>در صورت تمایل، آدرس URL را وارد کنید که وقتی کاربر به آن می‌رود، این صفحه باید به آن هدایت شود</value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
     <value>به صورت اختیاری عنوان صفحه را وارد کنید. اگر عنوان صفحه را ارائه نکنید، از نام صفحه استفاده خواهد شد.</value>
@@ -196,16 +181,16 @@
     <value>کانتینر پیش فرض صفحه را انتخاب کنید</value>
   </data>
   <data name="Icon.HelpText" xml:space="preserve">
-    <value>Optionally provide an icon class name for this page which will be displayed in the site navigation</value>
+    <value>به صورت اختیاری یک نام کلاس آیکون برای این صفحه ارائه دهید که در منوی سایت نمایش داده می شود</value>
   </data>
   <data name="Personalizable.HelpText" xml:space="preserve">
     <value>انتخاب کنید که آیا مایلید کاربران بتوانند این صفحه را با محتوای خود شخصی سازی کنند یا خیر</value>
   </data>
   <data name="Navigation.Text" xml:space="preserve">
-    <value>Navigation? </value>
+    <value>مسیریابی؟</value>
   </data>
   <data name="UrlPath.Text" xml:space="preserve">
-    <value>Url Path: </value>
+    <value>مسیر URL:</value>
   </data>
   <data name="Redirect.Text" xml:space="preserve">
     <value>ریدایرکت: </value>
@@ -222,11 +207,137 @@
   <data name="Personalizable.Text" xml:space="preserve">
     <value>قابل شخصی سازی؟</value>
   </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>ظاهر</value>
+  </data>
+  <data name="ThisLocation.Keep" xml:space="preserve">
+    <value>حفظ موقعیت فعلی</value>
+  </data>
+  <data name="ToBeginning" xml:space="preserve">
+    <value>رفتن به ابتدا</value>
+  </data>
+  <data name="ToEnd" xml:space="preserve">
+    <value>رفتن به انتها</value>
+  </data>
+  <data name="Error.Page.Load" xml:space="preserve">
+    <value>خطا در بارگیری صفحه</value>
+  </data>
+  <data name="Move.HelpText" xml:space="preserve">
+    <value>مکانی را انتخاب کنید که می‌خواهید صفحه را نسبت به سایر صفحات منتقل کنید</value>
+  </data>
+  <data name="Move.Text" xml:space="preserve">
+    <value>جابجایی:</value>
+  </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>ماژول</value>
+  </data>
+  <data name="ModuleTitle" xml:space="preserve">
+    <value>عنوان</value>
+  </data>
+  <data name="PageModules.Heading" xml:space="preserve">
+    <value>ماژول</value>
+  </data>
+  <data name="ModuleSettings.Text" xml:space="preserve">
+    <value>ویرایش</value>
+  </data>
+  <data name="DeleteModule.Header" xml:space="preserve">
+    <value>حذف ماژول</value>
+  </data>
+  <data name="DeleteModule.Message" xml:space="preserve">
+    <value>آیا مطمئن هستید که می خواهید این ماژول را حذف کنید؟</value>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>حذف کنید</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>مجوزها</value>
+  </data>
+  <data name="ThemeSettings.Heading" xml:space="preserve">
+    <value>تنظیمات تم</value>
+  </data>
+  <data name="Clickable.HelpText" xml:space="preserve">
+    <value>انتخاب کنید که آیا لینک موجود در منو سایت فعال یا غیرفعال باشد</value>
+  </data>
+  <data name="Clickable.Text" xml:space="preserve">
+    <value>قابل کلیک؟</value>
+  </data>
+  <data name="HeadContent.HelpText" xml:space="preserve">
+    <value>به صورت اختیاری محتوا را وارد کنید تا در سر صفحه قرار گیرد (meta, link , script tags)</value>
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>محتوای Head:</value>
+  </data>
+  <data name="Message.Page.Reserved" xml:space="preserve">
+    <value>نام صفحه {0} رزرو شده است. لطفا نام دیگری برای صفحه خود وارد کنید.</value>
+  </data>
+  <data name="BodyContent.HelpText" xml:space="preserve">
+    <value>به صورت اختیاری محتوا را وارد کنید تا در Body صفحه قرار گیرد (script tags)</value>
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>محتوای بدنه:</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>محتوای صفحه</value>
+  </data>
+  <data name="ThemeChanged.Message" xml:space="preserve">
+    <value>لطفاً توجه داشته باشید که لغو تم پیش فرض سایت با موضوع صفحه نامرتبط ممکن است منجر به مشکلات سازگاری سایت شما شود.</value>
+  </data>
+  <data name="EffectiveDate.HelpText" xml:space="preserve">
+    <value>تاریخ فعال بودن این صفحه</value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>تاریخ اجرا:</value>
+  </data>
+  <data name="ExpiryDate.HelpText" xml:space="preserve">
+    <value>تاریخ انقضای این صفحه</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>تاریخ انقضا:</value>
+  </data>
+  <data name="PersonalizedUrlPath.Text" xml:space="preserve">
+    <value>مسیر URL:</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>ذخیره</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>لغو</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>بله</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>خیر</value>
+  </data>
+  <data name="Site Root" xml:space="preserve">
+    <value>Site Root</value>
+  </data>
+  <data name="Select Page" xml:space="preserve">
+    <value>صفحه را انتخاب کنید</value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>کانتینر را انتخاب کنید</value>
+  </data>
+  <data name="Error Loading Child Pages For Parent" xml:space="preserve">
+    <value>خطا در بارگیری صفحات فرزند برای والدین</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>خطا در بارگیری Pane Layouts صفحه برای تم</value>
+  </data>
+  <data name="A page with path {0} already exists for the selected parent page. The page path needs to be unique for the selected parent." xml:space="preserve">
+    <value>صفحه ای با مسیر {0} از قبل برای صفحه اصلی انتخاب شده وجود دارد. مسیر صفحه باید برای والد انتخاب شده منحصر به فرد باشد.</value>
+  </data>
+  <data name="You Must Provide Page Name, Theme, and Container" xml:space="preserve">
+    <value>شما باید نام صفحه، تم و کانتینر را ارائه دهید</value>
+  </data>
+  <data name="Error Saving Page" xml:space="preserve">
+    <value>خطا در ذخیره صفحه</value>
+  </data>
   <data name="Appearance.Name" xml:space="preserve">
     <value>ظاهر</value>
   </data>
   <data name="Maintain Current Location" xml:space="preserve">
-    <value>Maintain Current Location</value>
+    <value>حفظ موقعیت فعلی</value>
   </data>
   <data name="To Beginning" xml:space="preserve">
     <value>آغاز</value>
@@ -236,11 +347,5 @@
   </data>
   <data name="Error Loading Page" xml:space="preserve">
     <value>خطا در بارگیری صفحه</value>
-  </data>
-  <data name="Move.HelpText" xml:space="preserve">
-    <value>Select the location where you would like the page to be moved in relation to other pages</value>
-  </data>
-  <data name="Move.Text" xml:space="preserve">
-    <value>Move: </value>
   </data>
 </root>
