@@ -132,4 +132,31 @@
   <data name="Username Does Not Exist" xml:space="preserve">
     <value>نام کاربری وجود ندارد</value>
   </data>
+  <data name="Username.Enter" xml:space="preserve">
+    <value>نام کاربر را وارد کنید</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>مرور</value>
+  </data>
+  <data name="Utilize" xml:space="preserve">
+    <value>استفاده</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>ویرایش</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>مشاهده</value>
+  </data>
+  <data name="Folder" xml:space="preserve">
+    <value>پوشه</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>صفحه</value>
+  </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>ماژول</value>
+  </data>
+  <data name="Message.Username.DontExist" xml:space="preserve">
+    <value>کاربر با نام مشخص وجود ندارد</value>
+  </data>
 </root>

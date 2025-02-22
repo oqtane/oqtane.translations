@@ -147,4 +147,31 @@
   <data name="Error Deleting File" xml:space="preserve">
     <value>خطا در حذف فایل</value>
   </data>
+  <data name="Folder.Select" xml:space="preserve">
+    <value>پوشه را انتخاب کنید</value>
+  </data>
+  <data name="File.Select" xml:space="preserve">
+    <value>فایل را انتخاب کنید</value>
+  </data>
+  <data name="Error.File.Load" xml:space="preserve">
+    <value>خطا در بارگیری فایل ها</value>
+  </data>
+  <data name="Error.File.Delete" xml:space="preserve">
+    <value>خطا در حذف فایل</value>
+  </data>
+  <data name="Success.File.Delete" xml:space="preserve">
+    <value>فایل حذف شد</value>
+  </data>
+  <data name="Message.File.NotSelected" xml:space="preserve">
+    <value>شما فایلی را برای آپلود انتخاب نکرده اید</value>
+  </data>
+  <data name="Success.File.Upload" xml:space="preserve">
+    <value>آپلود فایل با موفقیت انجام شد</value>
+  </data>
+  <data name="Error.File.Upload" xml:space="preserve">
+    <value>آپلود فایل انجام نشد</value>
+  </data>
+  <data name="Message.File.Restricted" xml:space="preserve">
+    <value>فایل‌های با پسوند {0} اجازه آپلود شدن ندارد . لطفا برای اطلاعات بیشتر با مدیر خود تماس بگیرید.</value>
+  </data>
 </root>
