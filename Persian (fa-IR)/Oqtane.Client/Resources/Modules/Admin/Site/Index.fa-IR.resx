@@ -1,65 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
-            Microsoft ResX Schema 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
 
-            Version 2.0
-
-            The primary goals of this format is to allow a simple XML format 
-            that is mostly human readable. The generation and parsing of the 
-            various data types are done through the TypeConverter classes 
-            associated with the data types.
-
-            Example:
-
-            ... ado.net/XML headers & schema ...
-            <resheader name="resmimetype">text/microsoft-resx</resheader>
-            <resheader name="version">2.0</resheader>
-            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-                <value>[base64 mime encoded serialized .NET Framework object]</value>
-            </data>
-            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-                <comment>This is a comment</comment>
-            </data>
-
-            There are any number of "resheader" rows that contain simple 
-            name/value pairs.
-
-            Each data row contains a name, and value. The row also contains a 
-            type or mimetype. Type corresponds to a .NET class that support 
-            text/value conversion through the TypeConverter architecture. 
-            Classes that don't support this are serialized and stored with the 
-            mimetype set.
-
-            The mimetype is used for serialized objects, and tells the 
-            ResXResourceReader how to depersist the object. This is currently not 
-            extensible. For a given mimetype the value must be set accordingly:
-
-            Note - application/x-microsoft.net.object.binary.base64 is the format 
-            that the ResXResourceWriter will generate, however the reader can 
-            read any of the formats listed below.
-
-            mimetype: application/x-microsoft.net.object.binary.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.soap.base64
-            value   : The object must be serialized with 
-                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-                    : and then encoded with base64 encoding.
-
-            mimetype: application/x-microsoft.net.object.bytearray.base64
-            value   : The object must be serialized into a byte array 
-                    : using a System.ComponentModel.TypeConverter
-                    : and then encoded with base64 encoding.
-            -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
@@ -117,62 +117,45 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Save" xml:space="preserve">
-    <value>ثبت</value>
-  </data>
-  <data name="Yes" xml:space="preserve">
-    <value>بله</value>
-  </data>
-  <data name="No" xml:space="preserve">
-    <value>خیر</value>
-  </data>
   <data name="Name.Text" xml:space="preserve">
     <value>نام: </value>
   </data>
-  <data name="Select Container" xml:space="preserve">
-    <value>انتخاب کانتینر</value>
+  <data name="Container.Select" xml:space="preserve">
+    <value>کانتینر را انتخاب کنید</value>
   </data>
-  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
-    <value>خطا در بارگیری طرح‌بندی‌های صفحه برای تم</value>
+  <data name="Error.Theme.LoadPane" xml:space="preserve">
+    <value>خطا در بارگیری چیدمان صفحه برای تم</value>
   </data>
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>کانتینر پیشفرض: </value>
   </data>
-  <data name="Appearance.Name" xml:space="preserve">
-    <value>ظاهر</value>
-  </data>
-  <data name="Select Theme" xml:space="preserve">
-    <value>انتخاب تم</value>
-  </data>
-  <data name="Default Admin Container" xml:space="preserve">
+  <data name="DefaultAdminContainer" xml:space="preserve">
     <value>کانتینر پیشفرض مدیریتی</value>
   </data>
-  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs" xml:space="preserve">
-    <value>Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs</value>
-  </data>
-  <data name="Test SMTP Configuration" xml:space="preserve">
+  <data name="Smtp.TestConfig" xml:space="preserve">
     <value>تست پیکربندی SMTP</value>
   </data>
-  <data name="Site Settings Saved" xml:space="preserve">
+  <data name="Success.Settings.SaveSite" xml:space="preserve">
     <value>تنظیمات سایت ذخیره شد</value>
   </data>
-  <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
-    <value>An Alias Specified Has Already Been Used For Another Site</value>
+  <data name="Message.Aliases.Taken" xml:space="preserve">
+    <value>یک نام مستعار مشخص شد که قبلاً برای سایت دیگری استفاده شده است</value>
   </data>
-  <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
-    <value>You Must Provide A Site Name, Alias, And Default Theme/Container</value>
+  <data name="Message.Required.SiteName" xml:space="preserve">
+    <value>شما باید نام سایت، نام مستعار، و تم/کانتینر پیش فرض را انتخاب کنید</value>
   </data>
-  <data name="Error Saving Site" xml:space="preserve">
-    <value>خطا در ذخیره</value>
+  <data name="Error.SaveSite" xml:space="preserve">
+    <value>خطا در ذخیره سایت</value>
   </data>
-  <data name="SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details." xml:space="preserve">
-    <value>SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details.</value>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Info.Smtp.SaveSettings" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
-  <data name="Error Testing SMTP Configuration" xml:space="preserve">
+  <data name="Error.Smtp.TestConfig" xml:space="preserve">
     <value>خطا در تست پیکربندی SMTP</value>
   </data>
-  <data name="You Must Specify The SMTP Host, Port, And Sender" xml:space="preserve">
-    <value>شما باید میزبان، پورت و فرستنده SMTP را مشخص کنید</value>
+  <data name="Message.Required.Smtp" xml:space="preserve">
+    <value>شما باید هاست، پورت و فرستنده SMTP را مشخص کنید</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
     <value>نام سایت را وارد کنید</value>
@@ -182,9 +165,6 @@
   </data>
   <data name="Aliases.HelpText" xml:space="preserve">
     <value>نام Alias سرور را وارد کنید</value>
-  </data>
-  <data name="AllowRegistration.HelpText" xml:space="preserve">
-    <value>آیا می خواهید کاربران بتوانند برای یک حساب کاربری در سایت ثبت نام کنند؟</value>
   </data>
   <data name="IsDeleted.HelpText" xml:space="preserve">
     <value>آیا این سایت حذف شده است؟</value>
@@ -213,13 +193,13 @@
   <data name="UseSsl.HelpText" xml:space="preserve">
     <value>مشخص کنید که آیا SSL برای سرور SMTP شما مورد نیاز است یا خیر</value>
   </data>
-  <data name="SmptUsername.HelpText" xml:space="preserve">
+  <data name="SmtpUsername.HelpText" xml:space="preserve">
     <value>نام کاربری حساب SMTP خود را وارد کنید</value>
   </data>
   <data name="SmtpPassword.HelpText" xml:space="preserve">
     <value>رمز عبور حساب SMTP خود را وارد کنید</value>
   </data>
-  <data name="SmptSender.HelpText" xml:space="preserve">
+  <data name="SmtpSender.HelpText" xml:space="preserve">
     <value>ایمیلی که ایمیل ها از آن ارسال می شوند را وارد کنید. لطفاً توجه داشته باشید که این آدرس ایمیل ممکن است نیاز به مجوز با سرور SMTP داشته باشد.</value>
   </data>
   <data name="EnablePWA.HelpText" xml:space="preserve">
@@ -232,13 +212,10 @@
     <value>یک splash icon برای PWA خود اضافه کنید. باید یک PNG با ابعاد 512 در 512 پیکسل باشد.</value>
   </data>
   <data name="Tenant.Text" xml:space="preserve">
-    <value>Tenant: </value>
+    <value>Database: </value>
   </data>
   <data name="Aliases.Text" xml:space="preserve">
     <value>Aliases: </value>
-  </data>
-  <data name="AllowRegistration.Text" xml:space="preserve">
-    <value>ثبت نام کاربر مجاز است؟ </value>
   </data>
   <data name="IsDeleted.Text" xml:space="preserve">
     <value>حذف شده است؟ </value>
@@ -264,14 +241,14 @@
   <data name="UseSsl.Text" xml:space="preserve">
     <value>SSL فعال است: </value>
   </data>
-  <data name="SmptUsername.Text" xml:space="preserve">
-    <value>نام کاربری: </value>
+  <data name="SmtpUsername.Text" xml:space="preserve">
+    <value>نام کاربری:</value>
   </data>
   <data name="SmtpPassword.Text" xml:space="preserve">
     <value>رمز عبور: </value>
   </data>
-  <data name="SmptSender.Text" xml:space="preserve">
-    <value>فرستنده ایمیل: </value>
+  <data name="SmtpSender.Text" xml:space="preserve">
+    <value>فرستنده ایمیل:</value>
   </data>
   <data name="EnablePWA.Text" xml:space="preserve">
     <value>فعال شده است؟ </value>
@@ -281,5 +258,233 @@
   </data>
   <data name="PwaSplashIcon.Text" xml:space="preserve">
     <value>Splash Icon: </value>
+  </data>
+  <data name="Confirm.DeleteSite" xml:space="preserve">
+    <value>آیا مطمئن هستید که می خواهید این سایت را حذف کنید؟</value>
+  </data>
+  <data name="Error.DeleteSite" xml:space="preserve">
+    <value>خطا در حذف سایت</value>
+  </data>
+  <data name="Message.FailAuth.DeleteSite" xml:space="preserve">
+    <value>شما مجاز به حذف سایت نیستید</value>
+  </data>
+  <data name="Theme.Select" xml:space="preserve">
+    <value>تم را انتخاب کنید</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>مشخص می کند که آیا اجزای تعاملی باید Prerender خود را از قبل در سرور اجرا کنند یا خیر</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>Prerender: </value>
+  </data>
+  <data name="RenderMode.HelpText" xml:space="preserve">
+    <value>حالت رندر پیش فرض برای سایت</value>
+  </data>
+  <data name="RenderMode.Text" xml:space="preserve">
+    <value>Render Mode:</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>مرور</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>Database: </value>
+  </data>
+  <data name="PWASettings.Heading" xml:space="preserve">
+    <value>PWA Settings</value>
+  </data>
+  <data name="SMTPSettings.Heading" xml:space="preserve">
+    <value>تنظیمات SMTP</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>اتصال:</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>نوع:</value>
+  </data>
+  <data name="ConnectionString.HelpText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>نوع پایگاه داده</value>
+  </data>
+  <data name="DeleteSite.Header" xml:space="preserve">
+    <value>حذف سایت</value>
+  </data>
+  <data name="DeleteSite.Text" xml:space="preserve">
+    <value>حذف سایت</value>
+  </data>
+  <data name="DefaultAlias.HelpText" xml:space="preserve">
+    <value>نام مستعار پیش فرض برای سایت. درخواست‌های نام مستعار غیر پیش‌فرض به این نام مستعار پیش‌فرض هدایت می‌شوند.</value>
+  </data>
+  <data name="DefaultAlias.Text" xml:space="preserve">
+    <value>نام مستعار پیش فرض:</value>
+  </data>
+  <data name="Aliases.Heading" xml:space="preserve">
+    <value>Site Urls</value>
+  </data>
+  <data name="AliasName" xml:space="preserve">
+    <value>Url</value>
+  </data>
+  <data name="AliasDefault" xml:space="preserve">
+    <value>پیش فرض؟</value>
+  </data>
+  <data name="Confirm.Alias.Delete" xml:space="preserve">
+    <value>آیا مطمئن هستید که می خواهید {0} را حذف کنید؟</value>
+  </data>
+  <data name="HomePage.HelpText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="HomePage.Text" xml:space="preserve">
+    <value>صفحه اصلی:</value>
+  </data>
+  <data name="SmtpRelay.HelpText" xml:space="preserve">
+    <value>** لطفاً توجه داشته باشید که SMTP نیاز دارد تا Job اعلان در کارهای برنامه ریزی شده فعال شود</value>
+  </data>
+  <data name="SmtpRelay.Text" xml:space="preserve">
+    <value>Relay Configured?</value>
+  </data>
+  <data name="SiteMap.Text" xml:space="preserve">
+    <value>نقشه سایت:</value>
+  </data>
+  <data name="Appearance.Heading" xml:space="preserve">
+    <value>ظاهر</value>
+  </data>
+  <data name="HeadContent.HelpText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="HeadContent.Text" xml:space="preserve">
+    <value>Head Content:</value>
+  </data>
+  <data name="BodyContent.HelpText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="BodyContent.Text" xml:space="preserve">
+    <value>Body Content:</value>
+  </data>
+  <data name="PageContent.Heading" xml:space="preserve">
+    <value>محتوای صفحه</value>
+  </data>
+  <data name="SMTPEnabled.HelpText" xml:space="preserve">
+    <value>مشخص کنید که آیا SMTP برای این سایت فعال است یا خیر</value>
+  </data>
+  <data name="SMTPEnabled.Text" xml:space="preserve">
+    <value>فعال شد؟</value>
+  </data>
+  <data name="Version.HelpText" xml:space="preserve">
+    <value>نسخه سایت (برای انتقال محتوای سایت)</value>
+  </data>
+  <data name="Version.Text" xml:space="preserve">
+    <value>نسخه:</value>
+  </data>
+  <data name="DeleteAlias.Text" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="DeleteAlias.Header" xml:space="preserve">
+    <value>حذف نام مستعار</value>
+  </data>
+  <data name="SiteGuid.HelpText" xml:space="preserve">
+    <value>شناسه منحصر به فرد برای سایت</value>
+  </data>
+  <data name="SiteGuid.Text" xml:space="preserve">
+    <value>ID:</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>تعداد روزهای اعلان برای حفظ</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>نگهداری (روز):</value>
+  </data>
+  <data name="HybridEnabled.HelpText" xml:space="preserve">
+    <value>مشخص می کند که آیا سایت می تواند با یک برنامه ترکیبی .NET MAUI خارجی ادغام شود یا خیر</value>
+  </data>
+  <data name="HybridEnabled.Text" xml:space="preserve">
+    <value>هیبریدی فعال شده است؟</value>
+  </data>
+  <data name="Runtime.HelpText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>Interactivity:</value>
+  </data>
+  <data name="TextEditor.HelpText" xml:space="preserve">
+    <value>ویرایشگر متن سایت را انتخاب کنید</value>
+  </data>
+  <data name="TextEditor.Text" xml:space="preserve">
+    <value>ویرایشگر متن:</value>
+  </data>
+  <data name="Functionality" xml:space="preserve">
+    <value>Functionality</value>
+  </data>
+  <data name="System" xml:space="preserve">
+    <value>سیستم</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>ثبت</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>بله</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>خیر</value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>انتخاب کانتینر</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>خطا در بارگیری طرح‌بندی‌های صفحه برای تم</value>
+  </data>
+  <data name="Appearance.Name" xml:space="preserve">
+    <value>ظاهر</value>
+  </data>
+  <data name="Select Theme" xml:space="preserve">
+    <value>انتخاب تم</value>
+  </data>
+  <data name="Default Admin Container" xml:space="preserve">
+    <value>کانتینر پیشفرض مدیریتی</value>
+  </data>
+  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs" xml:space="preserve">
+    <value>لطفاً توجه داشته باشید که SMTP نیاز دارد تا Job اعلان در کارهای برنامه ریزی شده فعال شود</value>
+  </data>
+  <data name="Test SMTP Configuration" xml:space="preserve">
+    <value>تست پیکربندی SMTP</value>
+  </data>
+  <data name="Site Settings Saved" xml:space="preserve">
+    <value>تنظیمات سایت ذخیره شد</value>
+  </data>
+  <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
+    <value>نام مستعار مشخص شده قبلاً برای سایت دیگری استفاده شده است</value>
+  </data>
+  <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
+    <value>شما باید یک نام سایت، نام مستعار، و تم/کانتینر پیش فرض ارائه دهید</value>
+  </data>
+  <data name="Error Saving Site" xml:space="preserve">
+    <value>خطا در ذخیره</value>
+  </data>
+  <data name="SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details." xml:space="preserve">
+    <value>SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details.</value>
+  </data>
+  <data name="Error Testing SMTP Configuration" xml:space="preserve">
+    <value>خطا در تست پیکربندی SMTP</value>
+  </data>
+  <data name="You Must Specify The SMTP Host, Port, And Sender" xml:space="preserve">
+    <value>شما باید میزبان، پورت و فرستنده SMTP را مشخص کنید</value>
+  </data>
+  <data name="AllowRegistration.HelpText" xml:space="preserve">
+    <value>آیا می خواهید کاربران بتوانند برای یک حساب کاربری در سایت ثبت نام کنند؟</value>
+  </data>
+  <data name="SmptUsername.HelpText" xml:space="preserve">
+    <value>نام کاربری حساب SMTP خود را وارد کنید</value>
+  </data>
+  <data name="SmptSender.HelpText" xml:space="preserve">
+    <value>ایمیلی که ایمیل ها از آن ارسال می شوند را وارد کنید. لطفاً توجه داشته باشید که این آدرس ایمیل ممکن است نیاز به مجوز با سرور SMTP داشته باشد.</value>
+  </data>
+  <data name="AllowRegistration.Text" xml:space="preserve">
+    <value>ثبت نام کاربر مجاز است؟ </value>
+  </data>
+  <data name="SmptUsername.Text" xml:space="preserve">
+    <value>نام کاربری: </value>
+  </data>
+  <data name="SmptSender.Text" xml:space="preserve">
+    <value>فرستنده ایمیل: </value>
   </data>
 </root>

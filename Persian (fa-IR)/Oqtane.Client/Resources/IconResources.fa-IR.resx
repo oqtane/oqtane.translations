@@ -123,6 +123,12 @@
   <data name="Icon.AccountLogout" xml:space="preserve">
     <value>خروج از حساب</value>
   </data>
+  <data name="Icon.ActionRedo" xml:space="preserve">
+    <value>اقدام مجدد</value>
+  </data>
+  <data name="Icon.ActionUndo" xml:space="preserve">
+    <value>لغو عملکرد</value>
+  </data>
   <data name="Icon.AlignCenter" xml:space="preserve">
     <value>تنظیم وسط</value>
   </data>
@@ -131,6 +137,43 @@
   </data>
   <data name="Icon.AlignRight" xml:space="preserve">
     <value>تنظیم راست</value>
+  </data>
+  <data name="Icon.Aperture" xml:space="preserve">
+    <value>دیافراگم</value>
+  </data>
+  <data name="Icon.ArrowBottom" xml:space="preserve">
+    <value>پایین فلش</value>
+  </data>
+  <data name="Icon.ArrowCircleBottom" xml:space="preserve">
+    <value>فلش دایره پایین</value>
+  </data>
+  <data name="Icon.ArrowCircleLeft" xml:space="preserve">
+    <value>فلش دایره چپ</value>
+  </data>
+  <data name="Icon.ArrowCircleRight" xml:space="preserve">
+    <value>فلش دایره راست</value>
+  </data>
+  <data name="Icon.ArrowCircleTop" xml:space="preserve">
+    <value>فلش دایره بالا</value>
+  </data>
+  <data name="Icon.ArrowLeft" xml:space="preserve">
+    <value>فلش چپ</value>
+  </data>
+  <data name="Icon.ArrowRight" xml:space="preserve">
+    <value>فلش راست</value>
+  </data>
+  <data name="Icon.ArrowThickBottom" xml:space="preserve">
+    <value>فلش پایین ضخیم</value>
+  </data>
+  <data name="Icon.ArrowThickLeft" xml:space="preserve">
+    <value>فلش چپ ضخیم</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Icon.ArrowThickRight" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="Icon.ArrowThickTop" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
   <data name="Icon.Bell" xml:space="preserve">
     <value>زنگ</value>
@@ -141,13 +184,613 @@
   <data name="Icon.Map" xml:space="preserve">
     <value>نقشه</value>
   </data>
+  <data name="Icon.Moon" xml:space="preserve">
+    <value>ماه</value>
+  </data>
   <data name="Icon.Move" xml:space="preserve">
     <value>انتقال</value>
   </data>
   <data name="Icon.People" xml:space="preserve">
     <value>مردم</value>
   </data>
-  <data name="Icon.Moon" xml:space="preserve">
-    <value>ماه</value>
+  <data name="Icon.ArrowThickRight" xml:space="preserve">
+    <value>فلش راست ضخیم</value>
+  </data>
+  <data name="Icon.ArrowThickTop" xml:space="preserve">
+    <value>فلش بالا ضخیم</value>
+  </data>
+  <data name="Icon.ArrowTop" xml:space="preserve">
+    <value>فلش بالا</value>
+  </data>
+  <data name="Icon.AudioSpectrum" xml:space="preserve">
+    <value>طیف صدا</value>
+  </data>
+  <data name="Icon.Audio" xml:space="preserve">
+    <value>صدا</value>
+  </data>
+  <data name="Icon.Badge" xml:space="preserve">
+    <value>مدال</value>
+  </data>
+  <data name="Icon.Ban" xml:space="preserve">
+    <value>ممنوع</value>
+  </data>
+  <data name="Icon.BarChart" xml:space="preserve">
+    <value>نمودار میله ای</value>
+  </data>
+  <data name="Icon.Basket" xml:space="preserve">
+    <value>سبد</value>
+  </data>
+  <data name="Icon.BatteryEmpty" xml:space="preserve">
+    <value>باتری خالی</value>
+  </data>
+  <data name="Icon.BatteryFull" xml:space="preserve">
+    <value>باتری پر</value>
+  </data>
+  <data name="Icon.Beaker" xml:space="preserve">
+    <value>لیوان</value>
+  </data>
+  <data name="Icon.Bluetooth" xml:space="preserve">
+    <value>بلوتوث</value>
+  </data>
+  <data name="Icon.Bold" xml:space="preserve">
+    <value>پررنگ</value>
+  </data>
+  <data name="Icon.Bolt" xml:space="preserve">
+    <value>پیچ</value>
+  </data>
+  <data name="Icon.Bookmark" xml:space="preserve">
+    <value>نشانک</value>
+  </data>
+  <data name="Icon.Box" xml:space="preserve">
+    <value>جعبه</value>
+  </data>
+  <data name="Icon.Briefcase" xml:space="preserve">
+    <value>کیف</value>
+  </data>
+  <data name="Icon.BritishPound" xml:space="preserve">
+    <value>پوند انگلیس</value>
+  </data>
+  <data name="Icon.Browser" xml:space="preserve">
+    <value>مرورگر</value>
+  </data>
+  <data name="Icon.Brush" xml:space="preserve">
+    <value>مسواک</value>
+  </data>
+  <data name="Icon.Bug" xml:space="preserve">
+    <value>باگ</value>
+  </data>
+  <data name="Icon.Bullhorn" xml:space="preserve">
+    <value>بلندگو</value>
+  </data>
+  <data name="Icon.Calculator" xml:space="preserve">
+    <value>ماشین حساب</value>
+  </data>
+  <data name="Icon.Calendar" xml:space="preserve">
+    <value>تقویم</value>
+  </data>
+  <data name="Icon.CameraSlr" xml:space="preserve">
+    <value>دوربین Slr</value>
+  </data>
+  <data name="Icon.CaretBottom" xml:space="preserve">
+    <value>مثلث سمت پایین</value>
+  </data>
+  <data name="Icon.CaretLeft" xml:space="preserve">
+    <value>مثلث سمت چپ</value>
+  </data>
+  <data name="Icon.CaretRight" xml:space="preserve">
+    <value>مثلث سمت راست</value>
+  </data>
+  <data name="Icon.CaretTop" xml:space="preserve">
+    <value>مثلث سمت بالا</value>
+  </data>
+  <data name="Icon.Cart" xml:space="preserve">
+    <value>کارت</value>
+  </data>
+  <data name="Icon.Chat" xml:space="preserve">
+    <value>چت</value>
+  </data>
+  <data name="Icon.Check" xml:space="preserve">
+    <value>تیک</value>
+  </data>
+  <data name="Icon.ChevronBottom" xml:space="preserve">
+    <value>درجه نظامی پایین</value>
+  </data>
+  <data name="Icon.ChevronLeft" xml:space="preserve">
+    <value>درجه نظامی چپ</value>
+  </data>
+  <data name="Icon.ChevronRight" xml:space="preserve">
+    <value>درجه نظامی راست</value>
+  </data>
+  <data name="Icon.ChevronTop" xml:space="preserve">
+    <value>درجه نظامی بالا</value>
+  </data>
+  <data name="Icon.CircleCheck" xml:space="preserve">
+    <value>تیک دایره ای</value>
+  </data>
+  <data name="Icon.CircleX" xml:space="preserve">
+    <value>ضربدر دایره ای</value>
+  </data>
+  <data name="Icon.Clipboard" xml:space="preserve">
+    <value>کلیپ بورد</value>
+  </data>
+  <data name="Icon.Clock" xml:space="preserve">
+    <value>ساعت</value>
+  </data>
+  <data name="Icon.CloudDownload" xml:space="preserve">
+    <value>دانلود ابری</value>
+  </data>
+  <data name="Icon.CloudUpload" xml:space="preserve">
+    <value>بارگذاری در ابر</value>
+  </data>
+  <data name="Icon.Cloud" xml:space="preserve">
+    <value>ابر</value>
+  </data>
+  <data name="Icon.Cloudy" xml:space="preserve">
+    <value>ابری</value>
+  </data>
+  <data name="Icon.Code" xml:space="preserve">
+    <value>کد</value>
+  </data>
+  <data name="Icon.Cog" xml:space="preserve">
+    <value>چرخ دنده</value>
+  </data>
+  <data name="Icon.CollapseDown" xml:space="preserve">
+    <value>جمع کردن پایین</value>
+  </data>
+  <data name="Icon.CollapseLeft" xml:space="preserve">
+    <value>جمع کردن چپ</value>
+  </data>
+  <data name="Icon.CollapseRight" xml:space="preserve">
+    <value>جمع کردن راست</value>
+  </data>
+  <data name="Icon.CollapseUp" xml:space="preserve">
+    <value>جمع کردن بالا</value>
+  </data>
+  <data name="Icon.Command" xml:space="preserve">
+    <value>دستور</value>
+  </data>
+  <data name="Icon.CommentSquare" xml:space="preserve">
+    <value>مربع دیدگاه</value>
+  </data>
+  <data name="Icon.Compass" xml:space="preserve">
+    <value>قطب نما</value>
+  </data>
+  <data name="Icon.Contrast" xml:space="preserve">
+    <value>کنتراست</value>
+  </data>
+  <data name="Icon.Copywriting" xml:space="preserve">
+    <value>کپی رایتینگ</value>
+  </data>
+  <data name="Icon.CreditCard" xml:space="preserve">
+    <value>کارت اعتباری</value>
+  </data>
+  <data name="Icon.Crop" xml:space="preserve">
+    <value>برش</value>
+  </data>
+  <data name="Icon.Dashboard" xml:space="preserve">
+    <value>داشبورد</value>
+  </data>
+  <data name="Icon.DataTransferDownload" xml:space="preserve">
+    <value>دانلود انتقال داده</value>
+  </data>
+  <data name="Icon.DataTransferUpload" xml:space="preserve">
+    <value>بارگذاری انتقال داده</value>
+  </data>
+  <data name="Icon.Delete" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="Icon.Dial" xml:space="preserve">
+    <value>شماره گیری</value>
+  </data>
+  <data name="Icon.Document" xml:space="preserve">
+    <value>سند</value>
+  </data>
+  <data name="Icon.Dollar" xml:space="preserve">
+    <value>دلار</value>
+  </data>
+  <data name="Icon.DoubleQuoteSansLeft" xml:space="preserve">
+    <value>نقل قول سمت چپ</value>
+  </data>
+  <data name="Icon.DoubleQuoteSansRight" xml:space="preserve">
+    <value>نقل قول سمت راست</value>
+  </data>
+  <data name="Icon.DoubleQuoteSerifLeft" xml:space="preserve">
+    <value>دو نقل قول سمت چپ</value>
+  </data>
+  <data name="Icon.DoubleQuoteSerifRight" xml:space="preserve">
+    <value>دو نقل قول سمت راست</value>
+  </data>
+  <data name="Icon.Droplet" xml:space="preserve">
+    <value>قطره</value>
+  </data>
+  <data name="Icon.ZoomOut" xml:space="preserve">
+    <value>بزرگنمایی</value>
+  </data>
+  <data name="Icon.ZoomIn" xml:space="preserve">
+    <value>زوم کردن</value>
+  </data>
+  <data name="Icon.Yen" xml:space="preserve">
+    <value>ین</value>
+  </data>
+  <data name="Icon.X" xml:space="preserve">
+    <value>اکس</value>
+  </data>
+  <data name="Icon.Wrench" xml:space="preserve">
+    <value>آچار</value>
+  </data>
+  <data name="Icon.Wifi" xml:space="preserve">
+    <value>وای فای</value>
+  </data>
+  <data name="Icon.Warning" xml:space="preserve">
+    <value>هشدار</value>
+  </data>
+  <data name="Icon.VolumeOff" xml:space="preserve">
+    <value>صدا خاموش</value>
+  </data>
+  <data name="Icon.VolumeLow" xml:space="preserve">
+    <value>صدا کم</value>
+  </data>
+  <data name="Icon.VolumeHigh" xml:space="preserve">
+    <value>صدا زیاد</value>
+  </data>
+  <data name="Icon.Video" xml:space="preserve">
+    <value>ویدیو</value>
+  </data>
+  <data name="Icon.VerticalAlignTop" xml:space="preserve">
+    <value>تراز عمودی بالا</value>
+  </data>
+  <data name="Icon.VerticalAlignCenter" xml:space="preserve">
+    <value>تراز عمودی وسط</value>
+  </data>
+  <data name="Icon.VerticalAlignBottom" xml:space="preserve">
+    <value>تراز عمودی پایین</value>
+  </data>
+  <data name="Icon.Underline" xml:space="preserve">
+    <value>خط زیر متن</value>
+  </data>
+  <data name="Icon.Trash" xml:space="preserve">
+    <value>سطل زباله</value>
+  </data>
+  <data name="Icon.Transfer" xml:space="preserve">
+    <value>انتقال</value>
+  </data>
+  <data name="Icon.Timer" xml:space="preserve">
+    <value>تایمر</value>
+  </data>
+  <data name="Icon.ThumbUp" xml:space="preserve">
+    <value>انگشت شست بالا</value>
+  </data>
+  <data name="Icon.ThumbDown" xml:space="preserve">
+    <value>انگشت شست پایین</value>
+  </data>
+  <data name="Icon.Text" xml:space="preserve">
+    <value>متن</value>
+  </data>
+  <data name="Icon.Terminal" xml:space="preserve">
+    <value>ترمینال</value>
+  </data>
+  <data name="Icon.Task" xml:space="preserve">
+    <value>تکلیف</value>
+  </data>
+  <data name="Icon.Target" xml:space="preserve">
+    <value>هدف</value>
+  </data>
+  <data name="Icon.Tags" xml:space="preserve">
+    <value>برچسب ها</value>
+  </data>
+  <data name="Icon.Tag" xml:space="preserve">
+    <value>برچسب</value>
+  </data>
+  <data name="Icon.Tablet" xml:space="preserve">
+    <value>تبلت</value>
+  </data>
+  <data name="Icon.Sun" xml:space="preserve">
+    <value>خورشید</value>
+  </data>
+  <data name="Icon.Star" xml:space="preserve">
+    <value>ستاره</value>
+  </data>
+  <data name="Icon.Spreadsheet" xml:space="preserve">
+    <value>صفحه گسترده</value>
+  </data>
+  <data name="Icon.SortDescending" xml:space="preserve">
+    <value>مرتب سازی نزولی</value>
+  </data>
+  <data name="Icon.SortAscending" xml:space="preserve">
+    <value>مرتب سازی صعودی</value>
+  </data>
+  <data name="Icon.Signpost" xml:space="preserve">
+    <value>تابلوی راهنما</value>
+  </data>
+  <data name="Icon.Signal" xml:space="preserve">
+    <value>سیگنال</value>
+  </data>
+  <data name="Icon.Shield" xml:space="preserve">
+    <value>سپر</value>
+  </data>
+  <data name="Icon.Share" xml:space="preserve">
+    <value>اشتراک گذاری</value>
+  </data>
+  <data name="Icon.ShareBoxed" xml:space="preserve">
+    <value>اشتراک گذاری مربعی</value>
+  </data>
+  <data name="Icon.Script" xml:space="preserve">
+    <value>اسکریپت</value>
+  </data>
+  <data name="Icon.Rss" xml:space="preserve">
+    <value>Rss</value>
+  </data>
+  <data name="Icon.RssAlt" xml:space="preserve">
+    <value>Rss Alt</value>
+  </data>
+  <data name="Icon.ResizeWidth" xml:space="preserve">
+    <value>تغییر اندازه عرض</value>
+  </data>
+  <data name="Icon.ResizeHeight" xml:space="preserve">
+    <value>تغییر اندازه ارتفاع</value>
+  </data>
+  <data name="Icon.ResizeBoth" xml:space="preserve">
+    <value>تغییر اندازه هر دو</value>
+  </data>
+  <data name="Icon.Reload" xml:space="preserve">
+    <value>بارگذاری مجدد</value>
+  </data>
+  <data name="Icon.Random" xml:space="preserve">
+    <value>تصادفی</value>
+  </data>
+  <data name="Icon.Rain" xml:space="preserve">
+    <value>باران</value>
+  </data>
+  <data name="Icon.QuestionMark" xml:space="preserve">
+    <value>علامت سوال</value>
+  </data>
+  <data name="Icon.PuzzlePiece" xml:space="preserve">
+    <value>قطعه پازل</value>
+  </data>
+  <data name="Icon.Pulse" xml:space="preserve">
+    <value>پازل</value>
+  </data>
+  <data name="Icon.Project" xml:space="preserve">
+    <value>پروژه</value>
+  </data>
+  <data name="Icon.Print" xml:space="preserve">
+    <value>چاپ</value>
+  </data>
+  <data name="Icon.PowerStandby" xml:space="preserve">
+    <value>دکه پاور</value>
+  </data>
+  <data name="Icon.Plus" xml:space="preserve">
+    <value>مثبت</value>
+  </data>
+  <data name="Icon.PlayCircle" xml:space="preserve">
+    <value>اجرا گرد</value>
+  </data>
+  <data name="Icon.Pin" xml:space="preserve">
+    <value>سنجاق</value>
+  </data>
+  <data name="Icon.PieChart" xml:space="preserve">
+    <value>نمودار دایره ای</value>
+  </data>
+  <data name="Icon.Phone" xml:space="preserve">
+    <value>تلفن</value>
+  </data>
+  <data name="Icon.Person" xml:space="preserve">
+    <value>شخص</value>
+  </data>
+  <data name="Icon.Pencil" xml:space="preserve">
+    <value>مداد</value>
+  </data>
+  <data name="Icon.Paperclip" xml:space="preserve">
+    <value>گیره کاغذ</value>
+  </data>
+  <data name="Icon.MusicalNote" xml:space="preserve">
+    <value>نت موسیقی</value>
+  </data>
+  <data name="Icon.Monitor" xml:space="preserve">
+    <value>مانیتور</value>
+  </data>
+  <data name="Icon.Minus" xml:space="preserve">
+    <value>منفی</value>
+  </data>
+  <data name="Icon.Microphone" xml:space="preserve">
+    <value>میکروفون</value>
+  </data>
+  <data name="Icon.Menu" xml:space="preserve">
+    <value>منو</value>
+  </data>
+  <data name="Icon.MedicalCross" xml:space="preserve">
+    <value>صلیب پزشکی</value>
+  </data>
+  <data name="Icon.Eject" xml:space="preserve">
+    <value>بیرون انداختن</value>
+  </data>
+  <data name="Icon.Elevator" xml:space="preserve">
+    <value>آسانسور</value>
+  </data>
+  <data name="Icon.Ellipses" xml:space="preserve">
+    <value>بیضی ها</value>
+  </data>
+  <data name="Icon.EnvelopeClosed" xml:space="preserve">
+    <value>پاکت بسته</value>
+  </data>
+  <data name="Icon.EnvelopeOpen" xml:space="preserve">
+    <value>پاکت باز</value>
+  </data>
+  <data name="Icon.Euro" xml:space="preserve">
+    <value>یورو</value>
+  </data>
+  <data name="Icon.Excerpt" xml:space="preserve">
+    <value>گزیده</value>
+  </data>
+  <data name="Icon.ExpandDown" xml:space="preserve">
+    <value>گسترش به پایین</value>
+  </data>
+  <data name="Icon.ExpandLeft" xml:space="preserve">
+    <value>گسترش به چپ</value>
+  </data>
+  <data name="Icon.ExpandRight" xml:space="preserve">
+    <value>گسترش به راست</value>
+  </data>
+  <data name="Icon.ExpandUp" xml:space="preserve">
+    <value>گسترش به بالا</value>
+  </data>
+  <data name="Icon.ExternalLink" xml:space="preserve">
+    <value>لینک خارجی</value>
+  </data>
+  <data name="Icon.Eye" xml:space="preserve">
+    <value>چشم</value>
+  </data>
+  <data name="Icon.Eyedropper" xml:space="preserve">
+    <value>قطره چشم</value>
+  </data>
+  <data name="Icon.File" xml:space="preserve">
+    <value>فایل</value>
+  </data>
+  <data name="Icon.Fire" xml:space="preserve">
+    <value>آتش</value>
+  </data>
+  <data name="Icon.Flag" xml:space="preserve">
+    <value>پرچم</value>
+  </data>
+  <data name="Icon.Flash" xml:space="preserve">
+    <value>فلش</value>
+  </data>
+  <data name="Icon.Folder" xml:space="preserve">
+    <value>پوشه</value>
+  </data>
+  <data name="Icon.Fork" xml:space="preserve">
+    <value>فورک</value>
+  </data>
+  <data name="Icon.FullscreenEnter" xml:space="preserve">
+    <value>ورود به تمام صفحه</value>
+  </data>
+  <data name="Icon.FullscreenExit" xml:space="preserve">
+    <value>خروج از تمام صفحه</value>
+  </data>
+  <data name="Icon.Globe" xml:space="preserve">
+    <value>کره زمین</value>
+  </data>
+  <data name="Icon.Graph" xml:space="preserve">
+    <value>نمودار</value>
+  </data>
+  <data name="Icon.GridFourUp" xml:space="preserve">
+    <value>گرید چهار تایی</value>
+  </data>
+  <data name="Icon.GridThreeUp" xml:space="preserve">
+    <value>گرید سه تایی</value>
+  </data>
+  <data name="Icon.GridTwoUp" xml:space="preserve">
+    <value>گرید دوتایی</value>
+  </data>
+  <data name="Icon.HardDrive" xml:space="preserve">
+    <value>هارد دیسک</value>
+  </data>
+  <data name="Icon.Header" xml:space="preserve">
+    <value>سربرگ</value>
+  </data>
+  <data name="Icon.Headphones" xml:space="preserve">
+    <value>هدفون</value>
+  </data>
+  <data name="Icon.Heart" xml:space="preserve">
+    <value>قلب</value>
+  </data>
+  <data name="Icon.Home" xml:space="preserve">
+    <value>خانه</value>
+  </data>
+  <data name="Icon.Image" xml:space="preserve">
+    <value>تصویر</value>
+  </data>
+  <data name="Icon.Inbox" xml:space="preserve">
+    <value>Inbox</value>
+  </data>
+  <data name="Icon.Infinity" xml:space="preserve">
+    <value>بی نهایت</value>
+  </data>
+  <data name="Icon.Info" xml:space="preserve">
+    <value>اطلاعات</value>
+  </data>
+  <data name="Icon.Italic" xml:space="preserve">
+    <value>کج</value>
+  </data>
+  <data name="Icon.JustifyCenter" xml:space="preserve">
+    <value>میزان کردن وسط</value>
+  </data>
+  <data name="Icon.JustifyLeft" xml:space="preserve">
+    <value>میزان کردن چپ</value>
+  </data>
+  <data name="Icon.JustifyRight" xml:space="preserve">
+    <value>میزان کردن راست</value>
+  </data>
+  <data name="Icon.Key" xml:space="preserve">
+    <value>کلید</value>
+  </data>
+  <data name="Icon.Laptop" xml:space="preserve">
+    <value>لپ تاپ</value>
+  </data>
+  <data name="Icon.Layers" xml:space="preserve">
+    <value>لایه ها</value>
+  </data>
+  <data name="Icon.Lightbulb" xml:space="preserve">
+    <value>لامپ</value>
+  </data>
+  <data name="Icon.LinkBroken" xml:space="preserve">
+    <value>لینک غیر فعال</value>
+  </data>
+  <data name="Icon.LinkIntact" xml:space="preserve">
+    <value>لینک</value>
+  </data>
+  <data name="Icon.ListRich" xml:space="preserve">
+    <value>لیست با تصویر</value>
+  </data>
+  <data name="Icon.List" xml:space="preserve">
+    <value>لبست</value>
+  </data>
+  <data name="Icon.Location" xml:space="preserve">
+    <value>موقعیت مکانی</value>
+  </data>
+  <data name="Icon.LockLocked" xml:space="preserve">
+    <value>قفل بسته</value>
+  </data>
+  <data name="Icon.LockUnlocked" xml:space="preserve">
+    <value>قفل باز</value>
+  </data>
+  <data name="Icon.LoopCircular" xml:space="preserve">
+    <value>حلقه دایره ای</value>
+  </data>
+  <data name="Icon.LoopSquare" xml:space="preserve">
+    <value>حلقه مربع ای</value>
+  </data>
+  <data name="Icon.Loop" xml:space="preserve">
+    <value>حلقه</value>
+  </data>
+  <data name="Icon.MagnifyingGlass" xml:space="preserve">
+    <value>ذره بین</value>
+  </data>
+  <data name="Icon.MapMarker" xml:space="preserve">
+    <value>نشانگر نقشه</value>
+  </data>
+  <data name="Icon.MediaPause" xml:space="preserve">
+    <value>توقف اجرا</value>
+  </data>
+  <data name="Icon.MediaPlay" xml:space="preserve">
+    <value>شروع اجرا</value>
+  </data>
+  <data name="Icon.MediaStop" xml:space="preserve">
+    <value>توقف کامل</value>
+  </data>
+  <data name="Icon.MediaStepForward" xml:space="preserve">
+    <value>رفتن به جلو</value>
+  </data>
+  <data name="Icon.MediaStepBackward" xml:space="preserve">
+    <value>رفتن به عقب</value>
+  </data>
+  <data name="Icon.MediaRecord" xml:space="preserve">
+    <value>رکورد کردن</value>
+  </data>
+  <data name="Icon.MediaSkipBackward" xml:space="preserve">
+    <value>پرش به عقب</value>
+  </data>
+  <data name="Icon.MediaSkipForward" xml:space="preserve">
+    <value>پرش به جلو</value>
   </data>
 </root>

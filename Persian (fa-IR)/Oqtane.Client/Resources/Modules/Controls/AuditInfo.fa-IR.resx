@@ -132,4 +132,13 @@
   <data name="Deleted" xml:space="preserve">
     <value>پاک شده</value>
   </data>
+  <data name="LastModified" xml:space="preserve">
+    <value>آخرین تغییر</value>
+  </data>
+  <data name="On" xml:space="preserve">
+    <value>بر</value>
+  </data>
+  <data name="By" xml:space="preserve">
+    <value>توسط</value>
+  </data>
 </root>

@@ -126,4 +126,67 @@
   <data name="Error Saving Content" xml:space="preserve">
     <value>خطا در ذخیره محتوا</value>
   </data>
+  <data name="Confirm.Delete" xml:space="preserve">
+    <value>آیا مطمئن هستید که می خواهید نسخه {0} را حذف کنید؟</value>
+  </data>
+  <data name="Confirm.Restore" xml:space="preserve">
+    <value>آیا مطمئن هستید که می خواهید نسخه {0} را بازیابی کنید؟</value>
+  </data>
+  <data name="CreatedBy" xml:space="preserve">
+    <value>ایجاد شده توسط</value>
+  </data>
+  <data name="CreatedOn" xml:space="preserve">
+    <value>ایجاد شده در</value>
+  </data>
+  <data name="Delete.Header" xml:space="preserve">
+    <value>نسخه را حذف کنید</value>
+  </data>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>حذف</value>
+  </data>
+  <data name="Error.Content.Delete" xml:space="preserve">
+    <value>خطا در حذف نسخه</value>
+  </data>
+  <data name="Error.Content.Load" xml:space="preserve">
+    <value>هنگام بارگذاری محتوا خطایی رخ داد</value>
+  </data>
+  <data name="Error.Content.Restore" xml:space="preserve">
+    <value>خطا در بازیابی نسخه</value>
+  </data>
+  <data name="RichTextEditor.Heading" xml:space="preserve">
+    <value>Rich Text Editor</value>
+  </data>
+  <data name="HtmlEditor.Heading" xml:space="preserve">
+    <value>Raw HTML Editor</value>
+  </data>
+  <data name="Versions.Heading" xml:space="preserve">
+    <value>نسخه ها</value>
+  </data>
+  <data name="Edit.Heading" xml:space="preserve">
+    <value>ویرایش</value>
+  </data>
+  <data name="View.Text" xml:space="preserve">
+    <value>مشاهده</value>
+  </data>
+  <data name="Restore.Text" xml:space="preserve">
+    <value>بازیابی</value>
+  </data>
+  <data name="Restore.Header" xml:space="preserve">
+    <value>بازیابی نسخه</value>
+  </data>
+  <data name="Edit Html/Text" xml:space="preserve">
+    <value>Edit Html/Text</value>
+  </data>
+  <data name="Message.Content.Restored" xml:space="preserve">
+    <value>نسخه بازیابی شد</value>
+  </data>
+  <data name="Message.Content.Deleted" xml:space="preserve">
+    <value>نسخه حذف شد</value>
+  </data>
+  <data name="Error.Content.View" xml:space="preserve">
+    <value>خطا در مشاهده نسخه</value>
+  </data>
+  <data name="Error.Content.Save" xml:space="preserve">
+    <value>هنگام ذخیره محتوا خطایی روی داد</value>
+  </data>
 </root>
