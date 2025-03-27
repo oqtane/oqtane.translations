@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Save" xml:space="preserve">
+    <value>Salvare</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Da</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Nu</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nume:</value>
+  </data>
+  <data name="Select Container" xml:space="preserve">
+    <value>Selectare Container</value>
+  </data>
+  <data name="Error Loading Pane Layouts For Theme" xml:space="preserve">
+    <value>Eroare la încărcarea aspectelor de panou pentru temă</value>
+  </data>
+  <data name="DefaultContainer.Text" xml:space="preserve">
+    <value>Container Implicit:</value>
+  </data>
+  <data name="Appearance.Name" xml:space="preserve">
+    <value>Aspect</value>
+  </data>
+  <data name="Select Theme" xml:space="preserve">
+    <value>Selectare Temă</value>
+  </data>
+  <data name="Default Admin Container" xml:space="preserve">
+    <value>Container Admin Implicit</value>
+  </data>
+  <data name="Please Note That SMTP Requires The Notification Job To Be Enabled In Scheduled Jobs" xml:space="preserve">
+    <value>Vă rugăm să rețineți că SMTP necesită ca sarcina de notificare să fie activată în Sarcinile Programate</value>
+  </data>
+  <data name="Test SMTP Configuration" xml:space="preserve">
+    <value>Testare Configurație SMTP</value>
+  </data>
+  <data name="Site Settings Saved" xml:space="preserve">
+    <value>Setări Site Salvate</value>
+  </data>
+  <data name="An Alias Specified Has Already Been Used For Another Site" xml:space="preserve">
+    <value>Un Alias Specificat A Fost Deja Utilizat Pentru Alt Site</value>
+  </data>
+  <data name="You Must Provide A Site Name, Alias, And Default Theme/Container" xml:space="preserve">
+    <value>Trebuie Să Furnizați Un Nume De Site, Alias Și Temă/Container Implicit</value>
+  </data>
+  <data name="Error Saving Site" xml:space="preserve">
+    <value>Eroare la salvarea site-ului</value>
+  </data>
+  <data name="SMTP Settings Saved And A Message Has Been Sent To The Email Address Associated To Your User Account... Please Wait A Few Minutes For Delivery. If You Do Not Receive The Email Please Review The Notification Job In Scheduled Jobs For Any Log Details." xml:space="preserve">
+    <value>Setările SMTP au fost salvate și un mesaj a fost trimis la adresa de email asociată contului dvs. de utilizator... Vă rugăm să așteptați câteva minute pentru livrare. Dacă nu primiți emailul, vă rugăm să verificați sarcina de notificare în Sarcinile Programate pentru orice detalii din jurnal.</value>
+  </data>
+  <data name="Error Testing SMTP Configuration" xml:space="preserve">
+    <value>Eroare la testarea configurației SMTP</value>
+  </data>
+  <data name="You Must Specify The SMTP Host, Port, And Sender" xml:space="preserve">
+    <value>Trebuie Să Specificați Gazda SMTP, Portul Și Expeditorul</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Introduceți numele site-ului</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>Introduceți tenantul pentru site</value>
+  </data>
+  <data name="Aliases.HelpText" xml:space="preserve">
+    <value>Introduceți aliasul pentru server</value>
+  </data>
+  <data name="AllowRegistration.HelpText" xml:space="preserve">
+    <value>Doriți ca utilizatorii să poată înregistra un cont pe site</value>
+  </data>
+  <data name="IsDeleted.HelpText" xml:space="preserve">
+    <value>Acest site este șters?</value>
+  </data>
+  <data name="Logo.HelpText" xml:space="preserve">
+    <value>Specificați un logo pentru site</value>
+  </data>
+  <data name="FavoriteIcon.HelpText" xml:space="preserve">
+    <value>Specificați un Favicon</value>
+  </data>
+  <data name="DefaultTheme.HelpText" xml:space="preserve">
+    <value>Selectați tema implicită a site-ului</value>
+  </data>
+  <data name="DefaultContainer.HelpText" xml:space="preserve">
+    <value>Selectați containerul implicit pentru site</value>
+  </data>
+  <data name="DefaultAdminContainer.HelpText" xml:space="preserve">
+    <value>Selectați containerul admin implicit pentru site</value>
+  </data>
+  <data name="Host.HelpText" xml:space="preserve">
+    <value>Introduceți numele gazdei serverului SMTP</value>
+  </data>
+  <data name="Port.HelpText" xml:space="preserve">
+    <value>Introduceți numărul portului pentru serverul SMTP. Vă rugăm să rețineți că acest câmp este obligatoriu dacă furnizați un nume de gazdă.</value>
+  </data>
+  <data name="UseSsl.HelpText" xml:space="preserve">
+    <value>Specificați dacă SSL este necesar pentru serverul dvs. SMTP</value>
+  </data>
+  <data name="SmptUsername.HelpText" xml:space="preserve">
+    <value>Nume de Utilizator:</value>
+  </data>
+  <data name="SmtpPassword.HelpText" xml:space="preserve">
+    <value>Introduceți parola pentru contul dvs. SMTP</value>
+  </data>
+  <data name="SmptSender.HelpText" xml:space="preserve">
+    <value>ntroduceți emailul de la care vor fi trimise emailurile. Vă rugăm să rețineți că această adresă de email poate necesita autorizare de la serverul SMTP.</value>
+  </data>
+  <data name="EnablePWA.HelpText" xml:space="preserve">
+    <value>Selectați dacă doriți ca acest site să fie disponibil ca Aplicație Web Progresivă (PWA)</value>
+  </data>
+  <data name="PwaApplicationIcon.HelpText" xml:space="preserve">
+    <value>Includeți o iconiță de aplicație pentru PWA-ul dvs. Ar trebui să fie un PNG cu dimensiunea de 192 X 192 pixeli.</value>
+  </data>
+  <data name="PwaSplashIcon.HelpText" xml:space="preserve">
+    <value>Includeți o iconiță splash pentru PWA-ul dvs. Ar trebui să fie un PNG cu dimensiunea de 512 X 512 pixeli.</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Tenant: </value>
+  </data>
+  <data name="Aliases.Text" xml:space="preserve">
+    <value>Aliasuri:</value>
+  </data>
+  <data name="AllowRegistration.Text" xml:space="preserve">
+    <value>Permiteți Înregistrarea Utilizatorilor?</value>
+  </data>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Este Șters?</value>
+  </data>
+  <data name="Logo.Text" xml:space="preserve">
+    <value>Logo:</value>
+  </data>
+  <data name="FavoriteIcon.Text" xml:space="preserve">
+    <value>Favicon:</value>
+  </data>
+  <data name="DefaultTheme.Text" xml:space="preserve">
+    <value>Temă Implicită:</value>
+  </data>
+  <data name="DefaultAdminContainer.Text" xml:space="preserve">
+    <value>Container Admin Implicit:</value>
+  </data>
+  <data name="Host.Text" xml:space="preserve">
+    <value>Gazdă:</value>
+  </data>
+  <data name="Port.Text" xml:space="preserve">
+    <value>Port: </value>
+  </data>
+  <data name="UseSsl.Text" xml:space="preserve">
+    <value>SSL Activat:</value>
+  </data>
+  <data name="SmptUsername.Text" xml:space="preserve">
+    <value>Nume de Utilizator:</value>
+  </data>
+  <data name="SmtpPassword.Text" xml:space="preserve">
+    <value>Parolă:</value>
+  </data>
+  <data name="SmptSender.Text" xml:space="preserve">
+    <value>Expeditor Email:</value>
+  </data>
+  <data name="EnablePWA.Text" xml:space="preserve">
+    <value>Este Activat?</value>
+  </data>
+  <data name="PwaApplicationIcon.Text" xml:space="preserve">
+    <value>Iconiță Aplicație:</value>
+  </data>
+  <data name="PwaSplashIcon.Text" xml:space="preserve">
+    <value>Iconiță Splash:</value>
+  </data>
+</root>
