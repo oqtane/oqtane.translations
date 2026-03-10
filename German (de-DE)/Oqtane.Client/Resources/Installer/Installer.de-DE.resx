@@ -150,4 +150,79 @@
   <data name="Please Enter All Fields And Ensure Passwords Match And Are Greater Than 5 Characters In Length" xml:space="preserve">
     <value>Bitte füllen Sie alle Felder aus, stellen Sie sicher das die Passwörter übereinstimmen und länger sind als 5 Zeichen.</value>
   </data>
+  <data name="DatabaseConfig" xml:space="preserve">
+    <value>Datenbankkonfiguration</value>
+  </data>
+  <data name="DatabaseType.Text" xml:space="preserve">
+    <value>Datenbank:</value>
+  </data>
+  <data name="ApplicationAdmin" xml:space="preserve">
+    <value>Anwendungsverwaltung</value>
+  </data>
+  <data name="InstallNow" xml:space="preserve">
+    <value>Jetzt installieren</value>
+  </data>
+  <data name="Error.DbConfig.Load" xml:space="preserve">
+    <value>Fehler beim Laden der Datenbankkonfigurationssteuerung</value>
+  </data>
+  <data name="Message.Require.DbInfo" xml:space="preserve">
+    <value>Bitte füllen Sie alle erforderlichen Felder aus. Stellen Sie sicher, dass die Passwörter übereinstimmen und die angegebene E-Mail-Adresse gültig ist.</value>
+  </data>
+  <data name="Message.Password.Invalid" xml:space="preserve">
+    <value>Das angegebene Passwort entspricht nicht der Komplexitätsrichtlinie. Passwörter müssen mindestens 6 Zeichen lang sein und Großbuchstaben, Kleinbuchstaben, Ziffern und Satzzeichen enthalten.</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Bitte registrieren Sie mich für wichtige Produktaktualisierungen und Sicherheitsbulletins</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Bitte bestätigen Sie das oben eingegebene Passwort durch erneute Eingabe</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Bestätigen:</value>
+  </data>
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>Wählen Sie den Datenbanktyp aus, den Sie verwenden möchten</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Geben Sie die E-Mail-Adresse für das Host-Benutzerkonto an</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-Mail:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Geben Sie ein Passwort für das primäre Benutzerkonto ein</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Passwort:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Geben Sie einen Benutzernamen für das primäre Benutzerkonto an</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Benutzername:</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>Geben Sie eine vollständige Verbindungszeichenfolge einschließlich aller Parameter und Trennzeichen ein</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>Einstellungen:</value>
+  </data>
+  <data name="EnterConnectionParameters" xml:space="preserve">
+    <value>Geben Sie die Verbindungsparameter ein</value>
+  </data>
+  <data name="EnterConnectionString" xml:space="preserve">
+    <value>Geben Sie die Verbindungszeichenfolge ein</value>
+  </data>
+  <data name="Template" xml:space="preserve">
+    <value>Wählen Sie eine Site-Vorlage aus</value>
+  </data>
+  <data name="Message.Username.Invalid" xml:space="preserve">
+    <value>Der angegebene Benutzername entspricht nicht den Systemanforderungen, er darf nur Buchstaben oder Ziffern enthalten.</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Vollständiger Name:</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Geben Sie den vollständigen Namen des Hostbenutzers an</value>
+  </data>
 </root>

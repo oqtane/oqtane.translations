@@ -294,4 +294,13 @@
   <data name="DeleteSite.Header" xml:space="preserve">
     <value>Webseite löschen</value>
   </data>
+  <data name="DeleteSite.Text" xml:space="preserve">
+    <value>Webseite löschen</value>
+  </data>
+  <data name="DefaultAlias.Text" xml:space="preserve">
+    <value>Standardsprache?</value>
+  </data>
+  <data name="GroupName.Text" xml:space="preserve">
+    <value>Name:</value>
+  </data>
 </root>

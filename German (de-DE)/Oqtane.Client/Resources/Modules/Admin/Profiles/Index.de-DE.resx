@@ -138,4 +138,7 @@
   <data name="DeleteProfile.Header" xml:space="preserve">
     <value>Profileigenschaft löschen</value>
   </data>
+  <data name="EditProfile.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
 </root>

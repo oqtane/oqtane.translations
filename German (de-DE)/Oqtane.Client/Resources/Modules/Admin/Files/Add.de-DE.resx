@@ -165,4 +165,31 @@
   <data name="UploadFiles.Heading" xml:space="preserve">
     <value>Dateien hochladen</value>
   </data>
+  <data name="Folder.Select" xml:space="preserve">
+    <value>Wählen Sie Ordner aus</value>
+  </data>
+  <data name="Message.Required.UrlFolder" xml:space="preserve">
+    <value>Sie müssen eine URL eingeben und einen Ordner auswählen</value>
+  </data>
+  <data name="Message.Download.InvalidExtension" xml:space="preserve">
+    <value>Die Datei konnte aufgrund ihrer Dateierweiterung nicht von der URL heruntergeladen werden</value>
+  </data>
+  <data name="Message.Required.UrlName" xml:space="preserve">
+    <value>Sie müssen eine URL mit einem gültigen Dateinamen eingeben</value>
+  </data>
+  <data name="Success.Download.File" xml:space="preserve">
+    <value>Datei erfolgreich von URL heruntergeladen</value>
+  </data>
+  <data name="Error.Download.InvalidUrl" xml:space="preserve">
+    <value>Fehler beim Herunterladen der Datei von der URL. Bitte überprüfen Sie, ob die URL gültig ist.</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Geben Sie den Namen der herunterzuladenden Datei ein</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Name:</value>
+  </data>
+  <data name="DownloadFiles.Heading" xml:space="preserve">
+    <value>Dateien herunterladen</value>
+  </data>
 </root>

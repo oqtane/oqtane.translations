@@ -132,4 +132,7 @@
   <data name="DeletePage.Header" xml:space="preserve">
     <value>Seite löschen</value>
   </data>
+  <data name="EditPage.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
 </root>

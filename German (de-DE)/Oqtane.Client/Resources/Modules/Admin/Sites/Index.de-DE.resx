@@ -126,4 +126,7 @@
   <data name="AddSite.Text" xml:space="preserve">
     <value>Webseite hinzufügen</value>
   </data>
+  <data name="DeleteSite.Header" xml:space="preserve">
+    <value>Webseite löschen</value>
+  </data>
 </root>

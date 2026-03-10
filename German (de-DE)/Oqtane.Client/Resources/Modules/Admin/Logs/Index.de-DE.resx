@@ -124,10 +124,10 @@
     <value>Laden...</value>
   </data>
   <data name="Level.Text" xml:space="preserve">
-    <value>Ebene:</value>
+    <value>Ebene: </value>
   </data>
   <data name="Function.Text" xml:space="preserve">
-    <value>Funktion:</value>
+    <value>Funktion: </value>
   </data>
   <data name="All Levels" xml:space="preserve">
     <value>Alle Ebenen</value>
@@ -197,5 +197,14 @@
   </data>
   <data name="Rows.Text" xml:space="preserve">
     <value>Maximale Anzahl von Einträgen:</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="AllLevels" xml:space="preserve">
+    <value>Alle Ebenen</value>
+  </data>
+  <data name="AllFunctions" xml:space="preserve">
+    <value>Alle Funktionen</value>
   </data>
 </root>

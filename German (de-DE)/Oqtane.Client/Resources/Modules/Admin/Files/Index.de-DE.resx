@@ -165,4 +165,55 @@
   <data name="DeleteFile.Header" xml:space="preserve">
     <value>Datei löschen</value>
   </data>
+  <data name="Error.File.Load" xml:space="preserve">
+    <value>Fehler beim Laden der Dateien</value>
+  </data>
+  <data name="Confirm.File.Delete" xml:space="preserve">
+    <value>Sind Sie sicher, dass Sie {0} löschen möchten?</value>
+  </data>
+  <data name="NoFiles" xml:space="preserve">
+    <value>Im ausgewählten Ordner sind keine Dateien vorhanden</value>
+  </data>
+  <data name="Success.File.Delete" xml:space="preserve">
+    <value>Datei {0} gelöscht</value>
+  </data>
+  <data name="Error.File.Delete" xml:space="preserve">
+    <value>Fehler beim Löschen der Datei {0}</value>
+  </data>
+  <data name="Folder" xml:space="preserve">
+    <value>Ordner</value>
+  </data>
+  <data name="DeleteFile.Text" xml:space="preserve">
+    <value>Löschen</value>
+  </data>
+  <data name="UploadFiles.Text" xml:space="preserve">
+    <value>Dateien hochladen</value>
+  </data>
+  <data name="Files.Heading" xml:space="preserve">
+    <value>Dateien</value>
+  </data>
+  <data name="ImageExtensions.Text" xml:space="preserve">
+    <value>Bilderweiterungen:</value>
+  </data>
+  <data name="ImageExtensions.HelpText" xml:space="preserve">
+    <value>Geben Sie eine durch Kommas getrennte Liste mit Bilddateierweiterungen ein</value>
+  </data>
+  <data name="UploadableFileExtensions.Text" xml:space="preserve">
+    <value>Hochladbare Dateierweiterungen:</value>
+  </data>
+  <data name="UploadableFileExtensions.HelpText" xml:space="preserve">
+    <value>Geben Sie eine durch Kommas getrennte Liste hochladbarer Dateierweiterungen ein</value>
+  </data>
+  <data name="MaxChunkSize.Text" xml:space="preserve">
+    <value>Maximale Upload-Chunk-Größe (MB):</value>
+  </data>
+  <data name="MaxChunkSize.HelpText" xml:space="preserve">
+    <value>Dateien werden in Blöcke aufgeteilt, um den Upload-Prozess zu optimieren. Geben Sie die maximale Blockgröße in MB an (beachten Sie, dass höhere Blockgrößen nur in schnelleren Netzwerken verwendet werden sollten).</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Einstellungen erfolgreich gespeichert</value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Fehler beim Speichern der Einstellungen</value>
+  </data>
 </root>

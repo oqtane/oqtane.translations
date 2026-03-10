@@ -141,4 +141,7 @@
   <data name="Failed" xml:space="preserve">
     <value>Fehlgeschlagen</value>
   </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Aktualisieren</value>
+  </data>
 </root>

@@ -135,4 +135,19 @@
   <data name="DeleteUser.Header" xml:space="preserve">
     <value>Benutzer löschen</value>
   </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="Users.Heading" xml:space="preserve">
+    <value>Benutzer</value>
+  </data>
+  <data name="EditUser.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
+  <data name="Roles.Text" xml:space="preserve">
+    <value>Rollen</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Deaktiviert</value>
+  </data>
 </root>

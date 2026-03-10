@@ -123,4 +123,34 @@
   <data name="@field.Name.Text" xml:space="preserve">
     <value>@Localizer[$"{field.FriendlyName}:"]</value>
   </data>
+  <data name="Server.Text" xml:space="preserve">
+    <value>Server:</value>
+  </data>
+  <data name="Server.HelpText" xml:space="preserve">
+    <value>Geben Sie den Datenbankserver ein</value>
+  </data>
+  <data name="Port.Text" xml:space="preserve">
+    <value>Hafen:</value>
+  </data>
+  <data name="Port.HelpText" xml:space="preserve">
+    <value>Geben Sie den Port ein, der für die Verbindung zum Server verwendet wird</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Datenbank:</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Geben Sie den Namen der Datenbank ein</value>
+  </data>
+  <data name="Uid.Text" xml:space="preserve">
+    <value>Benutzer-ID:</value>
+  </data>
+  <data name="Uid.HelpText" xml:space="preserve">
+    <value>Geben Sie den Benutzernamen ein, der für die Datenbank verwendet werden soll</value>
+  </data>
+  <data name="Pwd.Text" xml:space="preserve">
+    <value>Passwort:</value>
+  </data>
+  <data name="Pwd.HelpText" xml:space="preserve">
+    <value>Geben Sie das für die Datenbank zu verwendende Passwort ein</value>
+  </data>
 </root>

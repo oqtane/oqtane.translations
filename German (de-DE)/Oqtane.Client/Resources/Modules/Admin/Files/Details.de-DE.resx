@@ -150,4 +150,22 @@
   <data name="Size.Text" xml:space="preserve">
     <value>Dateigrösse:</value>
   </data>
+  <data name="Error.File.Load" xml:space="preserve">
+    <value>Fehler beim Laden der Datei</value>
+  </data>
+  <data name="Message.File.InvalidName" xml:space="preserve">
+    <value>Dateiname nicht gültig</value>
+  </data>
+  <data name="Error.File.Save" xml:space="preserve">
+    <value>Fehler beim Speichern der Datei</value>
+  </data>
+  <data name="Description.HelpText" xml:space="preserve">
+    <value>Eine Beschreibung der Datei. Dies kann als Bildunterschrift für Bilddateien verwendet werden.</value>
+  </data>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Beschreibung:</value>
+  </data>
+  <data name="File Management" xml:space="preserve">
+    <value>Dateiverwaltung</value>
+  </data>
 </root>

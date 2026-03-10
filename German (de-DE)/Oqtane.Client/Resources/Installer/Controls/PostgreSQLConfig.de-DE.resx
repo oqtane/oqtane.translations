@@ -129,4 +129,46 @@
   <data name="False" xml:space="preserve">
     <value>Falsch</value>
   </data>
+  <data name="Server.Text" xml:space="preserve">
+    <value>Server:</value>
+  </data>
+  <data name="Server.HelpText" xml:space="preserve">
+    <value>Geben Sie den Datenbankserver ein</value>
+  </data>
+  <data name="Port.Text" xml:space="preserve">
+    <value>Hafen:</value>
+  </data>
+  <data name="Port.HelpText" xml:space="preserve">
+    <value>Geben Sie den Port ein, der für die Verbindung zum Server verwendet wird</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Datenbank:</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Geben Sie den Namen der Datenbank ein</value>
+  </data>
+  <data name="IntegratedSecurity.Text" xml:space="preserve">
+    <value>Integrierte Sicherheit:</value>
+  </data>
+  <data name="IntegratedSecurity.HelpText" xml:space="preserve">
+    <value>Wählen Sie aus, ob Sie integrierte Sicherheit wünschen oder nicht</value>
+  </data>
+  <data name="Uid.Text" xml:space="preserve">
+    <value>Benutzer-ID:</value>
+  </data>
+  <data name="Uid.HelpText" xml:space="preserve">
+    <value>Geben Sie den Benutzernamen ein, der für die Datenbank verwendet werden soll</value>
+  </data>
+  <data name="Pwd.Text" xml:space="preserve">
+    <value>Passwort:</value>
+  </data>
+  <data name="Pwd.HelpText" xml:space="preserve">
+    <value>Geben Sie das für die Datenbank zu verwendende Passwort ein</value>
+  </data>
+  <data name="Custom" xml:space="preserve">
+    <value>Brauch</value>
+  </data>
+  <data name="Integrated" xml:space="preserve">
+    <value>Integriert</value>
+  </data>
 </root>

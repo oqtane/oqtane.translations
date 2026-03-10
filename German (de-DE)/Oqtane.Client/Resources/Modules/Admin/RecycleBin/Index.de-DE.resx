@@ -183,4 +183,10 @@
   <data name="Pages.Name" xml:space="preserve">
     <value>Seiten</value>
   </data>
+  <data name="DeleteAllPages.Text" xml:space="preserve">
+    <value>Alle Seiten löschen</value>
+  </data>
+  <data name="DeleteAllModules.Text" xml:space="preserve">
+    <value>Alle Module löschen</value>
+  </data>
 </root>

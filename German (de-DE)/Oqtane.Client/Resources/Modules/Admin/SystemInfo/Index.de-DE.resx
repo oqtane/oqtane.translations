@@ -162,4 +162,31 @@
   <data name="RestartApplication.Message" xml:space="preserve">
     <value>Sind Sie sicher das Sie die Anwendung neustarten wollen?</value>
   </data>
+  <data name="Trace" xml:space="preserve">
+    <value>Ablaufverfolgung</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Warnung</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Fehler</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Kritisch</value>
+  </data>
+  <data name="RestartApplication.Text" xml:space="preserve">
+    <value>Anwendung neustarten</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Datum</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>Framework Version</value>
+  </data>
 </root>

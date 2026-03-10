@@ -174,4 +174,70 @@
   <data name="DeleteFolder.Message" xml:space="preserve">
     <value>Sind Sie sicher das Sie diesen Ordner löschen wollen?</value>
   </data>
+  <data name="NoParent" xml:space="preserve">
+    <value>Kein Elternteil</value>
+  </data>
+  <data name="Error.Folder.Load" xml:space="preserve">
+    <value>Fehler beim Laden des Ordners</value>
+  </data>
+  <data name="Message.Required.FolderParent" xml:space="preserve">
+    <value>Ordner müssen ein übergeordnetes Element und einen Namen haben</value>
+  </data>
+  <data name="Message.Folder.InvalidName" xml:space="preserve">
+    <value>Ordnername nicht gültig.</value>
+  </data>
+  <data name="Error.Folder.Save" xml:space="preserve">
+    <value>Fehler beim Speichern des Ordners</value>
+  </data>
+  <data name="Message.Folder.Subfolders.InvalidDelete" xml:space="preserve">
+    <value>Der Ordner enthält Unterordner und kann nicht gelöscht werden</value>
+  </data>
+  <data name="Error.Folder.Delete" xml:space="preserve">
+    <value>Fehler beim Löschen des Ordners</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Berechtigungen</value>
+  </data>
+  <data name="Type.HelpText" xml:space="preserve">
+    <value>Wählen Sie den Ordnertyp aus. Auf private Ordner können nur autorisierte Benutzer zugreifen. Auf öffentliche Ordner kann von allen Benutzern zugegriffen werden</value>
+  </data>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Typ:</value>
+  </data>
+  <data name="Capacity.HelpText" xml:space="preserve">
+    <value>Geben Sie die maximale Ordnerkapazität (in Megabyte) ein. Geben Sie Null an, wenn die Kapazität unbegrenzt ist.</value>
+  </data>
+  <data name="Capacity.Text" xml:space="preserve">
+    <value>Kapazität:</value>
+  </data>
+  <data name="ImageSizes.HelpText" xml:space="preserve">
+    <value>Geben Sie optional eine Liste mit Bildgrößen ein, die dynamisch aus hochgeladenen Bildern generiert werden können (z. B. 200 x 200, 400 x 400). Verwenden Sie *, um anzugeben, dass der Ordner alle Bildgrößen unterstützt (nicht empfohlen).</value>
+  </data>
+  <data name="ImageSizes.Text" xml:space="preserve">
+    <value>Bildgrößen:</value>
+  </data>
+  <data name="FolderManagement.Title" xml:space="preserve">
+    <value>Ordnerverwaltung!</value>
+  </data>
+  <data name="Private" xml:space="preserve">
+    <value>Privat</value>
+  </data>
+  <data name="Public" xml:space="preserve">
+    <value>Öffentlich</value>
+  </data>
+  <data name="Folder Management" xml:space="preserve">
+    <value>Ordnerverwaltung</value>
+  </data>
+  <data name="Message.Folder.Duplicate" xml:space="preserve">
+    <value>Der angegebene Ordnername ist bereits im übergeordneten Ordner vorhanden</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
+  <data name="CacheControl.Text" xml:space="preserve">
+    <value>Caching:</value>
+  </data>
+  <data name="CacheControl.HelpText" xml:space="preserve">
+    <value>Geben Sie optional eine Cache-Control-Anweisung für diesen Ordner an. Beispielsweise gibt „public, max-age=60“ an, dass Dateien in diesem Ordner 60 Sekunden lang zwischengespeichert werden sollen. Bitte beachten Sie, dass bei aktiviertem Caching Änderungen an Dateien nicht sofort in der Benutzeroberfläche angezeigt werden.</value>
+  </data>
 </root>

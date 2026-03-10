@@ -231,4 +231,7 @@
   <data name="HostPassword.Text" xml:space="preserve">
     <value>Host-Passwort:</value>
   </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Mandant:</value>
+  </data>
 </root>
