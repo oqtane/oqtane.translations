@@ -240,4 +240,10 @@
   <data name="Appearance.Name" xml:space="preserve">
     <value>Erscheinungsbild</value>
   </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Effektiv ab:</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Ablaufdatum:</value>
+  </data>
 </root>

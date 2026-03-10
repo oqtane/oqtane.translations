@@ -150,4 +150,7 @@
   <data name="DeleteTheme.Header" xml:space="preserve">
     <value>Theme löschen</value>
   </data>
+  <data name="EditTheme.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
 </root>

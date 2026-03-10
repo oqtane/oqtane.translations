@@ -177,4 +177,13 @@
   <data name="DeleteJob.Message" xml:space="preserve">
     <value>Sind Sie sicher das Sie diese geplante Aufgabe löschen wollen?</value>
   </data>
+  <data name="EditJob.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
+  <data name="ViewLogs.Text" xml:space="preserve">
+    <value>Alle Logs anzeigen</value>
+  </data>
+  <data name="JobLog.Text" xml:space="preserve">
+    <value>Log</value>
+  </data>
 </root>

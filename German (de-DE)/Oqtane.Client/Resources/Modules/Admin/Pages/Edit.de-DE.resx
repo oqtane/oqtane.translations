@@ -243,4 +243,19 @@
   <data name="Move.Text" xml:space="preserve">
     <value>Verschieben:</value>
   </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>Modul</value>
+  </data>
+  <data name="ModuleSettings.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
+  <data name="DeleteModule.Header" xml:space="preserve">
+    <value>Modul löschen</value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Effektiv ab:</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Ablaufdatum:</value>
+  </data>
 </root>

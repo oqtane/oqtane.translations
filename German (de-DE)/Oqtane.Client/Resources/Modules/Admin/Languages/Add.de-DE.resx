@@ -166,7 +166,7 @@
     <value>Name der Sprache</value>
   </data>
   <data name="IsDefault.HelpText" xml:space="preserve">
-    <value>Gibt an ob es sich bei dieser Sprache um die Standartsprache für diese Webseite handelt.</value>
+    <value>Gibt an ob es sich bei dieser Sprache um die Standartsprache für diese Webseite handelt</value>
   </data>
   <data name="Module.HelpText" xml:space="preserve">
     <value>Laden Sie ein oder mehrere Sprachpackete hoch. Sobald das hochladen beendet ist klicken Sie auf installieren um die Installation abzuschliessen.</value>

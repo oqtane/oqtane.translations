@@ -207,4 +207,7 @@
   <data name="Server.Text" xml:space="preserve">
     <value>Server: </value>
   </data>
+  <data name="Error.Log.Load" xml:space="preserve">
+    <value>Fehler beim laden des Protokolls</value>
+  </data>
 </root>

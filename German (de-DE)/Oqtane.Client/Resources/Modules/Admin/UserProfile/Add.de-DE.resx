@@ -147,4 +147,7 @@
   <data name="Subject.Text" xml:space="preserve">
     <value>Betreff:</value>
   </data>
+  <data name="Send Notification" xml:space="preserve">
+    <value>Benachrichtigung versenden</value>
+  </data>
 </root>

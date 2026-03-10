@@ -123,4 +123,16 @@
   <data name="@field.Name.Text" xml:space="preserve">
     <value>@Localizer[$"{field.FriendlyName}:"]</value>
   </data>
+  <data name="Server.Text" xml:space="preserve">
+    <value>Server:</value>
+  </data>
+  <data name="Server.HelpText" xml:space="preserve">
+    <value>Geben Sie den Datenbankserver ein</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>Datenbank:</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>Geben Sie den Namen der Datenbank ein</value>
+  </data>
 </root>

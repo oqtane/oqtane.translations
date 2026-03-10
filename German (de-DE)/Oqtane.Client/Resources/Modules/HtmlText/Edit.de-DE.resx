@@ -126,4 +126,10 @@
   <data name="Error Saving Content" xml:space="preserve">
     <value>Fehler beim speichern des Inhalts</value>
   </data>
+  <data name="Restore.Text" xml:space="preserve">
+    <value>Wiederherstellen</value>
+  </data>
+  <data name="Edit.Heading" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
 </root>

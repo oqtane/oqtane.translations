@@ -165,4 +165,13 @@
   <data name="Error Saving User" xml:space="preserve">
     <value>Fehler beim speichern des Benutzers</value>
   </data>
+  <data name="Identity.Heading" xml:space="preserve">
+    <value>Identität</value>
+  </data>
+  <data name="DeleteUser.Header" xml:space="preserve">
+    <value>Benutzer löschen</value>
+  </data>
+  <data name="Security.Heading" xml:space="preserve">
+    <value>Sicherheit</value>
+  </data>
 </root>

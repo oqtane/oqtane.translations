@@ -192,4 +192,10 @@
   <data name="Identity.Name" xml:space="preserve">
     <value>Identität</value>
   </data>
+  <data name="Identity.Heading" xml:space="preserve">
+    <value>Identität</value>
+  </data>
+  <data name="Security.Heading" xml:space="preserve">
+    <value>Sicherheit</value>
+  </data>
 </root>

@@ -195,4 +195,16 @@
   <data name="Definition.Name" xml:space="preserve">
     <value>Definition</value>
   </data>
+  <data name="Url.Text" xml:space="preserve">
+    <value>Url:</value>
+  </data>
+  <data name="Module.Heading" xml:space="preserve">
+    <value>Modul</value>
+  </data>
+  <data name="Information.Heading" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="Information.Text" xml:space="preserve">
+    <value>Information</value>
+  </data>
 </root>

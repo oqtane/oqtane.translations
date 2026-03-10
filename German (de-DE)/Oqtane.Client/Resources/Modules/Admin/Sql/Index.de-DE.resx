@@ -141,4 +141,13 @@
   <data name="SqlQuery.Text" xml:space="preserve">
     <value>SQL-Abfrage:</value>
   </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Name:</value>
+  </data>
+  <data name="DatabaseType.Text" xml:space="preserve">
+    <value>Typ:</value>
+  </data>
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>Wählen Sie den Datenbanktyp für diese Webseite aus</value>
+  </data>
 </root>

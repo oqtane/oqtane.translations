@@ -156,4 +156,7 @@
   <data name="DeleteModule.Header" xml:space="preserve">
     <value>Modul löschen</value>
   </data>
+  <data name="EditModule.Text" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
 </root>

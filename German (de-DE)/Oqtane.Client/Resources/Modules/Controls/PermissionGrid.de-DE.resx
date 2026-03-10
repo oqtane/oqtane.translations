@@ -132,4 +132,13 @@
   <data name="Username Does Not Exist" xml:space="preserve">
     <value>Der angegebene Benutzername existiert nicht</value>
   </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>Modul</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Seite</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Bearbeiten</value>
+  </data>
 </root>

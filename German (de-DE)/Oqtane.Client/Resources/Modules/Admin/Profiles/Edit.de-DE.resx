@@ -195,4 +195,7 @@
   <data name="Private.Text" xml:space="preserve">
     <value>Privat? </value>
   </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Einstellungen</value>
+  </data>
 </root>

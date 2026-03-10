@@ -147,4 +147,7 @@
   <data name="Please Provide Your Username And Password" xml:space="preserve">
     <value>Bitte geben Sie Ihren Benutzername und Passwort ein</value>
   </data>
+  <data name="ForgotUsername" xml:space="preserve">
+    <value>Benutzername vergessen?</value>
+  </data>
 </root>

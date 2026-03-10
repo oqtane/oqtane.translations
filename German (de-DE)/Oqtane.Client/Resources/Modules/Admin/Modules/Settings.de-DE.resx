@@ -159,4 +159,13 @@
   <data name="Settings.Heading" xml:space="preserve">
     <value>Einstellungen</value>
   </data>
+  <data name="Module.HelpText" xml:space="preserve">
+    <value>Name des Moduls</value>
+  </data>
+  <data name="EffectiveDate.Text" xml:space="preserve">
+    <value>Effektiv ab:</value>
+  </data>
+  <data name="ExpiryDate.Text" xml:space="preserve">
+    <value>Ablaufdatum:</value>
+  </data>
 </root>
