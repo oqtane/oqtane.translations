@@ -279,12 +279,6 @@
   <data name="Prerender.Text" xml:space="preserve">
     <value>Pré-renderizar: </value>
   </data>
-  <data name="RenderMode.HelpText" xml:space="preserve">
-    <value>O modo de renderização padrão para o site</value>
-  </data>
-  <data name="RenderMode.Text" xml:space="preserve">
-    <value>Modo de Renderização:</value>
-  </data>
   <data name="Browse" xml:space="preserve">
     <value>Procurar</value>
   </data>
@@ -578,5 +572,23 @@
   </data>
   <data name="Culture.HelpText" xml:space="preserve">
     <value>Idioma padrão do conteúdo do site</value>
+  </data>
+  <data name="Rendermode.Text" xml:space="preserve">
+    <value>Modo de Renderização:</value>
+  </data>
+  <data name="Rendermode.HelpText" xml:space="preserve">
+    <value>O modo de renderização padrão do site</value>
+  </data>
+  <data name="EnhancedNavigation.Text" xml:space="preserve">
+    <value>Navegação Aprimorada:</value>
+  </data>
+  <data name="EnhancedNavigation.HelpText" xml:space="preserve">
+    <value>Indica se a navegação aprimorada deve ser usada com renderização estática</value>
+  </data>
+  <data name="Hybrid.Text" xml:space="preserve">
+    <value>Híbrido?</value>
+  </data>
+  <data name="Hybrid.HelpText" xml:space="preserve">
+    <value>Especifica se o site pode ser integrado com uma aplicação híbrida externa em .NET MAUI</value>
   </data>
 </root>

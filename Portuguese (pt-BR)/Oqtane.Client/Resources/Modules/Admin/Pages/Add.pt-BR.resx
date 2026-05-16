@@ -267,4 +267,10 @@
   <data name="Appearance.Heading" xml:space="preserve">
     <value>Aparência</value>
   </data>
+  <data name="Clickable.Text" xml:space="preserve">
+    <value>Clicável?</value>
+  </data>
+  <data name="Clickable.HelpText" xml:space="preserve">
+    <value>Selecione se o link na navegação do site deve ser habilitado ou desabilitado</value>
+  </data>
 </root>
