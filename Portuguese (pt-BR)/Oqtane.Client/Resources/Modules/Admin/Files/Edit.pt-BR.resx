@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+            Microsoft ResX Schema
+
+            Version 2.0
+
+            The primary goals of this format is to allow a simple XML format
+            that is mostly human readable. The generation and parsing of the
+            various data types are done through the TypeConverter classes
+            associated with the data types.
+
+            Example:
+
+            ... ado.net/XML headers & schema ...
+            <resheader name="resmimetype">text/microsoft-resx</resheader>
+            <resheader name="version">2.0</resheader>
+            <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+            <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+            <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+            <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+            <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+                <value>[base64 mime encoded serialized .NET Framework object]</value>
+            </data>
+            <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+                <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+                <comment>This is a comment</comment>
+            </data>
+
+            There are any number of "resheader" rows that contain simple
+            name/value pairs.
+
+            Each data row contains a name, and value. The row also contains a
+            type or mimetype. Type corresponds to a .NET class that support
+            text/value conversion through the TypeConverter architecture.
+            Classes that don't support this are serialized and stored with the
+            mimetype set.
+
+            The mimetype is used for serialized objects, and tells the
+            ResXResourceReader how to depersist the object. This is currently not
+            extensible. For a given mimetype the value must be set accordingly:
+
+            Note - application/x-microsoft.net.object.binary.base64 is the format
+            that the ResXResourceWriter will generate, however the reader can
+            read any of the formats listed below.
+
+            mimetype: application/x-microsoft.net.object.binary.base64
+            value   : The object must be serialized with
+                    : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+                    : and then encoded with base64 encoding.
+
+            mimetype: application/x-microsoft.net.object.soap.base64
+            value   : The object must be serialized with
+                    : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+                    : and then encoded with base64 encoding.
+
+            mimetype: application/x-microsoft.net.object.bytearray.base64
+            value   : The object must be serialized into a byte array
+                    : using a System.ComponentModel.TypeConverter
+                    : and then encoded with base64 encoding.
+            -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Save" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nome: </value>
+  </data>
+  <data name="No Parent" xml:space="preserve">
+    <value>sem pasta superior</value>
+  </data>
+  <data name="Error Loading Folder" xml:space="preserve">
+    <value>Erro ao carregar a pasta</value>
+  </data>
+  <data name="Folders Must Have A Parent And A Name" xml:space="preserve">
+    <value>As pastas devem ter uma pasta superior e um nome</value>
+  </data>
+  <data name="Folder Name Not Valid." xml:space="preserve">
+    <value>Nome de pasta inválido</value>
+  </data>
+  <data name="An Error Was Encountered Saving The Folder" xml:space="preserve">
+    <value>Foi encontrado um erro ao salvar a pasta</value>
+  </data>
+  <data name="Error Saving Folder" xml:space="preserve">
+    <value>Erro ao salvar a pasta</value>
+  </data>
+  <data name="Folder Has Files And Cannot Be Deleted" xml:space="preserve">
+    <value>A pasta contém arquivos e não pode ser excluída</value>
+  </data>
+  <data name="Folder Has Subfolders And Cannot Be Deleted" xml:space="preserve">
+    <value>A pasta contém subpastas e não pode ser excluída</value>
+  </data>
+  <data name="Error Deleting Folder" xml:space="preserve">
+    <value>Erro ao excluir a pasta</value>
+  </data>
+  <data name="Parent.HelpText" xml:space="preserve">
+    <value>Selecione a pasta superior</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Informe o nome da pasta</value>
+  </data>
+  <data name="Permissions.HelpText" xml:space="preserve">
+    <value>Selecione as permissões desejadas para esta pasta</value>
+  </data>
+  <data name="Parent.Text" xml:space="preserve">
+    <value>Pasta Superior:</value>
+  </data>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Permissão:</value>
+  </data>
+  <data name="DeleteFolder.Header" xml:space="preserve">
+    <value>Excluir Pasta</value>
+  </data>
+  <data name="DeleteFolder.Message" xml:space="preserve">
+    <value>Tem certeza de que deseja excluir esta pasta?</value>
+  </data>
+  <data name="NoParent" xml:space="preserve">
+    <value>Sem pasta superior</value>
+  </data>
+  <data name="Error.Folder.Load" xml:space="preserve">
+    <value>Erro ao carregar a pasta</value>
+  </data>
+  <data name="Message.Required.FolderParent" xml:space="preserve">
+    <value>As pastas devem ter um elemento superior e um nome</value>
+  </data>
+  <data name="Message.Folder.InvalidName" xml:space="preserve">
+    <value>Nome de pasta inválido.</value>
+  </data>
+  <data name="Error.Folder.Save" xml:space="preserve">
+    <value>Erro ao salvar a pasta</value>
+  </data>
+  <data name="Message.Folder.Subfolders.InvalidDelete" xml:space="preserve">
+    <value>A pasta contém subpastas e não pode ser excluída</value>
+  </data>
+  <data name="Error.Folder.Delete" xml:space="preserve">
+    <value>Erro ao excluir a pasta</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>Permissões</value>
+  </data>
+  <data name="Type.HelpText" xml:space="preserve">
+    <value>Selecione o tipo de pasta. Pastas privadas só podem ser acessadas por usuários autorizados. Pastas públicas podem ser acessadas por todos os usuários</value>
+  </data>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Tipo:</value>
+  </data>
+  <data name="Capacity.HelpText" xml:space="preserve">
+    <value>Informe a capacidade máxima da pasta (em megabytes). Informe Zero se a capacidade for ilimitada.</value>
+  </data>
+  <data name="Capacity.Text" xml:space="preserve">
+    <value>Capacidade:</value>
+  </data>
+  <data name="ImageSizes.HelpText" xml:space="preserve">
+    <value>Opcionalmente, informe uma lista de tamanhos de imagem que podem ser gerados dinamicamente a partir das imagens enviadas (por exemplo, 200 x 200, 400 x 400). Use *, para indicar que a pasta suporta todos os tamanhos de imagem (não recomendado).</value>
+  </data>
+  <data name="ImageSizes.Text" xml:space="preserve">
+    <value>Tamanhos de Imagem:</value>
+  </data>
+  <data name="FolderManagement.Title" xml:space="preserve">
+    <value>Gerenciamento de Pastas!</value>
+  </data>
+  <data name="Private" xml:space="preserve">
+    <value>Privado</value>
+  </data>
+  <data name="Public" xml:space="preserve">
+    <value>Público</value>
+  </data>
+  <data name="Folder Management" xml:space="preserve">
+    <value>Gerenciamento de Pastas</value>
+  </data>
+  <data name="Message.Folder.Duplicate" xml:space="preserve">
+    <value>O nome de pasta informado já existe na pasta superior</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="CacheControl.Text" xml:space="preserve">
+    <value>Cache:</value>
+  </data>
+  <data name="CacheControl.HelpText" xml:space="preserve">
+    <value>Opcionalmente, informe uma diretiva Cache-Control para esta pasta. Por exemplo, "public, max-age=60" indica que os arquivos desta pasta devem ser armazenados em cache por 60 segundos. Observe que, quando o cache está ativado, as alterações nos arquivos não serão exibidas imediatamente na interface do usuário.</value>
+  </data>
+</root>
