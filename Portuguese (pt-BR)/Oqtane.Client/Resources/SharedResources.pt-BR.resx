@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="True" xml:space="preserve">
+    <value>Verdadeiro</value>
+  </data>
+  <data name="False" xml:space="preserve">
+    <value>Falso</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Sim</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Não</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="Update" xml:space="preserve">
+    <value>Atualizar</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Excluir</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Admin Dashboard" xml:space="preserve">
+    <value>Painel de Administração</value>
+  </data>
+  <data name="User Login" xml:space="preserve">
+    <value>Login de Usuário</value>
+  </data>
+  <data name="User Registration" xml:space="preserve">
+    <value>Cadastro de Usuário</value>
+  </data>
+  <data name="Password Reset" xml:space="preserve">
+    <value>Redefinição de Senha</value>
+  </data>
+  <data name="User Profile" xml:space="preserve">
+    <value>Perfil do Usuário</value>
+  </data>
+  <data name="Site Settings" xml:space="preserve">
+    <value>Configurações do Site</value>
+  </data>
+  <data name="Page Management" xml:space="preserve">
+    <value>Gerenciamento de Páginas</value>
+  </data>
+  <data name="User Management" xml:space="preserve">
+    <value>Gerenciamento de Usuários</value>
+  </data>
+  <data name="Profile Management" xml:space="preserve">
+    <value>Gerenciamento de Perfis</value>
+  </data>
+  <data name="Role Management" xml:space="preserve">
+    <value>Gerenciamento de Funções</value>
+  </data>
+  <data name="File Management" xml:space="preserve">
+    <value>Gerenciamento de Arquivos</value>
+  </data>
+  <data name="Recycle Bin" xml:space="preserve">
+    <value>Lixeira</value>
+  </data>
+  <data name="Event Log" xml:space="preserve">
+    <value>Log de Eventos</value>
+  </data>
+  <data name="Site Management" xml:space="preserve">
+    <value>Gerenciamento de Sites</value>
+  </data>
+  <data name="Module Management" xml:space="preserve">
+    <value>Gerenciamento de Módulos</value>
+  </data>
+  <data name="Theme Management" xml:space="preserve">
+    <value>Gerenciamento de Temas</value>
+  </data>
+  <data name="Language Management" xml:space="preserve">
+    <value>Gerenciamento de Idiomas</value>
+  </data>
+  <data name="Scheduled Jobs" xml:space="preserve">
+    <value>Tarefas Agendadas</value>
+  </data>
+  <data name="Sql Management" xml:space="preserve">
+    <value>Gerenciamento de SQL</value>
+  </data>
+  <data name="System Info" xml:space="preserve">
+    <value>Informações do Sistema</value>
+  </data>
+  <data name="System Update" xml:space="preserve">
+    <value>Atualização do Sistema</value>
+  </data>
+  <data name="Setting Management" xml:space="preserve">
+    <value>Gerenciamento de Configurações</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Baixar</value>
+  </data>
+  <data name="Upload" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="Reset" xml:space="preserve">
+    <value>Redefinir</value>
+  </data>
+  <data name="Search Settings" xml:space="preserve">
+    <value>Configurações de Busca</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="Search.Hint" xml:space="preserve">
+    <value>Digite o termo de busca</value>
+  </data>
+  <data name="Search.By" xml:space="preserve">
+    <value>por</value>
+  </data>
+  <data name="Search.Downloads" xml:space="preserve">
+    <value>Downloads</value>
+  </data>
+  <data name="Search.Released" xml:space="preserve">
+    <value>Publicado</value>
+  </data>
+  <data name="Search.Version" xml:space="preserve">
+    <value>Versão</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="Install" xml:space="preserve">
+    <value>Instalar</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Carregando...</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Entrar</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Senha:</value>
+  </data>
+  <data name="Send" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Upgrade" xml:space="preserve">
+    <value>Atualizar</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Nome de Usuário</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>Versão</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Adicionar</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="FullName" xml:space="preserve">
+    <value>Nome Completo:</value>
+  </data>
+  <data name="LocalVersion" xml:space="preserve">
+    <value>Versão Instalada</value>
+  </data>
+  <data name="Search.Source" xml:space="preserve">
+    <value>Origem</value>
+  </data>
+  <data name="Message.InfoRequired" xml:space="preserve">
+    <value>Por favor, forneça todas as informações obrigatórias</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Código Aberto</value>
+  </data>
+  <data name="Paid" xml:space="preserve">
+    <value>Comercial</value>
+  </data>
+  <data name="Search.Price" xml:space="preserve">
+    <value>Preço</value>
+  </data>
+  <data name="Accept" xml:space="preserve">
+    <value>Aceitar</value>
+  </data>
+  <data name="License Not Specified" xml:space="preserve">
+    <value>Licença não especificada</value>
+  </data>
+  <data name="Review License Terms" xml:space="preserve">
+    <value>Leia os termos da licença</value>
+  </data>
+  <data name="Trial" xml:space="preserve">
+    <value>Dias de Avaliação</value>
+  </data>
+  <data name="Expires" xml:space="preserve">
+    <value>Expira em</value>
+  </data>
+  <data name="Extend" xml:space="preserve">
+    <value>Estender</value>
+  </data>
+  <data name="Not Specified" xml:space="preserve">
+    <value>Não especificado</value>
+  </data>
+  <data name="RuntimeServer" xml:space="preserve">
+    <value>Servidor (SignalR)</value>
+  </data>
+  <data name="RuntimeWebAssembly" xml:space="preserve">
+    <value>Cliente (WebAssembly)</value>
+  </data>
+  <data name="StaticServer" xml:space="preserve">
+    <value>Renderização Estática no Servidor</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="HidePassword" xml:space="preserve">
+    <value>Ocultar</value>
+  </data>
+  <data name="ShowPassword" xml:space="preserve">
+    <value>Mostrar</value>
+  </data>
+  <data name="PageOfPages" xml:space="preserve">
+    <value>Página {0} de {1}</value>
+  </data>
+  <data name="Url Mappings" xml:space="preserve">
+    <value>Mapeamentos de URL</value>
+  </data>
+  <data name="Visitor Management" xml:space="preserve">
+    <value>Gerenciamento de Visitantes</value>
+  </data>
+  <data name="Oqtane.Marketplace" xml:space="preserve">
+    <value>Observe que extensões de terceiros são registradas no &lt;a href="https://www.oqtane.net" target="_new"&gt;Oqtane Marketplace&lt;/a&gt;, o que permite que sejam baixadas e instaladas de forma integrada no framework.</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Início</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Fechar</value>
+  </data>
+  <data name="OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Apply" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Selecionar</value>
+  </data>
+  <data name="Next" xml:space="preserve">
+    <value>Próximo</value>
+  </data>
+  <data name="Previous" xml:space="preserve">
+    <value>Anterior</value>
+  </data>
+  <data name="Submit" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Atualizar</value>
+  </data>
+  <data name="Back" xml:space="preserve">
+    <value>Voltar</value>
+  </data>
+  <data name="Return" xml:space="preserve">
+    <value>Retornar</value>
+  </data>
+  <data name="New" xml:space="preserve">
+    <value>Novo</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>Visualizar</value>
+  </data>
+  <data name="Confirm" xml:space="preserve">
+    <value>Confirmar</value>
+  </data>
+  <data name="Help" xml:space="preserve">
+    <value>Ajuda</value>
+  </data>
+  <data name="Support" xml:space="preserve">
+    <value>Suporte</value>
+  </data>
+  <data name="Search.Alphabetical" xml:space="preserve">
+    <value>Alfabético</value>
+  </data>
+  <data name="Buy" xml:space="preserve">
+    <value>Comprar agora</value>
+  </data>
+  <data name="Search.Popularity" xml:space="preserve">
+    <value>Popularidade</value>
+  </data>
+  <data name="Search.Results" xml:space="preserve">
+    <value>Resultados</value>
+  </data>
+  <data name="Search.RecentlyReleased" xml:space="preserve">
+    <value>Lançados Recentemente</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>De</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>Para</value>
+  </data>
+  <data name="Password.DigitRequirement" xml:space="preserve">
+    <value>Pelo menos um dígito</value>
+  </data>
+  <data name="Password.LowercaseRequirement" xml:space="preserve">
+    <value>Pelo menos uma letra minúscula</value>
+  </data>
+  <data name="Password.PunctuationRequirement" xml:space="preserve">
+    <value>Pelo menos um sinal de pontuação</value>
+  </data>
+  <data name="Password.UppercaseRequirement" xml:space="preserve">
+    <value>Pelo menos uma letra maiúscula</value>
+  </data>
+  <data name="Password.ValidationCriteria" xml:space="preserve">
+    <value>As senhas devem ter no mínimo {0} caracteres, incluindo pelo menos {1} caractere(s) único(s), {2}{3}{4}{5} para atender aos requisitos de complexidade de senha deste site.</value>
+  </data>
+  <data name="ProfileInvalid" xml:space="preserve">
+    <value>{0} não é válido</value>
+  </data>
+  <data name="ProfileRequired" xml:space="preserve">
+    <value>{0} é obrigatório</value>
+  </data>
+  <data name="Uninstall" xml:space="preserve">
+    <value>Desinstalar</value>
+  </data>
+  <data name="Test" xml:space="preserve">
+    <value>Testar</value>
+  </data>
+  <data name="Message.EffectiveExpiryDateError" xml:space="preserve">
+    <value>A data de vigência não pode ser posterior à data de expiração.</value>
+  </data>
+  <data name="RuntimeAuto" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="RenderModeHeadless" xml:space="preserve">
+    <value>Headless (apenas API)</value>
+  </data>
+  <data name="RenderModeInteractive" xml:space="preserve">
+    <value>Interativo</value>
+  </data>
+  <data name="RenderModeStatic" xml:space="preserve">
+    <value>Estático</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Desativado</value>
+  </data>
+  <data name="Enabled" xml:space="preserve">
+    <value>Ativado</value>
+  </data>
+  <data name="Module" xml:space="preserve">
+    <value>Módulo</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Página</value>
+  </data>
+  <data name="Site" xml:space="preserve">
+    <value>Site</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>Usuário</value>
+  </data>
+  <data name="Path" xml:space="preserve">
+    <value>Caminho</value>
+  </data>
+  <data name="Installed" xml:space="preserve">
+    <value>Instalado</value>
+  </data>
+  <data name="Global Replace" xml:space="preserve">
+    <value>Substituição Global</value>
+  </data>
+</root>

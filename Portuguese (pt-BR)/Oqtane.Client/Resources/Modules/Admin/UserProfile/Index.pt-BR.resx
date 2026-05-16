@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Message.Password.Invalid" xml:space="preserve">
+    <value>As Senhas Informadas Não Coincidem</value>
+  </data>
+  <data name="Message.Password.Complexity" xml:space="preserve">
+    <value>A Senha Informada Não Atende à Política de Complexidade</value>
+  </data>
+  <data name="From" xml:space="preserve">
+    <value>De</value>
+  </data>
+  <data name="Subject" xml:space="preserve">
+    <value>Assunto</value>
+  </data>
+  <data name="Received" xml:space="preserve">
+    <value>Recebido</value>
+  </data>
+  <data name="To" xml:space="preserve">
+    <value>Para</value>
+  </data>
+  <data name="Sent" xml:space="preserve">
+    <value>Enviado</value>
+  </data>
+  <data name="Inbox" xml:space="preserve">
+    <value>Caixa de Entrada</value>
+  </data>
+  <data name="Items.Sent" xml:space="preserve">
+    <value>Itens Enviados</value>
+  </data>
+  <data name="Message.User.NoLogIn" xml:space="preserve">
+    <value>O Usuário Atual Não Está Conectado</value>
+  </data>
+  <data name="Error.Profile.Load" xml:space="preserve">
+    <value>Erro ao Carregar o Perfil do Usuário</value>
+  </data>
+  <data name="Success.Profile.Update" xml:space="preserve">
+    <value>Perfil do Usuário Atualizado com Sucesso</value>
+  </data>
+  <data name="Message.Required.ProfileInfo" xml:space="preserve">
+    <value>Você Deve Fornecer um Nome de Usuário e Endereço de E-mail, Bem Como Todas as Informações de Perfil Obrigatórias</value>
+  </data>
+  <data name="Error.Profile.Save" xml:space="preserve">
+    <value>Erro ao Salvar o Perfil do Usuário</value>
+  </data>
+  <data name="SendNotification.Text" xml:space="preserve">
+    <value>Enviar Notificação</value>
+  </data>
+  <data name="DeleteNotification.Header" xml:space="preserve">
+    <value>Excluir Notificação</value>
+  </data>
+  <data name="DeleteNotification.Message" xml:space="preserve">
+    <value>Tem Certeza de Que Deseja Excluir Esta Notificação?</value>
+  </data>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>Se você estiver alterando sua senha, deve digitá-la novamente para confirmar que ela coincide com o valor informado acima</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>Confirmação:</value>
+  </data>
+  <data name="DisplayName.HelpText" xml:space="preserve">
+    <value>Seu nome completo</value>
+  </data>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Nome Completo:</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Seu endereço de e-mail onde você deseja receber notificações</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Se você deseja alterar sua senha, pode digitá-la aqui. Por favor, escolha uma senha suficientemente segura.</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Senha:</value>
+  </data>
+  <data name="Photo.HelpText" xml:space="preserve">
+    <value>Uma foto sua</value>
+  </data>
+  <data name="Photo.Text" xml:space="preserve">
+    <value>Foto:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Seu nome de usuário. Observe que este campo não pode ser modificado.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nome de Usuário:</value>
+  </data>
+  <data name="TwoFactor.HelpText" xml:space="preserve">
+    <value>Indica se você está usando autenticação de dois fatores. A autenticação de dois fatores requer que você insira um código de verificação enviado por e-mail após entrar.</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>Usar Dois Fatores?</value>
+  </data>
+  <data name="DeleteAllNotifications.Header" xml:space="preserve">
+    <value>Limpar Notificações</value>
+  </data>
+  <data name="DeleteAllNotifications.Message" xml:space="preserve">
+    <value>Tem Certeza de Que Deseja Excluir Permanentemente Todas as Notificações?</value>
+  </data>
+  <data name="DeleteAllNotifications.Text" xml:space="preserve">
+    <value>Excluir TODAS as Notificações</value>
+  </data>
+  <data name="Notifications.Heading" xml:space="preserve">
+    <value>Notificações</value>
+  </data>
+  <data name="Profile.Heading" xml:space="preserve">
+    <value>Perfil</value>
+  </data>
+  <data name="ViewNotification.Text" xml:space="preserve">
+    <value>Visualizar</value>
+  </data>
+  <data name="DeleteNotification.Text" xml:space="preserve">
+    <value>Excluir</value>
+  </data>
+  <data name="NoNotificationsReceived" xml:space="preserve">
+    <value>Você Não Recebeu Nenhuma Notificação</value>
+  </data>
+  <data name="NoNotificationsSent" xml:space="preserve">
+    <value>Você Não Enviou Nenhuma Notificação</value>
+  </data>
+  <data name="Logout Everywhere" xml:space="preserve">
+    <value>Sair de Todos os Dispositivos</value>
+  </data>
+  <data name="TimeZone.Text" xml:space="preserve">
+    <value>Fuso Horário:</value>
+  </data>
+  <data name="TimeZone.HelpText" xml:space="preserve">
+    <value>Seu fuso horário</value>
+  </data>
+  <data name="Identity.Heading" xml:space="preserve">
+    <value>Identidade</value>
+  </data>
+  <data name="Security.Heading" xml:space="preserve">
+    <value>Segurança</value>
+  </data>
+  <data name="MFA.Heading" xml:space="preserve">
+    <value>Autenticação Multifator</value>
+  </data>
+  <data name="Passkeys.Heading" xml:space="preserve">
+    <value>Passkeys</value>
+  </data>
+  <data name="Logins.Heading" xml:space="preserve">
+    <value>Logins Externos</value>
+  </data>
+  <data name="Passkey" xml:space="preserve">
+    <value>Passkey</value>
+  </data>
+  <data name="DeletePasskey.Header" xml:space="preserve">
+    <value>Excluir Passkey</value>
+  </data>
+  <data name="Confirm.Passkey.Delete" xml:space="preserve">
+    <value>Tem Certeza de Que Deseja Excluir {0}?</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="DeleteLogin.Header" xml:space="preserve">
+    <value>Excluir Login</value>
+  </data>
+  <data name="Confirm.Login.Delete" xml:space="preserve">
+    <value>Tem Certeza de Que Deseja Excluir {0}?</value>
+  </data>
+  <data name="Message.Passkeys.None" xml:space="preserve">
+    <value>Você Não Criou Nenhum Passkey</value>
+  </data>
+  <data name="Message.Logins.None" xml:space="preserve">
+    <value>Você Não Possui Nenhum Login Externo Para Este Site</value>
+  </data>
+  <data name="Error.Passkey.Fail" xml:space="preserve">
+    <value>Não Foi Possível Criar o Passkey</value>
+  </data>
+  <data name="CultureCode.Text" xml:space="preserve">
+    <value>Idioma:</value>
+  </data>
+  <data name="CultureCode.HelpText" xml:space="preserve">
+    <value>Seu idioma preferido. Observe que você só poderá escolher entre os idiomas suportados neste site.</value>
+  </data>
+</root>
