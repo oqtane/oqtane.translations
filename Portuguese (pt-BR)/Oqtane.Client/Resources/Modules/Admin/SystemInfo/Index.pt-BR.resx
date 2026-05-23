@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Swagger" xml:space="preserve">
+    <value>Swagger UI</value>
+  </data>
+  <data name="FrameworkVersion.HelpText" xml:space="preserve">
+    <value>Versão do Framework</value>
+  </data>
+  <data name="CLRVersion.HelpText" xml:space="preserve">
+    <value>Versão do Common Language Runtime</value>
+  </data>
+  <data name="OSVersion.HelpText" xml:space="preserve">
+    <value>Versão do Sistema Operacional</value>
+  </data>
+  <data name="ContentRootPath.HelpText" xml:space="preserve">
+    <value>Caminho Raiz do Servidor</value>
+  </data>
+  <data name="ServerTime.HelpText" xml:space="preserve">
+    <value>Data/Hora do Servidor (em UTC)</value>
+  </data>
+  <data name="FrameworkVersion.Text" xml:space="preserve">
+    <value>Versão do Framework: </value>
+  </data>
+  <data name="CLRVersion.Text" xml:space="preserve">
+    <value>Versão do CLR: </value>
+  </data>
+  <data name="OSVersion.Text" xml:space="preserve">
+    <value>Versão do OS: </value>
+  </data>
+  <data name="ContentRootPath.Text" xml:space="preserve">
+    <value>Caminho Raiz: </value>
+  </data>
+  <data name="ServerTime.Text" xml:space="preserve">
+    <value>Data/Hora do Servidor: </value>
+  </data>
+  <data name="RestartApplication.Message" xml:space="preserve">
+    <value>Tem Certeza Que Deseja Reiniciar a Aplicação?</value>
+  </data>
+  <data name="Error.UpdateConfig" xml:space="preserve">
+    <value>Ocorreu um Erro ao Atualizar a Configuração</value>
+  </data>
+  <data name="Success.UpdateConfig.Restart" xml:space="preserve">
+    <value>Configuração Atualizada. Por Favor, Selecione Reiniciar Aplicação Para Que Estas Alterações Sejam Ativadas.</value>
+  </data>
+  <data name="InstallationId.Text" xml:space="preserve">
+    <value>ID da Instalação: </value>
+  </data>
+  <data name="InstallationId.HelpText" xml:space="preserve">
+    <value>O Identificador Único da Sua Instalação</value>
+  </data>
+  <data name="DetailedErrors.Text" xml:space="preserve">
+    <value>Erros Detalhados? </value>
+  </data>
+  <data name="DetailedErrors.HelpText" xml:space="preserve">
+    <value>Especifica se Erros Detalhados Estão Ativados Para o Blazor. Esta Opção Não Deve Ser Ativada Em Produção.</value>
+  </data>
+  <data name="True" xml:space="preserve">
+    <value>Verdadeiro</value>
+  </data>
+  <data name="False" xml:space="preserve">
+    <value>Falso</value>
+  </data>
+  <data name="LoggingLevel.Text" xml:space="preserve">
+    <value>Nível de Log: </value>
+  </data>
+  <data name="LoggingLevel.HelpText" xml:space="preserve">
+    <value>O Nível Mínimo de Log Para o Registro de Eventos. Esta Opção Pode Ser Usada Para Controlar o Volume de Itens Armazenados no Seu Registro de Eventos.</value>
+  </data>
+  <data name="Trace" xml:space="preserve">
+    <value>Rastreio</value>
+  </data>
+  <data name="Debug" xml:space="preserve">
+    <value>Depuração</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informação</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Aviso</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Erro</value>
+  </data>
+  <data name="Critical" xml:space="preserve">
+    <value>Crítico</value>
+  </data>
+  <data name="Info.Heading" xml:space="preserve">
+    <value>Informações</value>
+  </data>
+  <data name="Options.Heading" xml:space="preserve">
+    <value>Opções</value>
+  </data>
+  <data name="Log.Heading" xml:space="preserve">
+    <value>Log</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Por Favor, Registre-me Para Receber Atualizações Importantes do Produto e Boletins de Segurança</value>
+  </data>
+  <data name="Success.Register" xml:space="preserve">
+    <value>Você Foi Registrado Com Sucesso Para Receber Atualizações</value>
+  </data>
+  <data name="PackageManager.HelpText" xml:space="preserve">
+    <value>Especifique a URL do Serviço de Gerenciador de Pacotes para Instalar Módulos, Temas e Traduções. Se Este Campo Estiver em Branco, Significa Que o Serviço de Gerenciador de Pacotes Está Desativado Para Esta Instalação.</value>
+  </data>
+  <data name="PackageManager.Text" xml:space="preserve">
+    <value>URL do Gerenciador de Pacotes:</value>
+  </data>
+  <data name="Swagger.HelpText" xml:space="preserve">
+    <value>Especifica se o Swagger Está Ativado Para a Sua API do Servidor</value>
+  </data>
+  <data name="Swagger.Text" xml:space="preserve">
+    <value>Swagger Ativado?</value>
+  </data>
+  <data name="RestartApplication.Text" xml:space="preserve">
+    <value>Reiniciar Aplicação</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="NotificationLevel.HelpText" xml:space="preserve">
+    <value>O Nível Mínimo de Log Para o Qual Notificações Devem Ser Enviadas Aos Usuários Host.</value>
+  </data>
+  <data name="NotificationLevel.Text" xml:space="preserve">
+    <value>Nível de Notificação:</value>
+  </data>
+  <data name="IPAddress.HelpText" xml:space="preserve">
+    <value>Endereço IP do Servidor</value>
+  </data>
+  <data name="IPAddress.Text" xml:space="preserve">
+    <value>Endereço IP:</value>
+  </data>
+  <data name="MachineName.HelpText" xml:space="preserve">
+    <value>Nome da Máquina do Servidor</value>
+  </data>
+  <data name="MachineName.Text" xml:space="preserve">
+    <value>Servidor:</value>
+  </data>
+  <data name="WebRootPath.HelpText" xml:space="preserve">
+    <value>Caminho Raiz Web do Servidor</value>
+  </data>
+  <data name="WebRootPath.Text" xml:space="preserve">
+    <value>Caminho Web:</value>
+  </data>
+  <data name="WorkingSet.HelpText" xml:space="preserve">
+    <value>Alocação de Memória do Serviço (em MB)</value>
+  </data>
+  <data name="WorkingSet.Text" xml:space="preserve">
+    <value>Alocação de Memória:</value>
+  </data>
+  <data name="Environment.HelpText" xml:space="preserve">
+    <value>Nome do Ambiente</value>
+  </data>
+  <data name="Environment.Text" xml:space="preserve">
+    <value>Ambiente:</value>
+  </data>
+  <data name="Log.Text" xml:space="preserve">
+    <value>Log:</value>
+  </data>
+  <data name="Log.HelpText" xml:space="preserve">
+    <value>Informações do log do sistema para o dia atual</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>Limpar</value>
+  </data>
+  <data name="Success.ClearLog" xml:space="preserve">
+    <value>O Log do Sistema Foi Limpo Com Sucesso</value>
+  </data>
+  <data name="Error.ClearLog" xml:space="preserve">
+    <value>Ocorreu um Erro ao Limpar o Log do Sistema</value>
+  </data>
+  <data name="Process.HelpText" xml:space="preserve">
+    <value>Indica se o processo atual é de 32 bits ou 64 bits</value>
+  </data>
+  <data name="Process.Text" xml:space="preserve">
+    <value>Processo: </value>
+  </data>
+  <data name="PackageManagerEmail.Text" xml:space="preserve">
+    <value>E-mail do Gerenciador de Pacotes:</value>
+  </data>
+  <data name="PackageManagerEmail.HelpText" xml:space="preserve">
+    <value>Especifique o Endereço de E-mail da Conta de Usuário Utilizada Para Interagir Com o Serviço de Gerenciador de Pacotes. Esta Conta é Usada Para Gerenciar Pacotes Entre Várias Instalações.</value>
+  </data>
+  <data name="CacheControl.Text" xml:space="preserve">
+    <value>Cache-Control de Ativos Estáticos:</value>
+  </data>
+  <data name="CacheControl.HelpText" xml:space="preserve">
+    <value>Forneça uma diretiva Cache-Control para ativos estáticos. Por exemplo, 'public, max-age=60' indica que os ativos estáticos devem ser armazenados em cache por 60 segundos. Um valor em branco indica que o cache para ativos estáticos não está ativado.</value>
+  </data>
+  <data name="Endpoints" xml:space="preserve">
+    <value>Endpoints da API</value>
+  </data>
+  <data name="Migration" xml:space="preserve">
+    <value>Migração</value>
+  </data>
+  <data name="Date" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>Versão do Framework</value>
+  </data>
+  <data name="Tenant.Text" xml:space="preserve">
+    <value>Banco de Dados:</value>
+  </data>
+  <data name="Tenant.HelpText" xml:space="preserve">
+    <value>O nome do banco de dados atual. Note que este não é o nome físico do banco de dados, mas sim o nome do inquilino (tenant), que é utilizado dentro do framework para identificar um banco de dados.</value>
+  </data>
+  <data name="Instance.Text" xml:space="preserve">
+    <value>Instância:</value>
+  </data>
+  <data name="Instance.HelpText" xml:space="preserve">
+    <value>O identificador da instância web</value>
+  </data>
+  <data name="CacheDuration.Text" xml:space="preserve">
+    <value>Duração do Cache:</value>
+  </data>
+  <data name="CacheDuration.HelpText" xml:space="preserve">
+    <value>A quantidade de tempo (em minutos) em que um item de cache é considerado expirado</value>
+  </data>
+  <data name="RestartApplication.Header" xml:space="preserve">
+    <value>Reiniciar Aplicação</value>
+  </data>
+  <data name="DistributedCache.Text" xml:space="preserve">
+    <value>Usando Cache Distribuído?</value>
+  </data>
+  <data name="DistributedCache.HelpText" xml:space="preserve">
+    <value>Especifique se você está utilizando um serviço de cache distribuído</value>
+  </data>
+  <data name="DistributedConnection.Text" xml:space="preserve">
+    <value>String de Conexão:</value>
+  </data>
+  <data name="DistributedConnection.HelpText" xml:space="preserve">
+    <value>Forneça a string de conexão para o serviço de cache distribuído</value>
+  </data>
+  <data name="ScaleOut.Text" xml:space="preserve">
+    <value>Usando Scale Out?</value>
+  </data>
+  <data name="ScaleOut.HelpText" xml:space="preserve">
+    <value>Especifique se você está utilizando uma abordagem de scale out que inclui múltiplas instâncias web. Um serviço de cache distribuído é necessário para a sincronização neste cenário.</value>
+  </data>
+  <data name="Caching.Heading" xml:space="preserve">
+    <value>Cache</value>
+  </data>
+  <data name="Marketplace.Heading" xml:space="preserve">
+    <value>Marketplace</value>
+  </data>
+  <data name="FailSafe.Text" xml:space="preserve">
+    <value>Usar Fail Safe?</value>
+  </data>
+  <data name="FailSafe.HelpText" xml:space="preserve">
+    <value>Especifique se deseja reutilizar temporariamente um valor expirado caso ocorra um problema ao carregar os dados</value>
+  </data>
+  <data name="Migrations.Heading" xml:space="preserve">
+    <value>Migrações</value>
+  </data>
+</root>

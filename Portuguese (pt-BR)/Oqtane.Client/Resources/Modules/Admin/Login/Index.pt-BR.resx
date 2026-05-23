@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ForgotPassword" xml:space="preserve">
+    <value>Esqueceu a Senha?</value>
+  </data>
+  <data name="ForgotUsername" xml:space="preserve">
+    <value>Esqueceu o Nome de Usuário?</value>
+  </data>
+  <data name="UseLoginLink" xml:space="preserve">
+    <value>Usar Link de Login</value>
+  </data>
+  <data name="Success.Account.Verified" xml:space="preserve">
+    <value>Endereço de E-mail da Conta de Usuário Verificado com Sucesso. Você Já Pode Entrar Com Seu Nome de Usuário e Senha.</value>
+  </data>
+  <data name="Message.Account.NotVerified" xml:space="preserve">
+    <value>Não Foi Possível Verificar o Endereço de E-mail da Conta de Usuário. Entre em Contato com o Administrador para Mais Instruções.</value>
+  </data>
+  <data name="Success.Account.Linked" xml:space="preserve">
+    <value>Login Externo Vinculado com Sucesso. Você Já Pode Entrar.</value>
+  </data>
+  <data name="Message.Account.NotLinked" xml:space="preserve">
+    <value>Não Foi Possível Vincular o Login Externo. Entre em Contato com o Administrador para Mais Instruções.</value>
+  </data>
+  <data name="Error.Login.Fail" xml:space="preserve">
+    <value>Falha no Login. Lembre-se de Que as Senhas Diferenciam Maiúsculas de Minúsculas. Se Você Tentou Entrar Várias Vezes Sem Sucesso, Sua Conta Será Bloqueada por um Período de Tempo. Observe Que Contas de Novos Usuários Geralmente Exigem Verificação de Endereço de E-mail, Então Você Pode Querer Verificar Seu E-mail Para uma Notificação Com Mais Instruções.</value>
+  </data>
+  <data name="Message.Required.UserInfo" xml:space="preserve">
+    <value>Por Favor, Preencha Todos os Campos Obrigatórios</value>
+  </data>
+  <data name="Info.SignedIn" xml:space="preserve">
+    <value>Você Já Está Conectado</value>
+  </data>
+  <data name="Message.ForgotPassword" xml:space="preserve">
+    <value>Por Favor, Verifique o Endereço de E-mail Associado à Sua Conta de Usuário para uma Notificação de Redefinição de Senha</value>
+  </data>
+  <data name="Message.ForgotUsername" xml:space="preserve">
+    <value>Por Favor, Verifique Seu E-mail para uma Notificação de Lembrete de Nome de Usuário</value>
+  </data>
+  <data name="Message.SendLoginLink" xml:space="preserve">
+    <value>Um Link de Login Foi Enviado para Seu Endereço de E-mail. O Link É Válido Apenas por um Tempo Limitado.</value>
+  </data>
+  <data name="Message.UserDoesNotExist" xml:space="preserve">
+    <value>Não Existe Usuário Para os Critérios Especificados</value>
+  </data>
+  <data name="Code.HelpText" xml:space="preserve">
+    <value>Por favor, insira o código de verificação seguro que foi enviado a você por e-mail</value>
+  </data>
+  <data name="Code.Placeholder" xml:space="preserve">
+    <value>Código de Verificação</value>
+  </data>
+  <data name="Code.Text" xml:space="preserve">
+    <value>Código de Verificação:</value>
+  </data>
+  <data name="Error.TwoFactor.Fail" xml:space="preserve">
+    <value>Falha na Verificação. Certifique-se de Que Inseriu o Código Exatamente Como Foi Fornecido no Seu E-mail. Se Você Desejar Solicitar um Novo Código de Verificação, Selecione a Opção Cancelar e Entre Novamente. </value>
+  </data>
+  <data name="Message.TwoFactor" xml:space="preserve">
+    <value>Um Código de Verificação Seguro Foi Enviado para Seu Endereço de E-mail. Por Favor, Insira o Código Que Você Recebeu. Se Você Não Receber o Código ou Perdeu o Acesso ao Seu E-mail, Entre em Contato com Seu Administrador.</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>Por favor, insira a senha relacionada à sua conta. Lembre-se de que as senhas diferenciam maiúsculas de minúsculas. Se você tentar entrar em sua conta várias vezes sem sucesso, será bloqueado por um período de tempo.</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>Senha</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Senha:</value>
+  </data>
+  <data name="Remember.HelpText" xml:space="preserve">
+    <value>Especifique se você gostaria de ser conectado automaticamente na próxima vez que visitar este site</value>
+  </data>
+  <data name="Remember.Text" xml:space="preserve">
+    <value>Permanecer Conectado?</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>Por favor, insira o nome de usuário relacionado à sua conta</value>
+  </data>
+  <data name="Username.Placeholder" xml:space="preserve">
+    <value>Nome de Usuário</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Nome de Usuário:</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>Usar</value>
+  </data>
+  <data name="Error.LoadLogin" xml:space="preserve">
+    <value>Erro ao Carregar o Login</value>
+  </data>
+  <data name="Error.Login" xml:space="preserve">
+    <value>Erro ao Realizar o Login</value>
+  </data>
+  <data name="Error.ResetPassword" xml:space="preserve">
+    <value>Erro ao Redefinir a Senha</value>
+  </data>
+  <data name="Error.ForgotUsername" xml:space="preserve">
+    <value>Erro ao Enviar Lembrete de Nome de Usuário</value>
+  </data>
+  <data name="Error.SendLoginLink" xml:space="preserve">
+    <value>Erro ao Enviar o Link de Login</value>
+  </data>
+  <data name="ExternalLoginStatus.DuplicateEmail" xml:space="preserve">
+    <value>Já Existem Várias Contas de Usuário Com o Endereço de E-mail do Seu Login Externo. Entre em Contato com Seu Administrador para Mais Instruções.</value>
+  </data>
+  <data name="ExternalLoginStatus.MissingClaims" xml:space="preserve">
+    <value>O Provedor de Login Externo Não Forneceu Todas as Informações Necessárias. Entre em Contato com Seu Administrador para Mais Instruções.</value>
+  </data>
+  <data name="ExternalLoginStatus.ProviderKeyMismatch" xml:space="preserve">
+    <value>Ocorreu um Erro ao Verificar Seu Login Externo. Entre em Contato com Seu Administrador para Mais Instruções.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserDoesNotExist" xml:space="preserve">
+    <value>Não Existe Conta de Usuário Correspondente ao Endereço de E-mail do Seu Login Externo. Entre em Contato com Seu Administrador para Mais Instruções.</value>
+  </data>
+  <data name="ExternalLoginStatus.UserNotCreated" xml:space="preserve">
+    <value>Não Foi Possível Criar uma Conta de Usuário Para Seu Login Externo. Entre em Contato com Seu Administrador para Mais Instruções.</value>
+  </data>
+  <data name="ExternalLoginStatus.VerificationRequired" xml:space="preserve">
+    <value>Para Vincular Seu Login Externo à Sua Conta de Usuário, Você Deve Verificar Sua Identidade. Verifique Seu E-mail Para Mais Instruções.</value>
+  </data>
+  <data name="ExternalLoginStatus.AccessDenied" xml:space="preserve">
+    <value>O Acesso ao Seu Login Externo Foi Negado. Entre em Contato com Seu Administrador para Mais Instruções.</value>
+  </data>
+  <data name="ExternalLoginStatus.RemoteFailure" xml:space="preserve">
+    <value>Seu Login Externo Falhou. Entre em Contato com Seu Administrador para Mais Instruções.</value>
+  </data>
+  <data name="ExternalLoginStatus.ReviewClaims" xml:space="preserve">
+    <value>A Opção Revisar Claims Foi Habilitada nas Configurações de Login Externo. Visite o Registro de Eventos para Visualizar os Claims Retornados pelo Provedor.</value>
+  </data>
+  <data name="ExternalLoginStatus.LoginLinkFailed" xml:space="preserve">
+    <value>Os Links de Login São Sensíveis ao Tempo. Solicite Outro Link de Login para Concluir o Processo de Login.</value>
+  </data>
+  <data name="ExternalLoginStatus.PasskeyFailed" xml:space="preserve">
+    <value>O Login Com Passkey Não Foi Bem-Sucedido. Certifique-se de Que Selecionou o Passkey Correto para Este Site.</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Cadastrar como novo usuário?</value>
+  </data>
+  <data name="Passkey" xml:space="preserve">
+    <value>Usar Passkey</value>
+  </data>
+  <data name="Error.Passkey.Fail" xml:space="preserve">
+    <value>O Login Com Passkey Não Foi Bem-Sucedido</value>
+  </data>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>Por favor, insira o endereço de e-mail relacionado à sua conta</value>
+  </data>
+  <data name="Email.Placeholder" xml:space="preserve">
+    <value>Endereço de E-mail</value>
+  </data>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+</root>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nome: </value>
+  </data>
+  <data name="Minute(s)" xml:space="preserve">
+    <value>Minuto(s)</value>
+  </data>
+  <data name="Hour(s)" xml:space="preserve">
+    <value>Hora(s)</value>
+  </data>
+  <data name="Day(s)" xml:space="preserve">
+    <value>Dia(s)</value>
+  </data>
+  <data name="Month(s)" xml:space="preserve">
+    <value>Mês(es)</value>
+  </data>
+  <data name="Error.Job.Load" xml:space="preserve">
+    <value>Erro ao Carregar Tarefa</value>
+  </data>
+  <data name="Error.Job.Update" xml:space="preserve">
+    <value>Erro ao Atualizar Tarefa</value>
+  </data>
+  <data name="Message.Required.JobInfo" xml:space="preserve">
+    <value>Você Deve Fornecer o Nome da Tarefa, Frequência e Retenção</value>
+  </data>
+  <data name="Name.HelpText" xml:space="preserve">
+    <value>Informe o nome da tarefa</value>
+  </data>
+  <data name="Type.HelpText" xml:space="preserve">
+    <value>O nome de tipo totalmente qualificado da tarefa</value>
+  </data>
+  <data name="Enabled.HelpText" xml:space="preserve">
+    <value>Selecione se você deseja a tarefa habilitada ou não</value>
+  </data>
+  <data name="RunsEvery.HelpText" xml:space="preserve">
+    <value>Selecione com que frequência você deseja que a tarefa seja executada</value>
+  </data>
+  <data name="Starting.HelpText" xml:space="preserve">
+    <value>Opcionalmente, informe a data e hora em que esta tarefa deve começar a ser executada. Se nenhuma data ou hora for especificada, a tarefa será executada imediatamente.</value>
+  </data>
+  <data name="Ending.HelpText" xml:space="preserve">
+    <value>Opcionalmente, informe a data e hora em que esta tarefa deve parar de ser executada</value>
+  </data>
+  <data name="RetentionLog.HelpText" xml:space="preserve">
+    <value>Número de entradas de log a serem retidas para esta tarefa</value>
+  </data>
+  <data name="NextExecution.HelpText" xml:space="preserve">
+    <value>A data e hora em que esta tarefa será executada a seguir. Este valor não pode ser modificado. Use as configurações acima para controlar a execução da tarefa.</value>
+  </data>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Tipo: </value>
+  </data>
+  <data name="Enabled.Text" xml:space="preserve">
+    <value>Habilitado? </value>
+  </data>
+  <data name="RunsEvery.Text" xml:space="preserve">
+    <value>Executa a Cada: </value>
+  </data>
+  <data name="Starting.Text" xml:space="preserve">
+    <value>Início: </value>
+  </data>
+  <data name="Ending.Text" xml:space="preserve">
+    <value>Fim: </value>
+  </data>
+  <data name="RetentionLog.Text" xml:space="preserve">
+    <value>Retenção de Log (Itens): </value>
+  </data>
+  <data name="NextExecution.Text" xml:space="preserve">
+    <value>Próxima Execução: </value>
+  </data>
+  <data name="Week(s)" xml:space="preserve">
+    <value>Semana(s)</value>
+  </data>
+  <data name="Once" xml:space="preserve">
+    <value>Executar Uma Vez</value>
+  </data>
+  <data name="Message.StartEndDateError" xml:space="preserve">
+    <value>A Data de Início Não Pode Ser Posterior à Data de Fim</value>
+  </data>
+  <data name="Message.StartDateError" xml:space="preserve">
+    <value>A Data de Início Não Pode Ser Anterior à Data Atual</value>
+  </data>
+  <data name="Message.ExecutingError" xml:space="preserve">
+    <value>A Tarefa Está Sendo Executada Atualmente. Você Deve Aguardar Até Que a Tarefa Seja Concluída.</value>
+  </data>
+  <data name="JobNotEditable" xml:space="preserve">
+    <value>A Tarefa Não Pode Ser Modificada Pois Está Habilitada Atualmente. Você Deve Desabilitar a Tarefa Para Alterar Suas Configurações.</value>
+  </data>
+  <data name="MaximumDuration.Text" xml:space="preserve">
+    <value>Duração Máxima:</value>
+  </data>
+  <data name="MaximumDuration.HelpText" xml:space="preserve">
+    <value>A duração máxima em minutos que se espera que a tarefa seja executada. Se a tarefa ainda estiver em execução após este tempo, assumirá que a tarefa terminou inesperadamente e se redefinirá automaticamente.</value>
+  </data>
+</root>
