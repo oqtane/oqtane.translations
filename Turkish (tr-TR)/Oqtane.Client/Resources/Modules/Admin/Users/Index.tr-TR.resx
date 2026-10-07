@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Confirm.User.Delete" xml:space="preserve">
+    <value>{0} öğesini silmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="AddUser.Text" xml:space="preserve">
+    <value>Kullanıcı Ekle</value>
+  </data>
+  <data name="DeleteUser.Header" xml:space="preserve">
+    <value>Kullanıcıyı Sil</value>
+  </data>
+  <data name="AllowRegistration.HelpText" xml:space="preserve">
+    <value>Anonim ziyaretçilerin sitede hesap oluşturmak için kayıt olabilmesini istiyor musunuz</value>
+  </data>
+  <data name="AllowRegistration.Text" xml:space="preserve">
+    <value>Kayda İzin Verilsin mi? </value>
+  </data>
+  <data name="RegisterUrl.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak özel bir kayıt URL'si belirtin</value>
+  </data>
+  <data name="RegisterUrl.Text" xml:space="preserve">
+    <value>Kayıt URL'si: </value>
+  </data>
+  <data name="ProfileUrl.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak özel bir kullanıcı profili URL'si belirtin</value>
+  </data>
+  <data name="ProfileUrl.Text" xml:space="preserve">
+    <value>Profil URL'si: </value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>Ayarlar Kaydedilirken Hata Oluştu</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>Ayarlar Başarıyla Kaydedildi</value>
+  </data>
+  <data name="Users.Heading" xml:space="preserve">
+    <value>Kullanıcılar</value>
+  </data>
+  <data name="DeleteUser.Text" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="EditUser.Text" xml:space="preserve">
+    <value>Düzenle</value>
+  </data>
+  <data name="Roles.Text" xml:space="preserve">
+    <value>Roller</value>
+  </data>
+  <data name="LockoutDuration.HelpText" xml:space="preserve">
+    <value>Bir kullanıcının kilitli kalacağı dakika sayısı</value>
+  </data>
+  <data name="LockoutDuration.Text" xml:space="preserve">
+    <value>Kilitlenme Süresi:</value>
+  </data>
+  <data name="MaximumFailures.HelpText" xml:space="preserve">
+    <value>Bir kullanıcı kilitlenmeden önce izin verilen en fazla giriş denemesi sayısı</value>
+  </data>
+  <data name="MaximumFailures.Text" xml:space="preserve">
+    <value>En Fazla Hatalı Deneme:</value>
+  </data>
+  <data name="RequireDigit.HelpText" xml:space="preserve">
+    <value>Parolaların rakam içermesinin zorunlu olup olmadığını belirtin</value>
+  </data>
+  <data name="RequireDigit.Text" xml:space="preserve">
+    <value>Rakam Zorunlu mu?</value>
+  </data>
+  <data name="RequiredLength.HelpText" xml:space="preserve">
+    <value>Bir parolanın en az uzunluğu</value>
+  </data>
+  <data name="RequiredLength.Text" xml:space="preserve">
+    <value>En Az Uzunluk:</value>
+  </data>
+  <data name="RequireLower.HelpText" xml:space="preserve">
+    <value>Parolaların küçük harf içermesinin zorunlu olup olmadığını belirtin</value>
+  </data>
+  <data name="RequireLower.Text" xml:space="preserve">
+    <value>Küçük Harf Zorunlu mu?</value>
+  </data>
+  <data name="RequirePunctuation.HelpText" xml:space="preserve">
+    <value>Parolaların alfanümerik olmayan bir karakter (ör. noktalama işareti) içermesinin zorunlu olup olmadığını belirtin</value>
+  </data>
+  <data name="RequirePunctuation.Text" xml:space="preserve">
+    <value>Noktalama İşareti Zorunlu mu?</value>
+  </data>
+  <data name="RequireUpper.HelpText" xml:space="preserve">
+    <value>Parolaların büyük harf içermesinin zorunlu olup olmadığını belirtin</value>
+  </data>
+  <data name="RequireUpper.Text" xml:space="preserve">
+    <value>Büyük Harf Zorunlu mu?</value>
+  </data>
+  <data name="Success.UpdateConfig.Restart" xml:space="preserve">
+    <value>Yapılandırma Güncellendi. Bu Değişikliklerin Etkinleşmesi İçin Lütfen Uygulamayı Yeniden Başlat Seçeneğini Seçin.</value>
+  </data>
+  <data name="UniqueCharacters.HelpText" xml:space="preserve">
+    <value>Bir parolanın içermesi gereken en az benzersiz karakter sayısı</value>
+  </data>
+  <data name="UniqueCharacters.Text" xml:space="preserve">
+    <value>Benzersiz Karakterler:</value>
+  </data>
+  <data name="AllowSiteLogin.HelpText" xml:space="preserve">
+    <value>Kullanıcıların bu sitede yerel olarak yönetilen bir kullanıcı adı ve parola ile giriş yapmasına izin vermek istiyor musunuz? Bu seçeneği yalnızca alternatif bir giriş yöntemini başarıyla yapılandırdıysanız devre dışı bırakmalısınız; aksi takdirde siteye erişiminizi kaybedebilirsiniz.</value>
+  </data>
+  <data name="AllowSiteLogin.Text" xml:space="preserve">
+    <value>Yerel Girişe İzin Verilsin mi?</value>
+  </data>
+  <data name="Authority.HelpText" xml:space="preserve">
+    <value>Kimlik sağlayıcısıyla ilişkili yetkili (authority) URL'si veya yayıncı (issuer) URL'si</value>
+  </data>
+  <data name="Authority.Text" xml:space="preserve">
+    <value>Yetkili:</value>
+  </data>
+  <data name="AuthorizationUrl.HelpText" xml:space="preserve">
+    <value>Yetkilendirme kodu almak için kullanılan uç nokta</value>
+  </data>
+  <data name="AuthorizationUrl.Text" xml:space="preserve">
+    <value>Yetkilendirme URL'si:</value>
+  </data>
+  <data name="ClientID.HelpText" xml:space="preserve">
+    <value>Kimlik sağlayıcısı için istemci kimliği</value>
+  </data>
+  <data name="ClientID.Text" xml:space="preserve">
+    <value>İstemci Kimliği:</value>
+  </data>
+  <data name="ClientSecret.HelpText" xml:space="preserve">
+    <value>Kimlik sağlayıcısı için istemci gizli anahtarı</value>
+  </data>
+  <data name="ClientSecret.Text" xml:space="preserve">
+    <value>İstemci Gizli Anahtarı:</value>
+  </data>
+  <data name="CreateUsers.HelpText" xml:space="preserve">
+    <value>Yeni kullanıcıların otomatik olarak oluşturulmasını istiyor musunuz? Bu seçeneği devre dışı bırakırsanız, kullanıcıların harici girişleriyle giriş yapabilmeleri için sitede zaten kayıtlı olmaları gerekir.</value>
+  </data>
+  <data name="CreateUsers.Text" xml:space="preserve">
+    <value>Yeni Kullanıcılar Oluşturulsun mu?</value>
+  </data>
+  <data name="DomainFilter.HelpText" xml:space="preserve">
+    <value>E-posta alan adı filtre ölçütlerini belirtin (virgülle ayrılmış). Hariç tutulacak alan adlarının başına ünlem işareti (!) eklenmelidir. Örneğin 'microsoft.com,!hotmail.com' ifadesi microsoft.com e-posta adreslerini dahil eder ancak hotmail.com e-posta adreslerini dahil etmez.</value>
+  </data>
+  <data name="DomainFilter.Text" xml:space="preserve">
+    <value>Alan Adı Filtresi:</value>
+  </data>
+  <data name="EmailClaimType.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak kimlik sağlayıcısı tarafından sağlanan e-posta adresi talebinin tür adını belirtin. Tipik değer 'email'dir.</value>
+  </data>
+  <data name="EmailClaimType.Text" xml:space="preserve">
+    <value>E-posta Talebi:</value>
+  </data>
+  <data name="ExternalLoginSettings.Heading" xml:space="preserve">
+    <value>Harici Giriş Ayarları</value>
+  </data>
+  <data name="LockoutSettings.Heading" xml:space="preserve">
+    <value>Kilitlenme Ayarları</value>
+  </data>
+  <data name="MetadataUrl.HelpText" xml:space="preserve">
+    <value>Bu kimlik sağlayıcısının meta verilerini almak için kullanılan keşif uç noktası. Yalnızca kimlik sağlayıcısı standart yaklaşımı (ör. /.well-known/openid-configuration) kullanmıyorsa belirtin</value>
+  </data>
+  <data name="MetadataUrl.Text" xml:space="preserve">
+    <value>Meta Veri URL'si:</value>
+  </data>
+  <data name="PasswordSettings.Heading" xml:space="preserve">
+    <value>Parola Ayarları</value>
+  </data>
+  <data name="PKCE.HelpText" xml:space="preserve">
+    <value>Kimlik sağlayıcısının kod değişimi için kanıt anahtarını (PKCE) destekleyip desteklemediğini belirtin</value>
+  </data>
+  <data name="PKCE.Text" xml:space="preserve">
+    <value>PKCE Kullanılsın mı?</value>
+  </data>
+  <data name="ProviderName.HelpText" xml:space="preserve">
+    <value>Giriş sayfasında görüntülenecek harici giriş sağlayıcısı için kolay anlaşılır bir ad belirtin</value>
+  </data>
+  <data name="ProviderName.Text" xml:space="preserve">
+    <value>Sağlayıcı Adı:</value>
+  </data>
+  <data name="ProviderType.HelpText" xml:space="preserve">
+    <value>Harici giriş sağlayıcısı türünü seçin</value>
+  </data>
+  <data name="ProviderType.Text" xml:space="preserve">
+    <value>Sağlayıcı Türü:</value>
+  </data>
+  <data name="RedirectUrl.HelpText" xml:space="preserve">
+    <value>Genellikle kimlik sağlayıcısına kaydedilmesi gereken yönlendirme URL'si (veya geri çağırma URL'si)</value>
+  </data>
+  <data name="RedirectUrl.Text" xml:space="preserve">
+    <value>Yönlendirme URL'si:</value>
+  </data>
+  <data name="Scopes.HelpText" xml:space="preserve">
+    <value>Kimlik sağlayıcısından istenecek kapsamların listesi (virgülle ayrılmış). Hiçbiri belirtilmezse varsayılan olarak standart kapsamlar kullanılır.</value>
+  </data>
+  <data name="Scopes.Text" xml:space="preserve">
+    <value>Kapsamlar:</value>
+  </data>
+  <data name="TokenUrl.HelpText" xml:space="preserve">
+    <value>Kimlik doğrulama token'ı almak için kullanılan uç nokta</value>
+  </data>
+  <data name="TokenUrl.Text" xml:space="preserve">
+    <value>Token URL'si:</value>
+  </data>
+  <data name="UserInfoUrl.HelpText" xml:space="preserve">
+    <value>Kullanıcı bilgilerini almak için kullanılan uç nokta. Bu, kullanıcının e-posta adresini içeren bir API uç noktası veya sayfa URL'si olmalıdır.</value>
+  </data>
+  <data name="UserInfoUrl.Text" xml:space="preserve">
+    <value>Kullanıcı Bilgisi URL'si:</value>
+  </data>
+  <data name="Audience.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak token'ın hedef kitlesini belirtin</value>
+  </data>
+  <data name="Audience.Text" xml:space="preserve">
+    <value>Hedef Kitle:</value>
+  </data>
+  <data name="UserSettings.Heading" xml:space="preserve">
+    <value>Kullanıcı Ayarları</value>
+  </data>
+  <data name="CookieName.HelpText" xml:space="preserve">
+    <value>Her site için özel bir kimlik doğrulama çerezi adı kullanmayı seçebilirsiniz. Ancak aynı alan adındaki siteler arasında bir kimlik doğrulama çerezini paylaşmak istiyorsanız, bu sitelerin aynı çerez adını kullanması gerektiğini unutmayın. Ayrıca kimlik doğrulama çerezi adının değiştirilmesinin mevcut tüm kullanıcıların oturumunu kapatacağını da unutmayın.</value>
+  </data>
+  <data name="CookieName.Text" xml:space="preserve">
+    <value>Çerez Adı:</value>
+  </data>
+  <data name="CreateToken" xml:space="preserve">
+    <value>Token Oluştur</value>
+  </data>
+  <data name="Issuer.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak token'ın yayıncısını belirtin</value>
+  </data>
+  <data name="Issuer.Text" xml:space="preserve">
+    <value>Yayıncı:</value>
+  </data>
+  <data name="Lifetime.HelpText" xml:space="preserve">
+    <value>Bir token'ın geçerli olacağı dakika sayısı</value>
+  </data>
+  <data name="Lifetime.Text" xml:space="preserve">
+    <value>Geçerlilik Süresi:</value>
+  </data>
+  <data name="Secret.HelpText" xml:space="preserve">
+    <value>API erişimi sağlamak istiyorsanız, lütfen token'larınızı şifrelemek için kullanılacak bir gizli anahtar belirtin. En iyi güvenliği sağlamak için gizli anahtar 16 karakter veya daha uzun olmalıdır. Bu gizli anahtarı değiştirirseniz mevcut tüm token'ların geçersiz hale geleceğini ve yeniden oluşturulmaları gerekeceğini lütfen unutmayın.</value>
+  </data>
+  <data name="Secret.Text" xml:space="preserve">
+    <value>Gizli Anahtar:</value>
+  </data>
+  <data name="Token.HelpText" xml:space="preserve">
+    <value>Uzun ömürlü bir erişim token'ı (1 yıl geçerli) oluşturmak için Token Oluştur düğmesini seçin. Gelecekte bu token'a erişemeyeceğiniz için onu güvenli bir yerde sakladığınızdan emin olun.</value>
+  </data>
+  <data name="Token.Text" xml:space="preserve">
+    <value>Token:</value>
+  </data>
+  <data name="TokenSettings.Heading" xml:space="preserve">
+    <value>Token Ayarları</value>
+  </data>
+  <data name="TwoFactor.HelpText" xml:space="preserve">
+    <value>Kullanıcıların iki faktörlü kimlik doğrulama kullanmasını istiyor musunuz? Zamanlanmış Görevler'deki Bildirim Görevi'nin etkin olduğunu ve Site Ayarları'ndaki SMTP seçeneklerinizin yapılandırıldığını başarıyla doğrulayana kadar Devre Dışı seçeneğini kullanmanız gerektiğini unutmayın; aksi takdirde siteye erişiminizi kaybedersiniz.</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>2FA Kullanılsın mı?</value>
+  </data>
+  <data name="RequireConfirmedEmail.HelpText" xml:space="preserve">
+    <value>Kayıtlı kullanıcıların giriş yapabilmeleri için e-posta adreslerini doğrulamalarını zorunlu kılmak istiyor musunuz?</value>
+  </data>
+  <data name="RequireConfirmedEmail.Text" xml:space="preserve">
+    <value>Doğrulanmış E-posta Zorunlu mu?</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>Devre Dışı</value>
+  </data>
+  <data name="Optional" xml:space="preserve">
+    <value>İsteğe Bağlı</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>Zorunlu</value>
+  </data>
+  <data name="LastLoginOn" xml:space="preserve">
+    <value>Son Giriş</value>
+  </data>
+  <data name="IdentifierClaimType.HelpText" xml:space="preserve">
+    <value>Kimlik sağlayıcısı tarafından sağlanan benzersiz kullanıcı tanımlayıcısı talebinin tür adını belirtin. Varsayılan değer 'sub'dır.</value>
+  </data>
+  <data name="IdentifierClaimType.Text" xml:space="preserve">
+    <value>Tanımlayıcı Talebi:</value>
+  </data>
+  <data name="Parameters.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak kimlik sağlayıcısına gönderilecek ek parametreleri ad/değer çiftleri olarak belirtin (birden fazlaysa virgülle ayırın).</value>
+  </data>
+  <data name="Parameters.Text" xml:space="preserve">
+    <value>Parametreler:</value>
+  </data>
+  <data name="RoleClaimType.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak kimlik sağlayıcısı tarafından sağlanan roller talebinin tür adını belirtin (standart varsayılan değer 'roles'dur). Kimlik sağlayıcısından gelen rol adları site rol adlarınızla tam olarak eşleşmiyorsa lütfen Rol Talebi Eşlemelerini kullanın.</value>
+  </data>
+  <data name="RoleClaimType.Text" xml:space="preserve">
+    <value>Roller Talebi:</value>
+  </data>
+  <data name="RoleClaimMappings.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak kimlik sağlayıcısı tarafından sağlanan rol adlarının ve bunların site rollerinizle eşlemelerinin virgülle ayrılmış bir listesini belirtin. Örneğin kimlik sağlayıcısı 'Admin' adlı bir rol içeriyorsa ve bunun 'Administrators' site rolüyle eşleşmesini istiyorsanız 'Admin:Administrators' belirtmelisiniz.</value>
+  </data>
+  <data name="RoleClaimMappings.Text" xml:space="preserve">
+    <value>Rol Talebi Eşlemeleri:</value>
+  </data>
+  <data name="SynchronizeRoles.HelpText" xml:space="preserve">
+    <value>Bu seçenek, site rollerinin kimlik sağlayıcısı tarafından bir kullanıcı için sağlanan rollerle tam olarak eşleşmesi için rol atamalarını ekler veya kaldırır</value>
+  </data>
+  <data name="SynchronizeRoles.Text" xml:space="preserve">
+    <value>Roller Eşitlensin mi?</value>
+  </data>
+  <data name="ProfileClaimTypes.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak kimlik sağlayıcısı tarafından sağlanan kullanıcı profili talep türü adlarının ve bunların kullanıcı profili tanımınızla eşlemelerinin virgülle ayrılmış bir listesini belirtin. Örneğin kimlik sağlayıcısı bir 'given_name' talebi içeriyorsa ve sizin 'FirstName' adlı bir kullanıcı profili tanımınız varsa 'given_name:FirstName' belirtmelisiniz.</value>
+  </data>
+  <data name="ProfileClaimTypes.Text" xml:space="preserve">
+    <value>Kullanıcı Profili Talepleri:</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Kullanıcı Adı</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Ad</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>E-posta</value>
+  </data>
+  <data name="ImportUsers.Text" xml:space="preserve">
+    <value>Kullanıcıları İçe Aktar</value>
+  </data>
+  <data name="AuthFlow.Code" xml:space="preserve">
+    <value>Yetkilendirme Kodu</value>
+  </data>
+  <data name="AuthFlow.CodeIdToken" xml:space="preserve">
+    <value>Yetkilendirme Kodu + ID Token</value>
+  </data>
+  <data name="AuthFlow.CodeIdTokenToken" xml:space="preserve">
+    <value>Yetkilendirme Kodu + ID Token + Erişim Token'ı</value>
+  </data>
+  <data name="AuthFlow.CodeToken" xml:space="preserve">
+    <value>Yetkilendirme Kodu + Erişim Token'ı</value>
+  </data>
+  <data name="AuthFlow.IdToken" xml:space="preserve">
+    <value>ID Token</value>
+  </data>
+  <data name="AuthFlow.IdTokenToken" xml:space="preserve">
+    <value>ID Token + Erişim Token'ı</value>
+  </data>
+  <data name="AuthFlow.None" xml:space="preserve">
+    <value>Hiçbiri</value>
+  </data>
+  <data name="AuthFlow.Token" xml:space="preserve">
+    <value>Erişim Token'ı</value>
+  </data>
+  <data name="AuthResponseType.Text" xml:space="preserve">
+    <value>Yetkilendirme Yanıt Türü:</value>
+  </data>
+  <data name="AuthResponseType.HelpText" xml:space="preserve">
+    <value>Yetkilendirme yanıt türünü belirtin. Varsayılan değer, en son OAuth belirtimine göre en güvenli seçenek olarak kabul edilen Yetkilendirme Kodu'dur.</value>
+  </data>
+  <data name="VerifyUsers.HelpText" xml:space="preserve">
+    <value>Mevcut kullanıcıların harici girişlerini bağlamak için ek bir e-posta doğrulama adımı gerçekleştirmesini istiyor musunuz? Bu seçeneği devre dışı bırakırsanız mevcut kullanıcılar otomatik olarak bağlanır.</value>
+  </data>
+  <data name="VerifyUsers.Text" xml:space="preserve">
+    <value>Mevcut Kullanıcılar Doğrulansın mı?</value>
+  </data>
+  <data name="AlwaysRemember.HelpText" xml:space="preserve">
+    <value>Bu seçeneğin etkinleştirilmesi, Çerez Geçerlilik Süresi ile birlikte kalıcı bir çerez ayarlar ve kullanıcılar siteyi bir sonraki ziyaretlerinde otomatik olarak giriş yapar. Varsayılan olarak site oturum çerezlerini kullanır.</value>
+  </data>
+  <data name="AlwaysRemember.Text" xml:space="preserve">
+    <value>Kullanıcı Her Zaman Hatırlansın mı?</value>
+  </data>
+  <data name="CookieExpiration.HelpText" xml:space="preserve">
+    <value>Her site için özel bir kimlik doğrulama çerezi geçerlilik süresi kullanmayı seçebilirsiniz (ör. 8 saat için '08:00:00'). Belirtilmezse varsayılan değer 14 gündür.</value>
+  </data>
+  <data name="CookieExpiration.Text" xml:space="preserve">
+    <value>Çerez Geçerlilik Süresi:</value>
+  </data>
+  <data name="ReviewClaims.Text" xml:space="preserve">
+    <value>Talepler İncelensin mi?</value>
+  </data>
+  <data name="ReviewClaims.HelpText" xml:space="preserve">
+    <value>Bu seçenek, Sağlayıcı tarafından döndürülen Taleplerin tam listesini Olay Günlüğü'ne kaydeder. Yalnızca test amacıyla kullanılmalıdır. Bu seçenek etkinken Harici Giriş kısıtlanır.</value>
+  </data>
+  <data name="NameClaimType.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak kimlik sağlayıcısı tarafından sağlanan kullanıcı adı talebinin tür adını belirtin. Tipik değer 'name'dir.</value>
+  </data>
+  <data name="NameClaimType.Text" xml:space="preserve">
+    <value>Ad Talebi:</value>
+  </data>
+  <data name="Provider.HelpText" xml:space="preserve">
+    <value>Harici giriş sağlayıcısını seçin</value>
+  </data>
+  <data name="Provider.Text" xml:space="preserve">
+    <value>Sağlayıcı:</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Bilgi</value>
+  </data>
+  <data name="OAuth2" xml:space="preserve">
+    <value>OAuth 2.0 (OAuth2)</value>
+  </data>
+  <data name="OIDC" xml:space="preserve">
+    <value>OpenID Connect (OIDC)</value>
+  </data>
+  <data name="RequireNonce.Text" xml:space="preserve">
+    <value>Nonce Zorunlu mu?</value>
+  </data>
+  <data name="RequireNonce.HelpText" xml:space="preserve">
+    <value>ID token için Nonce doğrulamasının zorunlu olup olmadığını belirtin (varsayılan değer doğrudur)</value>
+  </data>
+  <data name="SaveTokens.Text" xml:space="preserve">
+    <value>Token'lar Kaydedilsin mi?</value>
+  </data>
+  <data name="SaveTokens.HelpText" xml:space="preserve">
+    <value>Başarılı bir girişten sonra erişim ve yenileme token'larının kaydedilip kaydedilmeyeceğini belirtin. Kimlik doğrulama çerezinin boyutunu azaltmak için varsayılan değer yanlıştır.</value>
+  </data>
+  <data name="Success.DeleteUser" xml:space="preserve">
+    <value>Kullanıcı Başarıyla Silindi</value>
+  </data>
+  <data name="Error.DeleteUser" xml:space="preserve">
+    <value>Kullanıcı Silinirken Hata Oluştu</value>
+  </data>
+  <data name="LogoutEverywhere.Text" xml:space="preserve">
+    <value>Her Yerden Çıkış Yapılsın mı?</value>
+  </data>
+  <data name="LogoutEverywhere.HelpText" xml:space="preserve">
+    <value>Kullanıcıların herhangi bir cihazdaki tüm etkin oturumlarından mı, yoksa yalnızca geçerli oturumlarından mı çıkış yapmasını istiyorsunuz?</value>
+  </data>
+  <data name="AllowHostRole.Text" xml:space="preserve">
+    <value>Host Rolüne İzin Verilsin mi?</value>
+  </data>
+  <data name="AllowHostRole.HelpText" xml:space="preserve">
+    <value>Kimlik sağlayıcısından gelen host rollerinin desteklenip desteklenmediğini belirtin. Host kullanıcısının kurulumunuzdaki her siteyi yönetmesine olanak tanıdığından lütfen bu seçeneği dikkatli kullanın.</value>
+  </data>
+  <data name="Active Users" xml:space="preserve">
+    <value>Etkin Kullanıcılar</value>
+  </data>
+  <data name="Deleted Users" xml:space="preserve">
+    <value>Silinmiş Kullanıcılar</value>
+  </data>
+  <data name="CookieDomain.Text" xml:space="preserve">
+    <value>Çerez Alan Adı:</value>
+  </data>
+  <data name="CookieDomain.HelpText" xml:space="preserve">
+    <value>Çerezleri alt alan adları arasında paylaşmak istiyorsanız, başında nokta bulunan bir kök alan adı belirtmeniz gerekir (ör. '.example.com')</value>
+  </data>
+  <data name="SingleLogout.Text" xml:space="preserve">
+    <value>Tekli Çıkışa İzin Verilsin mi?</value>
+  </data>
+  <data name="SingleLogout.HelpText" xml:space="preserve">
+    <value>Kullanıcıların hem uygulamadan hem de sağlayıcıdan çıkış yapıp yapmayacağını belirtin (varsayılan değer yanlıştır; bu, kullanıcıların yalnızca uygulamadan çıkış yapacağı anlamına gelir)</value>
+  </data>
+  <data name="Passkeys.Text" xml:space="preserve">
+    <value>Geçiş Anahtarlarına İzin Verilsin mi?</value>
+  </data>
+  <data name="Passkeys.HelpText" xml:space="preserve">
+    <value>Kullanıcıların geçiş anahtarlarıyla (ör. WebAuthn/FIDO2 kullanan parolasız kimlik doğrulama) giriş yapmasına izin vermek istiyor musunuz?</value>
+  </data>
+  <data name="LoginLink.Text" xml:space="preserve">
+    <value>Giriş Bağlantısına İzin Verilsin mi?</value>
+  </data>
+  <data name="LoginLink.HelpText" xml:space="preserve">
+    <value>Kullanıcıların e-posta ile gönderilen, süreye bağlı bir bağlantı kullanarak giriş yapmasına izin vermek istiyor musunuz?</value>
+  </data>
+  <data name="ProfileDisplayName.Text" xml:space="preserve">
+    <value>Profil Görünen Adı:</value>
+  </data>
+  <data name="ProfileDisplayName.HelpText" xml:space="preserve">
+    <value>İsteğe bağlı olarak kullanıcının profili için kullanılacak tanımlayıcıyı belirtin (varsayılan değer kullanıcı adıdır)</value>
+  </data>
+</root>
