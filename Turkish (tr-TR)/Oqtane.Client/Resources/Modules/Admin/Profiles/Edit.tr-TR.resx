@@ -130,40 +130,40 @@
     <value>Başlık: </value>
   </data>
   <data name="Error.Profile.Load" xml:space="preserve">
-    <value>Profil Yüklenirken Hata Oluştu</value>
+    <value>Profil Alanı Yüklenirken Hata Oluştu</value>
   </data>
   <data name="Error.Profile.Save" xml:space="preserve">
-    <value>Profil Kaydedilirken Hata Oluştu</value>
+    <value>Profil Alanı Kaydedilirken Hata Oluştu</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
-    <value>Bu profil öğesinin adı</value>
+    <value>Bu profil alanının adı</value>
   </data>
   <data name="Title.HelpText" xml:space="preserve">
-    <value>Kullanıcıya gösterilecek profil öğesinin başlığı</value>
+    <value>Kullanıcıya gösterilecek profil alanının başlığı</value>
   </data>
   <data name="Description.HelpText" xml:space="preserve">
-    <value>Bu profil öğesi için kullanıcıya gösterilen yardım metni</value>
+    <value>Bu profil alanı için kullanıcıya gösterilen yardım metni</value>
   </data>
   <data name="Category.HelpText" xml:space="preserve">
-    <value>Bu profil öğesinin kategorisi (gruplama için)</value>
+    <value>Bu profil alanının kategorisi (gruplama için)</value>
   </data>
   <data name="Order.HelpText" xml:space="preserve">
-    <value>Bu profil öğesinin görüntüleneceği sıra</value>
+    <value>Bu profil alanının görüntüleneceği sıra</value>
   </data>
   <data name="Length.HelpText" xml:space="preserve">
-    <value>Bu profil öğesinin kabul edeceği en fazla karakter sayısı (sınırsız için sıfır girin)</value>
+    <value>Bu profil alanının kabul edeceği en fazla karakter sayısı (sınırsız için sıfır girin)</value>
   </data>
   <data name="DefaultValue.HelpText" xml:space="preserve">
-    <value>Bu profil öğesinin varsayılan değeri</value>
+    <value>Bu profil alanının varsayılan değeri</value>
   </data>
   <data name="Options.HelpText" xml:space="preserve">
     <value>Virgülle ayrılmış seçenek listesi. Seçenekler iki nokta ile ayrıldığında bir anahtar ve değer içerebilir (ör. anahtar:değer). Seçeneklerinizi Ayarlar'dan dinamik olarak da yükleyebilirsiniz.</value>
   </data>
   <data name="Required.HelpText" xml:space="preserve">
-    <value>Kullanıcının bu profil öğesi için bir değer girmesi zorunlu olsun mu?</value>
+    <value>Kullanıcının bu profil alanı için bir değer girmesi zorunlu olsun mu?</value>
   </data>
   <data name="Private.HelpText" xml:space="preserve">
-    <value>Bu profil öğesi tüm kullanıcılara görünür olsun mu?</value>
+    <value>Bu profil alanı tüm kullanıcılara görünür olsun mu?</value>
   </data>
   <data name="Order.Text" xml:space="preserve">
     <value>Sıra: </value>

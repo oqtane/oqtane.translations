@@ -121,16 +121,16 @@
     <value>{0} öğesini silmek istediğinizden emin misiniz?</value>
   </data>
   <data name="Success.Profile.Delete" xml:space="preserve">
-    <value>Profil Silindi</value>
+    <value>Profil Alanı Silindi</value>
   </data>
   <data name="Error.Profile.Delete" xml:space="preserve">
-    <value>Profil Silinirken Hata Oluştu</value>
+    <value>Profil Alanı Silinirken Hata Oluştu</value>
   </data>
   <data name="AddProfile.Text" xml:space="preserve">
-    <value>Profil Ekle</value>
+    <value>Alan Ekle</value>
   </data>
   <data name="DeleteProfile.Header" xml:space="preserve">
-    <value>Profili Sil</value>
+    <value>Alanı Sil</value>
   </data>
   <data name="DeleteProfile.Text" xml:space="preserve">
     <value>Sil</value>
